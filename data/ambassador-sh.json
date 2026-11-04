@@ -1,0 +1,1120 @@
+[
+  {
+    "id": "claude-ambassadors",
+    "slug": "claude",
+    "company": "Anthropic",
+    "product": "Claude",
+    "programName": "Community Ambassadors",
+    "programType": "ambassador",
+    "url": "https://claude.com/community/ambassadors",
+    "eventsUrl": "https://luma.com/claudecommunity",
+    "description": "Lead the Claude community in your city. Host meetups and workshops with event funding, API credits, swag, and early access.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["api-credits", "event-funding", "swag", "early-access", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-07-01",
+    "detail": {
+      "summary": "Claude Community Ambassadors build and lead the Claude community in their city, hosting meetups, workshops, and hackathons for local builders. Anthropic funds the events and supplies content kits, swag, and promotion through its own channels, plus monthly API credits to power live demos.\n\nAmbassadors also get pre-release features and Builders Council sessions to bring community feedback to Anthropic's product teams. The program is global, open to any background (no developer title required), and welcomes more than one ambassador per city.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open" },
+        { "label": "Type", "value": "Ambassador" },
+        { "label": "Compensation", "value": "No direct payment; event sponsorship, API credits, swag, recognition" },
+        { "label": "Time commitment", "value": "Not specified; regular local events expected" },
+        { "label": "Term", "value": "Ongoing while you host events and stay engaged" },
+        { "label": "Regions", "value": "Global; geographic diversity prioritized" },
+        { "label": "Selection", "value": "Application, then a short screening call" }
+      ],
+      "perks": [
+        "Funding for meetups, workshops, and hackathons, plus content kits, swag, and promotion on Anthropic channels",
+        "Monthly Claude API credits for live demos and prototypes",
+        "Pre-release feature access and Builders Council sessions with product teams",
+        "Private Slack with other ambassadors and the Anthropic team",
+        "A title you can share publicly on social media, your resume, and LinkedIn"
+      ],
+      "expectations": [
+        "Host local Claude events and stay engaged to keep your membership active",
+        "Bring your community's perspective and feedback to Anthropic's product teams",
+        "Have meaningful hands-on experience with Claude Code or Claude Cowork and a track record of community involvement",
+        "Strong fits: community organizers, technical Claude users, and genuine Claude advocates",
+        "Don't hold an ambassadorship with a company whose core business competes with Anthropic",
+        "After acceptance: sign the Ambassador Agreement, join the private Slack, and plan your first event"
+      ],
+      "faq": [
+        {
+          "question": "Does it cost anything to join?",
+          "answer": "No. Event sponsorship, API credits, swag, and resources are all provided at no cost."
+        },
+        {
+          "question": "Is the role paid?",
+          "answer": "There is no direct payment. Benefits are event sponsorship, API credits, networking, swag, and recognition."
+        },
+        {
+          "question": "Do I need to be a professional developer?",
+          "answer": "No. You need meaningful experience with Claude Code or Claude Cowork and a record of community involvement, not a developer title."
+        },
+        {
+          "question": "Can I be an ambassador for other companies too?",
+          "answer": "Usually yes, as long as that company's core business doesn't compete with Anthropic. If you're unsure, mention it in your application."
+        },
+        {
+          "question": "How long does membership last?",
+          "answer": "It's ongoing while you keep hosting events and stay engaged. You can step away and reapply later."
+        }
+      ]
+    }
+  },
+  {
+    "id": "spacex-ambassadors",
+    "slug": "spacex",
+    "company": "SpaceXSI",
+    "product": "Cursor & Grok Bot",
+    "programName": "Ambassadors",
+    "programType": "ambassador",
+    "url": "https://cursor.com/community",
+    "eventsUrl": "https://luma.com/spacexsi-community",
+    "logo": "assets/logos/spacex.svg",
+    "description": "Now part of SpaceXSI. Host meetups, workshops, and hackathons around Cursor, Grok, and Grok Bot. Applications open.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["event-funding", "api-credits", "swag", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-07-01",
+    "detail": {
+      "summary": "This is the Cursor Ambassador program, listed under SpaceXSI (SpaceX Super Intelligence, formerly SpaceXAI) now that Cursor is part of the company. Ambassadors run Cafe Cursor popups, workshops, meetups, and hackathons, increasingly built around Grok and Grok Bot. Cursor's community page counts 800+ events across 250+ cities in 80+ countries, run by 300+ ambassadors.\n\nAmbassador applications are open, announced on X on October 28, 2026. Apply through the \"SpaceXSI Ambassador application\" Typeform; space is limited.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open; limited spots" },
+        { "label": "Type", "value": "Ambassador" },
+        { "label": "Compensation", "value": "Unpaid; free credits, meetup funding, merch" },
+        { "label": "Time commitment", "value": "Up to you; regular involvement expected" },
+        { "label": "Term", "value": "Open-ended; renew after one year" },
+        { "label": "Regions", "value": "Global; ambassadors in any language" },
+        { "label": "Eligibility", "value": "18+, application form, and Code of Conduct review" }
+      ],
+      "perks": [
+        "Early access to new Cursor features through nightly builds",
+        "Free Cursor credits for personal use",
+        "Funding for community meetups, plus stickers and merch",
+        "Forum moderation powers and a program badge",
+        "Slack group with other ambassadors and the Cursor team"
+      ],
+      "expectations": [
+        "Help new users get started and keep community spaces welcoming",
+        "Host meetups, hackathons, and workshops; Cafe Cursor is the signature format",
+        "Share what you learn and send direct product feedback to the team",
+        "Preferably skip other advocacy programs while you're an ambassador",
+        "Inactive ambassadors get a check-in; let the team know if you need to step away"
+      ],
+      "faq": [
+        {
+          "question": "Do I need to be fluent in English?",
+          "answer": "No. The program welcomes ambassadors who speak other languages."
+        },
+        {
+          "question": "How fast are applications reviewed?",
+          "answer": "Applications are reviewed weekly, with replies typically within 2–3 weeks."
+        },
+        {
+          "question": "Can I join other advocacy programs?",
+          "answer": "The stated preference is that ambassadors don't take part in other advocacy programs at the same time."
+        },
+        {
+          "question": "Is there a student version?",
+          "answer": "Yes. Campus Leads run in fall and spring cohorts at about 5 hours a week, with a paid kickoff trip to San Francisco, event funding, and 6 months of Cursor Ultra. Applications reopen in January."
+        }
+      ],
+      "applyUrl": "https://anysphere.typeform.com/spacexsi-amb"
+    }
+  },
+  {
+    "id": "devin-ambassadors",
+    "slug": "devin",
+    "company": "Cognition",
+    "product": "Devin",
+    "programName": "Ambassadors",
+    "programType": "ambassador",
+    "url": "https://devin.ai/community",
+    "eventsUrl": "https://luma.com/devin",
+    "description": "Lead the Devin community in your city. Host events, create content, and shape what's next for builders and educators.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["event-funding", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-07-01",
+    "detail": {
+      "summary": "Cognition's ambassador program for Devin. Ambassadors lead the Devin community in their city by hosting events, creating content, and giving product feedback. The public launch in June 2026 opened applications for 50 more ambassadors worldwide, alongside the existing group.\n\nPer the launch announcement, ambassadors get free Devin Max plans, on-demand credits, event and meetup support, early access to features, and direct communication with the Cognition team. It is a volunteer program; applicants must be 18+ and sign an NDA during onboarding.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open" },
+        { "label": "Type", "value": "Ambassador" },
+        { "label": "Compensation", "value": "Volunteer; free Devin Max plan, on-demand credits, event support" },
+        { "label": "Time commitment", "value": "Not specified" },
+        { "label": "Regions", "value": "Global; applications from any country" },
+        { "label": "Eligibility", "value": "18+; NDA signed during onboarding" },
+        { "label": "Launched", "value": "Publicly in June 2026" }
+      ],
+      "perks": [
+        "Free Devin Max plan and on-demand usage credits",
+        "Event and meetup support for hackathons, meetups, and workshops",
+        "Early access to new features and product updates",
+        "Exclusive programming and direct communication with the Cognition team"
+      ],
+      "expectations": [
+        "Host in-person meetups, workshops, or hackathons in your city",
+        "Create tutorials, guides, courses, blogs, videos, or social posts about Cognition products",
+        "Support community spaces such as Discord, forums, and local groups",
+        "Give feedback on new features and products",
+        "Apply with your background, socials, and any events or communities you've led"
+      ],
+      "faq": [
+        {
+          "question": "Is it paid?",
+          "answer": "No. It's a volunteer program; participation isn't employment and doesn't guarantee compensation unless agreed in writing. Perks include a free Devin Max plan and credits."
+        },
+        {
+          "question": "Can I get event support without being an ambassador?",
+          "answer": "Yes. Cognition has a separate event support form for hackathons, meetups, and other events; it asks whether you're an ambassador."
+        }
+      ],
+      "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfMxOlKVqCn5yY2aAX3RYdCEYRc0u7wzaKQ79UqZCC6hs1Tlw/viewform"
+    }
+  },
+  {
+    "id": "codex-ambassadors",
+    "slug": "codex",
+    "company": "OpenAI",
+    "product": "Codex",
+    "programName": "Codex Ambassadors",
+    "programType": "ambassador",
+    "url": "https://developers.openai.com/community/codex-ambassadors",
+    "eventsUrl": "https://luma.com/codex-community",
+    "description": "Event hosts and creators who make one Codex contribution a month. Six-month terms with a Pro plan, credits, and swag.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["api-credits", "event-funding", "swag", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": "1+ contribution/month",
+    "featured": false,
+    "addedAt": "2026-07-01",
+    "detail": {
+      "summary": "OpenAI's Codex Ambassadors are event organizers, content creators, and power users who bring builders together around Codex and relay community perspectives to OpenAI. Terms run six months, and every ambassador makes at least one useful contribution a month through an event, content, or both.\n\nAmbassadors get a Pro subscription, Codex and API credits, support for approved events, office hours with the Developer Experience team, and exclusive swag. The program is voluntary and unpaid.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open" },
+        { "label": "Type", "value": "Ambassador" },
+        { "label": "Compensation", "value": "Unpaid; Pro subscription, Codex and API credits, event support, swag" },
+        { "label": "Time commitment", "value": "At least one contribution (event or content) per month" },
+        { "label": "Term", "value": "6 months, with a possible renewal" },
+        { "label": "Regions", "value": "Global; priority for North America, Central America, Africa, Middle East, Eastern Europe" },
+        { "label": "Tracks", "value": "Event path, Content path, or both" },
+        { "label": "Eligibility", "value": "Not open to students (OpenAI's Student Collective instead)" }
+      ],
+      "perks": [
+        "Pro subscription plus Codex and API credits",
+        "Direct feedback channels with the OpenAI team",
+        "Support for approved events: attendee credits, food and drink, hackathon prizes, and custom swag where possible",
+        "Possible invites or tickets to OpenAI events such as DevDay and Builder Lounges (not guaranteed)",
+        "Regular office hours with the Developer Experience Community team",
+        "Exclusive Codex Ambassador swag and recognition in your local tech community"
+      ],
+      "expectations": [
+        "Make at least one useful contribution every month and follow program guidance",
+        "Event path: prior event experience is preferred, ideally 50+ attendees; share past event pages or recaps",
+        "Content path: share public examples of Codex projects or workflows and turn them into demos or posts",
+        "Timely takeaways after major feature and model releases count toward your monthly contribution",
+        "Apply with the form, a roughly 30-second intro video, and links to past work",
+        "Selection weighs experience, examples, fit, and location against local demand and coverage"
+      ],
+      "faq": [
+        {
+          "question": "Is the program paid?",
+          "answer": "No. It's voluntary and unpaid. Ambassadors receive program support, credits, swag, and other opportunities."
+        },
+        {
+          "question": "Can students apply?",
+          "answer": "Not at the moment. OpenAI points students to its Student Collective program instead."
+        },
+        {
+          "question": "Do I have to pick one path?",
+          "answer": "Apply for the path that matches your strengths. Once you're in, you can contribute both events and content."
+        },
+        {
+          "question": "What counts as a monthly contribution?",
+          "answer": "A local event, or content such as a tutorial, workflow, demo, video, or a thoughtful take on a product release."
+        },
+        {
+          "question": "There are already Codex events where I live. Should I still apply?",
+          "answer": "Yes. Acceptance may depend on local demand and existing ambassador coverage in your area."
+        }
+      ]
+    }
+  },
+  {
+    "id": "qwen-ambassador",
+    "slug": "qwen",
+    "company": "Alibaba",
+    "product": "Qwen",
+    "programName": "Ambassador Program",
+    "programType": "ambassador",
+    "url": "https://qwen.ai/ambassador",
+    "description": "Represent Qwen in your local developer community. Help builders adopt Qwen models through events and content.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["api-credits", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-07-01",
+    "detail": {
+      "summary": "Alibaba's Qwen Ambassador Program launched in May 2026 to back developers and community leaders who build with Qwen models and grow the open-source AI ecosystem. It has two tracks: Dev Ambassadors publish cookbooks, demos, comparisons, evaluations, and open-source projects, while Event Ambassadors run meetups, workshops, and hackathons.\n\nAmbassadors get monthly API credits, early access to new models, private chats with Qwen's product and model teams, and annual merch. In the program's first two months, ambassadors hosted 17 events across 13 countries.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open" },
+        { "label": "Type", "value": "Ambassador" },
+        { "label": "Compensation", "value": "Unpaid; monthly API credits, merch, event funding; paid partnerships possible" },
+        { "label": "Time commitment", "value": "Not specified" },
+        { "label": "Regions", "value": "Global" },
+        { "label": "Tracks", "value": "Dev Ambassador, Event Ambassador" },
+        { "label": "Launched", "value": "May 2026" }
+      ],
+      "perks": [
+        "Monthly Qwen API credits, reported at $50–$100",
+        "Early access to new Qwen models and releases",
+        "Community badges and private chats with Qwen's product and model teams",
+        "Annual merch package and appreciation gifts",
+        "Event funding, sponsorship, and official endorsement for community initiatives",
+        "Invitations to the Qwen Global Developer Conference and a potential path to paid partnership"
+      ],
+      "expectations": [
+        "Dev track: publish tutorials, cookbooks, evaluations, comparisons, demos, and open-source projects on X, Medium, Reddit, or GitHub",
+        "Dev track: help other builders in technical discussions and share feedback from real usage",
+        "Event track: organize online and in-person meetups, workshops, seminars, and hackathons",
+        "Event track: partner with local AI communities and labs and relay community feedback",
+        "Good fits have hands-on AI experience, an active community presence, and clear communication"
+      ],
+      "faq": [
+        {
+          "question": "Who owns the content I create as an ambassador?",
+          "answer": "Coverage of the program terms says photos, videos, and other content from ambassador activities may become Qwen's property for promotional and commercial use. Read the terms before applying."
+        },
+        {
+          "question": "Is it paid?",
+          "answer": "Not directly. Benefits are credits, merch, and event support, and standout ambassadors may become paid partners."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cerebras-ambassadors",
+    "slug": "cerebras",
+    "company": "Cerebras",
+    "product": "Cerebras Inference",
+    "programName": "Ambassadors",
+    "programType": "ambassador",
+    "url": "https://www.cerebras.ai/ambassadors",
+    "eventsUrl": "https://luma.com/cerebras",
+    "description": "Bring the world's fastest inference to your city. Host Cafe Compute popups with event budget, credits, and team access.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["api-credits", "event-funding", "network", "early-access"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-07-01",
+    "detail": {
+      "summary": "Cerebras Ambassadors bring fast inference to their local AI community. The signature activity is Cafe Compute, a developer cafe popup that Cerebras funds and supports with a playbook. Ambassadors also act as the local face of Cerebras and report what builders need back to the product roadmap.\n\nPerks include Cerebras compute credits, an event budget that covers venue and food, a global ambassador network, and regular touchpoints with the Cerebras team.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open" },
+        { "label": "Type", "value": "Ambassador" },
+        { "label": "Compensation", "value": "Unpaid; compute credits and funded events" },
+        { "label": "Time commitment", "value": "Not specified" },
+        { "label": "Regions", "value": "Global (SF, London, Singapore, Tokyo, Mumbai, and more)" },
+        { "label": "Signature event", "value": "Cafe Compute popups" },
+        { "label": "Code of conduct", "value": "Required for all ambassadors" }
+      ],
+      "perks": [
+        "Cerebras compute credits for your own projects and demos",
+        "Event budget for Cafe Computes, with venue and food covered",
+        "A ready-made playbook for running the popup",
+        "A global network of AI builders across SF, London, Singapore, Tokyo, Mumbai, and beyond",
+        "Regular touchpoints with the Cerebras team and a voice in the roadmap"
+      ],
+      "expectations": [
+        "Host Cafe Compute popups that bring local AI builders together",
+        "Be the face of Cerebras in your city and build relationships with AI-native people and companies",
+        "Share what your community is building, what blocks them, and what they wish existed",
+        "Agree to and follow the Cerebras ambassador code of conduct"
+      ],
+      "faq": [
+        {
+          "question": "What is a Cafe Compute?",
+          "answer": "Cerebras' marquee developer cafe popup. Ambassadors host it in their city using a Cerebras playbook and a budget that covers venue and food."
+        }
+      ]
+    }
+  },
+  {
+    "id": "nebius-fellows",
+    "slug": "nebius",
+    "company": "Nebius",
+    "product": "Nebius",
+    "programName": "Fellows Program",
+    "programType": "fellows",
+    "url": "https://nebius.com/fellows",
+    "description": "A curated cohort of AI engineers and community leaders. Early product access, credits, visibility, and DevRel collaboration.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["api-credits", "early-access", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-07-01",
+    "detail": {
+      "summary": "Nebius Fellows is a curated program for AI engineers, open-source contributors, and technical community leaders who are already active in the AI ecosystem. Fellows get early or exclusive access to Nebius products, credits, and technical resources, plus visibility and collaboration with the Nebius DevRel team.\n\nThe first cohort includes engineers and organizers from Red Hat, AI Tinkerers Singapore, AI Agents Berlin, and other communities. Nebius says it values real contributions over follower counts.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open" },
+        { "label": "Type", "value": "Fellows (curated cohort)" },
+        { "label": "Compensation", "value": "Unpaid; product access, credits, visibility" },
+        { "label": "Time commitment", "value": "Not specified" },
+        { "label": "Regions", "value": "Global" },
+        { "label": "Selection", "value": "Curated; meaningful contributions over audience size" }
+      ],
+      "perks": [
+        "Early or exclusive access to Nebius products, credits, and technical resources",
+        "Visibility through speaking, content, and community features",
+        "Collaboration with the Nebius DevRel team on events and initiatives",
+        "Direct access to the team building the platform",
+        "A curated network of AI builders, founders, and engineers worldwide"
+      ],
+      "expectations": [
+        "Contribute in the ways that fit you, such as hosting meetups, workshops, or local builder gatherings",
+        "Create technical tutorials, demos, blogs, or videos",
+        "Build and showcase open-source projects on Nebius",
+        "Help other builders and share real-world product feedback",
+        "Represent Nebius within technical communities",
+        "Good fits: AI engineers, open-source contributors, technical creators, community leaders, and hackathon builders"
+      ],
+      "faq": []
+    }
+  },
+  {
+    "id": "supabase-supasquad",
+    "slug": "supabase",
+    "company": "Supabase",
+    "product": "Supabase",
+    "programName": "SupaSquad",
+    "programType": "ambassador",
+    "url": "https://supabase.com/open-source/contributing/supasquad",
+    "description": "Four tracks: Contributor, Content Creator, Trusted Host, Event Speaker. Early access, team access, swag, and partner deals.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["early-access", "swag", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-09-05",
+    "detail": {
+      "summary": "SupaSquad is Supabase's official advocate program. Members join one or more of four tracks: Contributor (answering questions, improving docs, keeping spaces welcoming), Content Creator (videos, blogs, tutorials), Trusted Host (running Supabase meetups), and Event Speaker (representing Supabase at developer events).\n\nMembers get community badges, early feature access, a direct channel to the Supabase team, partner discounts, exclusive swag, and a stated path from volunteer to paid contributor to employee.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open" },
+        { "label": "Type", "value": "Ambassador (community advocate program)" },
+        { "label": "Compensation", "value": "Volunteer, with a path to paid contributor roles" },
+        { "label": "Time commitment", "value": "Not specified" },
+        { "label": "Regions", "value": "Global" },
+        { "label": "Tracks", "value": "Contributor, Content Creator, Trusted Host, Event Speaker (join one or several)" }
+      ],
+      "perks": [
+        "SupaSquad badge on Discord and flair on Reddit",
+        "First access to new Supabase features, with feedback going straight to the team",
+        "Direct communication channel with Supabase team members",
+        "Partner discounts on developer tools, AI platforms, and lifestyle brands",
+        "Exclusive SupaSquad merchandise",
+        "A growth path from volunteer to paid contributor to paid employee"
+      ],
+      "expectations": [
+        "Contributor: share expertise, improve docs, answer questions, and keep community spaces productive",
+        "Content Creator: publish videos, blogs, tutorials, and other educational content",
+        "Trusted Host: run high-quality Supabase meetups in your area",
+        "Event Speaker: represent Supabase at developer events with talks and demos",
+        "Apply through the SupaSquad form, choosing the tracks that fit your skills"
+      ],
+      "faq": []
+    }
+  },
+  {
+    "id": "cloudflare-ambassadors",
+    "slug": "cloudflare",
+    "company": "Cloudflare",
+    "product": "Cloudflare",
+    "programName": "Cloudflare Ambassadors",
+    "programType": "ambassador",
+    "url": "https://www.cloudflare.com/community/",
+    "description": "Bring builders together on campuses and in cities. One-year cohorts with event support, credits, swag, and team access.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["event-funding", "api-credits", "swag", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-09-05",
+    "detail": {
+      "summary": "Cloudflare Ambassadors bring builders together on campuses, in local organizations, and across cities through events, shared learning, and content. Cohorts last one year, and ambassadors can reapply for a second. Support includes help with meetups and workshops, credits, marketing assets, technical resources, and Cloudflare experts at events.\n\nA separate Community Engineers track for open-source maintainers, with grants and no fixed term, is listed as opening soon.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open (Ambassadors); Community Engineers opening soon" },
+        { "label": "Type", "value": "Ambassador" },
+        { "label": "Compensation", "value": "Unpaid; event support, credits, swag, recognition" },
+        { "label": "Time commitment", "value": "Not specified" },
+        { "label": "Term", "value": "1-year cohorts; reapply for a second year" },
+        { "label": "Regions", "value": "Global" },
+        { "label": "Who it's for", "value": "Student leaders, community organizers, technical creators; non-technical welcome" }
+      ],
+      "perks": [
+        "Support for meetups, workshops, and community events",
+        "Credits, marketing assets, and technical resources",
+        "Access to Cloudflare experts at your events",
+        "Recognition in Cloudflare community spaces and exclusive swag"
+      ],
+      "expectations": [
+        "Organize meetups and workshops on campus, in local organizations, or city-wide",
+        "Activate students through clubs or bring a broader local builder community together",
+        "Create technical content and share what you learn"
+      ],
+      "faq": [
+        {
+          "question": "Do I need to be technical?",
+          "answer": "No. Cloudflare welcomes non-technical enthusiasts who want to help people deploy their ideas."
+        },
+        {
+          "question": "Is there a fixed term?",
+          "answer": "Ambassador cohorts last one year, and you can reapply for a second year."
+        },
+        {
+          "question": "Is it paid?",
+          "answer": "No. Ambassadors get event support, credits, swag, recognition, and access to Cloudflare teams."
+        },
+        {
+          "question": "What are Community Engineers?",
+          "answer": "A separate track, opening soon, for open-source contributors in the Cloudflare ecosystem. It offers grants, a Community Engineer designation, Discord recognition, and no fixed term."
+        }
+      ]
+    }
+  },
+  {
+    "id": "replit-ambassadors",
+    "slug": "replit",
+    "company": "Replit",
+    "product": "Replit",
+    "programName": "Community Ambassadors",
+    "programType": "ambassador",
+    "url": "https://replit.com/community",
+    "eventsUrl": "https://luma.com/ReplitHQ",
+    "description": "Host meetups and hackathons, help builders troubleshoot, and share tutorials. Credits, early access, office hours, swag.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["api-credits", "early-access", "swag", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": "1+ hour/month",
+    "featured": false,
+    "addedAt": "2026-09-05",
+    "detail": {
+      "summary": "Replit Community Ambassadors host events, help other builders, and share what they learn. The commitment is light: check in on the community Slack at least weekly, give at least an hour a month to ambassador programming, and send feedback during beta periods.\n\nAmbassadors get Replit credits, early access to features, open office hours and AMAs with the team, workspace walkthroughs, in-person events, and swag. The application takes about five minutes, and submissions are reviewed monthly.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open; applications reviewed monthly" },
+        { "label": "Type", "value": "Ambassador" },
+        { "label": "Compensation", "value": "Unpaid; Replit credits, early access, swag" },
+        { "label": "Time commitment", "value": "1+ hour/month plus weekly Slack participation" },
+        { "label": "Regions", "value": "Global; events online or in person" },
+        { "label": "How to apply", "value": "About 5 minutes; Replit login required" }
+      ],
+      "perks": [
+        "Replit credits to build with",
+        "Early access to new features and beta testing",
+        "Open office hours and AMAs with Replit team members",
+        "Workspace walkthroughs and in-person events",
+        "A member platform connecting all ambassadors",
+        "Unique Replit swag"
+      ],
+      "expectations": [
+        "Help builders troubleshoot and optimize their Replit workflows",
+        "Host meetups, workshops, and hackathons online or in your city",
+        "Share tips, tutorials, and project write-ups",
+        "Join Slack weekly, give 1+ hour a month, and provide feedback during betas",
+        "Priority goes to applicants already publishing content, running communities, or hosting events",
+        "Uphold Replit's community standards and code of conduct"
+      ],
+      "faq": [
+        {
+          "question": "How does selection work?",
+          "answer": "Fill out the roughly five-minute application. The team reviews submissions monthly, follows up by email, and sends a welcome pack if you're selected. Replit also invites some ambassadors directly."
+        }
+      ],
+      "applyUrl": "https://community-hub.replit.app/ambassadors/"
+    }
+  },
+  {
+    "id": "elevenlabs-creator-partners",
+    "slug": "elevenlabs",
+    "company": "ElevenLabs",
+    "product": "ElevenLabs",
+    "programName": "Creator Partner Program",
+    "programType": "ambassador",
+    "url": "https://elevenlabs.io/cpp",
+    "description": "Get matched with campaign briefs and publish tutorials, demos, or reviews. Top-performing posts earn credits and cash.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["api-credits", "honorarium", "network"],
+    "compensation": "honorarium",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-09-05",
+    "detail": {
+      "summary": "ElevenLabs' Creator Partner Program pairs creators with the ElevenLabs creator team. Accepted partners get campaign briefs, launch details, and creative direction, then publish tutorials, demos, workflow breakdowns, or reviews; top-performing posts earn credits and cash.\n\nThe application now runs as the Content Creator track of the ElevenLabs Ambassador Program, which adds early access, support and funding for what you make, a direct line to the team, and features on ElevenLabs channels. A Community Builder track for meetups and hackathons exists, but its applications are paused while it's updated.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open (Content Creator track); Community Builder paused" },
+        { "label": "Type", "value": "Ambassador (creator partnership)" },
+        { "label": "Compensation", "value": "Performance-based credits and cash for top posts" },
+        { "label": "Time commitment", "value": "Not specified; campaign-based" },
+        { "label": "Regions", "value": "Global" },
+        { "label": "Platforms", "value": "YouTube, TikTok, Instagram, X, LinkedIn, or wherever your audience is" }
+      ],
+      "perks": [
+        "Campaign briefs, launch details, and creative direction from the creator team",
+        "Credits and cash for top-performing posts",
+        "Early access to new ElevenLabs products",
+        "Support and funding for what you make, plus features on ElevenLabs channels",
+        "A direct line to the team and a community of fellow creators"
+      ],
+      "expectations": [
+        "Apply with details about your content, your platforms, and what you want to create",
+        "Publish tutorials, demos, workflow breakdowns, and reviews across speech, music, sound effects, image, video, or agents",
+        "Cover one product or the whole suite, on the platforms your audience already uses",
+        "Prefer earning through referrals? ElevenLabs runs a separate affiliate program"
+      ],
+      "faq": [
+        {
+          "question": "Is there a community or events track?",
+          "answer": "Yes: Community Builder, for meetups, hackathons, demo nights, and workshops with ElevenLabs funding and branding. Its applications are paused while the track is updated; Content Creator applications are open."
+        }
+      ]
+    }
+  },
+  {
+    "id": "gmi-clouders",
+    "slug": "gmi",
+    "company": "GMI Cloud",
+    "product": "GMI Cloud",
+    "programName": "GMI Clouders",
+    "programType": "ambassador",
+    "url": "https://www.gmicloud.ai/en/company/ambassador-program",
+    "description": "Content Creators earn credits and 20% affiliate commission; Community Builders get event budget, monthly credits, and swag.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["api-credits", "event-funding", "swag", "early-access"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-09-06",
+    "detail": {
+      "summary": "GMI Clouders is GMI Cloud's ambassador program, with two tracks. Content Creators share what they build on GMI through demos, use cases, and reviews, and get early access, credits, creative assets, and a 20% affiliate commission. Community Builders run local meetups, hackathons, demo nights, and workshops with GMI funding, resources, and branding.\n\nCurrent Clouders are spread across North America, Europe, Asia, and Africa.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open" },
+        { "label": "Type", "value": "Ambassador" },
+        { "label": "Compensation", "value": "Credits and perks; 20% affiliate commission for Content Creators" },
+        { "label": "Time commitment", "value": "Not specified" },
+        { "label": "Regions", "value": "Global" },
+        { "label": "Tracks", "value": "Content Creator, Community Builder, or both" }
+      ],
+      "perks": [
+        "Content Creators: early access, credits, and assets to create with",
+        "Content Creators: 20% affiliate commission on referrals",
+        "Community Builders: activation budget for events plus monthly model credits",
+        "Community Builders: GMI swag and a branded event kit"
+      ],
+      "expectations": [
+        "Content Creators publish demos, use cases, and reviews on X, LinkedIn, YouTube, or elsewhere",
+        "Community Builders host meetups, hackathons, demo nights, and workshops in their city",
+        "The application asks for a project you've built on GMI Cloud, your platforms, and your audience size",
+        "You also describe how you'd use GMI credits or event resources to create value"
+      ],
+      "faq": []
+    }
+  },
+  {
+    "id": "firecrawl-ambassadors",
+    "slug": "firecrawl",
+    "company": "Firecrawl",
+    "product": "Firecrawl",
+    "programName": "Ambassadors",
+    "programType": "ambassador",
+    "url": "https://www.firecrawl.dev/ambassadors",
+    "description": "Creator partnership for tech audiences. Paid per video with no quotas, free Firecrawl, early access, merch, private Slack.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["honorarium", "api-credits", "early-access", "swag", "network"],
+    "compensation": "honorarium",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-09-22",
+    "detail": {
+      "summary": "Firecrawl Ambassadors is a paid creator partnership for people with an established tech audience. Accepted creators join a private Slack channel with the Firecrawl team, pitch ideas, and get paid per delivered video, with no monthly quotas and full creative freedom.\n\nWhile in the program, ambassadors also get free Firecrawl, early access, and exclusive merch. The application takes about five minutes, and submissions are reviewed weekly.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open; applications reviewed weekly" },
+        { "label": "Type", "value": "Ambassador (creator partnership)" },
+        { "label": "Compensation", "value": "Paid per delivered video" },
+        { "label": "Time commitment", "value": "No monthly quotas" },
+        { "label": "Regions", "value": "Global" },
+        { "label": "How to apply", "value": "About 5 minutes, with a link to your audience" }
+      ],
+      "perks": [
+        "Paid per delivered video, with no monthly quotas",
+        "Free Firecrawl while you're in the program",
+        "Early access to new Firecrawl features",
+        "Exclusive merch",
+        "Your own private Slack channel with the Firecrawl team",
+        "Full creative freedom over your content"
+      ],
+      "expectations": [
+        "Have an established audience in tech",
+        "Make content about AI, dev tools, or software engineering",
+        "Pitch ideas, ship videos, and get paid on delivery",
+        "Want a real creator partnership, not just a referral link"
+      ],
+      "faq": [
+        {
+          "question": "How do I apply?",
+          "answer": "Submit a link to your audience and the kind of content you make. It takes about five minutes, and applications are reviewed weekly."
+        },
+        {
+          "question": "Are there quotas?",
+          "answer": "No. You pitch ideas and get paid per delivery, with no monthly minimum."
+        },
+        {
+          "question": "Is there a referral-only option?",
+          "answer": "Yes. Firecrawl's separate affiliate program pays 25% of referred subscriptions for the first 12 months, then 15% ongoing, with no content requirements. Ambassadors can stack it on top."
+        }
+      ]
+    }
+  },
+  {
+    "id": "convex-champions",
+    "slug": "convex",
+    "company": "Convex",
+    "product": "Convex",
+    "programName": "Champions",
+    "programType": "ambassador",
+    "url": "https://www.convex.dev/champions",
+    "description": "For active Discord members who build and write about Convex. Early previews, swag, sponsored conference trips, free Pro plan.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["early-access", "swag", "event-funding", "api-credits", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-09-22",
+    "detail": {
+      "summary": "Convex Champions is Convex's developer champions program for active members of the Convex Discord who build apps, create content, and give product feedback. Champions get early previews of new features, AMAs with leadership, exclusive swag, sponsored conference trips, and a private Discord.\n\nChampions also get a complimentary Convex Professional plan for one team. Applicants need a Convex account and an active presence in the community Discord.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open" },
+        { "label": "Type", "value": "Ambassador (developer champions)" },
+        { "label": "Compensation", "value": "Unpaid; free Professional plan, swag, sponsored conference trips" },
+        { "label": "Time commitment", "value": "Not specified" },
+        { "label": "Regions", "value": "Global" },
+        { "label": "Eligibility", "value": "Active Convex Discord member with a Convex account" }
+      ],
+      "perks": [
+        "Early previews of new features",
+        "AMAs with Convex leadership",
+        "Exclusive swag",
+        "Sponsored trips to conferences",
+        "Complimentary Professional plan for one team ($0/month, up to five members, non-transferable)",
+        "Private Discord connecting all champions"
+      ],
+      "expectations": [
+        "Be an active participant in the Convex Discord community",
+        "Build Convex apps or create content that features Convex",
+        "Share product feedback and design suggestions",
+        "Spread the word about Convex when it's relevant",
+        "Apply with your Convex account email, Discord username, and team slug, and agree to the community guidelines"
+      ],
+      "faq": []
+    }
+  },
+  {
+    "id": "cline-ambassadors",
+    "slug": "cline",
+    "company": "Cline",
+    "product": "Cline",
+    "programName": "Ambassador Program",
+    "programType": "ambassador",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScvyVZ2Sj0Igja_nS9oV9utHaSVwm3Is9wU06dJVqevZrwg_A/viewform",
+    "logo": "assets/logos/cline.svg",
+    "description": "Build with Cline and share projects, blogs, or videos. Early access, exclusive perks; top ambassadors become paid partners.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["early-access", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-09-22",
+    "detail": {
+      "summary": "Cline launched its Ambassador Program in September 2026 for developers and technical creators who build with Cline and share what they learn through projects, blogs, videos, or social posts. Ambassadors get early access to what Cline is building, exclusive perks, more visibility in the developer community, and closer collaboration with the Cline team.\n\nAccording to the launch announcement, top ambassadors will be promoted to paid partners. Applications go through a Google Form; there is no dedicated program page yet.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open" },
+        { "label": "Type", "value": "Ambassador" },
+        { "label": "Compensation", "value": "Unpaid at entry; top ambassadors promoted to paid partners" },
+        { "label": "Time commitment", "value": "Not specified" },
+        { "label": "Regions", "value": "Global" },
+        { "label": "Launched", "value": "September 2026" }
+      ],
+      "perks": [
+        "Early access to what Cline is building",
+        "Exclusive ambassador perks",
+        "Opportunities to grow your presence in the developer community",
+        "Closer collaboration with the Cline team",
+        "A path to paid partnership for top ambassadors"
+      ],
+      "expectations": [
+        "Build with Cline and share your work with the developer community",
+        "Create technical content: projects, blogs, videos, or social posts",
+        "Apply through the multi-page form with your location, LinkedIn, and X profile"
+      ],
+      "faq": []
+    }
+  },
+  {
+    "id": "tinyfish-ambassadors",
+    "slug": "tinyfish",
+    "company": "TinyFish",
+    "product": "TinyFish",
+    "programName": "Ambassador Program",
+    "programType": "ambassador",
+    "url": "https://www.tinyfish.ai/ambassadors",
+    "description": "Share a referral link, build bounties, host events. Credits per signup, gift cards per build, badges, merch, beta access.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["api-credits", "event-funding", "swag", "early-access", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-10-01",
+    "detail": {
+      "summary": "TinyFish's Ambassador Program is a tiered developer community with no application. Everyone starts as a Referral Partner with a personal link and access to a shared Bounty Board. Reaching 50 qualified signups in a quarter promotes you to Advocate automatically, and standout Advocates may be invited to become Regional Ambassadors.\n\nRewards include wallet credits for every qualified signup, gift cards for approved builds, verified badges, published build logs, event funding at higher tiers, and career support such as references and intros. Creating content is optional.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open; no application required" },
+        { "label": "Type", "value": "Ambassador (tiered referral and bounty program)" },
+        { "label": "Compensation", "value": "Wallet credits per qualified signup; gift cards per approved build" },
+        { "label": "Time commitment", "value": "Self-paced; Advocates need 50 signups and 1 event per quarter" },
+        { "label": "Term", "value": "Reviewed quarterly; lapsed Advocates move to alumni" },
+        { "label": "Regions", "value": "Global" },
+        { "label": "Tiers", "value": "Referral Partner → Advocate (automatic) → Regional Ambassador (invite only)" }
+      ],
+      "perks": [
+        "$8 in your wallet on joining, plus $5 for you and for each referral on every qualified signup",
+        "Gift cards for approved builds: $50 for an agentic app, $20 for a Skill, $10 for a prompt",
+        "A spot on the Bounty Board and on the leaderboard shared with the Student Program",
+        "Advocates: higher reward rate, office hours, verified LinkedIn and Discord badges, Hall of Fame listing, merch, and beta access",
+        "Regional Ambassadors: event funding, a direct line to engineering and growth, references and intros"
+      ],
+      "expectations": [
+        "Share your referral link; a signup counts once that person's agent makes its first successful TinyFish call via API, MCP, CLI, or a Skill",
+        "Claim and build monthly bounties on Search, Fetch, Web Agent, and Browser, submitted at tinybounties.com",
+        "Advocates: bring 50 qualified signups and host at least one community event each quarter",
+        "Regional Ambassadors: mentor 10+ new ambassadors, host monthly events, and drive 250+ qualified signups per quarter",
+        "Content is optional; building, running events, and helping others count too"
+      ],
+      "faq": [
+        {
+          "question": "Do I need to apply?",
+          "answer": "No. Everyone starts as a Referral Partner. Advocate status is automatic at 50 qualified signups in a quarter, and Regional Ambassador is invite only."
+        },
+        {
+          "question": "What counts as a qualified signup?",
+          "answer": "Someone you referred whose agent makes its first successful call to Search, Fetch, Web Agent, or Browser through the API, MCP, CLI, or a Skill. A click alone doesn't count."
+        },
+        {
+          "question": "What if I miss a quarter as an Advocate?",
+          "answer": "You move to alumni, keep your badge, and can return by meeting the requirements again."
+        },
+        {
+          "question": "Can students join?",
+          "answer": "Students use the separate Student Program. It shares the same leaderboard, and students carry their history into the ambassador tiers after graduating."
+        }
+      ]
+    }
+  },
+  {
+    "id": "tinyfish-students",
+    "slug": "tinyfish-students",
+    "company": "TinyFish",
+    "product": "TinyFish",
+    "programName": "Student Program",
+    "programType": "student",
+    "url": "https://www.tinyfish.ai/students",
+    "description": "Any enrolled student, anywhere. $35 in credits at signup, monthly bounties paid in gift cards, LinkedIn certification.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["api-credits", "event-funding", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-10-01",
+    "detail": {
+      "summary": "TinyFish's Student Program is the campus track of its developer ambassador program. Any currently enrolled student, anywhere, can join, and signing up is the whole application. Students claim monthly agent bounties, ship working builds, and earn gift cards, leaderboard points, and published credit for approved work.\n\nAn eligible academic email adds $35 in wallet credit automatically. Three approved builds unlock Student Builder status and a LinkedIn certification, and top builders are invited to become Campus Leads with a paid budget for campus events.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open; signing up is the application" },
+        { "label": "Type", "value": "Student" },
+        { "label": "Compensation", "value": "$35 starting credit; gift cards for approved builds (no cash)" },
+        { "label": "Time commitment", "value": "Self-paced; new bounties every month" },
+        { "label": "Regions", "value": "Global" },
+        { "label": "Eligibility", "value": "Current enrollment at any school; academic email for the credit" },
+        { "label": "Tiers", "value": "Student → Student Builder (3 approved builds) → Campus Lead (invite only)" }
+      ],
+      "perks": [
+        "$35 wallet credit at signup with an eligible academic email",
+        "Gift cards for approved builds: $50 for an agentic app, $20 for a Skill, $10 for a prompt",
+        "Published work credited to you and a spot on the shared public leaderboard",
+        "Student community on Discord with monthly office hours",
+        "Student Builders: LinkedIn certification, a build log on the blog, a community badge, and more credits",
+        "Campus Leads: paid event budget, verified badge, Hall of Fame listing, founder references, and internship priority"
+      ],
+      "expectations": [
+        "Claim a bounty, build it with TinyFish, and submit your repo and links at tinybounties.com",
+        "Post about your build on X and LinkedIn as part of the submission",
+        "The bar for approval is working software, not just a good idea",
+        "Campus Leads host TinyFish events and own its presence on campus"
+      ],
+      "faq": [
+        {
+          "question": "Which academic emails qualify for the credit?",
+          "answer": "Suffixes include .edu, .ac.uk, .ac.in, .edu.in, .edu.au, .edu.sg, .ac.id, .edu.my, .ac.th, .edu.vn, and .edu.ph, plus a list of specific university domains. If yours isn't covered, email community@tinyfish.ai."
+        },
+        {
+          "question": "Is anything paid in cash?",
+          "answer": "No. Approved builds earn gift cards, points, and publication, and no tier is paid in cash."
+        },
+        {
+          "question": "What happens after I graduate?",
+          "answer": "You keep your builds, certification, and track record, and can continue in the TinyFish Ambassador Program, which has no student requirement."
+        }
+      ]
+    }
+  },
+  {
+    "id": "qoder-ambassadors",
+    "slug": "qoder",
+    "company": "Qoder",
+    "product": "Qoder",
+    "programName": "Ambassador Program",
+    "programType": "ambassador",
+    "url": "https://ambassador-program-6pmlhfuf2fg.qoder.website/?lang=en",
+    "logo": "assets/logos/qoder.svg",
+    "description": "Build with Qoder, share your work, host meetups. A year of free Qoder Credits, beta access, event funding, and merch.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["api-credits", "early-access", "event-funding", "swag", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-10-16",
+    "detail": {
+      "summary": "Qoder's Ambassador Program is a community co-creation program for builders who make Qoder, the AI coding platform, a core part of their workflow. It looks for people with real influence among fellow builders who like sharing what they learn, bringing others together, and carrying honest community feedback back to the Qoder team to help shape the product.\n\nThe program was recently reimagined and opened a new round of applications with updated review criteria, so former ambassadors need to apply again. Ambassadors get a year of free Qoder Credits (worth the $200/month Ultra plan), priority beta access, event materials and funding, an ambassador badge with a member number, and limited-edition merch. It isn't a paid or employment role, and each round has a limited number of spots.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open; new application round for the refreshed program" },
+        { "label": "Type", "value": "Ambassador (community co-creation program)" },
+        { "label": "Compensation", "value": "Unpaid; a year of free Qoder Credits (worth the $200/month Ultra plan) plus perks" },
+        { "label": "Time commitment", "value": "Not specified; stay active throughout your term" },
+        { "label": "Term", "value": "Runs in rounds; term length not specified" },
+        { "label": "Regions", "value": "Global; open to builders of all backgrounds and regions" },
+        { "label": "Eligibility", "value": "18 or older" },
+        { "label": "Selection", "value": "Limited spots per round; invitations based on hands-on work, influence, and potential to contribute" }
+      ],
+      "perks": [
+        "A year of free Qoder Credits, equal to the $200/month Ultra plan",
+        "Priority access to Qoder beta programs and new features before public release",
+        "Official event materials and funding for small meetups, themed talks, and build challenges",
+        "An exclusive ambassador badge with your member number, plus chances to be featured on official Qoder channels, including interviews",
+        "A place in the official ambassador community with a direct line to other ambassadors and the Qoder team, product co-creation, and invitations to exclusive events",
+        "Limited-edition Qoder merch and occasional surprise perks"
+      ],
+      "expectations": [
+        "Use Qoder as a core part of your workflow and share honest takes on its strengths and limitations",
+        "Share your methods, projects, and missteps so others can build on them",
+        "Bring builders together: host online or in-person meetups and co-creation events, or start or grow an AI builder community",
+        "Carry community feedback and insights back to the Qoder team",
+        "Stay active throughout your term and help keep the community open and authentic",
+        "Apply through the 14-question English application form (about 5 to 10 minutes)"
+      ],
+      "faq": [
+        {
+          "question": "Who can apply?",
+          "answer": "Anyone 18 or older who believes in Qoder and likes to create and share: developers, creators, educators, community organizers, or professionals using AI to change how they work."
+        },
+        {
+          "question": "Do I need a big following?",
+          "answer": "No. Real influence, consistent hands-on work, and the ability to connect with and inspire others count for more than follower numbers."
+        },
+        {
+          "question": "Do I need to be a tech expert?",
+          "answer": "No. In line with Qoder's \"Beyond coding. Create anything.\" motto, builders from any background are welcome to explore AI-powered creation with their own expertise."
+        },
+        {
+          "question": "How are applications reviewed?",
+          "answer": "The team looks at your understanding of Qoder, hands-on experience, influence and potential to connect communities, and the value you hope to create. Each round has limited spots, and the Qoder team reaches out to good fits about next steps."
+        },
+        {
+          "question": "I was a Qoder Ambassador before. Do I need to apply again?",
+          "answer": "Yes. The refreshed program opened a new round with updated review criteria, and returning and first-time applicants both apply. Past participation and contributions are considered in the review."
+        },
+        {
+          "question": "Is this a paid role?",
+          "answer": "No. It isn't an employment position or a paid endorsement. Ambassadors are supported through product benefits, event support, official recognition, and chances to connect."
+        }
+      ],
+      "applyUrl": "https://alidocs.dingtalk.com/notable/share/form/v01AJdl659ddzXD7Oke_Fag3QZt_8uCXGr6?source=link"
+    }
+  },
+  {
+    "id": "langchain-ambassadors",
+    "slug": "langchain",
+    "company": "LangChain",
+    "product": "LangChain",
+    "programName": "Ambassador Program",
+    "programType": "ambassador",
+    "url": "https://www.langchain.com/community",
+    "eventsUrl": "https://luma.com/langchain",
+    "description": "Host meetups, lead local communities, and create content. Event grants, early product access, and free LangSmith.",
+    "status": "invite-only",
+    "regions": ["global"],
+    "benefits": ["event-funding", "early-access", "swag", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": null,
+    "featured": false,
+    "addedAt": "2026-10-21",
+    "detail": {
+      "summary": "The LangChain Ambassador Program brings together some of the most active members of LangChain's global community. Ambassadors are volunteers who host meetups, lead local or online communities, and create educational content that makes agent engineering with LangChain, LangGraph, and LangSmith easier to pick up.\n\nAmbassadors get early looks at new products, grants to sponsor their events, free LangSmith access, swag, and a direct line to the LangChain team. There's no open application right now: the last public round ran through an Airtable form that closed on September 26, 2025, and that form is no longer public. Community Champions (open-source contributors) and LangChain Experts (forum helpers) are related ways to get involved in the meantime.",
+      "keyFacts": [
+        { "label": "Status", "value": "Invite only; no open application (the last public round closed September 26, 2025)" },
+        { "label": "Type", "value": "Ambassador (volunteer)" },
+        { "label": "Compensation", "value": "Unpaid; event grants, free LangSmith access, and perks" },
+        { "label": "Time commitment", "value": "Not specified" },
+        { "label": "Regions", "value": "Global; about 35 ambassadors across the Americas, Europe, the Middle East, and Asia" },
+        { "label": "Selection", "value": "Application rounds announced on LangChain's social channels" }
+      ],
+      "perks": [
+        "Sneak peeks at new products and early access to betas",
+        "Grants and swag to sponsor your events",
+        "Free LangSmith access",
+        "An exclusive ambassador community with direct access to the LangChain team for questions, feedback, and support",
+        "Promotion for your content, events, and initiatives",
+        "A profile on LangChain's community page"
+      ],
+      "expectations": [
+        "Host meetups or lead a local or online LangChain community",
+        "Create educational content that helps developers get started with LangChain",
+        "Be passionate about agent engineering and already contributing to the community, or ready to start"
+      ],
+      "faq": [
+        {
+          "question": "Can I apply right now?",
+          "answer": "Not at the moment. LangChain opens ambassador applications in rounds. The last public round ran in September 2025 through an Airtable form that closed on September 26 and is no longer public. Follow LangChain on LinkedIn, X, or Threads to catch the next call."
+        },
+        {
+          "question": "Is this a paid role?",
+          "answer": "No. Ambassadors are volunteers, supported with event grants, free LangSmith access, swag, and promotion."
+        },
+        {
+          "question": "Who is a good fit?",
+          "answer": "People who are passionate about agent engineering and already host events, run communities, or create content around LangChain, or are ready to start."
+        },
+        {
+          "question": "Are there other ways to get involved?",
+          "answer": "Yes. Community Champions are open-source contributors recognized for fixing bugs, tackling issues, adding features, and writing docs. They get direct access to the team, a say in the roadmap, priority reviews, and swag, and the path starts with contributing to LangChain's open-source packages.\n\nLangChain Experts are volunteers who answer questions and share best practices on the LangChain Forum, in LangChain Academy discussions, and in the community Slack."
+        }
+      ]
+    }
+  },
+  {
+    "id": "n8n-ambassadors",
+    "slug": "n8n",
+    "company": "n8n",
+    "product": "n8n",
+    "programName": "Ambassador Program",
+    "programType": "ambassador",
+    "url": "https://n8n.notion.site/become-an-ambassador",
+    "eventsUrl": "https://luma.com/n8n-events",
+    "logo": "assets/logos/n8n.svg",
+    "description": "Host 3+ n8n meetups a year. Event budget, swag, private Slack, and free n8n licenses for educational use.",
+    "status": "open",
+    "regions": ["global"],
+    "benefits": ["event-funding", "swag", "network"],
+    "compensation": "credits-and-perks",
+    "timeCommitment": "3+ events/year",
+    "featured": false,
+    "addedAt": "2026-10-21",
+    "detail": {
+      "summary": "n8n ambassadors are community members who host meetups and workshops, share what they know about n8n, and bring local automation builders together. You don't need to be a professional event organizer or a developer: if you've built with n8n for a year or more and enjoy helping others, you're who the program is looking for.\n\nAmbassadors host at least three events a year, represent n8n at tech events in their region, and stay involved for at least 12 months. In return, n8n funds events and sends swag, provides onboarding, playbooks, and a private Slack, and gives complimentary Cloud and Enterprise licenses for educational use, plus a feature on the Meet the ambassadors page and a forum badge.",
+      "keyFacts": [
+        { "label": "Status", "value": "Open" },
+        { "label": "Type", "value": "Ambassador (volunteer)" },
+        { "label": "Compensation", "value": "Unpaid; event budget, swag, and free Cloud and Enterprise licenses for educational use" },
+        { "label": "Time commitment", "value": "At least 3 events a year (about one every 4 months), plus a short monthly update" },
+        { "label": "Term", "value": "Aim to stay at least 12 months; you can step down at any time" },
+        { "label": "Regions", "value": "Global; you lead the community in your own city" },
+        { "label": "Eligibility", "value": "12+ months of using n8n" },
+        { "label": "Selection", "value": "Application form, short intro video, quick chat, then onboarding" },
+        { "label": "Contact", "value": "ambassadors@n8n.io" }
+      ],
+      "perks": [
+        "Event budget plus swag kits, merchandise, and branding materials for your meetups",
+        "Complimentary n8n Cloud and Enterprise licenses for educational use",
+        "Private ambassador Slack to ask questions, get advice, and share wins",
+        "Dedicated onboarding with step-by-step help planning your first meetup",
+        "Notion playbooks, checklists, templates, and promotion tips, plus self-service forms for swag, budget, and feedback",
+        "A feature on the Meet the ambassadors page, an exclusive forum badge, and invitations to exclusive events"
+      ],
+      "expectations": [
+        "Host at least 3 events a year, roughly one every four months, from casual meetups to workshops or hackathons",
+        "Represent n8n at tech events in your region with demos and stories",
+        "Bring local builders together and help newcomers feel welcome",
+        "Share a short recap after each event and a monthly check-in or progress note",
+        "Stay active in the private ambassador community",
+        "Commit to at least 12 months so your local community can grow",
+        "Have used n8n for 12 months or more and have some event experience, or be keen to learn"
+      ],
+      "faq": [
+        {
+          "question": "Do I need to be a developer or n8n expert?",
+          "answer": "No. If you've used n8n for 12 months or more and enjoy sharing what you've learned, you qualify."
+        },
+        {
+          "question": "What kinds of events can I host?",
+          "answer": "Anything from casual coffee meetups to full workshops or hackathons. You choose what works for your local community."
+        },
+        {
+          "question": "What if I'm not sure I can host 3 events a year?",
+          "answer": "Apply anyway. The n8n team will work with your availability, and you can step down at any time."
+        },
+        {
+          "question": "Is this a paid role?",
+          "answer": "No. It's a volunteer program, backed by support, resources, and recognition from n8n."
+        },
+        {
+          "question": "Will n8n help me find a venue or speakers?",
+          "answer": "Yes. Especially for your first event, the team guides you through each step."
+        },
+        {
+          "question": "How does applying work?",
+          "answer": "Four steps: fill out the application form about you and your city, record a short intro video, have a quick chat to align expectations and sketch your first event, then onboard by joining Slack and getting your welcome kit."
+        },
+        {
+          "question": "Who do I contact with other questions?",
+          "answer": "Email the team at ambassadors@n8n.io."
+        }
+      ],
+      "applyUrl": "https://n8n-community.typeform.com/to/gJ43zxpY"
+    }
+  }
+]

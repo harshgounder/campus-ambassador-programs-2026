@@ -262,3 +262,34 @@ Profile filter and stacking rules: `scope/PROFILE.md`.
 - **E-Summit MNIT Jaipur Campus Ambassador**: separate program from SPHINX, E-Cell MNIT runs it.
 - **E-Cell IIT Kanpur Campus Ambassador**: open through Unstop, a third IIT E-Cell route alongside IIT Bombay and IIT BHU.
 - **Anand ICE Echona 2026**: Jaipur fest, 30 to 31 Oct 2026, already run. Watch for 2027.
+
+---
+
+# Added 4 Nov 2026, ambassador.sh audit
+
+User-supplied source: https://ambassador.sh/ . Verdict: **alive, mostly current, not fully
+current.** Sitemap lastmod 2026-10-12, structured feed has entries added up to 2026-10-21,
+and the live JSON sits at https://ambassador.sh/data/programs.json (20 programs).
+
+Staleness found in the same feed:
+- OpenAI Codex Ambassadors is listed **open**. The official page says applications closed on
+  1 November 2026 and that students are not accepted.
+- Cline Ambassador is listed **open**. Its Google Form says "no longer accepting responses".
+So: use it as a lead generator, verify every row.
+
+## What ambassador.sh surfaced that the earlier passes missed
+
+| Program | Org | Status | Note | Apply |
+|---|---|---|---|---|
+| Cerebras Ambassadors | Cerebras | OPEN | Global builder community, Mumbai named among cities. I previously listed Cerebras as having no program. Wrong. | https://www.cerebras.ai/ambassadors |
+| Nebius Fellows | Nebius | OPEN | Curated builder and OSS contributor program | https://nebius.com/fellows |
+| Firecrawl Ambassadors | Firecrawl | OPEN | Creator partnership, paid per video, weekly review. Also has a student program page. | https://www.firecrawl.dev/ambassadors |
+| Firecrawl Student Program | Firecrawl | OPEN | Linked from the ambassador page | https://www.firecrawl.dev/student-program |
+| Convex Champions | Convex | OPEN | Application form, Discord-based | https://www.convex.dev/champions |
+| TinyFish Ambassador | TinyFish | OPEN | Referral link, $5 per qualified referral, no application gate | https://www.tinyfish.ai/ambassadors |
+| TinyFish Student Program | TinyFish | OPEN | Any school, any country, school email gets $35 credit and bounty board access | https://www.tinyfish.ai/students |
+| n8n Ambassador | n8n | OPEN | Meetups and workshops, Notion application | https://n8n.notion.site/become-an-ambassador |
+| LangChain Ambassador | LangChain | INVITE ONLY | India ambassadors listed in Hyderabad and Bengaluru | https://www.langchain.com/community |
+| ElevenLabs Creator Partner | ElevenLabs | OPEN | Paid per performing post, separate from the ambassador track | https://elevenlabs.io/cpp |
+| Qoder CN Ambassador | Alibaba Qoder | CHINA ONLY | Mainland creator program, not open to India. Corrects the earlier "no program" note. | qoder.website CN page |
+| Cline Ambassador | Cline | CLOSED | Form closed | Google Form |
