@@ -229,3 +229,36 @@ program, no public form), Be The Face of Nykaa (closed 15 Oct), Myntra StyleCast
 Zomato and Swiggy (appear as Internshala listings, not a standing program).
 
 Profile filter and stacking rules: `scope/PROFILE.md`.
+
+---
+
+# Added 4 Nov 2026, wave three
+
+## Open, and found through community and Discord channels
+
+| Program | Org | Status | Note | Apply |
+|---|---|---|---|---|
+| Claude Community Ambassadors | Anthropic | OPEN | The campus track closed 12 Sep, this one did not. Open to any background, any country, multiple ambassadors per city. Event funding, API credits. | https://claude.com/community/ambassadors |
+| Swytchcode Campus Ambassadors | Swytchcode | OPEN | Explicitly open to students anywhere in the world, 5 to 10 hours a week, private Discord with founders. | https://www.swytchcode.com/campus-ambassadors |
+| Anakin Campus Ambassador | Anakin | OPEN | Reviewed weekly. Workshop, weekly content, open source PR, Discord and WhatsApp lead for your campus. | https://anakin.io/ambassadors |
+| MemMachine Community Ambassador | MemMachine | OPEN | Applies inside Discord in the #ambassadors channel. No web form. This is the hidden-channel pattern. | https://memmachine.ai/community-ambassador-program/ |
+| Autohand Ambassador | Autohand | OPEN | Campus or user group track, monthly credits, few days for a reply. | https://autohand.ai/community/ambassadors |
+| Lovable Campus Leader | Lovable | WAITLIST | Rolling review, waitlist entry. | https://lovable.dev/programs |
+
+## Closed or restricted, checked this wave
+
+- OpenAI Codex Ambassadors: applications closed on 1 November 2026. Students are excluded anyway.
+- KodeKloud Ambassador: quarter closed, notify list.
+- EY Campus Ambassador: Italy only.
+- PwC and Deloitte India: campus engagement exists, but no student ambassador role. Deloitte "brand ambassadors" are employees.
+- KPMG: country-specific programs, no India student ambassador page found.
+- Teach For India Campus Ambassador: pre-final and final year only, so 2027 for a 2026 second year.
+- Analog Devices: runs the Anveshan Fellowship for Indian students, not an ambassador role.
+- Tata Elxsi TELIPORT Season 4: closed 1 November 2026, competition not ambassador.
+
+## Jaipur and Rajasthan, this wave
+
+- **SPHINX '26, MNIT Jaipur**: recruitment open, and SPHINX '26 ran 30 Oct to 1 Nov 2026, so you are applying for the next edition or a late role. Still the closest campus.
+- **E-Summit MNIT Jaipur Campus Ambassador**: separate program from SPHINX, E-Cell MNIT runs it.
+- **E-Cell IIT Kanpur Campus Ambassador**: open through Unstop, a third IIT E-Cell route alongside IIT Bombay and IIT BHU.
+- **Anand ICE Echona 2026**: Jaipur fest, 30 to 31 Oct 2026, already run. Watch for 2027.
