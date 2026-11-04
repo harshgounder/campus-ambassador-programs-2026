@@ -1,0 +1,2834 @@
+[
+ {
+  "name": "openai",
+  "domain": "openai.com",
+  "hits": [
+   "https://openai.com/ambassador",
+   "https://openai.com/ambassador-program",
+   "https://openai.com/ambassadors",
+   "https://openai.com/campus",
+   "https://openai.com/campus-ambassador",
+   "https://openai.com/community/ambassadors",
+   "https://openai.com/student-ambassador",
+   "https://openai.com/students"
+  ],
+  "http": 403,
+  "final": "https://openai.com/"
+ },
+ {
+  "name": "anthropic",
+  "domain": "anthropic.com",
+  "hits": [
+   "https://anthropic.com/ambassador",
+   "https://anthropic.com/ambassador-program",
+   "https://anthropic.com/ambassadors",
+   "https://anthropic.com/campus",
+   "https://anthropic.com/campus-ambassador",
+   "https://anthropic.com/community/ambassadors",
+   "https://anthropic.com/student-ambassador",
+   "https://anthropic.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.anthropic.com/"
+ },
+ {
+  "name": "google deepmind",
+  "domain": "deepmind.google",
+  "hits": [
+   "https://deepmind.google/ambassador",
+   "https://deepmind.google/ambassador-program",
+   "https://deepmind.google/ambassadors",
+   "https://deepmind.google/campus",
+   "https://deepmind.google/campus-ambassador",
+   "https://deepmind.google/community/ambassadors",
+   "https://deepmind.google/student-ambassador",
+   "https://deepmind.google/students"
+  ],
+  "http": 200,
+  "final": "https://deepmind.google/"
+ },
+ {
+  "name": "meta",
+  "domain": "ai.meta.com",
+  "hits": [
+   "https://ai.meta.com/ambassador",
+   "https://ai.meta.com/ambassador-program",
+   "https://ai.meta.com/ambassadors",
+   "https://ai.meta.com/campus",
+   "https://ai.meta.com/campus-ambassador",
+   "https://ai.meta.com/community/ambassadors",
+   "https://ai.meta.com/student-ambassador",
+   "https://ai.meta.com/students"
+  ],
+  "http": 400,
+  "final": "https://ai.meta.com/"
+ },
+ {
+  "name": "microsoft",
+  "domain": "microsoft.com",
+  "hits": [
+   "https://azure.microsoft.com/en-us/free/students/",
+   "https://microsoft.com/ambassador",
+   "https://microsoft.com/ambassador-program",
+   "https://microsoft.com/ambassadors",
+   "https://microsoft.com/campus",
+   "https://microsoft.com/campus-ambassador",
+   "https://microsoft.com/community/ambassadors",
+   "https://microsoft.com/student-ambassador",
+   "https://microsoft.com/students",
+   "https://techcommunity.microsoft.com/",
+   "https://www.microsoft.com/en-us/education?icid=CNavMSCOML0_Studentsandeducation"
+  ],
+  "http": 200,
+  "final": "https://www.microsoft.com/"
+ },
+ {
+  "name": "nvidia",
+  "domain": "nvidia.com",
+  "hits": [
+   "https://nvidia.com/ambassador",
+   "https://nvidia.com/ambassador-program",
+   "https://nvidia.com/ambassadors",
+   "https://nvidia.com/campus",
+   "https://nvidia.com/campus-ambassador",
+   "https://nvidia.com/community/ambassadors",
+   "https://nvidia.com/student-ambassador",
+   "https://nvidia.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.nvidia.com/en-in/"
+ },
+ {
+  "name": "amd",
+  "domain": "amd.com",
+  "hits": [
+   "https://amd.com/ambassador",
+   "https://amd.com/ambassador-program",
+   "https://amd.com/ambassadors",
+   "https://amd.com/campus",
+   "https://amd.com/campus-ambassador",
+   "https://amd.com/community/ambassadors",
+   "https://amd.com/student-ambassador",
+   "https://amd.com/students",
+   "https://webinar.amd.com/meet-the-experts-hub/en/home",
+   "https://www.amd.com/en/partner/browse-by-resource/meet-the-experts-webinars.html"
+  ],
+  "http": 200,
+  "final": "https://www.amd.com/en.html"
+ },
+ {
+  "name": "intel",
+  "domain": "intel.com",
+  "hits": [
+   "https://intel.com/ambassador",
+   "https://intel.com/ambassador-program",
+   "https://intel.com/ambassadors",
+   "https://intel.com/campus",
+   "https://intel.com/campus-ambassador",
+   "https://intel.com/community/ambassadors",
+   "https://intel.com/student-ambassador",
+   "https://intel.com/students"
+  ],
+  "http": 403,
+  "final": "https://www.intel.com/"
+ },
+ {
+  "name": "qualcomm",
+  "domain": "qualcomm.com",
+  "hits": [
+   "https://qualcomm.com/ambassador",
+   "https://qualcomm.com/ambassador-program",
+   "https://qualcomm.com/ambassadors",
+   "https://qualcomm.com/campus",
+   "https://qualcomm.com/campus-ambassador",
+   "https://qualcomm.com/community/ambassadors",
+   "https://qualcomm.com/student-ambassador",
+   "https://qualcomm.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.qualcomm.com"
+ },
+ {
+  "name": "ibm",
+  "domain": "ibm.com",
+  "hits": [
+   "https://ibm.com/ambassador",
+   "https://ibm.com/ambassador-program",
+   "https://ibm.com/ambassadors",
+   "https://ibm.com/campus",
+   "https://ibm.com/campus-ambassador",
+   "https://ibm.com/community/ambassadors",
+   "https://ibm.com/student-ambassador",
+   "https://ibm.com/students",
+   "https://skillsbuild.org/university/students?lnk=hptr1in/?utm_source=ibm.com&utm_campaign=ibmus&utm_medium=organic"
+  ],
+  "http": 200,
+  "final": "https://www.ibm.com/in-en"
+ },
+ {
+  "name": "mistral",
+  "domain": "mistral.ai",
+  "hits": [
+   "https://mistral.ai/ambassador",
+   "https://mistral.ai/ambassador-program",
+   "https://mistral.ai/ambassadors",
+   "https://mistral.ai/campus",
+   "https://mistral.ai/campus-ambassador",
+   "https://mistral.ai/community/ambassadors",
+   "https://mistral.ai/student-ambassador",
+   "https://mistral.ai/students"
+  ],
+  "http": 200,
+  "final": "https://mistral.ai/"
+ },
+ {
+  "name": "cohere",
+  "domain": "cohere.com",
+  "hits": [
+   "https://cohere.com/ambassador",
+   "https://cohere.com/ambassador-program",
+   "https://cohere.com/ambassadors",
+   "https://cohere.com/campus",
+   "https://cohere.com/campus-ambassador",
+   "https://cohere.com/community/ambassadors",
+   "https://cohere.com/student-ambassador",
+   "https://cohere.com/students"
+  ],
+  "http": 200,
+  "final": "https://cohere.com/"
+ },
+ {
+  "name": "huggingface",
+  "domain": "huggingface.co",
+  "hits": [
+   "https://huggingface.co/ambassador",
+   "https://huggingface.co/ambassador-program",
+   "https://huggingface.co/ambassadors",
+   "https://huggingface.co/campus",
+   "https://huggingface.co/campus-ambassador",
+   "https://huggingface.co/community/ambassadors",
+   "https://huggingface.co/student-ambassador",
+   "https://huggingface.co/students"
+  ],
+  "http": 200,
+  "final": "https://huggingface.co/"
+ },
+ {
+  "name": "deepseek",
+  "domain": "deepseek.com",
+  "hits": [
+   "https://deepseek.com/ambassador",
+   "https://deepseek.com/ambassador-program",
+   "https://deepseek.com/ambassadors",
+   "https://deepseek.com/campus",
+   "https://deepseek.com/campus-ambassador",
+   "https://deepseek.com/community/ambassadors",
+   "https://deepseek.com/student-ambassador",
+   "https://deepseek.com/students"
+  ],
+  "http": 200,
+  "final": "https://deepseek.com/"
+ },
+ {
+  "name": "qwen",
+  "domain": "qwen.ai",
+  "hits": [
+   "https://qwen.ai/ambassador",
+   "https://qwen.ai/ambassador-program",
+   "https://qwen.ai/ambassadors",
+   "https://qwen.ai/campus",
+   "https://qwen.ai/campus-ambassador",
+   "https://qwen.ai/community/ambassadors",
+   "https://qwen.ai/student-ambassador",
+   "https://qwen.ai/students"
+  ],
+  "http": 200,
+  "final": "https://qwen.ai/"
+ },
+ {
+  "name": "moonshot",
+  "domain": "kimi.ai",
+  "hits": [
+   "https://kimi.ai/ambassador",
+   "https://kimi.ai/ambassador-program",
+   "https://kimi.ai/ambassadors",
+   "https://kimi.ai/campus",
+   "https://kimi.ai/campus-ambassador",
+   "https://kimi.ai/community/ambassadors",
+   "https://kimi.ai/student-ambassador",
+   "https://kimi.ai/students"
+  ],
+  "http": 200,
+  "final": "https://www.kimi.ai/"
+ },
+ {
+  "name": "zhipu",
+  "domain": "z.ai",
+  "hits": [],
+  "http": null,
+  "err": "HTTPConnectionPool(host='z.ai', port=80): Max retries exceeded with url: / (Caus"
+ },
+ {
+  "name": "minimax",
+  "domain": "minimax.io",
+  "hits": [],
+  "http": null,
+  "err": "HTTPConnectionPool(host='minimax.io', port=80): Max retries exceeded with url: /"
+ },
+ {
+  "name": "xiaomi",
+  "domain": "mi.com",
+  "hits": [],
+  "http": null,
+  "err": "HTTPConnectionPool(host='mi.com', port=80): Max retries exceeded with url: / (Ca"
+ },
+ {
+  "name": "bytedance",
+  "domain": "bytedance.com",
+  "hits": [
+   "https://bytedance.com/ambassador",
+   "https://bytedance.com/ambassador-program",
+   "https://bytedance.com/ambassadors",
+   "https://bytedance.com/campus",
+   "https://bytedance.com/campus-ambassador",
+   "https://bytedance.com/community/ambassadors",
+   "https://bytedance.com/student-ambassador",
+   "https://bytedance.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.bytedance.com/"
+ },
+ {
+  "name": "tencent",
+  "domain": "tencent.com",
+  "hits": [
+   "https://tencent.com/ambassador",
+   "https://tencent.com/ambassador-program",
+   "https://tencent.com/ambassadors",
+   "https://tencent.com/campus",
+   "https://tencent.com/campus-ambassador",
+   "https://tencent.com/community/ambassadors",
+   "https://tencent.com/student-ambassador",
+   "https://tencent.com/students"
+  ],
+  "http": 200,
+  "err": "HTTPSConnectionPool(host='tencent.com', port=443): Read timed out. (read timeout",
+  "final": "https://www.tencent.com/"
+ },
+ {
+  "name": "baidu",
+  "domain": "baidu.com",
+  "hits": [
+   "https://baidu.com/ambassador",
+   "https://baidu.com/ambassador-program",
+   "https://baidu.com/ambassadors",
+   "https://baidu.com/campus",
+   "https://baidu.com/campus-ambassador",
+   "https://baidu.com/community/ambassadors",
+   "https://baidu.com/student-ambassador",
+   "https://baidu.com/students"
+  ],
+  "http": 403,
+  "err": "HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with u",
+  "final": "http://baidu.com/"
+ },
+ {
+  "name": "iflytek",
+  "domain": "iflytek.com",
+  "hits": [],
+  "http": null,
+  "err": "HTTPConnectionPool(host='iflytek.com', port=80): Max retries exceeded with url: "
+ },
+ {
+  "name": "sensetime",
+  "domain": "sensetime.com",
+  "hits": [
+   "https://sensetime.com/ambassador",
+   "https://sensetime.com/ambassador-program",
+   "https://sensetime.com/ambassadors",
+   "https://sensetime.com/campus",
+   "https://sensetime.com/campus-ambassador",
+   "https://sensetime.com/community/ambassadors",
+   "https://sensetime.com/student-ambassador",
+   "https://sensetime.com/students"
+  ],
+  "http": 200,
+  "final": "https://sensetime.com/en/"
+ },
+ {
+  "name": "01ai",
+  "domain": "01.ai",
+  "hits": [],
+  "http": null,
+  "err": "HTTPConnectionPool(host='01.ai', port=80): Max retries exceeded with url: / (Cau"
+ },
+ {
+  "name": "baichuan",
+  "domain": "baichuan-ai.com",
+  "hits": [
+   "https://baichuan-ai.com/ambassador",
+   "https://baichuan-ai.com/ambassador-program",
+   "https://baichuan-ai.com/ambassadors",
+   "https://baichuan-ai.com/campus",
+   "https://baichuan-ai.com/campus-ambassador",
+   "https://baichuan-ai.com/community/ambassadors",
+   "https://baichuan-ai.com/student-ambassador",
+   "https://baichuan-ai.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.baichuan-ai.com/"
+ },
+ {
+  "name": "stepfun",
+  "domain": "stepfun.com",
+  "hits": [],
+  "http": null,
+  "err": "HTTPConnectionPool(host='stepfun.com', port=80): Max retries exceeded with url: "
+ },
+ {
+  "name": "liquid",
+  "domain": "liquid.ai",
+  "hits": [
+   "https://liquid.ai/ambassador",
+   "https://liquid.ai/ambassador-program",
+   "https://liquid.ai/ambassadors",
+   "https://liquid.ai/campus",
+   "https://liquid.ai/campus-ambassador",
+   "https://liquid.ai/community/ambassadors",
+   "https://liquid.ai/student-ambassador",
+   "https://liquid.ai/students"
+  ],
+  "http": 200,
+  "final": "https://www.liquid.ai/"
+ },
+ {
+  "name": "groq",
+  "domain": "groq.com",
+  "hits": [
+   "https://groq.com/ambassador",
+   "https://groq.com/ambassador-program",
+   "https://groq.com/ambassadors",
+   "https://groq.com/campus",
+   "https://groq.com/campus-ambassador",
+   "https://groq.com/community/ambassadors",
+   "https://groq.com/student-ambassador",
+   "https://groq.com/students"
+  ],
+  "http": 200,
+  "final": "https://groq.com/"
+ },
+ {
+  "name": "cerebras",
+  "domain": "cerebras.ai",
+  "hits": [
+   "https://cerebras.ai/ambassador",
+   "https://cerebras.ai/ambassador-program",
+   "https://cerebras.ai/ambassadors",
+   "https://cerebras.ai/campus",
+   "https://cerebras.ai/campus-ambassador",
+   "https://cerebras.ai/community/ambassadors",
+   "https://cerebras.ai/student-ambassador",
+   "https://cerebras.ai/students"
+  ],
+  "http": 200,
+  "final": "https://www.cerebras.ai/"
+ },
+ {
+  "name": "perplexity",
+  "domain": "perplexity.ai",
+  "hits": [
+   "https://perplexity.ai/ambassador",
+   "https://perplexity.ai/ambassador-program",
+   "https://perplexity.ai/ambassadors",
+   "https://perplexity.ai/campus",
+   "https://perplexity.ai/campus-ambassador",
+   "https://perplexity.ai/community/ambassadors",
+   "https://perplexity.ai/student-ambassador",
+   "https://perplexity.ai/students"
+  ],
+  "http": 403,
+  "final": "https://www.perplexity.ai/"
+ },
+ {
+  "name": "xai",
+  "domain": "x.ai",
+  "hits": [
+   "https://console.x.ai?utm_source=website&amp;utm_medium=referral&amp;utm_campaign=home&amp;utm_content=hero-get-api-access",
+   "https://x.ai/ambassador",
+   "https://x.ai/ambassador-program",
+   "https://x.ai/ambassadors",
+   "https://x.ai/campus",
+   "https://x.ai/campus-ambassador",
+   "https://x.ai/community/ambassadors",
+   "https://x.ai/student-ambassador",
+   "https://x.ai/students"
+  ],
+  "http": 200,
+  "final": "https://x.ai/"
+ },
+ {
+  "name": "stability",
+  "domain": "stability.ai",
+  "hits": [
+   "https://stability.ai/ambassador",
+   "https://stability.ai/ambassador-program",
+   "https://stability.ai/ambassadors",
+   "https://stability.ai/campus",
+   "https://stability.ai/campus-ambassador",
+   "https://stability.ai/community-license-agreement",
+   "https://stability.ai/community/ambassadors",
+   "https://stability.ai/customer-stories/stride-learning-cultivates-student-creativity-using-stability-ai-in-amazon-bedrock",
+   "https://stability.ai/student-ambassador",
+   "https://stability.ai/students"
+  ],
+  "http": 200,
+  "final": "https://stability.ai/"
+ },
+ {
+  "name": "character",
+  "domain": "character.ai",
+  "hits": [
+   "https://character.ai/ambassador",
+   "https://character.ai/ambassador-program",
+   "https://character.ai/ambassadors",
+   "https://character.ai/campus",
+   "https://character.ai/campus-ambassador",
+   "https://character.ai/community/ambassadors",
+   "https://character.ai/student-ambassador",
+   "https://character.ai/students"
+  ],
+  "http": 403,
+  "final": "https://character.ai/"
+ },
+ {
+  "name": "elevenlabs",
+  "domain": "elevenlabs.io",
+  "hits": [
+   "https://elevenlabs.io/ambassador",
+   "https://elevenlabs.io/ambassador-program",
+   "https://elevenlabs.io/ambassadors",
+   "https://elevenlabs.io/campus",
+   "https://elevenlabs.io/campus-ambassador",
+   "https://elevenlabs.io/community/ambassadors",
+   "https://elevenlabs.io/student-ambassador",
+   "https://elevenlabs.io/students"
+  ],
+  "http": 200,
+  "final": "https://elevenlabs.io/"
+ },
+ {
+  "name": "suno",
+  "domain": "suno.com",
+  "hits": [
+   "https://suno.com/ambassador",
+   "https://suno.com/ambassador-program",
+   "https://suno.com/ambassadors",
+   "https://suno.com/campus",
+   "https://suno.com/campus-ambassador",
+   "https://suno.com/community-guidelines",
+   "https://suno.com/community/ambassadors",
+   "https://suno.com/student-ambassador",
+   "https://suno.com/students"
+  ],
+  "http": 200,
+  "final": "https://suno.com/"
+ },
+ {
+  "name": "runway",
+  "domain": "runwayml.com",
+  "hits": [
+   "https://runwayml.com/ambassador",
+   "https://runwayml.com/ambassador-program",
+   "https://runwayml.com/ambassadors",
+   "https://runwayml.com/campus",
+   "https://runwayml.com/campus-ambassador",
+   "https://runwayml.com/community/ambassadors",
+   "https://runwayml.com/student-ambassador",
+   "https://runwayml.com/students"
+  ],
+  "http": 200,
+  "final": "https://runway.com/"
+ },
+ {
+  "name": "midjourney",
+  "domain": "midjourney.com",
+  "hits": [
+   "https://midjourney.com/ambassador",
+   "https://midjourney.com/ambassador-program",
+   "https://midjourney.com/ambassadors",
+   "https://midjourney.com/campus",
+   "https://midjourney.com/campus-ambassador",
+   "https://midjourney.com/community/ambassadors",
+   "https://midjourney.com/student-ambassador",
+   "https://midjourney.com/students"
+  ],
+  "http": 403,
+  "final": "https://midjourney.com/"
+ },
+ {
+  "name": "pika",
+  "domain": "pika.art",
+  "hits": [
+   "https://pika.art/ambassador",
+   "https://pika.art/ambassador-program",
+   "https://pika.art/ambassadors",
+   "https://pika.art/campus",
+   "https://pika.art/campus-ambassador",
+   "https://pika.art/community/ambassadors",
+   "https://pika.art/student-ambassador",
+   "https://pika.art/students"
+  ],
+  "http": 200,
+  "final": "https://pika.art/"
+ },
+ {
+  "name": "luma",
+  "domain": "lumalabs.ai",
+  "hits": [
+   "https://lumalabs.ai/ambassador",
+   "https://lumalabs.ai/ambassador-program",
+   "https://lumalabs.ai/ambassadors",
+   "https://lumalabs.ai/campus",
+   "https://lumalabs.ai/campus-ambassador",
+   "https://lumalabs.ai/community/ambassadors",
+   "https://lumalabs.ai/student-ambassador",
+   "https://lumalabs.ai/students"
+  ],
+  "http": 200,
+  "final": "https://lumalabs.ai/"
+ },
+ {
+  "name": "heygen",
+  "domain": "heygen.com",
+  "hits": [
+   "https://community.heygen.com/",
+   "https://community.heygen.com/public/content",
+   "https://heygen.com/ambassador",
+   "https://heygen.com/ambassador-program",
+   "https://heygen.com/ambassadors",
+   "https://heygen.com/campus",
+   "https://heygen.com/campus-ambassador",
+   "https://heygen.com/community/ambassadors",
+   "https://heygen.com/student-ambassador",
+   "https://heygen.com/students",
+   "https://luma.com/heygencommunityevents"
+  ],
+  "http": 200,
+  "final": "https://www.heygen.com/"
+ },
+ {
+  "name": "poolside",
+  "domain": "poolside.ai",
+  "hits": [
+   "https://poolside.ai/ambassador",
+   "https://poolside.ai/ambassador-program",
+   "https://poolside.ai/ambassadors",
+   "https://poolside.ai/campus",
+   "https://poolside.ai/campus-ambassador",
+   "https://poolside.ai/community/ambassadors",
+   "https://poolside.ai/student-ambassador",
+   "https://poolside.ai/students"
+  ],
+  "http": 200,
+  "final": "https://poolside.ai/"
+ },
+ {
+  "name": "cognition",
+  "domain": "devin.ai",
+  "hits": [
+   "https://devin.ai/ambassador",
+   "https://devin.ai/ambassador-program",
+   "https://devin.ai/ambassadors",
+   "https://devin.ai/campus",
+   "https://devin.ai/campus-ambassador",
+   "https://devin.ai/community/ambassadors",
+   "https://devin.ai/student-ambassador",
+   "https://devin.ai/students"
+  ],
+  "http": 200,
+  "final": "https://devin.ai/"
+ },
+ {
+  "name": "cursor",
+  "domain": "cursor.com",
+  "hits": [
+   "https://cursor.com/ambassador",
+   "https://cursor.com/ambassador-program",
+   "https://cursor.com/ambassadors",
+   "https://cursor.com/campus",
+   "https://cursor.com/campus-ambassador",
+   "https://cursor.com/community",
+   "https://cursor.com/community/ambassadors",
+   "https://cursor.com/contact-sales?source=hero_request_demo",
+   "https://cursor.com/en-US/community",
+   "https://cursor.com/en-US/students",
+   "https://cursor.com/student-ambassador",
+   "https://cursor.com/students"
+  ],
+  "http": 200,
+  "final": "https://cursor.com/"
+ },
+ {
+  "name": "windsurf",
+  "domain": "windsurf.com",
+  "hits": [
+   "https://devin.ai/assets/images/desktop/hero/icons/IconMergeBranch.svg",
+   "https://windsurf.com/ambassador",
+   "https://windsurf.com/ambassador-program",
+   "https://windsurf.com/ambassadors",
+   "https://windsurf.com/campus",
+   "https://windsurf.com/campus-ambassador",
+   "https://windsurf.com/community/ambassadors",
+   "https://windsurf.com/student-ambassador",
+   "https://windsurf.com/students"
+  ],
+  "http": 200,
+  "final": "https://devin.ai/desktop"
+ },
+ {
+  "name": "replit",
+  "domain": "replit.com",
+  "hits": [
+   "https://replit.com/ambassador",
+   "https://replit.com/ambassador-program",
+   "https://replit.com/ambassadors",
+   "https://replit.com/campus",
+   "https://replit.com/campus-ambassador",
+   "https://replit.com/community",
+   "https://replit.com/community/ambassadors",
+   "https://replit.com/student-ambassador",
+   "https://replit.com/students"
+  ],
+  "http": 200,
+  "final": "https://replit.com/"
+ },
+ {
+  "name": "lovable",
+  "domain": "lovable.dev",
+  "hits": [
+   "https://lovable.dev/ambassador",
+   "https://lovable.dev/ambassador-program",
+   "https://lovable.dev/ambassadors",
+   "https://lovable.dev/campus",
+   "https://lovable.dev/campus-ambassador",
+   "https://lovable.dev/community/ambassadors",
+   "https://lovable.dev/student-ambassador",
+   "https://lovable.dev/students"
+  ],
+  "http": 403,
+  "final": "https://lovable.dev/"
+ },
+ {
+  "name": "bolt",
+  "domain": "bolt.new",
+  "hits": [
+   "https://bolt.new/ambassador",
+   "https://bolt.new/ambassador-program",
+   "https://bolt.new/ambassadors",
+   "https://bolt.new/campus",
+   "https://bolt.new/campus-ambassador",
+   "https://bolt.new/community/ambassadors",
+   "https://bolt.new/static/marketing/homepage/personas/students.png",
+   "https://bolt.new/student-ambassador",
+   "https://bolt.new/students"
+  ],
+  "http": 200,
+  "final": "https://bolt.new/"
+ },
+ {
+  "name": "v0",
+  "domain": "v0.dev",
+  "hits": [
+   "https://community.vercel.com/c/v0/59",
+   "https://v0.app/students",
+   "https://v0.app/templates/wadada-run-club-hero-maaLWRPC8Cr",
+   "https://v0.dev/ambassador",
+   "https://v0.dev/ambassador-program",
+   "https://v0.dev/ambassadors",
+   "https://v0.dev/campus",
+   "https://v0.dev/campus-ambassador",
+   "https://v0.dev/community/ambassadors",
+   "https://v0.dev/student-ambassador",
+   "https://v0.dev/students"
+  ],
+  "http": 200,
+  "final": "https://v0.app/"
+ },
+ {
+  "name": "warp",
+  "domain": "warp.dev",
+  "hits": [
+   "https://docs.warp.dev/support-and-community",
+   "https://warp.dev/ambassador",
+   "https://warp.dev/ambassador-program",
+   "https://warp.dev/ambassadors",
+   "https://warp.dev/campus",
+   "https://warp.dev/campus-ambassador",
+   "https://warp.dev/community/ambassadors",
+   "https://warp.dev/student-ambassador",
+   "https://warp.dev/students"
+  ],
+  "http": 200,
+  "final": "https://www.warp.dev:443/"
+ },
+ {
+  "name": "zed",
+  "domain": "zed.dev",
+  "hits": [
+   "https://zed.dev/ambassador",
+   "https://zed.dev/ambassador-program",
+   "https://zed.dev/ambassadors",
+   "https://zed.dev/campus",
+   "https://zed.dev/campus-ambassador",
+   "https://zed.dev/community",
+   "https://zed.dev/community/ambassadors",
+   "https://zed.dev/student-ambassador",
+   "https://zed.dev/students"
+  ],
+  "http": 200,
+  "final": "https://zed.dev/"
+ },
+ {
+  "name": "kiro",
+  "domain": "kiro.dev",
+  "hits": [
+   "https://kiro.dev/ambassador",
+   "https://kiro.dev/ambassador-program",
+   "https://kiro.dev/ambassadors",
+   "https://kiro.dev/ambassadors/",
+   "https://kiro.dev/campus",
+   "https://kiro.dev/campus-ambassador",
+   "https://kiro.dev/community/",
+   "https://kiro.dev/community/ambassadors",
+   "https://kiro.dev/student-ambassador",
+   "https://kiro.dev/students",
+   "https://kiro.dev/students/"
+  ],
+  "http": 200,
+  "final": "https://kiro.dev/"
+ },
+ {
+  "name": "sourcegraph",
+  "domain": "sourcegraph.com",
+  "hits": [
+   "https://sourcegraph.com/ambassador",
+   "https://sourcegraph.com/ambassador-program",
+   "https://sourcegraph.com/ambassadors",
+   "https://sourcegraph.com/campus",
+   "https://sourcegraph.com/campus-ambassador",
+   "https://sourcegraph.com/community/ambassadors",
+   "https://sourcegraph.com/student-ambassador",
+   "https://sourcegraph.com/students"
+  ],
+  "http": 200,
+  "final": "https://sourcegraph.com/"
+ },
+ {
+  "name": "tabnine",
+  "domain": "tabnine.com",
+  "hits": [
+   "https://tabnine.com/ambassador",
+   "https://tabnine.com/ambassador-program",
+   "https://tabnine.com/ambassadors",
+   "https://tabnine.com/campus",
+   "https://tabnine.com/campus-ambassador",
+   "https://tabnine.com/community/ambassadors",
+   "https://tabnine.com/student-ambassador",
+   "https://tabnine.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.tricentis.com/products?utm_source=www.tabnine.com&utm_medium=referral&utm_campaign=redirect"
+ },
+ {
+  "name": "qodo",
+  "domain": "qodo.ai",
+  "hits": [
+   "https://qodo.ai/ambassador",
+   "https://qodo.ai/ambassador-program",
+   "https://qodo.ai/ambassadors",
+   "https://qodo.ai/campus",
+   "https://qodo.ai/campus-ambassador",
+   "https://qodo.ai/community/ambassadors",
+   "https://qodo.ai/student-ambassador",
+   "https://qodo.ai/students",
+   "https://www.qodo.ai/community/super-qodoer/",
+   "https://www.qodo.ai/wp-content/cache/min/1/wp-content/themes/qodo-theme/assets/build/blocks/acf/ds-block-hero-tabs/style-index.css?ver=1793603043",
+   "https://www.qodo.ai/wp-content/themes/qodo-theme/assets/build/images/hero-grid.svg"
+  ],
+  "http": 200,
+  "final": "https://www.qodo.ai/"
+ },
+ {
+  "name": "github",
+  "domain": "github.com",
+  "hits": [
+   "https://github.com/Orochi771127/championship-2026/pull/184",
+   "https://github.com/ambassador",
+   "https://github.com/ambassador-program",
+   "https://github.com/ambassadors",
+   "https://github.com/campus",
+   "https://github.com/campus-ambassador",
+   "https://github.com/community/ambassadors",
+   "https://github.com/orgs/community/discussions",
+   "https://github.com/student-ambassador",
+   "https://github.com/students",
+   "https://github.community"
+  ],
+  "http": 200,
+  "final": "https://github.com/"
+ },
+ {
+  "name": "gitlab",
+  "domain": "gitlab.com",
+  "hits": [
+   "https://about.gitlab.com/community/",
+   "https://gitlab.com/ambassador",
+   "https://gitlab.com/ambassador-program",
+   "https://gitlab.com/ambassadors",
+   "https://gitlab.com/campus",
+   "https://gitlab.com/campus-ambassador",
+   "https://gitlab.com/community/ambassadors",
+   "https://gitlab.com/student-ambassador",
+   "https://gitlab.com/students"
+  ],
+  "http": 200,
+  "final": "https://about.gitlab.com/"
+ },
+ {
+  "name": "aws",
+  "domain": "aws.amazon.com",
+  "hits": [
+   "https://aws.amazon.com/ambassador",
+   "https://aws.amazon.com/ambassador-program",
+   "https://aws.amazon.com/ambassadors",
+   "https://aws.amazon.com/campus",
+   "https://aws.amazon.com/campus-ambassador",
+   "https://aws.amazon.com/community/ambassadors",
+   "https://aws.amazon.com/events/reinvent/?sc_icampaign=hp-event_reinvent-registration_2026&amp;sc_ichannel=ha&amp;sc_iplace=hero&amp;trk=07559c16-7516-4ef9-af91-afcda95decc3",
+   "https://aws.amazon.com/start-here/?sc_icampaign=hp-launch_starter-home_2026&amp;sc_ichannel=ha&amp;sc_iplace=hero&amp;trk=8331f40b-c99a-4810-8538-af2c9e1c7595",
+   "https://aws.amazon.com/student-ambassador",
+   "https://aws.amazon.com/students",
+   "https://portal.aws.amazon.com/billing/signup?sc_icampaign=hp-5-free-tier-25&amp;sc_ichannel=ha&amp;sc_iplace=hero&amp;trk=a3c4a4e5-2749-4d31-bde5-8797858876c6",
+   "https://t0.m.awsstatic.com/tmpl/awsm-rt/esm/templates/hero-image/3.0.0/hero-image.6352b7d842.css"
+  ],
+  "http": 200,
+  "final": "https://aws.amazon.com/"
+ },
+ {
+  "name": "cloudflare",
+  "domain": "cloudflare.com",
+  "hits": [
+   "https://cloudflare.com/ambassador",
+   "https://cloudflare.com/ambassador-program",
+   "https://cloudflare.com/ambassadors",
+   "https://cloudflare.com/campus",
+   "https://cloudflare.com/campus-ambassador",
+   "https://cloudflare.com/community/ambassadors",
+   "https://cloudflare.com/student-ambassador",
+   "https://cloudflare.com/students",
+   "https://www.cloudflare.com/community/"
+  ],
+  "http": 200,
+  "final": "https://www.cloudflare.com/"
+ },
+ {
+  "name": "digitalocean",
+  "domain": "digitalocean.com",
+  "hits": [
+   "https://digitalocean.com/ambassador",
+   "https://digitalocean.com/ambassador-program",
+   "https://digitalocean.com/ambassadors",
+   "https://digitalocean.com/campus",
+   "https://digitalocean.com/campus-ambassador",
+   "https://digitalocean.com/community/ambassadors",
+   "https://digitalocean.com/student-ambassador",
+   "https://digitalocean.com/students",
+   "https://www.digitalocean.com/community",
+   "https://www.digitalocean.com/community/pages/code-of-conduct",
+   "https://www.digitalocean.com/community/pages/write-for-digitalocean",
+   "https://www.digitalocean.com/community/questions",
+   "https://www.digitalocean.com/community/tutorials",
+   "https://www.digitalocean.com/community/tutorials/managed-agents-cold-start-resume-latency",
+   "https://www.digitalocean.com/community/tutorials/serverless-inference-latency-p50-p95-p99-ttft",
+   "https://www.digitalocean.com/community/tutorials/untrusted-code-in-microvm"
+  ],
+  "http": 200,
+  "final": "https://www.digitalocean.com/"
+ },
+ {
+  "name": "vercel",
+  "domain": "vercel.com",
+  "hits": [
+   "https://community.vercel.com",
+   "https://community.vercel.com/",
+   "https://vercel.com/ambassador",
+   "https://vercel.com/ambassador-program",
+   "https://vercel.com/ambassadors",
+   "https://vercel.com/campus",
+   "https://vercel.com/campus-ambassador",
+   "https://vercel.com/community/ambassadors",
+   "https://vercel.com/student-ambassador",
+   "https://vercel.com/students"
+  ],
+  "http": 200,
+  "final": "https://vercel.com/"
+ },
+ {
+  "name": "netlify",
+  "domain": "netlify.com",
+  "hits": [
+   "https://netlify.com/ambassador",
+   "https://netlify.com/ambassador-program",
+   "https://netlify.com/ambassadors",
+   "https://netlify.com/campus",
+   "https://netlify.com/campus-ambassador",
+   "https://netlify.com/community/ambassadors",
+   "https://netlify.com/student-ambassador",
+   "https://netlify.com/students",
+   "https://www.netlify.com/community/",
+   "https://www.netlify.com/enterprise/contact/?attr=homepage&amp;ref=&amp;id=nav-solutions-chat-with-netlify-expert"
+  ],
+  "http": 200,
+  "final": "https://www.netlify.com/"
+ },
+ {
+  "name": "supabase",
+  "domain": "supabase.com",
+  "hits": [
+   "https://github.com/supabase-community/create-t3-turbo",
+   "https://github.com/supabase-community/nextjs-subscription-payments",
+   "https://github.com/supabase-community/vercel-ai-chatbot",
+   "https://supabase.com/ambassador",
+   "https://supabase.com/ambassador-program",
+   "https://supabase.com/ambassadors",
+   "https://supabase.com/campus",
+   "https://supabase.com/campus-ambassador",
+   "https://supabase.com/community/ambassadors",
+   "https://supabase.com/student-ambassador",
+   "https://supabase.com/students"
+  ],
+  "http": 200,
+  "final": "https://supabase.com/"
+ },
+ {
+  "name": "appwrite",
+  "domain": "appwrite.io",
+  "hits": [
+   "https://appwrite.io/ambassador",
+   "https://appwrite.io/ambassador-program",
+   "https://appwrite.io/ambassadors",
+   "https://appwrite.io/campus",
+   "https://appwrite.io/campus-ambassador",
+   "https://appwrite.io/community",
+   "https://appwrite.io/community/ambassadors",
+   "https://appwrite.io/images/heroes/console-app-dark.avif?v=20260729",
+   "https://appwrite.io/images/heroes/console-app-light.avif?v=20260729",
+   "https://appwrite.io/student-ambassador",
+   "https://appwrite.io/students"
+  ],
+  "http": 200,
+  "final": "https://appwrite.io/"
+ },
+ {
+  "name": "firebase",
+  "domain": "firebase.google.com",
+  "hits": [
+   "https://firebase.google.com/ambassador",
+   "https://firebase.google.com/ambassador-program",
+   "https://firebase.google.com/ambassadors",
+   "https://firebase.google.com/campus",
+   "https://firebase.google.com/campus-ambassador",
+   "https://firebase.google.com/community",
+   "https://firebase.google.com/community/ambassadors",
+   "https://firebase.google.com/community/events",
+   "https://firebase.google.com/community/learn",
+   "https://firebase.google.com/community/stories",
+   "https://firebase.google.com/student-ambassador",
+   "https://firebase.google.com/students"
+  ],
+  "http": 200,
+  "final": "https://firebase.google.com/"
+ },
+ {
+  "name": "mongodb",
+  "domain": "mongodb.com",
+  "hits": [
+   "https://mongodb.com/ambassador",
+   "https://mongodb.com/ambassador-program",
+   "https://mongodb.com/ambassadors",
+   "https://mongodb.com/campus",
+   "https://mongodb.com/campus-ambassador",
+   "https://mongodb.com/community/ambassadors",
+   "https://mongodb.com/student-ambassador",
+   "https://mongodb.com/students",
+   "https://www.mongodb.com/community",
+   "https://www.mongodb.com/products/self-managed/community-edition",
+   "https://www.mongodb.com/students",
+   "https://www.mongodb.com/try/download/community"
+  ],
+  "http": 200,
+  "final": "https://www.mongodb.com/"
+ },
+ {
+  "name": "neo4j",
+  "domain": "neo4j.com",
+  "hits": [
+   "https://community.neo4j.com",
+   "https://community.neo4j.com/",
+   "https://community.neo4j.com/c/neo4j-graph-platform/graph-algorithms/73",
+   "https://neo4j.com/ambassador",
+   "https://neo4j.com/ambassador-program",
+   "https://neo4j.com/ambassadors",
+   "https://neo4j.com/campus",
+   "https://neo4j.com/campus-ambassador",
+   "https://neo4j.com/community/ambassadors",
+   "https://neo4j.com/product/community-edition/",
+   "https://neo4j.com/student-ambassador",
+   "https://neo4j.com/students",
+   "https://neo4j.my.site.com/Neo4jPartnerCommunity"
+  ],
+  "http": 200,
+  "final": "https://neo4j.com/"
+ },
+ {
+  "name": "redis",
+  "domain": "redis.io",
+  "hits": [
+   "https://redis.io/ambassador",
+   "https://redis.io/ambassador-program",
+   "https://redis.io/ambassadors",
+   "https://redis.io/campus",
+   "https://redis.io/campus-ambassador",
+   "https://redis.io/community/",
+   "https://redis.io/community/ambassadors",
+   "https://redis.io/student-ambassador",
+   "https://redis.io/students"
+  ],
+  "http": 200,
+  "final": "https://redis.io/"
+ },
+ {
+  "name": "elastic",
+  "domain": "elastic.co",
+  "hits": [
+   "https://cloud.elastic.co/registration?pg=en-home&amp;plcmt=hero",
+   "https://elastic.co/ambassador",
+   "https://elastic.co/ambassador-program",
+   "https://elastic.co/ambassadors",
+   "https://elastic.co/campus",
+   "https://elastic.co/campus-ambassador",
+   "https://elastic.co/community/ambassadors",
+   "https://elastic.co/student-ambassador",
+   "https://elastic.co/students",
+   "https://www.elastic.co/community"
+  ],
+  "http": 200,
+  "final": "https://www.elastic.co/"
+ },
+ {
+  "name": "snowflake",
+  "domain": "snowflake.com",
+  "hits": [
+   "https://snowflake.com/ambassador",
+   "https://snowflake.com/ambassador-program",
+   "https://snowflake.com/ambassadors",
+   "https://snowflake.com/campus",
+   "https://snowflake.com/campus-ambassador",
+   "https://snowflake.com/community/ambassadors",
+   "https://snowflake.com/student-ambassador",
+   "https://snowflake.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.snowflake.com/en/"
+ },
+ {
+  "name": "databricks",
+  "domain": "databricks.com",
+  "hits": [
+   "https://community.databricks.com/",
+   "https://community.databricks.com/s/",
+   "https://databricks.com/ambassador",
+   "https://databricks.com/ambassador-program",
+   "https://databricks.com/ambassadors",
+   "https://databricks.com/campus",
+   "https://databricks.com/campus-ambassador",
+   "https://databricks.com/community/ambassadors",
+   "https://databricks.com/student-ambassador",
+   "https://databricks.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.databricks.com/"
+ },
+ {
+  "name": "confluent",
+  "domain": "confluent.io",
+  "hits": [
+   "https://confluent.io/ambassador",
+   "https://confluent.io/ambassador-program",
+   "https://confluent.io/ambassadors",
+   "https://confluent.io/campus",
+   "https://confluent.io/campus-ambassador",
+   "https://confluent.io/community/ambassadors",
+   "https://confluent.io/student-ambassador",
+   "https://confluent.io/students",
+   "https://developer.confluent.io/community/",
+   "https://images.ctfassets.net/8vofjvai1hpv/5thJiFEjvL9hOHGkQWBdZ5/dc34ddef1e32b71693ef17d654a2d665/hero__1_.png?w=2880&amp;h=1280&amp;q=90&amp;fm=png&amp;bg=transparent"
+  ],
+  "http": 200,
+  "final": "https://www.confluent.io/"
+ },
+ {
+  "name": "hashicorp",
+  "domain": "hashicorp.com",
+  "hits": [
+   "https://hashicorp.com/ambassador",
+   "https://hashicorp.com/ambassador-program",
+   "https://hashicorp.com/ambassadors",
+   "https://hashicorp.com/campus",
+   "https://hashicorp.com/campus-ambassador",
+   "https://hashicorp.com/community/ambassadors",
+   "https://hashicorp.com/student-ambassador",
+   "https://hashicorp.com/students",
+   "https://www.hashicorp.com/community",
+   "https://www.hashicorp.com/en/community"
+  ],
+  "http": 200,
+  "final": "https://www.hashicorp.com/en"
+ },
+ {
+  "name": "docker",
+  "domain": "docker.com",
+  "hits": [
+   "https://docker.com/ambassador",
+   "https://docker.com/ambassador-program",
+   "https://docker.com/ambassadors",
+   "https://docker.com/campus",
+   "https://docker.com/campus-ambassador",
+   "https://docker.com/community/ambassadors",
+   "https://docker.com/student-ambassador",
+   "https://docker.com/students",
+   "https://www.docker.com/community/",
+   "https://www.docker.com/community/get-involved/developer-preview/",
+   "https://www.docker.com/community/open-source/"
+  ],
+  "http": 200,
+  "final": "https://www.docker.com/"
+ },
+ {
+  "name": "cncf",
+  "domain": "cncf.io",
+  "hits": [
+   "https://cncf.io/ambassador",
+   "https://cncf.io/ambassador-program",
+   "https://cncf.io/ambassadors",
+   "https://cncf.io/campus",
+   "https://cncf.io/campus-ambassador",
+   "https://cncf.io/community/ambassadors",
+   "https://cncf.io/student-ambassador",
+   "https://cncf.io/students",
+   "https://community.cncf.io",
+   "https://www.cncf.io/blog?_sft_lf-author-category=community",
+   "https://www.cncf.io/heroes/",
+   "https://www.cncf.io/people/ambassadors/",
+   "https://www.cncf.io/people/ambassadors/?p=kaiwalya-koparkar-2",
+   "https://www.cncf.io/wp-content/themes/cncf-twenty-two/images/home-hero-poster2.webp"
+  ],
+  "http": 200,
+  "final": "https://www.cncf.io/"
+ },
+ {
+  "name": "grafana",
+  "domain": "grafana.com",
+  "hits": [
+   "https://grafana.com/ambassador",
+   "https://grafana.com/ambassador-program",
+   "https://grafana.com/ambassadors",
+   "https://grafana.com/auth/sign-up/create-user/?pg=hp&amp;plcmt=hero-btn-1&amp;cta=free",
+   "https://grafana.com/campus",
+   "https://grafana.com/campus-ambassador",
+   "https://grafana.com/community/",
+   "https://grafana.com/community/?pg=hp&amp;plcmt=feature-marquee-2",
+   "https://grafana.com/community/ambassadors",
+   "https://grafana.com/pricing/?pg=hp&amp;plcmt=hero-btn-2&amp;cta=plans",
+   "https://grafana.com/student-ambassador",
+   "https://grafana.com/students"
+  ],
+  "http": 200,
+  "final": "https://grafana.com/"
+ },
+ {
+  "name": "jetbrains",
+  "domain": "jetbrains.com",
+  "hits": [
+   "https://jetbrains.com/ambassador",
+   "https://jetbrains.com/ambassador-program",
+   "https://jetbrains.com/ambassadors",
+   "https://jetbrains.com/campus",
+   "https://jetbrains.com/campus-ambassador",
+   "https://jetbrains.com/community/ambassadors",
+   "https://jetbrains.com/student-ambassador",
+   "https://jetbrains.com/students",
+   "https://www.jetbrains.com/_assets/rr/hero-image-wrapper-Cug3ZhGM.webp",
+   "https://www.jetbrains.com/academy/student-pack/",
+   "https://www.jetbrains.com/community/content-creators/",
+   "https://www.jetbrains.com/community/dev-recognition/",
+   "https://www.jetbrains.com/community/opensource/",
+   "https://www.jetbrains.com/community/user-groups/"
+  ],
+  "http": 200,
+  "final": "https://www.jetbrains.com/"
+ },
+ {
+  "name": "postman",
+  "domain": "postman.com",
+  "hits": [
+   "https://postman.com/ambassador",
+   "https://postman.com/ambassador-program",
+   "https://postman.com/ambassadors",
+   "https://postman.com/campus",
+   "https://postman.com/campus-ambassador",
+   "https://postman.com/community/ambassadors",
+   "https://postman.com/student-ambassador",
+   "https://postman.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.postman.com/"
+ },
+ {
+  "name": "twilio",
+  "domain": "twilio.com",
+  "hits": [
+   "https://twilio.com/ambassador",
+   "https://twilio.com/ambassador-program",
+   "https://twilio.com/ambassadors",
+   "https://twilio.com/campus",
+   "https://twilio.com/campus-ambassador",
+   "https://twilio.com/community/ambassadors",
+   "https://twilio.com/student-ambassador",
+   "https://twilio.com/students",
+   "https://www.twilio.com/en-us/champions"
+  ],
+  "http": 200,
+  "final": "https://www.twilio.com/en-us"
+ },
+ {
+  "name": "auth0",
+  "domain": "auth0.com",
+  "hits": [
+   "https://auth0.com/ambassador",
+   "https://auth0.com/ambassador-program",
+   "https://auth0.com/ambassadors",
+   "https://auth0.com/campus",
+   "https://auth0.com/campus-ambassador",
+   "https://auth0.com/community/ambassadors",
+   "https://auth0.com/contact-us?type=button&amp;place=homepage-hero&amp;text=talk%20to%an%20expert",
+   "https://auth0.com/student-ambassador",
+   "https://auth0.com/students",
+   "https://community.auth0.com/"
+  ],
+  "http": 200,
+  "final": "https://auth0.com/"
+ },
+ {
+  "name": "stripe",
+  "domain": "stripe.com",
+  "hits": [
+   "https://stripe.com/ambassador",
+   "https://stripe.com/ambassador-program",
+   "https://stripe.com/ambassadors",
+   "https://stripe.com/campus",
+   "https://stripe.com/campus-ambassador",
+   "https://stripe.com/community/ambassadors",
+   "https://stripe.com/student-ambassador",
+   "https://stripe.com/students",
+   "https://stripecommunity.com/"
+  ],
+  "http": 200,
+  "final": "https://stripe.com/in"
+ },
+ {
+  "name": "razorpay",
+  "domain": "razorpay.com",
+  "hits": [
+   "https://razorpay.com/ambassador",
+   "https://razorpay.com/ambassador-program",
+   "https://razorpay.com/ambassadors",
+   "https://razorpay.com/campus",
+   "https://razorpay.com/campus-ambassador",
+   "https://razorpay.com/community/ambassadors",
+   "https://razorpay.com/student-ambassador",
+   "https://razorpay.com/students"
+  ],
+  "http": 200,
+  "final": "https://razorpay.com/"
+ },
+ {
+  "name": "pinecone",
+  "domain": "pinecone.io",
+  "hits": [
+   "https://pinecone.io/ambassador",
+   "https://pinecone.io/ambassador-program",
+   "https://pinecone.io/ambassadors",
+   "https://pinecone.io/campus",
+   "https://pinecone.io/campus-ambassador",
+   "https://pinecone.io/community/ambassadors",
+   "https://pinecone.io/student-ambassador",
+   "https://pinecone.io/students"
+  ],
+  "http": 200,
+  "final": "https://www.pinecone.io/"
+ },
+ {
+  "name": "weaviate",
+  "domain": "weaviate.io",
+  "hits": [
+   "https://weaviate.io/ambassador",
+   "https://weaviate.io/ambassador-program",
+   "https://weaviate.io/ambassadors",
+   "https://weaviate.io/campus",
+   "https://weaviate.io/campus-ambassador",
+   "https://weaviate.io/community",
+   "https://weaviate.io/community/ambassadors",
+   "https://weaviate.io/community/events",
+   "https://weaviate.io/student-ambassador",
+   "https://weaviate.io/students"
+  ],
+  "http": 200,
+  "final": "https://weaviate.io/"
+ },
+ {
+  "name": "qdrant",
+  "domain": "qdrant.tech",
+  "hits": [
+   "https://qdrant.tech/ambassador",
+   "https://qdrant.tech/ambassador-program",
+   "https://qdrant.tech/ambassadors",
+   "https://qdrant.tech/campus",
+   "https://qdrant.tech/campus-ambassador",
+   "https://qdrant.tech/community/ambassadors",
+   "https://qdrant.tech/student-ambassador",
+   "https://qdrant.tech/students"
+  ],
+  "http": 200,
+  "final": "https://qdrant.tech/"
+ },
+ {
+  "name": "chroma",
+  "domain": "trychroma.com",
+  "hits": [
+   "https://trychroma.com/ambassador",
+   "https://trychroma.com/ambassador-program",
+   "https://trychroma.com/ambassadors",
+   "https://trychroma.com/campus",
+   "https://trychroma.com/campus-ambassador",
+   "https://trychroma.com/community/ambassadors",
+   "https://trychroma.com/student-ambassador",
+   "https://trychroma.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.trychroma.com/"
+ },
+ {
+  "name": "langchain",
+  "domain": "langchain.com",
+  "hits": [
+   "https://langchain.com/ambassador",
+   "https://langchain.com/ambassador-program",
+   "https://langchain.com/ambassadors",
+   "https://langchain.com/campus",
+   "https://langchain.com/campus-ambassador",
+   "https://langchain.com/community/ambassadors",
+   "https://langchain.com/student-ambassador",
+   "https://langchain.com/students",
+   "https://www.langchain.com/community",
+   "https://www.langchain.com/join-community"
+  ],
+  "http": 200,
+  "final": "https://www.langchain.com/"
+ },
+ {
+  "name": "llamaindex",
+  "domain": "llamaindex.ai",
+  "hits": [
+   "https://llamaindex.ai/ambassador",
+   "https://llamaindex.ai/ambassador-program",
+   "https://llamaindex.ai/ambassadors",
+   "https://llamaindex.ai/campus",
+   "https://llamaindex.ai/campus-ambassador",
+   "https://llamaindex.ai/community/ambassadors",
+   "https://llamaindex.ai/student-ambassador",
+   "https://llamaindex.ai/students",
+   "https://www.llamaindex.ai/animations/ocr-expert.png"
+  ],
+  "http": 200,
+  "final": "https://www.llamaindex.ai/"
+ },
+ {
+  "name": "wandb",
+  "domain": "wandb.ai",
+  "hits": [
+   "https://wandb.ai/ambassador",
+   "https://wandb.ai/ambassador-program",
+   "https://wandb.ai/ambassadors",
+   "https://wandb.ai/campus",
+   "https://wandb.ai/campus-ambassador",
+   "https://wandb.ai/community/ambassadors",
+   "https://wandb.ai/student-ambassador",
+   "https://wandb.ai/students"
+  ],
+  "http": 200,
+  "final": "https://forge.coreweave.com/wandb"
+ },
+ {
+  "name": "scale",
+  "domain": "scale.com",
+  "hits": [
+   "https://scale.com/ambassador",
+   "https://scale.com/ambassador-program",
+   "https://scale.com/ambassadors",
+   "https://scale.com/campus",
+   "https://scale.com/campus-ambassador",
+   "https://scale.com/community/ambassadors",
+   "https://scale.com/student-ambassador",
+   "https://scale.com/students"
+  ],
+  "http": 200,
+  "final": "https://scale.com/"
+ },
+ {
+  "name": "internshala",
+  "domain": "internshala.com",
+  "hits": [
+   "https://internshala-uploads.internshala.com/banner-images/home_new/hgsh-student.png.webp",
+   "https://internshala-uploads.internshala.com/banner-images/home_new/mega_internship_sprint_oct26-student.png.webp",
+   "https://internshala-uploads.internshala.com/banner-images/home_new/swiggy_catalyst_2026-student.png.webp",
+   "https://internshala.com/ambassador",
+   "https://internshala.com/ambassador-program",
+   "https://internshala.com/ambassadors",
+   "https://internshala.com/campus",
+   "https://internshala.com/campus-ambassador",
+   "https://internshala.com/community/ambassadors",
+   "https://internshala.com/internships/campus-ambassador-internship/?utm_source=is_menu_dropdown",
+   "https://internshala.com/login/get_google/student",
+   "https://internshala.com/registration/student",
+   "https://internshala.com/registration/student?utm_source=firstfold_homepage_mobile",
+   "https://internshala.com/registration/student?utm_source=firstfold_hp",
+   "https://internshala.com/registration/student?utm_source=is_header_homepage",
+   "https://internshala.com/registration/student?utm_source=is_prefooter_homepage",
+   "https://internshala.com/student-ambassador",
+   "https://internshala.com/students",
+   "https://www.swiggycampuscatalyst.com/program?utm_source=internshala&utm_medium=banner&utm_campaign=catalyst_application"
+  ],
+  "http": 200,
+  "final": "https://internshala.com/"
+ },
+ {
+  "name": "unstop",
+  "domain": "unstop.com",
+  "hits": [
+   "https://unstop.com/ambassador",
+   "https://unstop.com/ambassador-program",
+   "https://unstop.com/ambassadors",
+   "https://unstop.com/campus",
+   "https://unstop.com/campus-ambassador",
+   "https://unstop.com/community/ambassadors",
+   "https://unstop.com/student-ambassador",
+   "https://unstop.com/students"
+  ],
+  "http": 200,
+  "final": "https://unstop.com/"
+ },
+ {
+  "name": "geeksforgeeks",
+  "domain": "geeksforgeeks.org",
+  "hits": [
+   "https://geeksforgeeks.org/ambassador",
+   "https://geeksforgeeks.org/ambassador-program",
+   "https://geeksforgeeks.org/ambassadors",
+   "https://geeksforgeeks.org/campus",
+   "https://geeksforgeeks.org/campus-ambassador",
+   "https://geeksforgeeks.org/community/ambassadors",
+   "https://geeksforgeeks.org/student-ambassador",
+   "https://geeksforgeeks.org/students",
+   "https://www.geeksforgeeks.org/campus-training-program/"
+  ],
+  "http": 200,
+  "final": "https://www.geeksforgeeks.org/"
+ },
+ {
+  "name": "codingninjas",
+  "domain": "codingninjas.com",
+  "hits": [
+   "https://codingninjas.com/ambassador",
+   "https://codingninjas.com/ambassador-program",
+   "https://codingninjas.com/ambassadors",
+   "https://codingninjas.com/campus",
+   "https://codingninjas.com/campus-ambassador",
+   "https://codingninjas.com/community/ambassadors",
+   "https://codingninjas.com/student-ambassador",
+   "https://codingninjas.com/students",
+   "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-dsa/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=footer",
+   "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-dsa/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=homepage_new_courses&amp;angular_version=18",
+   "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-dsa/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=important_links",
+   "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-fswd/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=homepage_new_courses&amp;angular_version=18",
+   "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-fswd/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=important_links",
+   "https://www.codingninjas.com/landing/10x-club-student-chapters/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=sitewide_footer",
+   "https://www.codingninjas.com/programs/data-analytics-iit-mandi-students-certification?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=homepage_new_courses&amp;angular_version=18",
+   "https://www.codingninjas.com/programs/data-analytics-iit-mandi-students-certification?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=important_links",
+   "https://www.codingninjas.com/programs/data-analytics-students-iitp-certification?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=homepage_new_courses&amp;angular_version=18",
+   "https://www.codingninjas.com/programs/data-analytics-students-iitp-certification?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=important_links",
+   "https://www.cxotoday.com/press-release/coding-ninjas-unconventional-approach-upskills-1l-students-yields-2-2x-salary-increase-for-graduates/"
+  ],
+  "http": 200,
+  "final": "https://www.codingninjas.com/"
+ },
+ {
+  "name": "scaler",
+  "domain": "scaler.com",
+  "hits": [
+   "https://scaler.com/ambassador",
+   "https://scaler.com/ambassador-program",
+   "https://scaler.com/ambassadors",
+   "https://scaler.com/campus",
+   "https://scaler.com/campus-ambassador",
+   "https://scaler.com/community/ambassadors",
+   "https://scaler.com/student-ambassador",
+   "https://scaler.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.scaler.com/"
+ },
+ {
+  "name": "pw",
+  "domain": "pw.live",
+  "hits": [
+   "https://pw.live/ambassador",
+   "https://pw.live/ambassador-program",
+   "https://pw.live/ambassadors",
+   "https://pw.live/campus",
+   "https://pw.live/campus-ambassador",
+   "https://pw.live/community/ambassadors",
+   "https://pw.live/student-ambassador",
+   "https://pw.live/students"
+  ],
+  "http": 200,
+  "final": "https://www.pw.live/"
+ },
+ {
+  "name": "unacademy",
+  "domain": "unacademy.com",
+  "hits": [
+   "https://unacademy.com/ambassador",
+   "https://unacademy.com/ambassador-program",
+   "https://unacademy.com/ambassadors",
+   "https://unacademy.com/campus",
+   "https://unacademy.com/campus-ambassador",
+   "https://unacademy.com/community/ambassadors",
+   "https://unacademy.com/student-ambassador",
+   "https://unacademy.com/students"
+  ],
+  "http": 200,
+  "final": "https://unacademy.com/"
+ },
+ {
+  "name": "vedantu",
+  "domain": "vedantu.com",
+  "hits": [
+   "https://vedantu.com/ambassador",
+   "https://vedantu.com/ambassador-program",
+   "https://vedantu.com/ambassadors",
+   "https://vedantu.com/campus",
+   "https://vedantu.com/campus-ambassador",
+   "https://vedantu.com/community/ambassadors",
+   "https://vedantu.com/student-ambassador",
+   "https://vedantu.com/students",
+   "https://www.vedantu.com/ncert-solutions/ncert-solutions-class-9-maths-chapter-12-herons-formula"
+  ],
+  "http": 200,
+  "final": "https://www.vedantu.com/"
+ },
+ {
+  "name": "byjus",
+  "domain": "byjus.com",
+  "hits": [
+   "https://byjus.com/ambassador",
+   "https://byjus.com/ambassador-program",
+   "https://byjus.com/ambassadors",
+   "https://byjus.com/campus",
+   "https://byjus.com/campus-ambassador",
+   "https://byjus.com/community/ambassadors",
+   "https://byjus.com/student-ambassador",
+   "https://byjus.com/students"
+  ],
+  "http": 200,
+  "final": "https://byjus.com/"
+ },
+ {
+  "name": "simplilearn",
+  "domain": "simplilearn.com",
+  "hits": [
+   "https://simplilearn.com/ambassador",
+   "https://simplilearn.com/ambassador-program",
+   "https://simplilearn.com/ambassadors",
+   "https://simplilearn.com/campus",
+   "https://simplilearn.com/campus-ambassador",
+   "https://simplilearn.com/community/ambassadors",
+   "https://simplilearn.com/student-ambassador",
+   "https://simplilearn.com/students",
+   "https://www.simplilearn.com/cyber-security-expert-master-program-training-course"
+  ],
+  "http": 200,
+  "final": "https://www.simplilearn.com/"
+ },
+ {
+  "name": "greatlearning",
+  "domain": "mygreatlearning.com",
+  "hits": [
+   "https://mygreatlearning.com/ambassador",
+   "https://mygreatlearning.com/ambassador-program",
+   "https://mygreatlearning.com/ambassadors",
+   "https://mygreatlearning.com/campus",
+   "https://mygreatlearning.com/campus-ambassador",
+   "https://mygreatlearning.com/community/ambassadors",
+   "https://mygreatlearning.com/student-ambassador",
+   "https://mygreatlearning.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.mygreatlearning.com:443/"
+ },
+ {
+  "name": "upgrad",
+  "domain": "upgrad.com",
+  "hits": [
+   "https://play.google.com/store/apps/details?id=com.upgrad.student&amp;hl=en_GB",
+   "https://upgrad.com/ambassador",
+   "https://upgrad.com/ambassador-program",
+   "https://upgrad.com/ambassadors",
+   "https://upgrad.com/campus",
+   "https://upgrad.com/campus-ambassador",
+   "https://upgrad.com/community/ambassadors",
+   "https://upgrad.com/student-ambassador",
+   "https://upgrad.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.upgrad.com/"
+ },
+ {
+  "name": "almabetter",
+  "domain": "almabetter.com",
+  "hits": [
+   "https://almabetter.com/ambassador",
+   "https://almabetter.com/ambassador-program",
+   "https://almabetter.com/ambassadors",
+   "https://almabetter.com/campus",
+   "https://almabetter.com/campus-ambassador",
+   "https://almabetter.com/community/ambassadors",
+   "https://almabetter.com/student-ambassador",
+   "https://almabetter.com/students"
+  ],
+  "http": 200,
+  "final": "https://almabetter.com/"
+ },
+ {
+  "name": "letsupgrade",
+  "domain": "letsupgrade.in",
+  "hits": [
+   "https://letsupgrade.in/ambassador",
+   "https://letsupgrade.in/ambassador-program",
+   "https://letsupgrade.in/ambassadors",
+   "https://letsupgrade.in/campus",
+   "https://letsupgrade.in/campus-ambassador",
+   "https://letsupgrade.in/community-guidelines",
+   "https://letsupgrade.in/community/ambassadors",
+   "https://letsupgrade.in/login?type=student",
+   "https://letsupgrade.in/student-ambassador",
+   "https://letsupgrade.in/students"
+  ],
+  "http": 200,
+  "final": "https://letsupgrade.in/"
+ },
+ {
+  "name": "devtown",
+  "domain": "devtown.in",
+  "hits": [
+   "https://devtown.in/ambassador",
+   "https://devtown.in/ambassador-program",
+   "https://devtown.in/ambassadors",
+   "https://devtown.in/campus",
+   "https://devtown.in/campus-ambassador",
+   "https://devtown.in/community/ambassadors",
+   "https://devtown.in/student-ambassador",
+   "https://devtown.in/students"
+  ],
+  "http": 200,
+  "final": "https://www.devtown.in"
+ },
+ {
+  "name": "naukreez",
+  "domain": "naukreez.com",
+  "hits": [
+   "https://naukreez.com/ambassador",
+   "https://naukreez.com/ambassador-program",
+   "https://naukreez.com/ambassadors",
+   "https://naukreez.com/campus",
+   "https://naukreez.com/campus-ambassador",
+   "https://naukreez.com/community/ambassadors",
+   "https://naukreez.com/student-ambassador",
+   "https://naukreez.com/student-showcase",
+   "https://naukreez.com/students"
+  ],
+  "http": 200,
+  "final": "https://naukreez.com/"
+ },
+ {
+  "name": "taskveda",
+  "domain": "taskveda.in",
+  "hits": [
+   "https://taskveda.in/ambassador",
+   "https://taskveda.in/ambassador-program",
+   "https://taskveda.in/ambassadors",
+   "https://taskveda.in/campus",
+   "https://taskveda.in/campus-ambassador",
+   "https://taskveda.in/community/ambassadors",
+   "https://taskveda.in/student-ambassador",
+   "https://taskveda.in/students",
+   "https://www.taskveda.in/${WA_GROUPS.community}",
+   "https://www.taskveda.in/blog/ai-tools-for-students.html",
+   "https://www.taskveda.in/blog/best-ai-models-for-students.html",
+   "https://www.taskveda.in/blog/chatgpt-prompts-for-students.html",
+   "https://www.taskveda.in/blog/free-ai-course-with-certificate-for-students.html",
+   "https://www.taskveda.in/blog/free-ai-prompts-for-students.html",
+   "https://www.taskveda.in/blog/free-study-apps-for-students.html",
+   "https://www.taskveda.in/blog/llm-for-students.html",
+   "https://www.taskveda.in/blog/why-students-choose-taskveda.html",
+   "https://www.taskveda.in/campus-ambassador/apply-campus.html",
+   "https://www.taskveda.in/campus-ambassador/apply-team.html",
+   "https://www.taskveda.in/campus-ambassador/hiring-form.html?role=campus",
+   "https://www.taskveda.in/india-student-search-report-2026.html",
+   "https://www.taskveda.in/taskveda-community-form.html"
+  ],
+  "http": 200,
+  "final": "https://www.taskveda.in/"
+ },
+ {
+  "name": "campusunite",
+  "domain": "campusunite.in",
+  "hits": [
+   "https://campusunite.in/",
+   "https://campusunite.in/ambassador",
+   "https://campusunite.in/ambassador-program",
+   "https://campusunite.in/ambassador/apply",
+   "https://campusunite.in/ambassadors",
+   "https://campusunite.in/become-expert",
+   "https://campusunite.in/campus",
+   "https://campusunite.in/campus-ambassador",
+   "https://campusunite.in/community",
+   "https://campusunite.in/community-guidelines",
+   "https://campusunite.in/community/ambassadors",
+   "https://campusunite.in/community/highlights",
+   "https://campusunite.in/events/from-campus-to-corporate-hr-perspective",
+   "https://campusunite.in/experts",
+   "https://campusunite.in/opportunities/detail/github-campus-experts-2026",
+   "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+   "https://campusunite.in/student-ambassador",
+   "https://campusunite.in/student-email-benefits",
+   "https://campusunite.in/students",
+   "https://www.instagram.com/campusunite.in/",
+   "https://www.linkedin.com/company/campusunite-in/"
+  ],
+  "http": 200,
+  "final": "https://campusunite.in/"
+ },
+ {
+  "name": "reskilll",
+  "domain": "reskilll.com",
+  "hits": [
+   "https://reskilll.com/ambassador",
+   "https://reskilll.com/ambassador-program",
+   "https://reskilll.com/ambassadors",
+   "https://reskilll.com/campus",
+   "https://reskilll.com/campus-ambassador",
+   "https://reskilll.com/community/ambassadors",
+   "https://reskilll.com/student-ambassador",
+   "https://reskilll.com/students"
+  ],
+  "http": 200,
+  "final": "https://reskilll.com/"
+ },
+ {
+  "name": "smartbridge",
+  "domain": "thesmartbridge.com",
+  "hits": [
+   "https://thesmartbridge.com/ambassador",
+   "https://thesmartbridge.com/ambassador-program",
+   "https://thesmartbridge.com/ambassadors",
+   "https://thesmartbridge.com/campus",
+   "https://thesmartbridge.com/campus-ambassador",
+   "https://thesmartbridge.com/community/ambassadors",
+   "https://thesmartbridge.com/student-ambassador",
+   "https://thesmartbridge.com/students"
+  ],
+  "http": 200,
+  "final": "https://thesmartbridge.com/"
+ },
+ {
+  "name": "ctf7",
+  "domain": "ctf7.com",
+  "hits": [
+   "https://ctf7.com/ambassador",
+   "https://ctf7.com/ambassador-program",
+   "https://ctf7.com/ambassadors",
+   "https://ctf7.com/campus",
+   "https://ctf7.com/campus-ambassador",
+   "https://ctf7.com/campus-ambassador/",
+   "https://ctf7.com/community-partner/",
+   "https://ctf7.com/community/ambassadors",
+   "https://ctf7.com/for/student-clubs/",
+   "https://ctf7.com/student-ambassador",
+   "https://ctf7.com/students",
+   "https://files.ctf7.com/static/public/css/home-hero.css"
+  ],
+  "http": 200,
+  "final": "https://ctf7.com/"
+ },
+ {
+  "name": "gajab",
+  "domain": "gajab.com",
+  "hits": [
+   "https://gajab.com/ambassador",
+   "https://gajab.com/ambassador-program",
+   "https://gajab.com/ambassadors",
+   "https://gajab.com/campus",
+   "https://gajab.com/campus-ambassador",
+   "https://gajab.com/community/ambassadors",
+   "https://gajab.com/student-ambassador",
+   "https://gajab.com/students"
+  ],
+  "http": 200,
+  "final": "https://gajab.com/"
+ },
+ {
+  "name": "mygov",
+  "domain": "mygov.in",
+  "hits": [
+   "https://campus.mygov.in/",
+   "https://mygov.in/ambassador",
+   "https://mygov.in/ambassador-program",
+   "https://mygov.in/ambassadors",
+   "https://mygov.in/campus",
+   "https://mygov.in/campus-ambassador",
+   "https://mygov.in/community/ambassadors",
+   "https://mygov.in/student-ambassador",
+   "https://mygov.in/students"
+  ],
+  "http": 200,
+  "final": "https://www.mygov.in/"
+ },
+ {
+  "name": "aicte",
+  "domain": "aicte-india.org",
+  "hits": [],
+  "http": null,
+  "err": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+ },
+ {
+  "name": "hcltech",
+  "domain": "hcltech.com",
+  "hits": [
+   "https://hcltech.com/ambassador",
+   "https://hcltech.com/ambassador-program",
+   "https://hcltech.com/ambassadors",
+   "https://hcltech.com/campus",
+   "https://hcltech.com/campus-ambassador",
+   "https://hcltech.com/community/ambassadors",
+   "https://hcltech.com/student-ambassador",
+   "https://hcltech.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.hcltech.com/"
+ },
+ {
+  "name": "swiggy",
+  "domain": "swiggy.com",
+  "hits": [
+   "https://swiggy.com/ambassador",
+   "https://swiggy.com/ambassador-program",
+   "https://swiggy.com/ambassadors",
+   "https://swiggy.com/campus",
+   "https://swiggy.com/campus-ambassador",
+   "https://swiggy.com/community/ambassadors",
+   "https://swiggy.com/student-ambassador",
+   "https://swiggy.com/students"
+  ],
+  "http": 202,
+  "final": "https://www.swiggy.com:443/"
+ },
+ {
+  "name": "zomato",
+  "domain": "zomato.com",
+  "hits": [
+   "https://zomato.com/ambassador",
+   "https://zomato.com/ambassador-program",
+   "https://zomato.com/ambassadors",
+   "https://zomato.com/campus",
+   "https://zomato.com/campus-ambassador",
+   "https://zomato.com/community/ambassadors",
+   "https://zomato.com/student-ambassador",
+   "https://zomato.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.zomato.com:443/"
+ },
+ {
+  "name": "zepto",
+  "domain": "zepto.com",
+  "hits": [
+   "https://zepto.com/ambassador",
+   "https://zepto.com/ambassador-program",
+   "https://zepto.com/ambassadors",
+   "https://zepto.com/campus",
+   "https://zepto.com/campus-ambassador",
+   "https://zepto.com/community/ambassadors",
+   "https://zepto.com/student-ambassador",
+   "https://zepto.com/students"
+  ],
+  "http": 202,
+  "final": "https://www.zepto.com:443/"
+ },
+ {
+  "name": "blinkit",
+  "domain": "blinkit.com",
+  "hits": [
+   "https://blinkit.com/ambassador",
+   "https://blinkit.com/ambassador-program",
+   "https://blinkit.com/ambassadors",
+   "https://blinkit.com/campus",
+   "https://blinkit.com/campus-ambassador",
+   "https://blinkit.com/community/ambassadors",
+   "https://blinkit.com/student-ambassador",
+   "https://blinkit.com/students"
+  ],
+  "http": 403,
+  "final": "https://blinkit.com/"
+ },
+ {
+  "name": "cred",
+  "domain": "cred.club",
+  "hits": [
+   "https://cred.club/ambassador",
+   "https://cred.club/ambassador-program",
+   "https://cred.club/ambassadors",
+   "https://cred.club/campus",
+   "https://cred.club/campus-ambassador",
+   "https://cred.club/community/ambassadors",
+   "https://cred.club/student-ambassador",
+   "https://cred.club/students",
+   "https://web-images.credcdn.in/v2/_next/assets/images/landing/desktop/hero-desktop-fallback.jpg?tr=q-95",
+   "https://web-images.credcdn.in/v2/_next/assets/images/landing/desktop/hero-desktop-poster.jpg?tr=q-95",
+   "https://web-images.credcdn.in/v2/_next/assets/images/landing/mobile/hero-mobile-fallback.jpg?tr=q-95",
+   "https://web-images.credcdn.in/v2/_next/assets/images/landing/mobile/hero-mobile-poster.jpg?tr=q-95",
+   "https://web-images.credcdn.in/v2/_next/assets/images/landing/tablet/hero-mobile-fallback.jpg?tr=q-95",
+   "https://web-images.credcdn.in/v2/_next/assets/images/landing/tablet/hero-mobile-poster.jpg?tr=q-95"
+  ],
+  "http": 200,
+  "final": "https://cred.club/"
+ },
+ {
+  "name": "groww",
+  "domain": "groww.in",
+  "hits": [
+   "https://groww.in/ambassador",
+   "https://groww.in/ambassador-program",
+   "https://groww.in/ambassadors",
+   "https://groww.in/campus",
+   "https://groww.in/campus-ambassador",
+   "https://groww.in/community/ambassadors",
+   "https://groww.in/student-ambassador",
+   "https://groww.in/students"
+  ],
+  "http": 200,
+  "final": "https://groww.in/"
+ },
+ {
+  "name": "zerodha",
+  "domain": "zerodha.com",
+  "hits": [
+   "https://zerodha.com/ambassador",
+   "https://zerodha.com/ambassador-program",
+   "https://zerodha.com/ambassadors",
+   "https://zerodha.com/campus",
+   "https://zerodha.com/campus-ambassador",
+   "https://zerodha.com/community/ambassadors",
+   "https://zerodha.com/student-ambassador",
+   "https://zerodha.com/students"
+  ],
+  "http": 200,
+  "final": "https://zerodha.com/"
+ },
+ {
+  "name": "upstox",
+  "domain": "upstox.com",
+  "hits": [
+   "https://community.upstox.com/",
+   "https://community.upstox.com/c/general/4",
+   "https://community.upstox.com/c/product-updates/11",
+   "https://community.upstox.com/c/trading/7",
+   "https://upstox.com/ambassador",
+   "https://upstox.com/ambassador-program",
+   "https://upstox.com/ambassadors",
+   "https://upstox.com/campus",
+   "https://upstox.com/campus-ambassador",
+   "https://upstox.com/community/ambassadors",
+   "https://upstox.com/student-ambassador",
+   "https://upstox.com/students"
+  ],
+  "http": 200,
+  "final": "https://upstox.com/"
+ },
+ {
+  "name": "angelone",
+  "domain": "angelone.in",
+  "hits": [
+   "https://angelone.in/ambassador",
+   "https://angelone.in/ambassador-program",
+   "https://angelone.in/ambassadors",
+   "https://angelone.in/campus",
+   "https://angelone.in/campus-ambassador",
+   "https://angelone.in/community/ambassadors",
+   "https://angelone.in/student-ambassador",
+   "https://angelone.in/students",
+   "https://community.angelone.in/"
+  ],
+  "http": 200,
+  "final": "https://www.angelone.in/"
+ },
+ {
+  "name": "paytm",
+  "domain": "paytm.com",
+  "hits": [
+   "https://ambassador.paytm.com",
+   "https://paytm.com/ambassador",
+   "https://paytm.com/ambassador-program",
+   "https://paytm.com/ambassadors",
+   "https://paytm.com/campus",
+   "https://paytm.com/campus-ambassador",
+   "https://paytm.com/community/ambassadors",
+   "https://paytm.com/loan-emi-payment/hero-fincorp",
+   "https://paytm.com/student-ambassador",
+   "https://paytm.com/students"
+  ],
+  "http": 200,
+  "final": "https://paytm.com/"
+ },
+ {
+  "name": "phonepe",
+  "domain": "phonepe.com",
+  "hits": [
+   "https://phonepe.com/ambassador",
+   "https://phonepe.com/ambassador-program",
+   "https://phonepe.com/ambassadors",
+   "https://phonepe.com/campus",
+   "https://phonepe.com/campus-ambassador",
+   "https://phonepe.com/community/ambassadors",
+   "https://phonepe.com/student-ambassador",
+   "https://phonepe.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.phonepe.com/"
+ },
+ {
+  "name": "nykaa",
+  "domain": "nykaa.com",
+  "hits": [
+   "https://nykaa.com/ambassador",
+   "https://nykaa.com/ambassador-program",
+   "https://nykaa.com/ambassadors",
+   "https://nykaa.com/campus",
+   "https://nykaa.com/campus-ambassador",
+   "https://nykaa.com/community/ambassadors",
+   "https://nykaa.com/student-ambassador",
+   "https://nykaa.com/students"
+  ],
+  "http": 403,
+  "final": "https://www.nykaa.com/"
+ },
+ {
+  "name": "myntra",
+  "domain": "myntra.com",
+  "hits": [
+   "https://myntra.com/ambassador",
+   "https://myntra.com/ambassador-program",
+   "https://myntra.com/ambassadors",
+   "https://myntra.com/campus",
+   "https://myntra.com/campus-ambassador",
+   "https://myntra.com/community/ambassadors",
+   "https://myntra.com/student-ambassador",
+   "https://myntra.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.myntra.com/"
+ },
+ {
+  "name": "boat",
+  "domain": "boat-lifestyle.com",
+  "hits": [
+   "https://boat-lifestyle.com/ambassador",
+   "https://boat-lifestyle.com/ambassador-program",
+   "https://boat-lifestyle.com/ambassadors",
+   "https://boat-lifestyle.com/campus",
+   "https://boat-lifestyle.com/campus-ambassador",
+   "https://boat-lifestyle.com/community/ambassadors",
+   "https://boat-lifestyle.com/student-ambassador",
+   "https://boat-lifestyle.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.boat-lifestyle.com/"
+ },
+ {
+  "name": "mamaearth",
+  "domain": "mamaearth.in",
+  "hits": [
+   "https://mamaearth.in/ambassador",
+   "https://mamaearth.in/ambassador-program",
+   "https://mamaearth.in/ambassadors",
+   "https://mamaearth.in/campus",
+   "https://mamaearth.in/campus-ambassador",
+   "https://mamaearth.in/community/ambassadors",
+   "https://mamaearth.in/student-ambassador",
+   "https://mamaearth.in/students"
+  ],
+  "http": 200,
+  "final": "https://mamaearth.in/"
+ },
+ {
+  "name": "lenskart",
+  "domain": "lenskart.com",
+  "hits": [
+   "https://lenskart.com/ambassador",
+   "https://lenskart.com/ambassador-program",
+   "https://lenskart.com/ambassadors",
+   "https://lenskart.com/campus",
+   "https://lenskart.com/campus-ambassador",
+   "https://lenskart.com/community/ambassadors",
+   "https://lenskart.com/student-ambassador",
+   "https://lenskart.com/students",
+   "https://static5.lenskart.com/media/uploads/desktop-home/category/eyeglasses-hero.png"
+  ],
+  "http": 200,
+  "final": "https://www.lenskart.com/"
+ },
+ {
+  "name": "redbull",
+  "domain": "redbull.com",
+  "hits": [
+   "https://redbull.com/ambassador",
+   "https://redbull.com/ambassador-program",
+   "https://redbull.com/ambassadors",
+   "https://redbull.com/campus",
+   "https://redbull.com/campus-ambassador",
+   "https://redbull.com/community/ambassadors",
+   "https://redbull.com/student-ambassador",
+   "https://redbull.com/students"
+  ],
+  "http": 403,
+  "final": "https://www.redbull.com/"
+ },
+ {
+  "name": "cocacola",
+  "domain": "coca-cola.com",
+  "hits": [
+   "https://coca-cola.com/ambassador",
+   "https://coca-cola.com/ambassador-program",
+   "https://coca-cola.com/ambassadors",
+   "https://coca-cola.com/campus",
+   "https://coca-cola.com/campus-ambassador",
+   "https://coca-cola.com/community/ambassadors",
+   "https://coca-cola.com/student-ambassador",
+   "https://coca-cola.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.coca-cola.com/in/en"
+ },
+ {
+  "name": "ethereum",
+  "domain": "ethereum.org",
+  "hits": [
+   "https://ethereum.org/ambassador",
+   "https://ethereum.org/ambassador-program",
+   "https://ethereum.org/ambassadors",
+   "https://ethereum.org/campus",
+   "https://ethereum.org/campus-ambassador",
+   "https://ethereum.org/community/",
+   "https://ethereum.org/community/ambassadors",
+   "https://ethereum.org/community/code-of-conduct/",
+   "https://ethereum.org/community/events/",
+   "https://ethereum.org/community/get-involved/",
+   "https://ethereum.org/community/grants/",
+   "https://ethereum.org/community/online/",
+   "https://ethereum.org/community/research/",
+   "https://ethereum.org/student-ambassador",
+   "https://ethereum.org/students"
+  ],
+  "http": 200,
+  "final": "https://ethereum.org/"
+ },
+ {
+  "name": "solana",
+  "domain": "solana.com",
+  "hits": [
+   "https://solana.com/ambassador",
+   "https://solana.com/ambassador-program",
+   "https://solana.com/ambassadors",
+   "https://solana.com/campus",
+   "https://solana.com/campus-ambassador",
+   "https://solana.com/community",
+   "https://solana.com/community/ambassadors",
+   "https://solana.com/news/solana-community-awards-2026-meet-the-finalists",
+   "https://solana.com/student-ambassador",
+   "https://solana.com/students"
+  ],
+  "http": 200,
+  "final": "https://solana.com/"
+ },
+ {
+  "name": "polygon",
+  "domain": "polygon.technology",
+  "hits": [
+   "https://polygon.technology/ambassador",
+   "https://polygon.technology/ambassador-program",
+   "https://polygon.technology/ambassadors",
+   "https://polygon.technology/campus",
+   "https://polygon.technology/campus-ambassador",
+   "https://polygon.technology/community/ambassadors",
+   "https://polygon.technology/student-ambassador",
+   "https://polygon.technology/students"
+  ],
+  "http": 200,
+  "final": "https://polygon.technology/"
+ },
+ {
+  "name": "near",
+  "domain": "near.org",
+  "hits": [],
+  "http": null,
+  "err": "HTTPConnectionPool(host='near.org', port=80): Max retries exceeded with url: / ("
+ },
+ {
+  "name": "aptos",
+  "domain": "aptoslabs.com",
+  "hits": [
+   "https://aptoslabs.com/ambassador",
+   "https://aptoslabs.com/ambassador-program",
+   "https://aptoslabs.com/ambassadors",
+   "https://aptoslabs.com/campus",
+   "https://aptoslabs.com/campus-ambassador",
+   "https://aptoslabs.com/community/ambassadors",
+   "https://aptoslabs.com/student-ambassador",
+   "https://aptoslabs.com/students"
+  ],
+  "http": 200,
+  "final": "https://aptoslabs.com/"
+ },
+ {
+  "name": "sui",
+  "domain": "sui.io",
+  "hits": [
+   "https://sui.io/ambassador",
+   "https://sui.io/ambassador-program",
+   "https://sui.io/ambassadors",
+   "https://sui.io/campus",
+   "https://sui.io/campus-ambassador",
+   "https://sui.io/community/ambassadors",
+   "https://sui.io/student-ambassador",
+   "https://sui.io/students",
+   "https://www.sui.io/community"
+  ],
+  "http": 200,
+  "final": "https://www.sui.io/"
+ },
+ {
+  "name": "ton",
+  "domain": "ton.org",
+  "hits": [
+   "https://ton.org/ambassador",
+   "https://ton.org/ambassador-program",
+   "https://ton.org/ambassadors",
+   "https://ton.org/campus",
+   "https://ton.org/campus-ambassador",
+   "https://ton.org/community/ambassadors",
+   "https://ton.org/student-ambassador",
+   "https://ton.org/students"
+  ],
+  "http": 200,
+  "final": "https://ton.org/"
+ },
+ {
+  "name": "polkadot",
+  "domain": "polkadot.com",
+  "hits": [
+   "https://polkadot.com/ambassador",
+   "https://polkadot.com/ambassador-program",
+   "https://polkadot.com/ambassadors",
+   "https://polkadot.com/campus",
+   "https://polkadot.com/campus-ambassador",
+   "https://polkadot.com/community/ambassadors",
+   "https://polkadot.com/student-ambassador",
+   "https://polkadot.com/students"
+  ],
+  "http": 200,
+  "final": "https://polkadot.com/"
+ },
+ {
+  "name": "cardano",
+  "domain": "cardano.org",
+  "hits": [
+   "https://cardano.org/ambassador",
+   "https://cardano.org/ambassador-program",
+   "https://cardano.org/ambassadors",
+   "https://cardano.org/campus",
+   "https://cardano.org/campus-ambassador",
+   "https://cardano.org/community-code-of-conduct/",
+   "https://cardano.org/community/ambassadors",
+   "https://cardano.org/news/2026-10-14-community-digest/",
+   "https://cardano.org/student-ambassador",
+   "https://cardano.org/students",
+   "https://www.facebook.com/groups/CardanoCommunity",
+   "https://www.linkedin.com/company/cardano-community"
+  ],
+  "http": 200,
+  "final": "https://cardano.org/"
+ },
+ {
+  "name": "algorand",
+  "domain": "algorand.com",
+  "hits": [
+   "https://algorand.com/ambassador",
+   "https://algorand.com/ambassador-program",
+   "https://algorand.com/ambassadors",
+   "https://algorand.com/campus",
+   "https://algorand.com/campus-ambassador",
+   "https://algorand.com/community/ambassadors",
+   "https://algorand.com/student-ambassador",
+   "https://algorand.com/students"
+  ],
+  "http": 200,
+  "final": "https://algorand.co/"
+ },
+ {
+  "name": "stellar",
+  "domain": "stellar.org",
+  "hits": [
+   "https://stellar.org/ambassador",
+   "https://stellar.org/ambassador-program",
+   "https://stellar.org/ambassadors",
+   "https://stellar.org/campus",
+   "https://stellar.org/campus-ambassador",
+   "https://stellar.org/community",
+   "https://stellar.org/community/ambassadors",
+   "https://stellar.org/events/community",
+   "https://stellar.org/student-ambassador",
+   "https://stellar.org/students"
+  ],
+  "http": 200,
+  "final": "https://stellar.org/"
+ },
+ {
+  "name": "hedera",
+  "domain": "hedera.com",
+  "hits": [
+   "https://hedera.com/ambassador",
+   "https://hedera.com/ambassador-program",
+   "https://hedera.com/ambassador-program/",
+   "https://hedera.com/ambassadors",
+   "https://hedera.com/blog/hedera-council-grows-partner-network-with-new-strategic-and-community-partners/",
+   "https://hedera.com/campus",
+   "https://hedera.com/campus-ambassador",
+   "https://hedera.com/community-hub/",
+   "https://hedera.com/community/ambassadors",
+   "https://hedera.com/student-ambassador",
+   "https://hedera.com/students"
+  ],
+  "http": 200,
+  "final": "https://hedera.com/"
+ },
+ {
+  "name": "chainlink",
+  "domain": "chain.link",
+  "hits": [
+   "https://chain.link/advocates",
+   "https://chain.link/ambassador",
+   "https://chain.link/ambassador-program",
+   "https://chain.link/ambassadors",
+   "https://chain.link/campus",
+   "https://chain.link/campus-ambassador",
+   "https://chain.link/community",
+   "https://chain.link/community/ambassadors",
+   "https://chain.link/community/events",
+   "https://chain.link/student-ambassador",
+   "https://chain.link/students"
+  ],
+  "http": 200,
+  "final": "https://chain.link/"
+ },
+ {
+  "name": "alchemy",
+  "domain": "alchemy.com",
+  "hits": [
+   "https://alchemy.com/ambassador",
+   "https://alchemy.com/ambassador-program",
+   "https://alchemy.com/ambassadors",
+   "https://alchemy.com/campus",
+   "https://alchemy.com/campus-ambassador",
+   "https://alchemy.com/community/ambassadors",
+   "https://alchemy.com/student-ambassador",
+   "https://alchemy.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.alchemy.com/"
+ },
+ {
+  "name": "filecoin",
+  "domain": "filecoin.io",
+  "hits": [
+   "https://filecoin.io/ambassador",
+   "https://filecoin.io/ambassador-program",
+   "https://filecoin.io/ambassadors",
+   "https://filecoin.io/campus",
+   "https://filecoin.io/campus-ambassador",
+   "https://filecoin.io/community-hub",
+   "https://filecoin.io/community/ambassadors",
+   "https://filecoin.io/student-ambassador",
+   "https://filecoin.io/students"
+  ],
+  "http": 200,
+  "final": "https://filecoin.io/"
+ },
+ {
+  "name": "base",
+  "domain": "base.org",
+  "hits": [
+   "https://base.org/ambassador",
+   "https://base.org/ambassador-program",
+   "https://base.org/ambassadors",
+   "https://base.org/campus",
+   "https://base.org/campus-ambassador",
+   "https://base.org/community/ambassadors",
+   "https://base.org/student-ambassador",
+   "https://base.org/students"
+  ],
+  "http": 200,
+  "final": "https://www.base.org/"
+ },
+ {
+  "name": "optimism",
+  "domain": "optimism.io",
+  "hits": [
+   "https://optimism.io/ambassador",
+   "https://optimism.io/ambassador-program",
+   "https://optimism.io/ambassadors",
+   "https://optimism.io/campus",
+   "https://optimism.io/campus-ambassador",
+   "https://optimism.io/community-agreement",
+   "https://optimism.io/community/ambassadors",
+   "https://optimism.io/student-ambassador",
+   "https://optimism.io/students"
+  ],
+  "http": 200,
+  "final": "https://optimism.io/"
+ },
+ {
+  "name": "arbitrum",
+  "domain": "arbitrum.io",
+  "hits": [
+   "https://arbitrum.io/ambassador",
+   "https://arbitrum.io/ambassador-program",
+   "https://arbitrum.io/ambassadors",
+   "https://arbitrum.io/campus",
+   "https://arbitrum.io/campus-ambassador",
+   "https://arbitrum.io/community/ambassadors",
+   "https://arbitrum.io/student-ambassador",
+   "https://arbitrum.io/students"
+  ],
+  "http": 403,
+  "final": "https://arbitrum.io/"
+ },
+ {
+  "name": "uniswap",
+  "domain": "uniswap.org",
+  "hits": [
+   "https://uniswap.org/ambassador",
+   "https://uniswap.org/ambassador-program",
+   "https://uniswap.org/ambassadors",
+   "https://uniswap.org/campus",
+   "https://uniswap.org/campus-ambassador",
+   "https://uniswap.org/community/ambassadors",
+   "https://uniswap.org/student-ambassador",
+   "https://uniswap.org/students"
+  ],
+  "http": 200,
+  "final": "https://app.uniswap.org/"
+ },
+ {
+  "name": "coindcx",
+  "domain": "coindcx.com",
+  "hits": [
+   "https://cms.coindcx.com/api/media/file/CoinDCX_LP_Hero-Animation_NEW%20(online-video-cutter.com)%20(1).mp4",
+   "https://coindcx.com/ambassador",
+   "https://coindcx.com/ambassador-program",
+   "https://coindcx.com/ambassadors",
+   "https://coindcx.com/campus",
+   "https://coindcx.com/campus-ambassador",
+   "https://coindcx.com/community",
+   "https://coindcx.com/community/ambassadors",
+   "https://coindcx.com/student-ambassador",
+   "https://coindcx.com/students"
+  ],
+  "http": 200,
+  "final": "https://coindcx.com/"
+ },
+ {
+  "name": "wazirx",
+  "domain": "wazirx.com",
+  "hits": [
+   "https://media.wazirx.com/web_assets/landing_page_hero_app_screen/dark/1x.webp",
+   "https://media.wazirx.com/web_assets/landing_page_hero_app_screen/light/1x.webp",
+   "https://play.google.com/store/apps/details?id=com.wrx.wazirx&amp;referrer=utm_source%3DWazirX%2520Desktop%26utm_medium%Hero%2520Image%26utm_term%3DDownload%2520App",
+   "https://wazirx.com/ambassador",
+   "https://wazirx.com/ambassador-program",
+   "https://wazirx.com/ambassadors",
+   "https://wazirx.com/campus",
+   "https://wazirx.com/campus-ambassador",
+   "https://wazirx.com/community/ambassadors",
+   "https://wazirx.com/student-ambassador",
+   "https://wazirx.com/students"
+  ],
+  "http": 200,
+  "final": "https://wazirx.com/"
+ },
+ {
+  "name": "mudrex",
+  "domain": "mudrex.com",
+  "hits": [
+   "https://images.mudrex.com/web/commodity-trading/what-is-commodities-hero.webp",
+   "https://images.mudrex.com/web/home-v3/expert-support.png",
+   "https://images.mudrex.com/web/home-v3/hero-bg-coins.png",
+   "https://mudrex.com/ambassador",
+   "https://mudrex.com/ambassador-program",
+   "https://mudrex.com/ambassadors",
+   "https://mudrex.com/campus",
+   "https://mudrex.com/campus-ambassador",
+   "https://mudrex.com/community/ambassadors",
+   "https://mudrex.com/student-ambassador",
+   "https://mudrex.com/students"
+  ],
+  "http": 200,
+  "final": "https://mudrex.com/"
+ },
+ {
+  "name": "binance",
+  "domain": "binance.com",
+  "hits": [
+   "https://binance.com/ambassador",
+   "https://binance.com/ambassador-program",
+   "https://binance.com/ambassadors",
+   "https://binance.com/campus",
+   "https://binance.com/campus-ambassador",
+   "https://binance.com/community/ambassadors",
+   "https://binance.com/student-ambassador",
+   "https://binance.com/students"
+  ],
+  "http": 202,
+  "final": "https://www.binance.com/"
+ },
+ {
+  "name": "bybit",
+  "domain": "bybit.com",
+  "hits": [
+   "https://bybit.com/ambassador",
+   "https://bybit.com/ambassador-program",
+   "https://bybit.com/ambassadors",
+   "https://bybit.com/campus",
+   "https://bybit.com/campus-ambassador",
+   "https://bybit.com/community/ambassadors",
+   "https://bybit.com/student-ambassador",
+   "https://bybit.com/students"
+  ],
+  "http": 200,
+  "final": "https://www.bybit.com/"
+ },
+ {
+  "name": "okx",
+  "domain": "okx.com",
+  "hits": [
+   "https://okx.com/ambassador",
+   "https://okx.com/ambassador-program",
+   "https://okx.com/ambassadors",
+   "https://okx.com/campus",
+   "https://okx.com/campus-ambassador",
+   "https://okx.com/community/ambassadors",
+   "https://okx.com/student-ambassador",
+   "https://okx.com/students",
+   "https://www.okx.com/community"
+  ],
+  "http": 200,
+  "final": "https://www.okx.com/"
+ },
+ {
+  "name": "techfest",
+  "domain": "techfest.org",
+  "hits": [
+   "https://techfest.org/ambassador",
+   "https://techfest.org/ambassador-program",
+   "https://techfest.org/ambassadors",
+   "https://techfest.org/campus",
+   "https://techfest.org/campus-ambassador",
+   "https://techfest.org/community/ambassadors",
+   "https://techfest.org/student-ambassador",
+   "https://techfest.org/students"
+  ],
+  "http": 200,
+  "final": "https://techfest.org/"
+ },
+ {
+  "name": "moodi",
+  "domain": "moodi.org",
+  "hits": [
+   "https://moodi.org/ambassador",
+   "https://moodi.org/ambassador-program",
+   "https://moodi.org/ambassadors",
+   "https://moodi.org/campus",
+   "https://moodi.org/campus-ambassador",
+   "https://moodi.org/community/ambassadors",
+   "https://moodi.org/student-ambassador",
+   "https://moodi.org/students"
+  ],
+  "http": 200,
+  "final": "https://moodi.org/"
+ },
+ {
+  "name": "springfest",
+  "domain": "springfest.in",
+  "hits": [],
+  "http": null,
+  "err": "HTTPConnectionPool(host='springfest.in', port=80): Max retries exceeded with url"
+ },
+ {
+  "name": "kshitij",
+  "domain": "kshitij.com",
+  "hits": [
+   "https://kshitij.com/ambassador",
+   "https://kshitij.com/ambassador-program",
+   "https://kshitij.com/ambassadors",
+   "https://kshitij.com/campus",
+   "https://kshitij.com/campus-ambassador",
+   "https://kshitij.com/community/ambassadors",
+   "https://kshitij.com/student-ambassador",
+   "https://kshitij.com/students"
+  ],
+  "http": 200,
+  "final": "https://kshitij.com/"
+ },
+ {
+  "name": "antaragni",
+  "domain": "antaragni.in",
+  "hits": [
+   "https://antaragni.in/ambassador",
+   "https://antaragni.in/ambassador-program",
+   "https://antaragni.in/ambassadors",
+   "https://antaragni.in/campus",
+   "https://antaragni.in/campus-ambassador",
+   "https://antaragni.in/community/ambassadors",
+   "https://antaragni.in/student-ambassador",
+   "https://antaragni.in/students"
+  ],
+  "http": 402,
+  "final": "https://antaragni.in/"
+ },
+ {
+  "name": "cognizance",
+  "domain": "cognizance.in",
+  "hits": [
+   "https://cognizance.in/ambassador",
+   "https://cognizance.in/ambassador-program",
+   "https://cognizance.in/ambassadors",
+   "https://cognizance.in/campus",
+   "https://cognizance.in/campus-ambassador",
+   "https://cognizance.in/community/ambassadors",
+   "https://cognizance.in/student-ambassador",
+   "https://cognizance.in/students"
+  ],
+  "http": 200,
+  "final": "https://sedo.com/search/details/?domain=cognizance.in&campaignId=329145&origin=sales_lander_15"
+ },
+ {
+  "name": "sphinx",
+  "domain": "sphinx.org.in",
+  "hits": [
+   "https://sphinx.org.in/ambassador",
+   "https://sphinx.org.in/ambassador-program",
+   "https://sphinx.org.in/ambassadors",
+   "https://sphinx.org.in/campus",
+   "https://sphinx.org.in/campus-ambassador",
+   "https://sphinx.org.in/community/ambassadors",
+   "https://sphinx.org.in/student-ambassador",
+   "https://sphinx.org.in/students"
+  ],
+  "http": 200,
+  "final": "https://www.sphinx.org.in/"
+ },
+ {
+  "name": "ecell",
+  "domain": "ecell.in",
+  "hits": [
+   "https://ecell.in/ambassador",
+   "https://ecell.in/ambassador-program",
+   "https://ecell.in/ambassadors",
+   "https://ecell.in/campus",
+   "https://ecell.in/campus-ambassador",
+   "https://ecell.in/community/ambassadors",
+   "https://ecell.in/student-ambassador",
+   "https://ecell.in/students"
+  ],
+  "http": 200,
+  "final": "https://www.ecell.in/"
+ },
+ {
+  "name": "tryst",
+  "domain": "tryst-iitdelhi.org",
+  "hits": [
+   "https://tryst-iitdelhi.org/ambassador",
+   "https://tryst-iitdelhi.org/ambassador-program",
+   "https://tryst-iitdelhi.org/ambassadors",
+   "https://tryst-iitdelhi.org/campus",
+   "https://tryst-iitdelhi.org/campus-ambassador",
+   "https://tryst-iitdelhi.org/community/ambassadors",
+   "https://tryst-iitdelhi.org/student-ambassador",
+   "https://tryst-iitdelhi.org/students"
+  ],
+  "http": 200,
+  "final": "https://tryst-iitdelhi.org/"
+ },
+ {
+  "name": "rendezvous",
+  "domain": "rendezvous-iitd.org",
+  "hits": [
+   "https://rendezvous-iitd.org/ambassador",
+   "https://rendezvous-iitd.org/ambassador-program",
+   "https://rendezvous-iitd.org/ambassadors",
+   "https://rendezvous-iitd.org/campus",
+   "https://rendezvous-iitd.org/campus-ambassador",
+   "https://rendezvous-iitd.org/community/ambassadors",
+   "https://rendezvous-iitd.org/student-ambassador",
+   "https://rendezvous-iitd.org/students"
+  ],
+  "http": 404,
+  "final": "https://rendezvous-iitd.org/"
+ },
+ {
+  "name": "saarang",
+  "domain": "saarang.org",
+  "hits": [],
+  "http": null,
+  "err": "HTTPConnectionPool(host='saarang.org', port=80): Max retries exceeded with url: "
+ }
+]

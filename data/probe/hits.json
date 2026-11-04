@@ -1,0 +1,8048 @@
+[
+ [
+  "https://openai.com/ambassador",
+  403,
+  "https://openai.com/ambassador",
+  ""
+ ],
+ [
+  "https://openai.com/ambassador-program",
+  403,
+  "https://openai.com/ambassador-program",
+  ""
+ ],
+ [
+  "https://openai.com/ambassadors",
+  403,
+  "https://openai.com/ambassadors",
+  ""
+ ],
+ [
+  "https://openai.com/campus",
+  403,
+  "https://openai.com/campus",
+  ""
+ ],
+ [
+  "https://openai.com/campus-ambassador",
+  403,
+  "https://openai.com/campus-ambassador",
+  ""
+ ],
+ [
+  "https://openai.com/community/ambassadors",
+  403,
+  "https://openai.com/community/ambassadors",
+  ""
+ ],
+ [
+  "https://openai.com/student-ambassador",
+  403,
+  "https://openai.com/student-ambassador",
+  ""
+ ],
+ [
+  "https://openai.com/students",
+  403,
+  "https://openai.com/students",
+  ""
+ ],
+ [
+  "https://anthropic.com/ambassador",
+  404,
+  "https://www.anthropic.com/ambassador",
+  "Not Found \\ Anthropic"
+ ],
+ [
+  "https://anthropic.com/ambassador-program",
+  404,
+  "https://www.anthropic.com/ambassador-program",
+  "Not Found \\ Anthropic"
+ ],
+ [
+  "https://anthropic.com/ambassadors",
+  404,
+  "https://www.anthropic.com/ambassadors",
+  "Not Found \\ Anthropic"
+ ],
+ [
+  "https://anthropic.com/campus",
+  200,
+  "https://claude.com/programs/campus",
+  "Claude Campus program | Claude by Anthropic"
+ ],
+ [
+  "https://anthropic.com/campus-ambassador",
+  404,
+  "https://www.anthropic.com/campus-ambassador",
+  "Not Found \\ Anthropic"
+ ],
+ [
+  "https://anthropic.com/community/ambassadors",
+  404,
+  "https://www.anthropic.com/community/ambassadors",
+  "Not Found \\ Anthropic"
+ ],
+ [
+  "https://anthropic.com/student-ambassador",
+  404,
+  "https://www.anthropic.com/student-ambassador",
+  "Not Found \\ Anthropic"
+ ],
+ [
+  "https://anthropic.com/students",
+  404,
+  "https://www.anthropic.com/students",
+  "Not Found \\ Anthropic"
+ ],
+ [
+  "https://deepmind.google/ambassador",
+  404,
+  "https://deepmind.google/ambassador/",
+  ""
+ ],
+ [
+  "https://deepmind.google/ambassador-program",
+  404,
+  "https://deepmind.google/ambassador-program/",
+  ""
+ ],
+ [
+  "https://deepmind.google/ambassadors",
+  404,
+  "https://deepmind.google/ambassadors/",
+  ""
+ ],
+ [
+  "https://deepmind.google/campus",
+  404,
+  "https://deepmind.google/campus/",
+  ""
+ ],
+ [
+  "https://deepmind.google/campus-ambassador",
+  404,
+  "https://deepmind.google/campus-ambassador/",
+  ""
+ ],
+ [
+  "https://deepmind.google/community/ambassadors",
+  404,
+  "https://deepmind.google/community/ambassadors/",
+  ""
+ ],
+ [
+  "https://deepmind.google/student-ambassador",
+  404,
+  "https://deepmind.google/student-ambassador/",
+  ""
+ ],
+ [
+  "https://deepmind.google/students",
+  404,
+  "https://deepmind.google/students/",
+  ""
+ ],
+ [
+  "https://ai.meta.com/ambassador",
+  400,
+  "https://ai.meta.com/ambassador",
+  "Error"
+ ],
+ [
+  "https://ai.meta.com/ambassador-program",
+  400,
+  "https://ai.meta.com/ambassador-program",
+  "Error"
+ ],
+ [
+  "https://ai.meta.com/ambassadors",
+  400,
+  "https://ai.meta.com/ambassadors",
+  "Error"
+ ],
+ [
+  "https://ai.meta.com/campus",
+  400,
+  "https://ai.meta.com/campus",
+  "Error"
+ ],
+ [
+  "https://ai.meta.com/campus-ambassador",
+  400,
+  "https://ai.meta.com/campus-ambassador",
+  "Error"
+ ],
+ [
+  "https://ai.meta.com/community/ambassadors",
+  400,
+  "https://ai.meta.com/community/ambassadors",
+  "Error"
+ ],
+ [
+  "https://ai.meta.com/student-ambassador",
+  400,
+  "https://ai.meta.com/student-ambassador",
+  "Error"
+ ],
+ [
+  "https://ai.meta.com/students",
+  400,
+  "https://ai.meta.com/students",
+  "Error"
+ ],
+ [
+  "https://azure.microsoft.com/en-us/free/students/",
+  "ERR",
+  "https://azure.microsoft.com/en-us/free/students/",
+  "HTTPSConnectionPool(host='azure.microsoft.com', port=443): R"
+ ],
+ [
+  "https://microsoft.com/ambassador",
+  404,
+  "https://www.microsoft.com/ambassador",
+  "Page cannot be found"
+ ],
+ [
+  "https://microsoft.com/ambassador-program",
+  404,
+  "https://www.microsoft.com/ambassador-program",
+  "Page cannot be found"
+ ],
+ [
+  "https://microsoft.com/ambassadors",
+  404,
+  "https://www.microsoft.com/ambassadors",
+  "Page cannot be found"
+ ],
+ [
+  "https://microsoft.com/campus",
+  404,
+  "https://www.microsoft.com/campus",
+  "Page cannot be found"
+ ],
+ [
+  "https://microsoft.com/campus-ambassador",
+  404,
+  "https://www.microsoft.com/campus-ambassador",
+  "Page cannot be found"
+ ],
+ [
+  "https://microsoft.com/community/ambassadors",
+  200,
+  "https://learn.microsoft.com/en-us/answers/",
+  "Microsoft Q&amp;A | Microsoft Learn"
+ ],
+ [
+  "https://microsoft.com/student-ambassador",
+  404,
+  "https://www.microsoft.com/student-ambassador",
+  "Page cannot be found"
+ ],
+ [
+  "https://microsoft.com/students",
+  200,
+  "https://www.microsoft.com/en-us/education/students",
+  "Free Technology &amp; Software for Students (Microsoft Office, Microsoft 365, Word, Excel)"
+ ],
+ [
+  "https://www.microsoft.com/en-us/education?icid=CNavMSCOML0_Studentsandeducation",
+  200,
+  "https://www.microsoft.com/en-us/education?icid=CNavMSCOML0_Studentsandeducation",
+  "Education Technology Solutions with AI | Microsoft for Education"
+ ],
+ [
+  "https://nvidia.com/ambassador",
+  404,
+  "https://www.nvidia.com/ambassador/",
+  "Page Not Found | NVIDIA"
+ ],
+ [
+  "https://nvidia.com/ambassador-program",
+  404,
+  "https://www.nvidia.com/ambassador-program/",
+  "Page Not Found | NVIDIA"
+ ],
+ [
+  "https://nvidia.com/ambassadors",
+  404,
+  "https://www.nvidia.com/ambassadors/",
+  "Page Not Found | NVIDIA"
+ ],
+ [
+  "https://nvidia.com/campus",
+  404,
+  "https://www.nvidia.com/campus/",
+  "Page Not Found | NVIDIA"
+ ],
+ [
+  "https://nvidia.com/campus-ambassador",
+  404,
+  "https://www.nvidia.com/campus-ambassador/",
+  "Page Not Found | NVIDIA"
+ ],
+ [
+  "https://nvidia.com/community/ambassadors",
+  404,
+  "https://www.nvidia.com/community/ambassadors/",
+  "Page Not Found | NVIDIA"
+ ],
+ [
+  "https://nvidia.com/student-ambassador",
+  404,
+  "https://www.nvidia.com/student-ambassador/",
+  "Page Not Found | NVIDIA"
+ ],
+ [
+  "https://nvidia.com/students",
+  404,
+  "https://www.nvidia.com/students/",
+  "Page Not Found | NVIDIA"
+ ],
+ [
+  "https://amd.com/ambassador",
+  404,
+  "https://www.amd.com/en/site-notifications/404.html?ref=/ambassador",
+  "404 Page Not Found"
+ ],
+ [
+  "https://amd.com/ambassador-program",
+  404,
+  "https://www.amd.com/en/site-notifications/404.html?ref=/ambassador-program",
+  "404 Page Not Found"
+ ],
+ [
+  "https://amd.com/ambassadors",
+  404,
+  "https://www.amd.com/en/site-notifications/404.html?ref=/ambassadors",
+  "404 Page Not Found"
+ ],
+ [
+  "https://amd.com/campus",
+  404,
+  "https://www.amd.com/en/site-notifications/404.html?ref=/campus",
+  "404 Page Not Found"
+ ],
+ [
+  "https://amd.com/campus-ambassador",
+  404,
+  "https://www.amd.com/en/site-notifications/404.html?ref=/campus-ambassador",
+  "404 Page Not Found"
+ ],
+ [
+  "https://amd.com/community/ambassadors",
+  404,
+  "https://www.amd.com/en/site-notifications/404.html?ref=/community/ambassadors",
+  "404 Page Not Found"
+ ],
+ [
+  "https://amd.com/student-ambassador",
+  404,
+  "https://www.amd.com/en/site-notifications/404.html?ref=/student-ambassador",
+  "404 Page Not Found"
+ ],
+ [
+  "https://amd.com/students",
+  200,
+  "https://www.amd.com/en/corporate/careers/student-programs.html?utm_campaign=students&utm_medium=redirect&utm_source=301",
+  "AMD Student Programs | AI and Engineering Internships"
+ ],
+ [
+  "https://intel.com/ambassador",
+  403,
+  "https://www.intel.com/ambassador",
+  "Access Denied"
+ ],
+ [
+  "https://intel.com/ambassador-program",
+  403,
+  "https://www.intel.com/ambassador-program",
+  "Access Denied"
+ ],
+ [
+  "https://intel.com/ambassadors",
+  403,
+  "https://www.intel.com/ambassadors",
+  "Access Denied"
+ ],
+ [
+  "https://intel.com/campus",
+  403,
+  "https://www.intel.com/campus",
+  "Access Denied"
+ ],
+ [
+  "https://intel.com/campus-ambassador",
+  403,
+  "https://www.intel.com/campus-ambassador",
+  "Access Denied"
+ ],
+ [
+  "https://intel.com/community/ambassadors",
+  403,
+  "https://www.intel.com/community/ambassadors",
+  "Access Denied"
+ ],
+ [
+  "https://intel.com/student-ambassador",
+  403,
+  "https://www.intel.com/student-ambassador",
+  "Access Denied"
+ ],
+ [
+  "https://intel.com/students",
+  403,
+  "https://www.intel.com/students",
+  "Access Denied"
+ ],
+ [
+  "https://qualcomm.com/ambassador",
+  404,
+  "https://www.qualcomm.com/ambassador",
+  ""
+ ],
+ [
+  "https://qualcomm.com/ambassador-program",
+  404,
+  "https://www.qualcomm.com/ambassador-program",
+  ""
+ ],
+ [
+  "https://qualcomm.com/ambassadors",
+  404,
+  "https://www.qualcomm.com/ambassadors",
+  ""
+ ],
+ [
+  "https://qualcomm.com/campus",
+  200,
+  "https://www.qualcomm.com/company/careers/internships-and-early-in-career-opportunities",
+  "Internship and Career Opportunities | Students and Early Career Professionals | Qualcomm"
+ ],
+ [
+  "https://qualcomm.com/campus-ambassador",
+  404,
+  "https://www.qualcomm.com/campus-ambassador",
+  ""
+ ],
+ [
+  "https://qualcomm.com/community/ambassadors",
+  404,
+  "https://www.qualcomm.com/community/ambassadors",
+  ""
+ ],
+ [
+  "https://qualcomm.com/student-ambassador",
+  404,
+  "https://www.qualcomm.com/student-ambassador",
+  ""
+ ],
+ [
+  "https://qualcomm.com/students",
+  404,
+  "https://www.qualcomm.com/students",
+  ""
+ ],
+ [
+  "https://ibm.com/ambassador",
+  404,
+  "https://www.ibm.com/ambassador",
+  "IBM notice: The page you requested cannot be displayed"
+ ],
+ [
+  "https://ibm.com/ambassador-program",
+  404,
+  "https://www.ibm.com/ambassador-program",
+  "IBM notice: The page you requested cannot be displayed"
+ ],
+ [
+  "https://ibm.com/ambassadors",
+  404,
+  "https://www.ibm.com/ambassadors",
+  "IBM notice: The page you requested cannot be displayed"
+ ],
+ [
+  "https://ibm.com/campus",
+  404,
+  "https://www.ibm.com/campus",
+  "IBM notice: The page you requested cannot be displayed"
+ ],
+ [
+  "https://ibm.com/campus-ambassador",
+  404,
+  "https://www.ibm.com/campus-ambassador",
+  "IBM notice: The page you requested cannot be displayed"
+ ],
+ [
+  "https://ibm.com/community/ambassadors",
+  404,
+  "https://www.ibm.com/community/ambassadors",
+  "IBM notice: The page you requested cannot be displayed"
+ ],
+ [
+  "https://ibm.com/student-ambassador",
+  404,
+  "https://www.ibm.com/student-ambassador",
+  "IBM notice: The page you requested cannot be displayed"
+ ],
+ [
+  "https://ibm.com/students",
+  404,
+  "https://www.ibm.com/students",
+  "IBM notice: The page you requested cannot be displayed"
+ ],
+ [
+  "https://skillsbuild.org/university/students?lnk=hptr1in/?utm_source=ibm.com&utm_campaign=ibmus&utm_medium=organic",
+  200,
+  "https://skillsbuild.org/university/students?lnk=hptr1in/?utm_source=ibm.com&utm_campaign=ibmus&utm_medium=organic",
+  "IBM SkillsBuild for University Students | Free AI &amp; Career Skills Training"
+ ],
+ [
+  "https://mistral.ai/ambassador",
+  404,
+  "https://mistral.ai/ambassador",
+  "Frontier AI LLMs, assistants, agents, services | Mistral AI"
+ ],
+ [
+  "https://mistral.ai/ambassador-program",
+  404,
+  "https://mistral.ai/ambassador-program",
+  "Frontier AI LLMs, assistants, agents, services | Mistral AI"
+ ],
+ [
+  "https://mistral.ai/ambassadors",
+  404,
+  "https://mistral.ai/ambassadors",
+  "Frontier AI LLMs, assistants, agents, services | Mistral AI"
+ ],
+ [
+  "https://mistral.ai/campus",
+  404,
+  "https://mistral.ai/campus",
+  "Frontier AI LLMs, assistants, agents, services | Mistral AI"
+ ],
+ [
+  "https://mistral.ai/campus-ambassador",
+  404,
+  "https://mistral.ai/campus-ambassador",
+  "Frontier AI LLMs, assistants, agents, services | Mistral AI"
+ ],
+ [
+  "https://mistral.ai/community/ambassadors",
+  404,
+  "https://mistral.ai/community/ambassadors",
+  "Frontier AI LLMs, assistants, agents, services | Mistral AI"
+ ],
+ [
+  "https://mistral.ai/student-ambassador",
+  404,
+  "https://mistral.ai/student-ambassador",
+  "Frontier AI LLMs, assistants, agents, services | Mistral AI"
+ ],
+ [
+  "https://mistral.ai/students",
+  404,
+  "https://mistral.ai/students",
+  "Frontier AI LLMs, assistants, agents, services | Mistral AI"
+ ],
+ [
+  "https://cohere.com/ambassador",
+  404,
+  "https://cohere.com/ambassador",
+  ""
+ ],
+ [
+  "https://cohere.com/ambassador-program",
+  404,
+  "https://cohere.com/ambassador-program",
+  ""
+ ],
+ [
+  "https://cohere.com/ambassadors",
+  404,
+  "https://cohere.com/ambassadors",
+  ""
+ ],
+ [
+  "https://cohere.com/campus",
+  404,
+  "https://cohere.com/campus",
+  ""
+ ],
+ [
+  "https://cohere.com/campus-ambassador",
+  404,
+  "https://cohere.com/campus-ambassador",
+  ""
+ ],
+ [
+  "https://cohere.com/community/ambassadors",
+  404,
+  "https://cohere.com/community/ambassadors",
+  ""
+ ],
+ [
+  "https://cohere.com/student-ambassador",
+  404,
+  "https://cohere.com/student-ambassador",
+  ""
+ ],
+ [
+  "https://cohere.com/students",
+  200,
+  "https://cohere.com/contact-sales",
+  "Contact Sales | Secure and Scalable AI | Cohere"
+ ],
+ [
+  "https://huggingface.co/ambassador",
+  200,
+  "https://huggingface.co/ambassador",
+  "ambassador (Alistair Kier Tamonan)"
+ ],
+ [
+  "https://huggingface.co/ambassador-program",
+  404,
+  "https://huggingface.co/ambassador-program",
+  "404 \u2013 Hugging Face"
+ ],
+ [
+  "https://huggingface.co/ambassadors",
+  404,
+  "https://huggingface.co/ambassadors",
+  "404 \u2013 Hugging Face"
+ ],
+ [
+  "https://huggingface.co/campus",
+  200,
+  "https://huggingface.co/Campus",
+  "Campus (Mein Campus)"
+ ],
+ [
+  "https://huggingface.co/campus-ambassador",
+  404,
+  "https://huggingface.co/campus-ambassador",
+  "404 \u2013 Hugging Face"
+ ],
+ [
+  "https://huggingface.co/community/ambassadors",
+  401,
+  "https://huggingface.co/community/ambassadors",
+  "404 \u2013 Hugging Face"
+ ],
+ [
+  "https://huggingface.co/student-ambassador",
+  404,
+  "https://huggingface.co/student-ambassador",
+  "404 \u2013 Hugging Face"
+ ],
+ [
+  "https://huggingface.co/students",
+  200,
+  "https://huggingface.co/Students",
+  "Students (Profile)"
+ ],
+ [
+  "https://deepseek.com/ambassador",
+  404,
+  "https://deepseek.com/ambassador",
+  "DeepSeek | \u00e6\u00b7\u00b1\u00e5\u00ba\u00a6\u00e6\u00b1\u0082\u00e7\u00b4\u00a2"
+ ],
+ [
+  "https://deepseek.com/ambassador-program",
+  404,
+  "https://deepseek.com/ambassador-program",
+  "DeepSeek | \u00e6\u00b7\u00b1\u00e5\u00ba\u00a6\u00e6\u00b1\u0082\u00e7\u00b4\u00a2"
+ ],
+ [
+  "https://deepseek.com/ambassadors",
+  404,
+  "https://deepseek.com/ambassadors",
+  "DeepSeek | \u00e6\u00b7\u00b1\u00e5\u00ba\u00a6\u00e6\u00b1\u0082\u00e7\u00b4\u00a2"
+ ],
+ [
+  "https://deepseek.com/campus",
+  404,
+  "https://deepseek.com/campus",
+  "DeepSeek | \u00e6\u00b7\u00b1\u00e5\u00ba\u00a6\u00e6\u00b1\u0082\u00e7\u00b4\u00a2"
+ ],
+ [
+  "https://deepseek.com/campus-ambassador",
+  404,
+  "https://deepseek.com/campus-ambassador",
+  "DeepSeek | \u00e6\u00b7\u00b1\u00e5\u00ba\u00a6\u00e6\u00b1\u0082\u00e7\u00b4\u00a2"
+ ],
+ [
+  "https://deepseek.com/community/ambassadors",
+  404,
+  "https://deepseek.com/community/ambassadors",
+  "DeepSeek | \u00e6\u00b7\u00b1\u00e5\u00ba\u00a6\u00e6\u00b1\u0082\u00e7\u00b4\u00a2"
+ ],
+ [
+  "https://deepseek.com/student-ambassador",
+  404,
+  "https://deepseek.com/student-ambassador",
+  "DeepSeek | \u00e6\u00b7\u00b1\u00e5\u00ba\u00a6\u00e6\u00b1\u0082\u00e7\u00b4\u00a2"
+ ],
+ [
+  "https://deepseek.com/students",
+  404,
+  "https://deepseek.com/students",
+  "DeepSeek | \u00e6\u00b7\u00b1\u00e5\u00ba\u00a6\u00e6\u00b1\u0082\u00e7\u00b4\u00a2"
+ ],
+ [
+  "https://qwen.ai/ambassador",
+  200,
+  "https://qwen.ai/ambassador",
+  "Qwen"
+ ],
+ [
+  "https://qwen.ai/ambassador-program",
+  200,
+  "https://qwen.ai/ambassador-program",
+  "Qwen"
+ ],
+ [
+  "https://qwen.ai/ambassadors",
+  200,
+  "https://qwen.ai/ambassadors",
+  "Qwen"
+ ],
+ [
+  "https://qwen.ai/campus",
+  200,
+  "https://qwen.ai/",
+  "Qwen"
+ ],
+ [
+  "https://qwen.ai/campus-ambassador",
+  200,
+  "https://qwen.ai/",
+  "Qwen"
+ ],
+ [
+  "https://qwen.ai/community/ambassadors",
+  200,
+  "https://qwen.ai/community/ambassadors",
+  "Qwen"
+ ],
+ [
+  "https://qwen.ai/student-ambassador",
+  200,
+  "https://qwen.ai/",
+  "Qwen"
+ ],
+ [
+  "https://qwen.ai/students",
+  200,
+  "https://qwen.ai/",
+  "Qwen"
+ ],
+ [
+  "https://kimi.ai/ambassador",
+  200,
+  "https://www.kimi.ai/",
+  "Kimi AI with K3.1 Pro | Built for Coding &amp; Agentic Work"
+ ],
+ [
+  "https://kimi.ai/ambassador-program",
+  200,
+  "https://www.kimi.ai/",
+  "Kimi AI with K3.1 Pro | Built for Coding &amp; Agentic Work"
+ ],
+ [
+  "https://kimi.ai/ambassadors",
+  200,
+  "https://www.kimi.ai/",
+  "Kimi AI with K3.1 Pro | Built for Coding &amp; Agentic Work"
+ ],
+ [
+  "https://kimi.ai/campus",
+  200,
+  "https://www.kimi.ai/",
+  "Kimi AI with K3.1 Pro | Built for Coding &amp; Agentic Work"
+ ],
+ [
+  "https://kimi.ai/campus-ambassador",
+  200,
+  "https://www.kimi.ai/",
+  "Kimi AI with K3.1 Pro | Built for Coding &amp; Agentic Work"
+ ],
+ [
+  "https://kimi.ai/community/ambassadors",
+  200,
+  "https://www.kimi.ai/",
+  "Kimi AI with K3.1 Pro | Built for Coding &amp; Agentic Work"
+ ],
+ [
+  "https://kimi.ai/student-ambassador",
+  200,
+  "https://www.kimi.ai/",
+  "Kimi AI with K3.1 Pro | Built for Coding &amp; Agentic Work"
+ ],
+ [
+  "https://kimi.ai/students",
+  200,
+  "https://www.kimi.ai/",
+  "Kimi AI with K3.1 Pro | Built for Coding &amp; Agentic Work"
+ ],
+ [
+  "https://bytedance.com/ambassador",
+  404,
+  "https://www.bytedance.com/ambassador",
+  "Page not found - ByteDance"
+ ],
+ [
+  "https://bytedance.com/ambassador-program",
+  404,
+  "https://www.bytedance.com/ambassador-program",
+  "Page not found - ByteDance"
+ ],
+ [
+  "https://bytedance.com/ambassadors",
+  404,
+  "https://www.bytedance.com/ambassadors",
+  "Page not found - ByteDance"
+ ],
+ [
+  "https://bytedance.com/campus",
+  404,
+  "https://www.bytedance.com/campus",
+  "Page not found - ByteDance"
+ ],
+ [
+  "https://bytedance.com/campus-ambassador",
+  404,
+  "https://www.bytedance.com/campus-ambassador",
+  "Page not found - ByteDance"
+ ],
+ [
+  "https://bytedance.com/community/ambassadors",
+  404,
+  "https://www.bytedance.com/community/ambassadors",
+  "Page not found - ByteDance"
+ ],
+ [
+  "https://bytedance.com/student-ambassador",
+  404,
+  "https://www.bytedance.com/student-ambassador",
+  "Page not found - ByteDance"
+ ],
+ [
+  "https://bytedance.com/students",
+  404,
+  "https://www.bytedance.com/students",
+  "Page not found - ByteDance"
+ ],
+ [
+  "https://tencent.com/ambassador",
+  "ERR",
+  "https://tencent.com/ambassador",
+  "HTTPSConnectionPool(host='tencent.com', port=443): Max retri"
+ ],
+ [
+  "https://tencent.com/ambassador-program",
+  "ERR",
+  "https://tencent.com/ambassador-program",
+  "HTTPSConnectionPool(host='tencent.com', port=443): Read time"
+ ],
+ [
+  "https://tencent.com/ambassadors",
+  "ERR",
+  "https://tencent.com/ambassadors",
+  "HTTPSConnectionPool(host='tencent.com', port=443): Max retri"
+ ],
+ [
+  "https://tencent.com/campus",
+  "ERR",
+  "https://tencent.com/campus",
+  "HTTPSConnectionPool(host='tencent.com', port=443): Read time"
+ ],
+ [
+  "https://tencent.com/campus-ambassador",
+  "ERR",
+  "https://tencent.com/campus-ambassador",
+  "HTTPSConnectionPool(host='tencent.com', port=443): Max retri"
+ ],
+ [
+  "https://tencent.com/community/ambassadors",
+  "ERR",
+  "https://tencent.com/community/ambassadors",
+  "HTTPSConnectionPool(host='tencent.com', port=443): Read time"
+ ],
+ [
+  "https://tencent.com/student-ambassador",
+  "ERR",
+  "https://tencent.com/student-ambassador",
+  "HTTPSConnectionPool(host='tencent.com', port=443): Read time"
+ ],
+ [
+  "https://tencent.com/students",
+  "ERR",
+  "https://tencent.com/students",
+  "HTTPSConnectionPool(host='tencent.com', port=443): Read time"
+ ],
+ [
+  "https://baidu.com/ambassador",
+  "ERR",
+  "https://baidu.com/ambassador",
+  "HTTPSConnectionPool(host='www.baidu.com', port=443): Max ret"
+ ],
+ [
+  "https://baidu.com/ambassador-program",
+  "ERR",
+  "https://baidu.com/ambassador-program",
+  "HTTPSConnectionPool(host='www.baidu.com', port=443): Max ret"
+ ],
+ [
+  "https://baidu.com/ambassadors",
+  "ERR",
+  "https://baidu.com/ambassadors",
+  "HTTPSConnectionPool(host='www.baidu.com', port=443): Max ret"
+ ],
+ [
+  "https://baidu.com/campus",
+  "ERR",
+  "https://baidu.com/campus",
+  "HTTPSConnectionPool(host='www.baidu.com', port=443): Max ret"
+ ],
+ [
+  "https://baidu.com/campus-ambassador",
+  "ERR",
+  "https://baidu.com/campus-ambassador",
+  "HTTPSConnectionPool(host='www.baidu.com', port=443): Max ret"
+ ],
+ [
+  "https://baidu.com/community/ambassadors",
+  "ERR",
+  "https://baidu.com/community/ambassadors",
+  "HTTPSConnectionPool(host='www.baidu.com', port=443): Max ret"
+ ],
+ [
+  "https://baidu.com/student-ambassador",
+  "ERR",
+  "https://baidu.com/student-ambassador",
+  "HTTPSConnectionPool(host='www.baidu.com', port=443): Max ret"
+ ],
+ [
+  "https://baidu.com/students",
+  "ERR",
+  "https://baidu.com/students",
+  "HTTPSConnectionPool(host='www.baidu.com', port=443): Max ret"
+ ],
+ [
+  "https://sensetime.com/ambassador",
+  200,
+  "https://sensetime.com/cn/",
+  "\u00e5\u0095\u0086\u00e6\u00b1\u00a4\u00e7\u00a7\u0091\u00e6\u008a\u0080 SenseTime"
+ ],
+ [
+  "https://sensetime.com/ambassador-program",
+  200,
+  "https://sensetime.com/cn/",
+  "\u00e5\u0095\u0086\u00e6\u00b1\u00a4\u00e7\u00a7\u0091\u00e6\u008a\u0080 SenseTime"
+ ],
+ [
+  "https://sensetime.com/ambassadors",
+  200,
+  "https://sensetime.com/cn/",
+  "\u00e5\u0095\u0086\u00e6\u00b1\u00a4\u00e7\u00a7\u0091\u00e6\u008a\u0080 SenseTime"
+ ],
+ [
+  "https://sensetime.com/campus",
+  200,
+  "https://sensetime.com/cn/",
+  "\u00e5\u0095\u0086\u00e6\u00b1\u00a4\u00e7\u00a7\u0091\u00e6\u008a\u0080 SenseTime"
+ ],
+ [
+  "https://sensetime.com/campus-ambassador",
+  200,
+  "https://sensetime.com/cn/",
+  "\u00e5\u0095\u0086\u00e6\u00b1\u00a4\u00e7\u00a7\u0091\u00e6\u008a\u0080 SenseTime"
+ ],
+ [
+  "https://sensetime.com/community/ambassadors",
+  200,
+  "https://sensetime.com/cn/",
+  "\u00e5\u0095\u0086\u00e6\u00b1\u00a4\u00e7\u00a7\u0091\u00e6\u008a\u0080 SenseTime"
+ ],
+ [
+  "https://sensetime.com/student-ambassador",
+  200,
+  "https://sensetime.com/cn/",
+  "\u00e5\u0095\u0086\u00e6\u00b1\u00a4\u00e7\u00a7\u0091\u00e6\u008a\u0080 SenseTime"
+ ],
+ [
+  "https://sensetime.com/students",
+  200,
+  "https://sensetime.com/cn/",
+  "\u00e5\u0095\u0086\u00e6\u00b1\u00a4\u00e7\u00a7\u0091\u00e6\u008a\u0080 SenseTime"
+ ],
+ [
+  "https://baichuan-ai.com/ambassador",
+  404,
+  "https://www.baichuan-ai.com/ambassador",
+  "\u767e\u5ddd\u5927\u6a21\u578b-\u767e\u5ddd\u667a\u80fd"
+ ],
+ [
+  "https://baichuan-ai.com/ambassador-program",
+  404,
+  "https://www.baichuan-ai.com/ambassador-program",
+  "\u767e\u5ddd\u5927\u6a21\u578b-\u767e\u5ddd\u667a\u80fd"
+ ],
+ [
+  "https://baichuan-ai.com/ambassadors",
+  404,
+  "https://www.baichuan-ai.com/ambassadors",
+  "\u767e\u5ddd\u5927\u6a21\u578b-\u767e\u5ddd\u667a\u80fd"
+ ],
+ [
+  "https://baichuan-ai.com/campus",
+  404,
+  "https://www.baichuan-ai.com/campus",
+  "\u767e\u5ddd\u5927\u6a21\u578b-\u767e\u5ddd\u667a\u80fd"
+ ],
+ [
+  "https://baichuan-ai.com/campus-ambassador",
+  404,
+  "https://www.baichuan-ai.com/campus-ambassador",
+  "\u767e\u5ddd\u5927\u6a21\u578b-\u767e\u5ddd\u667a\u80fd"
+ ],
+ [
+  "https://baichuan-ai.com/community/ambassadors",
+  404,
+  "https://www.baichuan-ai.com/community/ambassadors",
+  "\u767e\u5ddd\u5927\u6a21\u578b-\u767e\u5ddd\u667a\u80fd"
+ ],
+ [
+  "https://baichuan-ai.com/student-ambassador",
+  404,
+  "https://www.baichuan-ai.com/student-ambassador",
+  "\u767e\u5ddd\u5927\u6a21\u578b-\u767e\u5ddd\u667a\u80fd"
+ ],
+ [
+  "https://baichuan-ai.com/students",
+  404,
+  "https://www.baichuan-ai.com/students",
+  "\u767e\u5ddd\u5927\u6a21\u578b-\u767e\u5ddd\u667a\u80fd"
+ ],
+ [
+  "https://liquid.ai/ambassador",
+  404,
+  "https://www.liquid.ai/ambassador",
+  "Liquid AI | Device-native foundation models."
+ ],
+ [
+  "https://liquid.ai/ambassador-program",
+  404,
+  "https://www.liquid.ai/ambassador-program",
+  "Liquid AI | Device-native foundation models."
+ ],
+ [
+  "https://liquid.ai/ambassadors",
+  404,
+  "https://www.liquid.ai/ambassadors",
+  "Liquid AI | Device-native foundation models."
+ ],
+ [
+  "https://liquid.ai/campus",
+  404,
+  "https://www.liquid.ai/campus",
+  "Liquid AI | Device-native foundation models."
+ ],
+ [
+  "https://liquid.ai/campus-ambassador",
+  404,
+  "https://www.liquid.ai/campus-ambassador",
+  "Liquid AI | Device-native foundation models."
+ ],
+ [
+  "https://liquid.ai/community/ambassadors",
+  404,
+  "https://www.liquid.ai/community/ambassadors",
+  "Liquid AI | Device-native foundation models."
+ ],
+ [
+  "https://liquid.ai/student-ambassador",
+  404,
+  "https://www.liquid.ai/student-ambassador",
+  "Liquid AI | Device-native foundation models."
+ ],
+ [
+  "https://liquid.ai/students",
+  404,
+  "https://www.liquid.ai/students",
+  "Liquid AI | Device-native foundation models."
+ ],
+ [
+  "https://groq.com/ambassador",
+  404,
+  "https://groq.com/ambassador",
+  "Groq is the premier neocloud for fast inference"
+ ],
+ [
+  "https://groq.com/ambassador-program",
+  404,
+  "https://groq.com/ambassador-program",
+  "Groq is the premier neocloud for fast inference"
+ ],
+ [
+  "https://groq.com/ambassadors",
+  404,
+  "https://groq.com/ambassadors",
+  "Groq is the premier neocloud for fast inference"
+ ],
+ [
+  "https://groq.com/campus",
+  404,
+  "https://groq.com/campus",
+  "Groq is the premier neocloud for fast inference"
+ ],
+ [
+  "https://groq.com/campus-ambassador",
+  404,
+  "https://groq.com/campus-ambassador",
+  "Groq is the premier neocloud for fast inference"
+ ],
+ [
+  "https://groq.com/community/ambassadors",
+  404,
+  "https://groq.com/community/ambassadors",
+  "Groq is the premier neocloud for fast inference"
+ ],
+ [
+  "https://groq.com/student-ambassador",
+  404,
+  "https://groq.com/student-ambassador",
+  "Groq is the premier neocloud for fast inference"
+ ],
+ [
+  "https://groq.com/students",
+  404,
+  "https://groq.com/students",
+  "Groq is the premier neocloud for fast inference"
+ ],
+ [
+  "https://cerebras.ai/ambassador",
+  404,
+  "https://www.cerebras.ai/ambassador",
+  "Cerebras"
+ ],
+ [
+  "https://cerebras.ai/ambassador-program",
+  404,
+  "https://www.cerebras.ai/ambassador-program",
+  "Cerebras"
+ ],
+ [
+  "https://cerebras.ai/ambassadors",
+  200,
+  "https://www.cerebras.ai/ambassadors",
+  "Cerebras Ambassadors Program"
+ ],
+ [
+  "https://cerebras.ai/campus",
+  404,
+  "https://www.cerebras.ai/campus",
+  "Cerebras"
+ ],
+ [
+  "https://cerebras.ai/campus-ambassador",
+  404,
+  "https://www.cerebras.ai/campus-ambassador",
+  "Cerebras"
+ ],
+ [
+  "https://cerebras.ai/community/ambassadors",
+  404,
+  "https://www.cerebras.ai/community/ambassadors",
+  "Cerebras"
+ ],
+ [
+  "https://cerebras.ai/student-ambassador",
+  404,
+  "https://www.cerebras.ai/student-ambassador",
+  "Cerebras"
+ ],
+ [
+  "https://cerebras.ai/students",
+  404,
+  "https://www.cerebras.ai/students",
+  "Cerebras"
+ ],
+ [
+  "https://perplexity.ai/ambassador",
+  403,
+  "https://www.perplexity.ai/ambassador",
+  "Just a moment..."
+ ],
+ [
+  "https://perplexity.ai/ambassador-program",
+  403,
+  "https://www.perplexity.ai/ambassador-program",
+  "Just a moment..."
+ ],
+ [
+  "https://perplexity.ai/ambassadors",
+  403,
+  "https://www.perplexity.ai/ambassadors",
+  "Just a moment..."
+ ],
+ [
+  "https://perplexity.ai/campus",
+  403,
+  "https://www.perplexity.ai/campus",
+  "Just a moment..."
+ ],
+ [
+  "https://perplexity.ai/campus-ambassador",
+  403,
+  "https://www.perplexity.ai/campus-ambassador",
+  "Just a moment..."
+ ],
+ [
+  "https://perplexity.ai/community/ambassadors",
+  403,
+  "https://www.perplexity.ai/community/ambassadors",
+  "Just a moment..."
+ ],
+ [
+  "https://perplexity.ai/student-ambassador",
+  403,
+  "https://www.perplexity.ai/student-ambassador",
+  "Just a moment..."
+ ],
+ [
+  "https://perplexity.ai/students",
+  403,
+  "https://www.perplexity.ai/students",
+  "Just a moment..."
+ ],
+ [
+  "https://x.ai/ambassador",
+  404,
+  "https://x.ai/ambassador",
+  "SpaceXSI"
+ ],
+ [
+  "https://x.ai/ambassador-program",
+  404,
+  "https://x.ai/ambassador-program",
+  "SpaceXSI"
+ ],
+ [
+  "https://x.ai/ambassadors",
+  404,
+  "https://x.ai/ambassadors",
+  "SpaceXSI"
+ ],
+ [
+  "https://x.ai/campus",
+  404,
+  "https://x.ai/campus",
+  "SpaceXSI"
+ ],
+ [
+  "https://x.ai/campus-ambassador",
+  404,
+  "https://x.ai/campus-ambassador",
+  "SpaceXSI"
+ ],
+ [
+  "https://x.ai/community/ambassadors",
+  404,
+  "https://x.ai/community/ambassadors",
+  "SpaceXSI"
+ ],
+ [
+  "https://x.ai/student-ambassador",
+  404,
+  "https://x.ai/student-ambassador",
+  "SpaceXSI"
+ ],
+ [
+  "https://x.ai/students",
+  404,
+  "https://x.ai/students",
+  "SpaceXSI"
+ ],
+ [
+  "https://stability.ai/ambassador",
+  404,
+  "https://stability.ai/ambassador",
+  "404 | Discover AI Solutions &mdash; Get Started Today &mdash; Stability AI"
+ ],
+ [
+  "https://stability.ai/ambassador-program",
+  404,
+  "https://stability.ai/ambassador-program",
+  "404 | Discover AI Solutions &mdash; Get Started Today &mdash; Stability AI"
+ ],
+ [
+  "https://stability.ai/ambassadors",
+  404,
+  "https://stability.ai/ambassadors",
+  "404 | Discover AI Solutions &mdash; Get Started Today &mdash; Stability AI"
+ ],
+ [
+  "https://stability.ai/campus",
+  404,
+  "https://stability.ai/campus",
+  "404 | Discover AI Solutions &mdash; Get Started Today &mdash; Stability AI"
+ ],
+ [
+  "https://stability.ai/campus-ambassador",
+  404,
+  "https://stability.ai/campus-ambassador",
+  "404 | Discover AI Solutions &mdash; Get Started Today &mdash; Stability AI"
+ ],
+ [
+  "https://stability.ai/community/ambassadors",
+  404,
+  "https://stability.ai/community/ambassadors",
+  "404 | Discover AI Solutions &mdash; Get Started Today &mdash; Stability AI"
+ ],
+ [
+  "https://stability.ai/customer-stories/stride-learning-cultivates-student-creativity-using-stability-ai-in-amazon-bedrock",
+  200,
+  "https://stability.ai/customer-stories/stride-learning-cultivates-student-creativity-using-stability-ai-in-amazon-bedrock",
+  "Stride Learning Cultivates Student Creativity Using Stability AI in Amazon Bedrock &mdash;"
+ ],
+ [
+  "https://stability.ai/student-ambassador",
+  404,
+  "https://stability.ai/student-ambassador",
+  "404 | Discover AI Solutions &mdash; Get Started Today &mdash; Stability AI"
+ ],
+ [
+  "https://stability.ai/students",
+  404,
+  "https://stability.ai/students",
+  "404 | Discover AI Solutions &mdash; Get Started Today &mdash; Stability AI"
+ ],
+ [
+  "https://character.ai/ambassador",
+  403,
+  "https://character.ai/ambassador",
+  "Just a moment..."
+ ],
+ [
+  "https://character.ai/ambassador-program",
+  403,
+  "https://character.ai/ambassador-program",
+  "Just a moment..."
+ ],
+ [
+  "https://character.ai/ambassadors",
+  403,
+  "https://character.ai/ambassadors",
+  "Just a moment..."
+ ],
+ [
+  "https://character.ai/campus",
+  403,
+  "https://character.ai/campus",
+  "Just a moment..."
+ ],
+ [
+  "https://character.ai/campus-ambassador",
+  403,
+  "https://character.ai/campus-ambassador",
+  "Just a moment..."
+ ],
+ [
+  "https://character.ai/community/ambassadors",
+  403,
+  "https://character.ai/community/ambassadors",
+  "Just a moment..."
+ ],
+ [
+  "https://character.ai/student-ambassador",
+  403,
+  "https://character.ai/student-ambassador",
+  "Just a moment..."
+ ],
+ [
+  "https://character.ai/students",
+  403,
+  "https://character.ai/students",
+  "Just a moment..."
+ ],
+ [
+  "https://elevenlabs.io/ambassador",
+  200,
+  "https://elevenlabs.io/ambassador",
+  "Host events, create content with the ElevenLabs Ambassador Program"
+ ],
+ [
+  "https://elevenlabs.io/ambassador-program",
+  404,
+  "https://elevenlabs.io/ambassador-program",
+  "ElevenLabs"
+ ],
+ [
+  "https://elevenlabs.io/ambassadors",
+  404,
+  "https://elevenlabs.io/ambassadors",
+  "ElevenLabs"
+ ],
+ [
+  "https://elevenlabs.io/campus",
+  404,
+  "https://elevenlabs.io/campus",
+  "ElevenLabs"
+ ],
+ [
+  "https://elevenlabs.io/campus-ambassador",
+  404,
+  "https://elevenlabs.io/campus-ambassador",
+  "ElevenLabs"
+ ],
+ [
+  "https://elevenlabs.io/community/ambassadors",
+  404,
+  "https://elevenlabs.io/community/ambassadors",
+  "ElevenLabs"
+ ],
+ [
+  "https://elevenlabs.io/student-ambassador",
+  404,
+  "https://elevenlabs.io/student-ambassador",
+  "ElevenLabs"
+ ],
+ [
+  "https://elevenlabs.io/students",
+  200,
+  "https://elevenlabs.io/students",
+  "ElevenLabs for Students"
+ ],
+ [
+  "https://suno.com/ambassador",
+  404,
+  "https://suno.com/ambassador",
+  "Page not found | Suno"
+ ],
+ [
+  "https://suno.com/ambassador-program",
+  404,
+  "https://suno.com/ambassador-program",
+  "Page not found | Suno"
+ ],
+ [
+  "https://suno.com/ambassadors",
+  404,
+  "https://suno.com/ambassadors",
+  "Page not found | Suno"
+ ],
+ [
+  "https://suno.com/campus",
+  404,
+  "https://suno.com/campus",
+  "Page not found | Suno"
+ ],
+ [
+  "https://suno.com/campus-ambassador",
+  404,
+  "https://suno.com/campus-ambassador",
+  "Page not found | Suno"
+ ],
+ [
+  "https://suno.com/community/ambassadors",
+  404,
+  "https://suno.com/community/ambassadors",
+  "Page not found | Suno"
+ ],
+ [
+  "https://suno.com/student-ambassador",
+  404,
+  "https://suno.com/student-ambassador",
+  "Page not found | Suno"
+ ],
+ [
+  "https://suno.com/students",
+  404,
+  "https://suno.com/students",
+  "Page not found | Suno"
+ ],
+ [
+  "https://runwayml.com/ambassador",
+  404,
+  "https://runway.com/ambassador",
+  "404 | Runway"
+ ],
+ [
+  "https://runwayml.com/ambassador-program",
+  404,
+  "https://runway.com/ambassador-program",
+  "404 | Runway"
+ ],
+ [
+  "https://runwayml.com/ambassadors",
+  404,
+  "https://runway.com/ambassadors",
+  "404 | Runway"
+ ],
+ [
+  "https://runwayml.com/campus",
+  404,
+  "https://runway.com/campus",
+  "404 | Runway"
+ ],
+ [
+  "https://runwayml.com/campus-ambassador",
+  404,
+  "https://runway.com/campus-ambassador",
+  "404 | Runway"
+ ],
+ [
+  "https://runwayml.com/community/ambassadors",
+  404,
+  "https://runway.com/community/ambassadors",
+  "404 | Runway"
+ ],
+ [
+  "https://runwayml.com/student-ambassador",
+  404,
+  "https://runway.com/student-ambassador",
+  "404 | Runway"
+ ],
+ [
+  "https://runwayml.com/students",
+  404,
+  "https://runway.com/students",
+  "404 | Runway"
+ ],
+ [
+  "https://midjourney.com/ambassador",
+  403,
+  "https://midjourney.com/ambassador",
+  "Just a moment..."
+ ],
+ [
+  "https://midjourney.com/ambassador-program",
+  403,
+  "https://midjourney.com/ambassador-program",
+  "Just a moment..."
+ ],
+ [
+  "https://midjourney.com/ambassadors",
+  403,
+  "https://midjourney.com/ambassadors",
+  "Just a moment..."
+ ],
+ [
+  "https://midjourney.com/campus",
+  403,
+  "https://midjourney.com/campus",
+  "Just a moment..."
+ ],
+ [
+  "https://midjourney.com/campus-ambassador",
+  403,
+  "https://midjourney.com/campus-ambassador",
+  "Just a moment..."
+ ],
+ [
+  "https://midjourney.com/community/ambassadors",
+  403,
+  "https://midjourney.com/community/ambassadors",
+  "Just a moment..."
+ ],
+ [
+  "https://midjourney.com/student-ambassador",
+  403,
+  "https://midjourney.com/student-ambassador",
+  "Just a moment..."
+ ],
+ [
+  "https://midjourney.com/students",
+  403,
+  "https://midjourney.com/students",
+  "Just a moment..."
+ ],
+ [
+  "https://pika.art/ambassador",
+  200,
+  "https://create.pika.art/login?redirect=%2Fambassador",
+  "Log in \u2014 Pika"
+ ],
+ [
+  "https://pika.art/ambassador-program",
+  200,
+  "https://create.pika.art/login?redirect=%2Fambassador-program",
+  "Log in \u2014 Pika"
+ ],
+ [
+  "https://pika.art/ambassadors",
+  200,
+  "https://create.pika.art/login?redirect=%2Fambassadors",
+  "Log in \u2014 Pika"
+ ],
+ [
+  "https://pika.art/campus",
+  200,
+  "https://create.pika.art/login?redirect=%2Fcampus",
+  "Log in \u2014 Pika"
+ ],
+ [
+  "https://pika.art/campus-ambassador",
+  200,
+  "https://create.pika.art/login?redirect=%2Fcampus-ambassador",
+  "Log in \u2014 Pika"
+ ],
+ [
+  "https://pika.art/community/ambassadors",
+  200,
+  "https://create.pika.art/login?redirect=%2Fcommunity%2Fambassadors",
+  "Log in \u2014 Pika"
+ ],
+ [
+  "https://pika.art/student-ambassador",
+  200,
+  "https://create.pika.art/login?redirect=%2Fstudent-ambassador",
+  "Log in \u2014 Pika"
+ ],
+ [
+  "https://pika.art/students",
+  200,
+  "https://create.pika.art/login?redirect=%2Fstudents",
+  "Log in \u2014 Pika"
+ ],
+ [
+  "https://lumalabs.ai/ambassador",
+  404,
+  "https://lumalabs.ai/404",
+  ""
+ ],
+ [
+  "https://lumalabs.ai/ambassador-program",
+  404,
+  "https://lumalabs.ai/404",
+  ""
+ ],
+ [
+  "https://lumalabs.ai/ambassadors",
+  404,
+  "https://lumalabs.ai/404",
+  ""
+ ],
+ [
+  "https://lumalabs.ai/campus",
+  404,
+  "https://lumalabs.ai/404",
+  ""
+ ],
+ [
+  "https://lumalabs.ai/campus-ambassador",
+  404,
+  "https://lumalabs.ai/404",
+  ""
+ ],
+ [
+  "https://lumalabs.ai/community/ambassadors",
+  404,
+  "https://lumalabs.ai/community/ambassadors",
+  ""
+ ],
+ [
+  "https://lumalabs.ai/student-ambassador",
+  404,
+  "https://lumalabs.ai/404",
+  ""
+ ],
+ [
+  "https://lumalabs.ai/students",
+  404,
+  "https://lumalabs.ai/404",
+  ""
+ ],
+ [
+  "https://heygen.com/ambassador",
+  404,
+  "https://www.heygen.com/ambassador",
+  ""
+ ],
+ [
+  "https://heygen.com/ambassador-program",
+  404,
+  "https://www.heygen.com/ambassador-program",
+  ""
+ ],
+ [
+  "https://heygen.com/ambassadors",
+  404,
+  "https://www.heygen.com/ambassadors",
+  ""
+ ],
+ [
+  "https://heygen.com/campus",
+  404,
+  "https://www.heygen.com/campus",
+  ""
+ ],
+ [
+  "https://heygen.com/campus-ambassador",
+  404,
+  "https://www.heygen.com/campus-ambassador",
+  ""
+ ],
+ [
+  "https://heygen.com/community/ambassadors",
+  404,
+  "https://www.heygen.com/community/ambassadors",
+  ""
+ ],
+ [
+  "https://heygen.com/student-ambassador",
+  404,
+  "https://www.heygen.com/student-ambassador",
+  ""
+ ],
+ [
+  "https://heygen.com/students",
+  404,
+  "https://www.heygen.com/students",
+  ""
+ ],
+ [
+  "https://poolside.ai/ambassador",
+  404,
+  "https://poolside.ai/ambassador",
+  "Not found \u00e2\u0080\u0094 Poolside"
+ ],
+ [
+  "https://poolside.ai/ambassador-program",
+  404,
+  "https://poolside.ai/ambassador-program",
+  "Not found \u00e2\u0080\u0094 Poolside"
+ ],
+ [
+  "https://poolside.ai/ambassadors",
+  404,
+  "https://poolside.ai/ambassadors",
+  "Not found \u00e2\u0080\u0094 Poolside"
+ ],
+ [
+  "https://poolside.ai/campus",
+  404,
+  "https://poolside.ai/campus",
+  "Not found \u00e2\u0080\u0094 Poolside"
+ ],
+ [
+  "https://poolside.ai/campus-ambassador",
+  404,
+  "https://poolside.ai/campus-ambassador",
+  "Not found \u00e2\u0080\u0094 Poolside"
+ ],
+ [
+  "https://poolside.ai/community/ambassadors",
+  404,
+  "https://poolside.ai/community/ambassadors",
+  "Not found \u00e2\u0080\u0094 Poolside"
+ ],
+ [
+  "https://poolside.ai/student-ambassador",
+  404,
+  "https://poolside.ai/student-ambassador",
+  "Not found \u00e2\u0080\u0094 Poolside"
+ ],
+ [
+  "https://poolside.ai/students",
+  404,
+  "https://poolside.ai/students",
+  "Not found \u00e2\u0080\u0094 Poolside"
+ ],
+ [
+  "https://devin.ai/ambassador",
+  404,
+  "https://devin.ai/ambassador",
+  ""
+ ],
+ [
+  "https://devin.ai/ambassador-program",
+  404,
+  "https://devin.ai/ambassador-program",
+  ""
+ ],
+ [
+  "https://devin.ai/ambassadors",
+  404,
+  "https://devin.ai/ambassadors",
+  ""
+ ],
+ [
+  "https://devin.ai/campus",
+  404,
+  "https://devin.ai/campus",
+  ""
+ ],
+ [
+  "https://devin.ai/campus-ambassador",
+  404,
+  "https://devin.ai/campus-ambassador",
+  ""
+ ],
+ [
+  "https://devin.ai/community/ambassadors",
+  404,
+  "https://devin.ai/community/ambassadors",
+  ""
+ ],
+ [
+  "https://devin.ai/student-ambassador",
+  404,
+  "https://devin.ai/student-ambassador",
+  ""
+ ],
+ [
+  "https://devin.ai/students",
+  404,
+  "https://devin.ai/students",
+  ""
+ ],
+ [
+  "https://cursor.com/ambassador",
+  200,
+  "https://cursor.com/ambassador",
+  "Cursor - The best way to code with AI | Cursor - The best way to code with AI"
+ ],
+ [
+  "https://cursor.com/ambassador-program",
+  200,
+  "https://cursor.com/ambassador-program",
+  "Cursor - The best way to code with AI | Cursor - The best way to code with AI"
+ ],
+ [
+  "https://cursor.com/ambassadors",
+  200,
+  "https://cursor.com/ambassadors",
+  "Cursor \u00b7 Ambassadors"
+ ],
+ [
+  "https://cursor.com/campus",
+  200,
+  "https://cursor.com/campus",
+  "Cursor - The best way to code with AI | Cursor - The best way to code with AI"
+ ],
+ [
+  "https://cursor.com/campus-ambassador",
+  200,
+  "https://cursor.com/campus-ambassador",
+  "Cursor - The best way to code with AI | Cursor - The best way to code with AI"
+ ],
+ [
+  "https://cursor.com/community/ambassadors",
+  200,
+  "https://cursor.com/community/ambassadors",
+  "Cursor - The best way to code with AI"
+ ],
+ [
+  "https://cursor.com/en-US/students",
+  200,
+  "https://cursor.com/en-US/students",
+  "Cursor \u00b7 Students"
+ ],
+ [
+  "https://cursor.com/student-ambassador",
+  200,
+  "https://cursor.com/student-ambassador",
+  "Cursor - The best way to code with AI | Cursor - The best way to code with AI"
+ ],
+ [
+  "https://cursor.com/students",
+  200,
+  "https://cursor.com/students",
+  "Cursor \u00b7 Students"
+ ],
+ [
+  "https://windsurf.com/ambassador",
+  200,
+  "https://windsurf.com/ambassador",
+  "Discord"
+ ],
+ [
+  "https://windsurf.com/ambassador-program",
+  200,
+  "https://windsurf.com/ambassador-program",
+  "Discord"
+ ],
+ [
+  "https://windsurf.com/ambassadors",
+  200,
+  "https://windsurf.com/ambassadors",
+  "Discord"
+ ],
+ [
+  "https://windsurf.com/campus",
+  200,
+  "https://windsurf.com/campus",
+  "Discord"
+ ],
+ [
+  "https://windsurf.com/campus-ambassador",
+  200,
+  "https://windsurf.com/campus-ambassador",
+  "Discord"
+ ],
+ [
+  "https://windsurf.com/community/ambassadors",
+  200,
+  "https://windsurf.com/community/ambassadors",
+  "Discord"
+ ],
+ [
+  "https://windsurf.com/student-ambassador",
+  200,
+  "https://windsurf.com/student-ambassador",
+  "Discord"
+ ],
+ [
+  "https://windsurf.com/students",
+  200,
+  "https://devin.ai/desktop",
+  "Devin Desktop | Devin"
+ ],
+ [
+  "https://replit.com/ambassador",
+  404,
+  "https://replit.com/ambassador",
+  "Replit - 404 - Replit"
+ ],
+ [
+  "https://replit.com/ambassador-program",
+  404,
+  "https://replit.com/ambassador-program",
+  "Replit - 404 - Replit"
+ ],
+ [
+  "https://replit.com/ambassadors",
+  404,
+  "https://replit.com/ambassadors",
+  "Replit - 404 - Replit"
+ ],
+ [
+  "https://replit.com/campus",
+  404,
+  "https://replit.com/campus",
+  "Replit - 404 - Replit"
+ ],
+ [
+  "https://replit.com/campus-ambassador",
+  404,
+  "https://replit.com/campus-ambassador",
+  "Replit - 404 - Replit"
+ ],
+ [
+  "https://replit.com/community/ambassadors",
+  200,
+  "https://replit.com/community/ambassadors",
+  "Ambassadors | Replit Community"
+ ],
+ [
+  "https://replit.com/student-ambassador",
+  404,
+  "https://replit.com/student-ambassador",
+  "Replit - 404 - Replit"
+ ],
+ [
+  "https://replit.com/students",
+  404,
+  "https://replit.com/students",
+  "Replit - 404 - Replit"
+ ],
+ [
+  "https://lovable.dev/ambassador",
+  404,
+  "https://lovable.dev/ambassador",
+  "Lovable"
+ ],
+ [
+  "https://lovable.dev/ambassador-program",
+  404,
+  "https://lovable.dev/ambassador-program",
+  "Lovable"
+ ],
+ [
+  "https://lovable.dev/ambassadors",
+  404,
+  "https://lovable.dev/ambassadors",
+  "Lovable"
+ ],
+ [
+  "https://lovable.dev/campus",
+  404,
+  "https://lovable.dev/campus",
+  "Lovable"
+ ],
+ [
+  "https://lovable.dev/campus-ambassador",
+  404,
+  "https://lovable.dev/campus-ambassador",
+  "Lovable"
+ ],
+ [
+  "https://lovable.dev/community/ambassadors",
+  404,
+  "https://lovable.dev/community/ambassadors",
+  "Lovable"
+ ],
+ [
+  "https://lovable.dev/student-ambassador",
+  404,
+  "https://lovable.dev/student-ambassador",
+  "Lovable"
+ ],
+ [
+  "https://lovable.dev/students",
+  200,
+  "https://lovable.dev/students",
+  "Student Discount - 50% Off Lovable Pro | Build Apps Faster"
+ ],
+ [
+  "https://bolt.new/ambassador",
+  404,
+  "https://bolt.new/ambassador",
+  "Page not found | Bolt"
+ ],
+ [
+  "https://bolt.new/ambassador-program",
+  404,
+  "https://bolt.new/ambassador-program",
+  "Page not found | Bolt"
+ ],
+ [
+  "https://bolt.new/ambassadors",
+  200,
+  "https://bolt.new/login?next=%2F~%2Fambassadors",
+  ""
+ ],
+ [
+  "https://bolt.new/campus",
+  200,
+  "https://bolt.new/~/campus",
+  "Campus - Bolt.new"
+ ],
+ [
+  "https://bolt.new/campus-ambassador",
+  404,
+  "https://bolt.new/campus-ambassador",
+  "Page not found | Bolt"
+ ],
+ [
+  "https://bolt.new/community/ambassadors",
+  404,
+  "https://bolt.new/community/ambassadors",
+  "Page not found | Bolt"
+ ],
+ [
+  "https://bolt.new/static/marketing/homepage/personas/students.png",
+  200,
+  "https://bolt.new/static/marketing/homepage/personas/students.png",
+  ""
+ ],
+ [
+  "https://bolt.new/student-ambassador",
+  404,
+  "https://bolt.new/student-ambassador",
+  "Page not found | Bolt"
+ ],
+ [
+  "https://bolt.new/students",
+  200,
+  "https://bolt.new/~/students",
+  "Students - Bolt.new"
+ ],
+ [
+  "https://v0.app/students",
+  200,
+  "https://v0.app/students",
+  "v0 for Students - v0.app"
+ ],
+ [
+  "https://v0.dev/ambassador",
+  200,
+  "https://v0.app/ambassador",
+  "v0 by Vercel - Build Full-Stack Web Apps with AI"
+ ],
+ [
+  "https://v0.dev/ambassador-program",
+  200,
+  "https://v0.app/ambassador-program",
+  "v0 by Vercel - Build Full-Stack Web Apps with AI"
+ ],
+ [
+  "https://v0.dev/ambassadors",
+  200,
+  "https://v0.app/ambassadors",
+  "v0 by Vercel - Build Full-Stack Web Apps with AI"
+ ],
+ [
+  "https://v0.dev/campus",
+  200,
+  "https://v0.app/campus",
+  "v0 by Vercel - Build Full-Stack Web Apps with AI"
+ ],
+ [
+  "https://v0.dev/campus-ambassador",
+  200,
+  "https://v0.app/campus-ambassador",
+  "v0 by Vercel - Build Full-Stack Web Apps with AI"
+ ],
+ [
+  "https://v0.dev/community/ambassadors",
+  200,
+  "https://v0.app/templates/ambassadors",
+  "Templates - v0 by Vercel"
+ ],
+ [
+  "https://v0.dev/student-ambassador",
+  200,
+  "https://v0.app/student-ambassador",
+  "v0 by Vercel - Build Full-Stack Web Apps with AI"
+ ],
+ [
+  "https://v0.dev/students",
+  200,
+  "https://v0.app/students",
+  "v0 for Students - v0.app"
+ ],
+ [
+  "https://warp.dev/ambassador",
+  404,
+  "https://www.warp.dev:443/ambassador",
+  "Page not found | Warp"
+ ],
+ [
+  "https://warp.dev/ambassador-program",
+  404,
+  "https://www.warp.dev:443/ambassador-program",
+  "Page not found | Warp"
+ ],
+ [
+  "https://warp.dev/ambassadors",
+  404,
+  "https://www.warp.dev:443/ambassadors",
+  "Page not found | Warp"
+ ],
+ [
+  "https://warp.dev/campus",
+  404,
+  "https://www.warp.dev:443/campus",
+  "Page not found | Warp"
+ ],
+ [
+  "https://warp.dev/campus-ambassador",
+  404,
+  "https://www.warp.dev:443/campus-ambassador",
+  "Page not found | Warp"
+ ],
+ [
+  "https://warp.dev/community/ambassadors",
+  404,
+  "https://www.warp.dev:443/community/ambassadors",
+  "Page not found | Warp"
+ ],
+ [
+  "https://warp.dev/student-ambassador",
+  404,
+  "https://www.warp.dev:443/student-ambassador",
+  "Page not found | Warp"
+ ],
+ [
+  "https://warp.dev/students",
+  404,
+  "https://www.warp.dev:443/students",
+  "Page not found | Warp"
+ ],
+ [
+  "https://zed.dev/ambassador",
+  404,
+  "https://zed.dev/ambassador",
+  "Zed: Not Found"
+ ],
+ [
+  "https://zed.dev/ambassador-program",
+  404,
+  "https://zed.dev/ambassador-program",
+  "Zed: Not Found"
+ ],
+ [
+  "https://zed.dev/ambassadors",
+  404,
+  "https://zed.dev/ambassadors",
+  "Zed: Not Found"
+ ],
+ [
+  "https://zed.dev/campus",
+  404,
+  "https://zed.dev/campus",
+  "Zed: Not Found"
+ ],
+ [
+  "https://zed.dev/campus-ambassador",
+  404,
+  "https://zed.dev/campus-ambassador",
+  "Zed: Not Found"
+ ],
+ [
+  "https://zed.dev/community/ambassadors",
+  404,
+  "https://zed.dev/community/ambassadors",
+  "Zed: Not Found"
+ ],
+ [
+  "https://zed.dev/student-ambassador",
+  404,
+  "https://zed.dev/student-ambassador",
+  "Zed: Not Found"
+ ],
+ [
+  "https://zed.dev/students",
+  404,
+  "https://zed.dev/students",
+  "Zed: Not Found"
+ ],
+ [
+  "https://kiro.dev/ambassador",
+  404,
+  "https://kiro.dev/ambassador/",
+  "404 - Page Not Found"
+ ],
+ [
+  "https://kiro.dev/ambassador-program",
+  404,
+  "https://kiro.dev/ambassador-program/",
+  "404 - Page Not Found"
+ ],
+ [
+  "https://kiro.dev/ambassadors",
+  200,
+  "https://kiro.dev/ambassadors/",
+  "Ambassadors - Kiro"
+ ],
+ [
+  "https://kiro.dev/ambassadors/",
+  200,
+  "https://kiro.dev/ambassadors/",
+  "Ambassadors - Kiro"
+ ],
+ [
+  "https://kiro.dev/campus",
+  404,
+  "https://kiro.dev/campus/",
+  "404 - Page Not Found"
+ ],
+ [
+  "https://kiro.dev/campus-ambassador",
+  404,
+  "https://kiro.dev/campus-ambassador/",
+  "404 - Page Not Found"
+ ],
+ [
+  "https://kiro.dev/community/ambassadors",
+  404,
+  "https://kiro.dev/community/ambassadors/",
+  "404 - Page Not Found"
+ ],
+ [
+  "https://kiro.dev/student-ambassador",
+  404,
+  "https://kiro.dev/student-ambassador/",
+  "404 - Page Not Found"
+ ],
+ [
+  "https://kiro.dev/students",
+  200,
+  "https://kiro.dev/students/",
+  "Students - Kiro"
+ ],
+ [
+  "https://kiro.dev/students/",
+  200,
+  "https://kiro.dev/students/",
+  "Students - Kiro"
+ ],
+ [
+  "https://sourcegraph.com/ambassador",
+  404,
+  "https://sourcegraph.com/ambassador",
+  "404 Not Found - Sourcegraph"
+ ],
+ [
+  "https://sourcegraph.com/ambassador-program",
+  404,
+  "https://sourcegraph.com/ambassador-program",
+  "404 Not Found - Sourcegraph"
+ ],
+ [
+  "https://sourcegraph.com/ambassadors",
+  404,
+  "https://sourcegraph.com/ambassadors",
+  "404 Not Found - Sourcegraph"
+ ],
+ [
+  "https://sourcegraph.com/campus",
+  404,
+  "https://sourcegraph.com/campus",
+  "404 Not Found - Sourcegraph"
+ ],
+ [
+  "https://sourcegraph.com/campus-ambassador",
+  404,
+  "https://sourcegraph.com/campus-ambassador",
+  "404 Not Found - Sourcegraph"
+ ],
+ [
+  "https://sourcegraph.com/community/ambassadors",
+  404,
+  "https://sourcegraph.com/community/ambassadors",
+  "404 \u00e2\u0080\u0093 Sourcegraph"
+ ],
+ [
+  "https://sourcegraph.com/student-ambassador",
+  404,
+  "https://sourcegraph.com/student-ambassador",
+  "404 Not Found - Sourcegraph"
+ ],
+ [
+  "https://sourcegraph.com/students",
+  404,
+  "https://sourcegraph.com/students",
+  "404 Not Found - Sourcegraph"
+ ],
+ [
+  "https://tabnine.com/ambassador",
+  502,
+  "https://tabnine.com/ambassador",
+  ""
+ ],
+ [
+  "https://tabnine.com/ambassador-program",
+  502,
+  "https://tabnine.com/ambassador-program",
+  ""
+ ],
+ [
+  "https://tabnine.com/ambassadors",
+  502,
+  "https://tabnine.com/ambassadors",
+  ""
+ ],
+ [
+  "https://tabnine.com/campus",
+  502,
+  "https://tabnine.com/campus",
+  ""
+ ],
+ [
+  "https://tabnine.com/campus-ambassador",
+  502,
+  "https://tabnine.com/campus-ambassador",
+  ""
+ ],
+ [
+  "https://tabnine.com/community/ambassadors",
+  502,
+  "https://tabnine.com/community/ambassadors",
+  ""
+ ],
+ [
+  "https://tabnine.com/student-ambassador",
+  502,
+  "https://tabnine.com/student-ambassador",
+  ""
+ ],
+ [
+  "https://tabnine.com/students",
+  200,
+  "https://www.tricentis.com/solutions/ai-powered-solutions?utm_source=www.tabnine.com&utm_medium=referral&utm_campaign=redirect",
+  "AI-Powered Quality Engineering Solutions - Tricentis"
+ ],
+ [
+  "https://qodo.ai/ambassador",
+  404,
+  "https://www.qodo.ai/ambassador",
+  "Page not found - Qodo"
+ ],
+ [
+  "https://qodo.ai/ambassador-program",
+  404,
+  "https://www.qodo.ai/ambassador-program",
+  "Page not found - Qodo"
+ ],
+ [
+  "https://qodo.ai/ambassadors",
+  404,
+  "https://www.qodo.ai/ambassadors",
+  "Page not found - Qodo"
+ ],
+ [
+  "https://qodo.ai/campus",
+  404,
+  "https://www.qodo.ai/campus",
+  "Page not found - Qodo"
+ ],
+ [
+  "https://qodo.ai/campus-ambassador",
+  404,
+  "https://www.qodo.ai/campus-ambassador",
+  "Page not found - Qodo"
+ ],
+ [
+  "https://qodo.ai/community/ambassadors",
+  404,
+  "https://www.qodo.ai/community/ambassadors",
+  "Page not found - Qodo"
+ ],
+ [
+  "https://qodo.ai/student-ambassador",
+  404,
+  "https://www.qodo.ai/student-ambassador",
+  "Page not found - Qodo"
+ ],
+ [
+  "https://qodo.ai/students",
+  404,
+  "https://www.qodo.ai/students",
+  "Page not found - Qodo"
+ ],
+ [
+  "https://github.com/ambassador",
+  200,
+  "https://github.com/ambassador",
+  "Ambassador (Jeff Epstein) \u00b7 GitHub"
+ ],
+ [
+  "https://github.com/ambassador-program",
+  404,
+  "https://github.com/ambassador-program",
+  ""
+ ],
+ [
+  "https://github.com/ambassadors",
+  200,
+  "https://github.com/ambassadors",
+  "Ambassadors \u00b7 GitHub"
+ ],
+ [
+  "https://github.com/campus",
+  200,
+  "https://github.com/campus",
+  "campus (Innertaining Media) \u00b7 GitHub"
+ ],
+ [
+  "https://github.com/campus-ambassador",
+  404,
+  "https://github.com/campus-ambassador",
+  ""
+ ],
+ [
+  "https://github.com/community/ambassadors",
+  404,
+  "https://github.com/community/ambassadors",
+  "Page not found \u00b7 GitHub \u00b7 GitHub"
+ ],
+ [
+  "https://github.com/student-ambassador",
+  200,
+  "https://github.com/student-ambassador",
+  "student-ambassador \u00b7 GitHub"
+ ],
+ [
+  "https://github.com/students",
+  200,
+  "https://github.com/students",
+  "Students \u00b7 GitHub"
+ ],
+ [
+  "https://gitlab.com/ambassador",
+  200,
+  "https://gitlab.com/ambassador",
+  "Ambassador \u00b7 GitLab"
+ ],
+ [
+  "https://gitlab.com/ambassador-program",
+  403,
+  "https://gitlab.com/users/sign_in",
+  "Just a moment..."
+ ],
+ [
+  "https://gitlab.com/ambassadors",
+  403,
+  "https://gitlab.com/users/sign_in",
+  "Just a moment..."
+ ],
+ [
+  "https://gitlab.com/campus",
+  200,
+  "https://gitlab.com/campus",
+  "campus \u00b7 GitLab"
+ ],
+ [
+  "https://gitlab.com/campus-ambassador",
+  403,
+  "https://gitlab.com/users/sign_in",
+  "Just a moment..."
+ ],
+ [
+  "https://gitlab.com/community/ambassadors",
+  403,
+  "https://gitlab.com/users/sign_in",
+  "Just a moment..."
+ ],
+ [
+  "https://gitlab.com/student-ambassador",
+  403,
+  "https://gitlab.com/users/sign_in",
+  "Just a moment..."
+ ],
+ [
+  "https://gitlab.com/students",
+  200,
+  "https://gitlab.com/students",
+  "Students \u00b7 GitLab"
+ ],
+ [
+  "https://aws.amazon.com/ambassador",
+  404,
+  "https://aws.amazon.com/ambassador/",
+  "Error - 404 - Not Found"
+ ],
+ [
+  "https://aws.amazon.com/ambassador-program",
+  404,
+  "https://aws.amazon.com/ambassador-program/",
+  "Error - 404 - Not Found"
+ ],
+ [
+  "https://aws.amazon.com/ambassadors",
+  404,
+  "https://aws.amazon.com/ambassadors/",
+  "Error - 404 - Not Found"
+ ],
+ [
+  "https://aws.amazon.com/campus",
+  200,
+  "https://aws.amazon.com/campus/",
+  "Campus"
+ ],
+ [
+  "https://aws.amazon.com/campus-ambassador",
+  404,
+  "https://aws.amazon.com/campus-ambassador/",
+  "Error - 404 - Not Found"
+ ],
+ [
+  "https://aws.amazon.com/community/ambassadors",
+  404,
+  "https://aws.amazon.com/community/ambassadors/",
+  "Error - 404 - Not Found"
+ ],
+ [
+  "https://aws.amazon.com/student-ambassador",
+  404,
+  "https://aws.amazon.com/student-ambassador/",
+  "Error - 404 - Not Found"
+ ],
+ [
+  "https://aws.amazon.com/students",
+  404,
+  "https://aws.amazon.com/students/",
+  "Error - 404 - Not Found"
+ ],
+ [
+  "https://cloudflare.com/ambassador",
+  404,
+  "https://www.cloudflare.com/ambassador/",
+  "Page not found \u2014 Cloudflare"
+ ],
+ [
+  "https://cloudflare.com/ambassador-program",
+  404,
+  "https://www.cloudflare.com/ambassador-program/",
+  "Page not found \u2014 Cloudflare"
+ ],
+ [
+  "https://cloudflare.com/ambassadors",
+  404,
+  "https://www.cloudflare.com/ambassadors/",
+  "Page not found \u2014 Cloudflare"
+ ],
+ [
+  "https://cloudflare.com/campus",
+  404,
+  "https://www.cloudflare.com/campus/",
+  "Page not found \u2014 Cloudflare"
+ ],
+ [
+  "https://cloudflare.com/campus-ambassador",
+  404,
+  "https://www.cloudflare.com/campus-ambassador/",
+  "Page not found \u2014 Cloudflare"
+ ],
+ [
+  "https://cloudflare.com/community/ambassadors",
+  404,
+  "https://www.cloudflare.com/community/ambassadors/",
+  "Page not found \u2014 Cloudflare"
+ ],
+ [
+  "https://cloudflare.com/student-ambassador",
+  404,
+  "https://www.cloudflare.com/student-ambassador/",
+  "Page not found \u2014 Cloudflare"
+ ],
+ [
+  "https://cloudflare.com/students",
+  200,
+  "https://www.cloudflare.com/students/",
+  "Cloudflare for Students  | Cloudflare"
+ ],
+ [
+  "https://digitalocean.com/ambassador",
+  404,
+  "https://www.digitalocean.com/ambassador",
+  "404 - Page not found"
+ ],
+ [
+  "https://digitalocean.com/ambassador-program",
+  404,
+  "https://www.digitalocean.com/ambassador-program",
+  "404 - Page not found"
+ ],
+ [
+  "https://digitalocean.com/ambassadors",
+  404,
+  "https://www.digitalocean.com/ambassadors",
+  "404 - Page not found"
+ ],
+ [
+  "https://digitalocean.com/campus",
+  404,
+  "https://www.digitalocean.com/campus",
+  "404 - Page not found"
+ ],
+ [
+  "https://digitalocean.com/campus-ambassador",
+  404,
+  "https://www.digitalocean.com/campus-ambassador",
+  "404 - Page not found"
+ ],
+ [
+  "https://digitalocean.com/community/ambassadors",
+  404,
+  "https://www.digitalocean.com/community/ambassadors",
+  "404 - Page not found"
+ ],
+ [
+  "https://digitalocean.com/student-ambassador",
+  404,
+  "https://www.digitalocean.com/student-ambassador",
+  "404 - Page not found"
+ ],
+ [
+  "https://digitalocean.com/students",
+  404,
+  "https://www.digitalocean.com/students",
+  "404 - Page not found"
+ ],
+ [
+  "https://vercel.com/ambassador",
+  404,
+  "https://vercel.com/ambassador",
+  ""
+ ],
+ [
+  "https://vercel.com/ambassador-program",
+  404,
+  "https://vercel.com/ambassador-program",
+  ""
+ ],
+ [
+  "https://vercel.com/ambassadors",
+  200,
+  "https://vercel.com/ambassadors",
+  "Vercel"
+ ],
+ [
+  "https://vercel.com/campus",
+  404,
+  "https://vercel.com/campus",
+  ""
+ ],
+ [
+  "https://vercel.com/campus-ambassador",
+  404,
+  "https://vercel.com/campus-ambassador",
+  ""
+ ],
+ [
+  "https://vercel.com/community/ambassadors",
+  200,
+  "https://vercel.com/community/ambassadors",
+  "ambassadors - Overview \u2013 Vercel"
+ ],
+ [
+  "https://vercel.com/student-ambassador",
+  404,
+  "https://vercel.com/student-ambassador",
+  ""
+ ],
+ [
+  "https://vercel.com/students",
+  404,
+  "https://vercel.com/students",
+  ""
+ ],
+ [
+  "https://netlify.com/ambassador",
+  404,
+  "https://www.netlify.com/ambassador",
+  "Netlify: Develop &amp; deploy the best web experiences in record time"
+ ],
+ [
+  "https://netlify.com/ambassador-program",
+  404,
+  "https://www.netlify.com/ambassador-program",
+  "Netlify: Develop &amp; deploy the best web experiences in record time"
+ ],
+ [
+  "https://netlify.com/ambassadors",
+  404,
+  "https://www.netlify.com/ambassadors",
+  "Netlify: Develop &amp; deploy the best web experiences in record time"
+ ],
+ [
+  "https://netlify.com/campus",
+  404,
+  "https://www.netlify.com/campus",
+  "Netlify: Develop &amp; deploy the best web experiences in record time"
+ ],
+ [
+  "https://netlify.com/campus-ambassador",
+  404,
+  "https://www.netlify.com/campus-ambassador",
+  "Netlify: Develop &amp; deploy the best web experiences in record time"
+ ],
+ [
+  "https://netlify.com/community/ambassadors",
+  404,
+  "https://www.netlify.com/community/ambassadors",
+  "Netlify: Develop &amp; deploy the best web experiences in record time"
+ ],
+ [
+  "https://netlify.com/student-ambassador",
+  404,
+  "https://www.netlify.com/student-ambassador",
+  "Netlify: Develop &amp; deploy the best web experiences in record time"
+ ],
+ [
+  "https://netlify.com/students",
+  404,
+  "https://www.netlify.com/students",
+  "Netlify: Develop &amp; deploy the best web experiences in record time"
+ ],
+ [
+  "https://supabase.com/ambassador",
+  404,
+  "https://supabase.com/ambassador",
+  "Supabase | The Postgres Development Platform."
+ ],
+ [
+  "https://supabase.com/ambassador-program",
+  404,
+  "https://supabase.com/ambassador-program",
+  "Supabase | The Postgres Development Platform."
+ ],
+ [
+  "https://supabase.com/ambassadors",
+  404,
+  "https://supabase.com/ambassadors",
+  "Supabase | The Postgres Development Platform."
+ ],
+ [
+  "https://supabase.com/campus",
+  404,
+  "https://supabase.com/campus",
+  "Supabase | The Postgres Development Platform."
+ ],
+ [
+  "https://supabase.com/campus-ambassador",
+  404,
+  "https://supabase.com/campus-ambassador",
+  "Supabase | The Postgres Development Platform."
+ ],
+ [
+  "https://supabase.com/community/ambassadors",
+  404,
+  "https://supabase.com/community/ambassadors",
+  "Supabase | The Postgres Development Platform."
+ ],
+ [
+  "https://supabase.com/student-ambassador",
+  404,
+  "https://supabase.com/student-ambassador",
+  "Supabase | The Postgres Development Platform."
+ ],
+ [
+  "https://supabase.com/students",
+  404,
+  "https://supabase.com/students",
+  "Supabase | The Postgres Development Platform."
+ ],
+ [
+  "https://appwrite.io/ambassador",
+  404,
+  "https://appwrite.io/ambassador",
+  "Appwrite Console"
+ ],
+ [
+  "https://appwrite.io/ambassador-program",
+  404,
+  "https://appwrite.io/ambassador-program",
+  "Appwrite Console"
+ ],
+ [
+  "https://appwrite.io/ambassadors",
+  404,
+  "https://appwrite.io/ambassadors",
+  "Appwrite Console"
+ ],
+ [
+  "https://appwrite.io/campus",
+  404,
+  "https://appwrite.io/campus",
+  "Appwrite Console"
+ ],
+ [
+  "https://appwrite.io/campus-ambassador",
+  404,
+  "https://appwrite.io/campus-ambassador",
+  "Appwrite Console"
+ ],
+ [
+  "https://appwrite.io/community/ambassadors",
+  404,
+  "https://appwrite.io/community/ambassadors",
+  "Appwrite Console"
+ ],
+ [
+  "https://appwrite.io/student-ambassador",
+  404,
+  "https://appwrite.io/student-ambassador",
+  "Appwrite Console"
+ ],
+ [
+  "https://appwrite.io/students",
+  404,
+  "https://appwrite.io/students",
+  "Appwrite Console"
+ ],
+ [
+  "https://firebase.google.com/ambassador",
+  404,
+  "https://firebase.google.com/ambassador",
+  "404 &nbsp;|&nbsp; Page Not Found &nbsp;|&nbsp; Firebase"
+ ],
+ [
+  "https://firebase.google.com/ambassador-program",
+  404,
+  "https://firebase.google.com/ambassador-program",
+  "404 &nbsp;|&nbsp; Page Not Found &nbsp;|&nbsp; Firebase"
+ ],
+ [
+  "https://firebase.google.com/ambassadors",
+  404,
+  "https://firebase.google.com/ambassadors",
+  "404 &nbsp;|&nbsp; Page Not Found &nbsp;|&nbsp; Firebase"
+ ],
+ [
+  "https://firebase.google.com/campus",
+  404,
+  "https://firebase.google.com/campus",
+  "404 &nbsp;|&nbsp; Page Not Found &nbsp;|&nbsp; Firebase"
+ ],
+ [
+  "https://firebase.google.com/campus-ambassador",
+  404,
+  "https://firebase.google.com/campus-ambassador",
+  "404 &nbsp;|&nbsp; Page Not Found &nbsp;|&nbsp; Firebase"
+ ],
+ [
+  "https://firebase.google.com/community/ambassadors",
+  404,
+  "https://firebase.google.com/community/ambassadors",
+  "404 &nbsp;|&nbsp; Page Not Found &nbsp;|&nbsp; Firebase"
+ ],
+ [
+  "https://firebase.google.com/student-ambassador",
+  404,
+  "https://firebase.google.com/student-ambassador",
+  "404 &nbsp;|&nbsp; Page Not Found &nbsp;|&nbsp; Firebase"
+ ],
+ [
+  "https://firebase.google.com/students",
+  404,
+  "https://firebase.google.com/students",
+  "404 &nbsp;|&nbsp; Page Not Found &nbsp;|&nbsp; Firebase"
+ ],
+ [
+  "https://mongodb.com/ambassador",
+  404,
+  "https://www.mongodb.com/ambassador",
+  "404: Page Not Found | MongoDB"
+ ],
+ [
+  "https://mongodb.com/ambassador-program",
+  404,
+  "https://www.mongodb.com/ambassador-program",
+  "404: Page Not Found | MongoDB"
+ ],
+ [
+  "https://mongodb.com/ambassadors",
+  404,
+  "https://www.mongodb.com/ambassadors",
+  "404: Page Not Found | MongoDB"
+ ],
+ [
+  "https://mongodb.com/campus",
+  404,
+  "https://www.mongodb.com/campus",
+  "404: Page Not Found | MongoDB"
+ ],
+ [
+  "https://mongodb.com/campus-ambassador",
+  404,
+  "https://www.mongodb.com/campus-ambassador",
+  "404: Page Not Found | MongoDB"
+ ],
+ [
+  "https://mongodb.com/community/ambassadors",
+  404,
+  "https://www.mongodb.com/community/ambassadors",
+  "Page Not Found - MongoDB Community"
+ ],
+ [
+  "https://mongodb.com/student-ambassador",
+  404,
+  "https://www.mongodb.com/student-ambassador",
+  "404: Page Not Found | MongoDB"
+ ],
+ [
+  "https://mongodb.com/students",
+  200,
+  "https://www.mongodb.com/students",
+  "MongoDB Student Pack"
+ ],
+ [
+  "https://www.mongodb.com/students",
+  200,
+  "https://www.mongodb.com/students",
+  "MongoDB Student Pack"
+ ],
+ [
+  "https://neo4j.com/ambassador",
+  200,
+  "https://neo4j.com/ninjas-program/",
+  "Neo4j Ninjas Program"
+ ],
+ [
+  "https://neo4j.com/ambassador-program",
+  404,
+  "https://neo4j.com/ambassador-program/",
+  "Page Not Found - Neo4j Graph Intelligence Platform"
+ ],
+ [
+  "https://neo4j.com/ambassadors",
+  404,
+  "https://neo4j.com/ambassadors/",
+  "Page Not Found - Neo4j Graph Intelligence Platform"
+ ],
+ [
+  "https://neo4j.com/campus",
+  404,
+  "https://neo4j.com/campus/",
+  "Page Not Found - Neo4j Graph Intelligence Platform"
+ ],
+ [
+  "https://neo4j.com/campus-ambassador",
+  404,
+  "https://neo4j.com/campus-ambassador/",
+  "Page Not Found - Neo4j Graph Intelligence Platform"
+ ],
+ [
+  "https://neo4j.com/community/ambassadors",
+  404,
+  "https://neo4j.com/community/ambassadors/",
+  "Page Not Found - Neo4j Graph Intelligence Platform"
+ ],
+ [
+  "https://neo4j.com/student-ambassador",
+  404,
+  "https://neo4j.com/student-ambassador/",
+  "Page Not Found - Neo4j Graph Intelligence Platform"
+ ],
+ [
+  "https://neo4j.com/students",
+  404,
+  "https://neo4j.com/students/",
+  "Page Not Found - Neo4j Graph Intelligence Platform"
+ ],
+ [
+  "https://redis.io/ambassador",
+  404,
+  "https://redis.io/ambassador/",
+  "Page not found | Redis"
+ ],
+ [
+  "https://redis.io/ambassador-program",
+  404,
+  "https://redis.io/ambassador-program/",
+  "Page not found | Redis"
+ ],
+ [
+  "https://redis.io/ambassadors",
+  404,
+  "https://redis.io/ambassadors/",
+  "Page not found | Redis"
+ ],
+ [
+  "https://redis.io/campus",
+  404,
+  "https://redis.io/campus/",
+  "Page not found | Redis"
+ ],
+ [
+  "https://redis.io/campus-ambassador",
+  404,
+  "https://redis.io/campus-ambassador/",
+  "Page not found | Redis"
+ ],
+ [
+  "https://redis.io/community/ambassadors",
+  404,
+  "https://redis.io/community/ambassadors/",
+  "Page not found | Redis"
+ ],
+ [
+  "https://redis.io/student-ambassador",
+  404,
+  "https://redis.io/student-ambassador/",
+  "Page not found | Redis"
+ ],
+ [
+  "https://redis.io/students",
+  404,
+  "https://redis.io/students/",
+  "Page not found | Redis"
+ ],
+ [
+  "https://elastic.co/ambassador",
+  404,
+  "https://www.elastic.co/ambassador",
+  "Page Not Found | elastic.co"
+ ],
+ [
+  "https://elastic.co/ambassador-program",
+  404,
+  "https://www.elastic.co/ambassador-program",
+  "Page Not Found | elastic.co"
+ ],
+ [
+  "https://elastic.co/ambassadors",
+  404,
+  "https://www.elastic.co/ambassadors",
+  "Page Not Found | elastic.co"
+ ],
+ [
+  "https://elastic.co/campus",
+  404,
+  "https://www.elastic.co/campus",
+  "Page Not Found | elastic.co"
+ ],
+ [
+  "https://elastic.co/campus-ambassador",
+  404,
+  "https://www.elastic.co/campus-ambassador",
+  "Page Not Found | elastic.co"
+ ],
+ [
+  "https://elastic.co/community/ambassadors",
+  404,
+  "https://www.elastic.co/community/ambassadors",
+  ""
+ ],
+ [
+  "https://elastic.co/student-ambassador",
+  404,
+  "https://www.elastic.co/student-ambassador",
+  "Page Not Found | elastic.co"
+ ],
+ [
+  "https://elastic.co/students",
+  404,
+  "https://www.elastic.co/students",
+  "Page Not Found | elastic.co"
+ ],
+ [
+  "https://snowflake.com/ambassador",
+  404,
+  "https://www.snowflake.com/ambassador/",
+  "Page not found - Snowflake"
+ ],
+ [
+  "https://snowflake.com/ambassador-program",
+  404,
+  "https://www.snowflake.com/ambassador-program/",
+  "Page not found - Snowflake"
+ ],
+ [
+  "https://snowflake.com/ambassadors",
+  404,
+  "https://www.snowflake.com/ambassadors/",
+  "Page not found - Snowflake"
+ ],
+ [
+  "https://snowflake.com/campus",
+  404,
+  "https://www.snowflake.com/campus/",
+  "Page not found - Snowflake"
+ ],
+ [
+  "https://snowflake.com/campus-ambassador",
+  404,
+  "https://www.snowflake.com/campus-ambassador/",
+  "Page not found - Snowflake"
+ ],
+ [
+  "https://snowflake.com/community/ambassadors",
+  404,
+  "https://www.snowflake.com/community/ambassadors/",
+  "Page not found - Snowflake"
+ ],
+ [
+  "https://snowflake.com/student-ambassador",
+  404,
+  "https://www.snowflake.com/student-ambassador/",
+  "Page not found - Snowflake"
+ ],
+ [
+  "https://snowflake.com/students",
+  404,
+  "https://www.snowflake.com/students/",
+  "Page not found - Snowflake"
+ ],
+ [
+  "https://databricks.com/ambassador",
+  404,
+  "https://www.databricks.com/ambassador",
+  "Page Not Found"
+ ],
+ [
+  "https://databricks.com/ambassador-program",
+  404,
+  "https://www.databricks.com/ambassador-program",
+  "Page Not Found"
+ ],
+ [
+  "https://databricks.com/ambassadors",
+  404,
+  "https://www.databricks.com/ambassadors",
+  "Page Not Found"
+ ],
+ [
+  "https://databricks.com/campus",
+  404,
+  "https://www.databricks.com/campus",
+  "Page Not Found"
+ ],
+ [
+  "https://databricks.com/campus-ambassador",
+  404,
+  "https://www.databricks.com/campus-ambassador",
+  "Page Not Found"
+ ],
+ [
+  "https://databricks.com/community/ambassadors",
+  404,
+  "https://www.databricks.com/community/ambassadors",
+  "Page Not Found"
+ ],
+ [
+  "https://databricks.com/student-ambassador",
+  404,
+  "https://www.databricks.com/student-ambassador",
+  "Page Not Found"
+ ],
+ [
+  "https://databricks.com/students",
+  404,
+  "https://www.databricks.com/students",
+  "Page Not Found"
+ ],
+ [
+  "https://confluent.io/ambassador",
+  404,
+  "https://www.confluent.io/ambassador",
+  "Page Not Found"
+ ],
+ [
+  "https://confluent.io/ambassador-program",
+  404,
+  "https://www.confluent.io/ambassador-program",
+  "Page Not Found"
+ ],
+ [
+  "https://confluent.io/ambassadors",
+  404,
+  "https://www.confluent.io/ambassadors",
+  "Page Not Found"
+ ],
+ [
+  "https://confluent.io/campus",
+  404,
+  "https://www.confluent.io/campus",
+  "Page Not Found"
+ ],
+ [
+  "https://confluent.io/campus-ambassador",
+  404,
+  "https://www.confluent.io/campus-ambassador",
+  "Page Not Found"
+ ],
+ [
+  "https://confluent.io/community/ambassadors",
+  404,
+  "https://www.confluent.io/community/ambassadors",
+  "Page Not Found"
+ ],
+ [
+  "https://confluent.io/student-ambassador",
+  404,
+  "https://www.confluent.io/student-ambassador",
+  "Page Not Found"
+ ],
+ [
+  "https://confluent.io/students",
+  404,
+  "https://www.confluent.io/students",
+  "Page Not Found"
+ ],
+ [
+  "https://hashicorp.com/ambassador",
+  200,
+  "https://www.hashicorp.com/en/ambassador",
+  "HashiCorp Ambassadors"
+ ],
+ [
+  "https://hashicorp.com/ambassador-program",
+  404,
+  "https://www.hashicorp.com/en/ambassador-program",
+  "HashiCorp"
+ ],
+ [
+  "https://hashicorp.com/ambassadors",
+  200,
+  "https://www.hashicorp.com/en/ambassador",
+  "HashiCorp Ambassadors"
+ ],
+ [
+  "https://hashicorp.com/campus",
+  404,
+  "https://www.hashicorp.com/en/campus",
+  "HashiCorp"
+ ],
+ [
+  "https://hashicorp.com/campus-ambassador",
+  404,
+  "https://www.hashicorp.com/en/campus-ambassador",
+  "HashiCorp"
+ ],
+ [
+  "https://hashicorp.com/community/ambassadors",
+  404,
+  "https://www.hashicorp.com/en/community/ambassadors",
+  "HashiCorp"
+ ],
+ [
+  "https://hashicorp.com/student-ambassador",
+  404,
+  "https://www.hashicorp.com/en/student-ambassador",
+  "HashiCorp"
+ ],
+ [
+  "https://hashicorp.com/students",
+  404,
+  "https://www.hashicorp.com/en/students",
+  "HashiCorp"
+ ],
+ [
+  "https://docker.com/ambassador",
+  404,
+  "https://www.docker.com/ambassador",
+  "Page not found | Docker"
+ ],
+ [
+  "https://docker.com/ambassador-program",
+  404,
+  "https://www.docker.com/ambassador-program",
+  "Page not found | Docker"
+ ],
+ [
+  "https://docker.com/ambassadors",
+  404,
+  "https://www.docker.com/ambassadors",
+  "Page not found | Docker"
+ ],
+ [
+  "https://docker.com/campus",
+  404,
+  "https://www.docker.com/campus",
+  "Page not found | Docker"
+ ],
+ [
+  "https://docker.com/campus-ambassador",
+  404,
+  "https://www.docker.com/campus-ambassador",
+  "Page not found | Docker"
+ ],
+ [
+  "https://docker.com/community/ambassadors",
+  404,
+  "https://www.docker.com/community/ambassadors",
+  "Page not found | Docker"
+ ],
+ [
+  "https://docker.com/student-ambassador",
+  404,
+  "https://www.docker.com/student-ambassador",
+  "Page not found | Docker"
+ ],
+ [
+  "https://docker.com/students",
+  404,
+  "https://www.docker.com/students",
+  "Page not found | Docker"
+ ],
+ [
+  "https://cncf.io/ambassador",
+  200,
+  "https://www.cncf.io/people/ambassadors/",
+  "Ambassadors | CNCF"
+ ],
+ [
+  "https://cncf.io/ambassador-program",
+  404,
+  "https://www.cncf.io/ambassador-program",
+  "Page not found | CNCF"
+ ],
+ [
+  "https://cncf.io/ambassadors",
+  404,
+  "https://www.cncf.io/ambassadors",
+  "Page not found | CNCF"
+ ],
+ [
+  "https://cncf.io/campus",
+  404,
+  "https://www.cncf.io/campus",
+  "Page not found | CNCF"
+ ],
+ [
+  "https://cncf.io/campus-ambassador",
+  404,
+  "https://www.cncf.io/campus-ambassador",
+  "Page not found | CNCF"
+ ],
+ [
+  "https://cncf.io/community/ambassadors",
+  404,
+  "https://www.cncf.io/community/ambassadors",
+  "Page not found | CNCF"
+ ],
+ [
+  "https://cncf.io/student-ambassador",
+  404,
+  "https://www.cncf.io/student-ambassador",
+  "Page not found | CNCF"
+ ],
+ [
+  "https://cncf.io/students",
+  404,
+  "https://www.cncf.io/students",
+  "Page not found | CNCF"
+ ],
+ [
+  "https://www.cncf.io/people/ambassadors/",
+  200,
+  "https://www.cncf.io/people/ambassadors/",
+  "Ambassadors | CNCF"
+ ],
+ [
+  "https://www.cncf.io/people/ambassadors/?p=kaiwalya-koparkar-2",
+  200,
+  "https://www.cncf.io/people/ambassadors/?p=kaiwalya-koparkar-2",
+  "Ambassadors | CNCF"
+ ],
+ [
+  "https://grafana.com/ambassador",
+  404,
+  "https://grafana.com/ambassador",
+  "404 Page not found | Grafana Labs"
+ ],
+ [
+  "https://grafana.com/ambassador-program",
+  404,
+  "https://grafana.com/ambassador-program",
+  "404 Page not found | Grafana Labs"
+ ],
+ [
+  "https://grafana.com/ambassadors",
+  404,
+  "https://grafana.com/ambassadors",
+  "404 Page not found | Grafana Labs"
+ ],
+ [
+  "https://grafana.com/campus",
+  404,
+  "https://grafana.com/campus",
+  "404 Page not found | Grafana Labs"
+ ],
+ [
+  "https://grafana.com/campus-ambassador",
+  404,
+  "https://grafana.com/campus-ambassador",
+  "404 Page not found | Grafana Labs"
+ ],
+ [
+  "https://grafana.com/community/ambassadors",
+  403,
+  "https://grafana.com/community/ambassadors",
+  ""
+ ],
+ [
+  "https://grafana.com/student-ambassador",
+  404,
+  "https://grafana.com/student-ambassador",
+  "404 Page not found | Grafana Labs"
+ ],
+ [
+  "https://grafana.com/students",
+  404,
+  "https://grafana.com/students",
+  "404 Page not found | Grafana Labs"
+ ],
+ [
+  "https://jetbrains.com/ambassador",
+  404,
+  "https://www.jetbrains.com/ambassador/",
+  "Error 404"
+ ],
+ [
+  "https://jetbrains.com/ambassador-program",
+  404,
+  "https://www.jetbrains.com/ambassador-program/",
+  "Error 404"
+ ],
+ [
+  "https://jetbrains.com/ambassadors",
+  404,
+  "https://www.jetbrains.com/ambassadors/",
+  "Error 404"
+ ],
+ [
+  "https://jetbrains.com/campus",
+  404,
+  "https://www.jetbrains.com/campus/",
+  "Error 404"
+ ],
+ [
+  "https://jetbrains.com/campus-ambassador",
+  404,
+  "https://www.jetbrains.com/campus-ambassador/",
+  "Error 404"
+ ],
+ [
+  "https://jetbrains.com/community/ambassadors",
+  404,
+  "https://www.jetbrains.com/community/ambassadors/",
+  "Error 404"
+ ],
+ [
+  "https://jetbrains.com/student-ambassador",
+  404,
+  "https://www.jetbrains.com/student-ambassador/",
+  "Error 404"
+ ],
+ [
+  "https://jetbrains.com/students",
+  200,
+  "https://www.jetbrains.com/academy/student-pack/",
+  "Free JetBrains Student Pack"
+ ],
+ [
+  "https://www.jetbrains.com/academy/student-pack/",
+  200,
+  "https://www.jetbrains.com/academy/student-pack/",
+  "Free JetBrains Student Pack"
+ ],
+ [
+  "https://postman.com/ambassador",
+  200,
+  "https://www.postman.com/ambassador",
+  "Postman"
+ ],
+ [
+  "https://postman.com/ambassador-program",
+  200,
+  "https://www.postman.com/ambassador-program",
+  "Postman"
+ ],
+ [
+  "https://postman.com/ambassadors",
+  200,
+  "https://www.postman.com/ambassadors",
+  "Postman"
+ ],
+ [
+  "https://postman.com/campus",
+  200,
+  "https://www.postman.com/campus",
+  "Postman"
+ ],
+ [
+  "https://postman.com/campus-ambassador",
+  200,
+  "https://www.postman.com/campus-ambassador",
+  "Postman"
+ ],
+ [
+  "https://postman.com/community/ambassadors",
+  404,
+  "https://www.postman.com/community/ambassadors/",
+  ""
+ ],
+ [
+  "https://postman.com/student-ambassador",
+  200,
+  "https://www.postman.com/student-ambassador",
+  "Postman"
+ ],
+ [
+  "https://postman.com/students",
+  200,
+  "https://www.postman.com/students",
+  "Postman"
+ ],
+ [
+  "https://twilio.com/ambassador",
+  404,
+  "https://www.twilio.com:443/ambassador",
+  "Page not found | Twilio"
+ ],
+ [
+  "https://twilio.com/ambassador-program",
+  404,
+  "https://www.twilio.com:443/ambassador-program",
+  "Page not found | Twilio"
+ ],
+ [
+  "https://twilio.com/ambassadors",
+  404,
+  "https://www.twilio.com:443/ambassadors",
+  "Page not found | Twilio"
+ ],
+ [
+  "https://twilio.com/campus",
+  404,
+  "https://www.twilio.com:443/campus",
+  "Page not found | Twilio"
+ ],
+ [
+  "https://twilio.com/campus-ambassador",
+  404,
+  "https://www.twilio.com:443/campus-ambassador",
+  "Page not found | Twilio"
+ ],
+ [
+  "https://twilio.com/community/ambassadors",
+  404,
+  "https://www.twilio.com:443/community/ambassadors",
+  "404 Not Found"
+ ],
+ [
+  "https://twilio.com/student-ambassador",
+  404,
+  "https://www.twilio.com:443/student-ambassador",
+  "Page not found | Twilio"
+ ],
+ [
+  "https://twilio.com/students",
+  404,
+  "https://www.twilio.com:443/students",
+  "Page not found | Twilio"
+ ],
+ [
+  "https://auth0.com/ambassador",
+  404,
+  "https://auth0.com/ambassador",
+  "Not found - Auth0"
+ ],
+ [
+  "https://auth0.com/ambassador-program",
+  200,
+  "https://developer.auth0.com/",
+  "Developer Center | Auth0"
+ ],
+ [
+  "https://auth0.com/ambassadors",
+  404,
+  "https://auth0.com/ambassadors",
+  "Not found - Auth0"
+ ],
+ [
+  "https://auth0.com/campus",
+  404,
+  "https://auth0.com/campus",
+  "Not found - Auth0"
+ ],
+ [
+  "https://auth0.com/campus-ambassador",
+  404,
+  "https://auth0.com/campus-ambassador",
+  "Not found - Auth0"
+ ],
+ [
+  "https://auth0.com/community/ambassadors",
+  404,
+  "https://auth0.com/community/ambassadors",
+  "Not found - Auth0"
+ ],
+ [
+  "https://auth0.com/student-ambassador",
+  404,
+  "https://auth0.com/student-ambassador",
+  "Not found - Auth0"
+ ],
+ [
+  "https://auth0.com/students",
+  404,
+  "https://auth0.com/students",
+  "Not found - Auth0"
+ ],
+ [
+  "https://stripe.com/ambassador",
+  404,
+  "https://stripe.com/ambassador",
+  "Page not found"
+ ],
+ [
+  "https://stripe.com/ambassador-program",
+  404,
+  "https://stripe.com/ambassador-program",
+  "Page not found"
+ ],
+ [
+  "https://stripe.com/ambassadors",
+  404,
+  "https://stripe.com/ambassadors",
+  "Page not found"
+ ],
+ [
+  "https://stripe.com/campus",
+  404,
+  "https://stripe.com/campus",
+  "Page not found"
+ ],
+ [
+  "https://stripe.com/campus-ambassador",
+  404,
+  "https://stripe.com/campus-ambassador",
+  "Page not found"
+ ],
+ [
+  "https://stripe.com/community/ambassadors",
+  404,
+  "https://stripe.com/community/ambassadors",
+  "Page not found"
+ ],
+ [
+  "https://stripe.com/student-ambassador",
+  404,
+  "https://stripe.com/student-ambassador",
+  "Page not found"
+ ],
+ [
+  "https://stripe.com/students",
+  404,
+  "https://stripe.com/students",
+  "Page not found"
+ ],
+ [
+  "https://razorpay.com/ambassador",
+  404,
+  "https://razorpay.com/ambassador",
+  "404 Not Found"
+ ],
+ [
+  "https://razorpay.com/ambassador-program",
+  404,
+  "https://razorpay.com/ambassador-program",
+  "404 Not Found"
+ ],
+ [
+  "https://razorpay.com/ambassadors",
+  404,
+  "https://razorpay.com/ambassadors",
+  "404 Not Found"
+ ],
+ [
+  "https://razorpay.com/campus",
+  404,
+  "https://razorpay.com/campus",
+  "404 Not Found"
+ ],
+ [
+  "https://razorpay.com/campus-ambassador",
+  404,
+  "https://razorpay.com/campus-ambassador",
+  "404 Not Found"
+ ],
+ [
+  "https://razorpay.com/community/ambassadors",
+  404,
+  "https://razorpay.com/community/ambassadors",
+  "404 Not Found"
+ ],
+ [
+  "https://razorpay.com/student-ambassador",
+  404,
+  "https://razorpay.com/student-ambassador",
+  "404 Not Found"
+ ],
+ [
+  "https://razorpay.com/students",
+  404,
+  "https://razorpay.com/students",
+  "404 Not Found"
+ ],
+ [
+  "https://pinecone.io/ambassador",
+  404,
+  "https://www.pinecone.io/ambassador/",
+  "The trusted AI knowledge company | Pinecone"
+ ],
+ [
+  "https://pinecone.io/ambassador-program",
+  404,
+  "https://www.pinecone.io/ambassador-program/",
+  "The trusted AI knowledge company | Pinecone"
+ ],
+ [
+  "https://pinecone.io/ambassadors",
+  404,
+  "https://www.pinecone.io/ambassadors/",
+  "The trusted AI knowledge company | Pinecone"
+ ],
+ [
+  "https://pinecone.io/campus",
+  404,
+  "https://www.pinecone.io/campus/",
+  "The trusted AI knowledge company | Pinecone"
+ ],
+ [
+  "https://pinecone.io/campus-ambassador",
+  404,
+  "https://www.pinecone.io/campus-ambassador/",
+  "The trusted AI knowledge company | Pinecone"
+ ],
+ [
+  "https://pinecone.io/community/ambassadors",
+  404,
+  "https://www.pinecone.io/community/ambassadors/",
+  "The trusted AI knowledge company | Pinecone"
+ ],
+ [
+  "https://pinecone.io/student-ambassador",
+  404,
+  "https://www.pinecone.io/student-ambassador/",
+  "The trusted AI knowledge company | Pinecone"
+ ],
+ [
+  "https://pinecone.io/students",
+  404,
+  "https://www.pinecone.io/students/",
+  "The trusted AI knowledge company | Pinecone"
+ ],
+ [
+  "https://weaviate.io/ambassador",
+  404,
+  "https://weaviate.io/ambassador",
+  "Page Not Found | Weaviate"
+ ],
+ [
+  "https://weaviate.io/ambassador-program",
+  404,
+  "https://weaviate.io/ambassador-program",
+  "Page Not Found | Weaviate"
+ ],
+ [
+  "https://weaviate.io/ambassadors",
+  404,
+  "https://weaviate.io/ambassadors",
+  "Page Not Found | Weaviate"
+ ],
+ [
+  "https://weaviate.io/campus",
+  404,
+  "https://weaviate.io/campus",
+  "Page Not Found | Weaviate"
+ ],
+ [
+  "https://weaviate.io/campus-ambassador",
+  404,
+  "https://weaviate.io/campus-ambassador",
+  "Page Not Found | Weaviate"
+ ],
+ [
+  "https://weaviate.io/community/ambassadors",
+  404,
+  "https://weaviate.io/community/ambassadors",
+  "Page Not Found | Weaviate"
+ ],
+ [
+  "https://weaviate.io/student-ambassador",
+  404,
+  "https://weaviate.io/student-ambassador",
+  "Page Not Found | Weaviate"
+ ],
+ [
+  "https://weaviate.io/students",
+  404,
+  "https://weaviate.io/students",
+  "Page Not Found | Weaviate"
+ ],
+ [
+  "https://qdrant.tech/ambassador",
+  404,
+  "https://qdrant.tech/ambassador",
+  "404 Page not found - Qdrant"
+ ],
+ [
+  "https://qdrant.tech/ambassador-program",
+  404,
+  "https://qdrant.tech/ambassador-program",
+  "404 Page not found - Qdrant"
+ ],
+ [
+  "https://qdrant.tech/ambassadors",
+  404,
+  "https://qdrant.tech/ambassadors",
+  "404 Page not found - Qdrant"
+ ],
+ [
+  "https://qdrant.tech/campus",
+  404,
+  "https://qdrant.tech/campus",
+  "404 Page not found - Qdrant"
+ ],
+ [
+  "https://qdrant.tech/campus-ambassador",
+  404,
+  "https://qdrant.tech/campus-ambassador",
+  "404 Page not found - Qdrant"
+ ],
+ [
+  "https://qdrant.tech/community/ambassadors",
+  404,
+  "https://qdrant.tech/community/ambassadors",
+  "404 Page not found - Qdrant"
+ ],
+ [
+  "https://qdrant.tech/student-ambassador",
+  404,
+  "https://qdrant.tech/student-ambassador",
+  "404 Page not found - Qdrant"
+ ],
+ [
+  "https://qdrant.tech/students",
+  404,
+  "https://qdrant.tech/students",
+  "404 Page not found - Qdrant"
+ ],
+ [
+  "https://trychroma.com/ambassador",
+  200,
+  "https://www.trychroma.com/login?return_path=%2Fambassador",
+  "Chroma - open-source search infrastructure for AI"
+ ],
+ [
+  "https://trychroma.com/ambassador-program",
+  200,
+  "https://www.trychroma.com/login?return_path=%2Fambassador-program",
+  "Chroma - open-source search infrastructure for AI"
+ ],
+ [
+  "https://trychroma.com/ambassadors",
+  200,
+  "https://www.trychroma.com/login?return_path=%2Fambassadors",
+  "Chroma - open-source search infrastructure for AI"
+ ],
+ [
+  "https://trychroma.com/campus",
+  200,
+  "https://www.trychroma.com/login?return_path=%2Fcampus",
+  "Chroma - open-source search infrastructure for AI"
+ ],
+ [
+  "https://trychroma.com/campus-ambassador",
+  200,
+  "https://www.trychroma.com/login?return_path=%2Fcampus-ambassador",
+  "Chroma - open-source search infrastructure for AI"
+ ],
+ [
+  "https://trychroma.com/community/ambassadors",
+  200,
+  "https://www.trychroma.com/login?return_path=%2Fcommunity%2Fambassadors",
+  "Chroma - open-source search infrastructure for AI"
+ ],
+ [
+  "https://trychroma.com/student-ambassador",
+  200,
+  "https://www.trychroma.com/login?return_path=%2Fstudent-ambassador",
+  "Chroma - open-source search infrastructure for AI"
+ ],
+ [
+  "https://trychroma.com/students",
+  200,
+  "https://www.trychroma.com/login?return_path=%2Fstudents",
+  "Chroma - open-source search infrastructure for AI"
+ ],
+ [
+  "https://langchain.com/ambassador",
+  404,
+  "https://www.langchain.com/ambassador",
+  "404"
+ ],
+ [
+  "https://langchain.com/ambassador-program",
+  404,
+  "https://www.langchain.com/ambassador-program",
+  "404"
+ ],
+ [
+  "https://langchain.com/ambassadors",
+  404,
+  "https://www.langchain.com/ambassadors",
+  "404"
+ ],
+ [
+  "https://langchain.com/campus",
+  404,
+  "https://www.langchain.com/campus",
+  "404"
+ ],
+ [
+  "https://langchain.com/campus-ambassador",
+  404,
+  "https://www.langchain.com/campus-ambassador",
+  "404"
+ ],
+ [
+  "https://langchain.com/community/ambassadors",
+  404,
+  "https://www.langchain.com/community/ambassadors",
+  "404"
+ ],
+ [
+  "https://langchain.com/student-ambassador",
+  404,
+  "https://www.langchain.com/student-ambassador",
+  "404"
+ ],
+ [
+  "https://langchain.com/students",
+  404,
+  "https://www.langchain.com/students",
+  "404"
+ ],
+ [
+  "https://llamaindex.ai/ambassador",
+  404,
+  "https://www.llamaindex.ai/ambassador",
+  "404 \u2022 Page Not Found"
+ ],
+ [
+  "https://llamaindex.ai/ambassador-program",
+  404,
+  "https://www.llamaindex.ai/ambassador-program",
+  "404 \u2022 Page Not Found"
+ ],
+ [
+  "https://llamaindex.ai/ambassadors",
+  404,
+  "https://www.llamaindex.ai/ambassadors",
+  "404 \u2022 Page Not Found"
+ ],
+ [
+  "https://llamaindex.ai/campus",
+  404,
+  "https://www.llamaindex.ai/campus",
+  "404 \u2022 Page Not Found"
+ ],
+ [
+  "https://llamaindex.ai/campus-ambassador",
+  404,
+  "https://www.llamaindex.ai/campus-ambassador",
+  "404 \u2022 Page Not Found"
+ ],
+ [
+  "https://llamaindex.ai/community/ambassadors",
+  404,
+  "https://www.llamaindex.ai/community/ambassadors",
+  "404 \u2022 Page Not Found"
+ ],
+ [
+  "https://llamaindex.ai/student-ambassador",
+  404,
+  "https://www.llamaindex.ai/student-ambassador",
+  "404 \u2022 Page Not Found"
+ ],
+ [
+  "https://llamaindex.ai/students",
+  404,
+  "https://www.llamaindex.ai/students",
+  "404 \u2022 Page Not Found"
+ ],
+ [
+  "https://wandb.ai/ambassador",
+  200,
+  "https://forge.coreweave.com/wandb/ambassador",
+  "Forge"
+ ],
+ [
+  "https://wandb.ai/ambassador-program",
+  200,
+  "https://forge.coreweave.com/wandb/ambassador-program",
+  "Forge"
+ ],
+ [
+  "https://wandb.ai/ambassadors",
+  200,
+  "https://forge.coreweave.com/wandb/ambassadors",
+  "Forge"
+ ],
+ [
+  "https://wandb.ai/campus",
+  200,
+  "https://forge.coreweave.com/wandb/campus",
+  "Forge"
+ ],
+ [
+  "https://wandb.ai/campus-ambassador",
+  200,
+  "https://forge.coreweave.com/wandb/campus-ambassador",
+  "Forge"
+ ],
+ [
+  "https://wandb.ai/community/ambassadors",
+  200,
+  "https://forge.coreweave.com/wandb/community/ambassadors",
+  "Forge"
+ ],
+ [
+  "https://wandb.ai/student-ambassador",
+  200,
+  "https://forge.coreweave.com/wandb/student-ambassador",
+  "Forge"
+ ],
+ [
+  "https://wandb.ai/students",
+  200,
+  "https://forge.coreweave.com/wandb/students",
+  "Forge"
+ ],
+ [
+  "https://scale.com/ambassador",
+  404,
+  "https://scale.com/ambassador",
+  "Scale AI - Data Platform for AI"
+ ],
+ [
+  "https://scale.com/ambassador-program",
+  404,
+  "https://scale.com/ambassador-program",
+  "Scale AI - Data Platform for AI"
+ ],
+ [
+  "https://scale.com/ambassadors",
+  404,
+  "https://scale.com/ambassadors",
+  "Scale AI - Data Platform for AI"
+ ],
+ [
+  "https://scale.com/campus",
+  404,
+  "https://scale.com/campus",
+  "Scale AI - Data Platform for AI"
+ ],
+ [
+  "https://scale.com/campus-ambassador",
+  404,
+  "https://scale.com/campus-ambassador",
+  "Scale AI - Data Platform for AI"
+ ],
+ [
+  "https://scale.com/community/ambassadors",
+  404,
+  "https://scale.com/community/ambassadors",
+  "Scale AI - Data Platform for AI"
+ ],
+ [
+  "https://scale.com/student-ambassador",
+  404,
+  "https://scale.com/student-ambassador",
+  "Scale AI - Data Platform for AI"
+ ],
+ [
+  "https://scale.com/students",
+  404,
+  "https://scale.com/students",
+  "Scale AI - Data Platform for AI"
+ ],
+ [
+  "https://internshala-uploads.internshala.com/banner-images/home_new/hgsh-student.png.webp",
+  200,
+  "https://internshala-uploads.internshala.com/banner-images/home_new/hgsh-student.png.webp",
+  ""
+ ],
+ [
+  "https://internshala-uploads.internshala.com/banner-images/home_new/mega_internship_sprint_oct26-student.png.webp",
+  200,
+  "https://internshala-uploads.internshala.com/banner-images/home_new/mega_internship_sprint_oct26-student.png.webp",
+  ""
+ ],
+ [
+  "https://internshala-uploads.internshala.com/banner-images/home_new/swiggy_catalyst_2026-student.png.webp",
+  200,
+  "https://internshala-uploads.internshala.com/banner-images/home_new/swiggy_catalyst_2026-student.png.webp",
+  ""
+ ],
+ [
+  "https://internshala.com/ambassador",
+  404,
+  "https://internshala.com/ambassador",
+  "404: Page not found"
+ ],
+ [
+  "https://internshala.com/ambassador-program",
+  404,
+  "https://internshala.com/ambassador-program",
+  "404: Page not found"
+ ],
+ [
+  "https://internshala.com/ambassadors",
+  404,
+  "https://internshala.com/ambassadors",
+  "404: Page not found"
+ ],
+ [
+  "https://internshala.com/campus",
+  404,
+  "https://internshala.com/campus",
+  "404: Page not found"
+ ],
+ [
+  "https://internshala.com/campus-ambassador",
+  404,
+  "https://internshala.com/campus-ambassador",
+  "404: Page not found"
+ ],
+ [
+  "https://internshala.com/community/ambassadors",
+  404,
+  "https://internshala.com/community/ambassadors",
+  "404: Page not found"
+ ],
+ [
+  "https://internshala.com/internships/campus-ambassador-internship/?utm_source=is_menu_dropdown",
+  200,
+  "https://internshala.com/internships/campus-ambassador-internship/?utm_source=is_menu_dropdown",
+  "Campus Ambassador Internships - 43 Intern Jobs in Nov 2026"
+ ],
+ [
+  "https://internshala.com/login/get_google/student",
+  200,
+  "https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-384568228%3A1793797049352720&client_id=827625755886-edpmpa7jsvq8al2v03utohjqg4j2sd3b.apps.googleusercontent.com&o2v=1&redirect_uri=https%3A%2F%2Finternshala.com%2Flogin%2Fgoogle&response_type=code&scope=profile+email&service=lso&state=eyAicm9sZSIgOiAic3R1ZGVudCIsICJzdWNjZXNzX3BhZ2UiIDogIi9zdHVkZW50L2Rhc2hib2FyZCIsICJ1dG1fc291cmNlIiA6ICIiICwgInV0bV9tZWRpdW0iIDogIiIsICJ1dG1fY2FtcGFpZ24iIDogIiIsICJzb3VyY2VfdXJsIiA6ICIiLCAic291cmNlIiA6ICIiLCAiY29tcGFueV91cmwiIDogIiIgfQ%2C%2C&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fv3%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPTseb6qID4JNbUhwodkOO8X40BQRonSkQCHLBHHQssHtgmOiigU1DIFWQhvU4GahPs9ZOT9J4HnMwLWWQRXWu8dpvQ3WJmPR5Uzre3jbarsGPaCYtlOsUFEdBt5XDXY41nAXCxoHsfvFU_4AvAVkgA10EoEFyUn5cnaGnhRdiuMa4Aj-GsY_5ALizAcGhePEw4dCY9UqJDFXAZCSI0_6wynNj-fqsNVLFPWmSv-CdlM8ZH3hEEhastt80dyRqnR60Zej0-cndeQW9lKBkFj1J2PMZF7qX3Ymfi75gY5Q-TIXBgb0_Oz412mstJpq2G_4B2T1pU0581V_CkRvsnf5W_DxVx8lTmwvhhd29is5x3KPWRemFBLUAkOZ-4qjUbNKAxOFcYv4PnxxAcbyztf_2wl9toLXAQz0y6_8fcwbmtKaTlavFkEaRkljTPzwC2FJlRz7Bu8zimkJ1j9dIekhEW4rzqKg%26flowName%3DGeneralOAuthFlow%26as%3DS-384568228%253A1793797049352720%26client_id%3D827625755886-edpmpa7jsvq8al2v03utohjqg4j2sd3b.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fv3%252Fconsent%23&app_domain=https%3A%2F%2Finternshala.com&rart=ANgoxcdYDBOFmfP1jxxrFCvyX_DJwnAEyJEE4P86CfktCQiVQcIQQp83_5ZOlJkve0AsbsFLWnUpcdRBNE-zq55QGN5gDbiGLG7I_xrkNY5YMw7muQplPEc",
+  "Sign in - Google Accounts"
+ ],
+ [
+  "https://internshala.com/registration/student",
+  200,
+  "https://internshala.com/registration/student",
+  "Search Internships, Jobs, &amp; Courses | Hire Candidates | Internshala"
+ ],
+ [
+  "https://internshala.com/registration/student?utm_source=firstfold_homepage_mobile",
+  200,
+  "https://internshala.com/registration/student?utm_source=firstfold_homepage_mobile",
+  "Search Internships, Jobs, &amp; Courses | Hire Candidates | Internshala"
+ ],
+ [
+  "https://internshala.com/registration/student?utm_source=firstfold_hp",
+  200,
+  "https://internshala.com/registration/student?utm_source=firstfold_hp",
+  "Search Internships, Jobs, &amp; Courses | Hire Candidates | Internshala"
+ ],
+ [
+  "https://internshala.com/registration/student?utm_source=is_header_homepage",
+  200,
+  "https://internshala.com/registration/student?utm_source=is_header_homepage",
+  "Search Internships, Jobs, &amp; Courses | Hire Candidates | Internshala"
+ ],
+ [
+  "https://internshala.com/registration/student?utm_source=is_prefooter_homepage",
+  200,
+  "https://internshala.com/registration/student?utm_source=is_prefooter_homepage",
+  "Search Internships, Jobs, &amp; Courses | Hire Candidates | Internshala"
+ ],
+ [
+  "https://internshala.com/student-ambassador",
+  404,
+  "https://internshala.com/student-ambassador",
+  "404: Page not found"
+ ],
+ [
+  "https://internshala.com/students",
+  404,
+  "https://internshala.com/students",
+  "404: Page not found"
+ ],
+ [
+  "https://www.swiggycampuscatalyst.com/program?utm_source=internshala&utm_medium=banner&utm_campaign=catalyst_application",
+  200,
+  "https://www.swiggycampuscatalyst.com/program?utm_source=internshala&utm_medium=banner&utm_campaign=catalyst_application",
+  "Campus Growth Catalyst Program"
+ ],
+ [
+  "https://unstop.com/ambassador",
+  200,
+  "https://unstop.com/ambassador",
+  "Unstop - Competitions, Quizzes, Hackathons, Scholarships and Internships for Students and\n"
+ ],
+ [
+  "https://unstop.com/ambassador-program",
+  200,
+  "https://unstop.com/ambassador-program",
+  "Unstop - Competitions, Quizzes, Hackathons, Scholarships and Internships for Students and\n"
+ ],
+ [
+  "https://unstop.com/ambassadors",
+  200,
+  "https://unstop.com/ambassadors",
+  "Unstop - Competitions, Quizzes, Hackathons, Scholarships and Internships for Students and\n"
+ ],
+ [
+  "https://unstop.com/campus",
+  200,
+  "https://unstop.com/campus",
+  "Unstop - Competitions, Quizzes, Hackathons, Scholarships and Internships for Students and\n"
+ ],
+ [
+  "https://unstop.com/campus-ambassador",
+  200,
+  "https://unstop.com/campus-ambassador",
+  "Unstop - Competitions, Quizzes, Hackathons, Scholarships and Internships for Students and\n"
+ ],
+ [
+  "https://unstop.com/community/ambassadors",
+  200,
+  "https://unstop.com/community/ambassadors",
+  "Unstop - Competitions, Quizzes, Hackathons, Scholarships and Internships for Students and\n"
+ ],
+ [
+  "https://unstop.com/student-ambassador",
+  200,
+  "https://unstop.com/student-ambassador",
+  "Unstop - Competitions, Quizzes, Hackathons, Scholarships and Internships for Students and\n"
+ ],
+ [
+  "https://unstop.com/students",
+  200,
+  "https://unstop.com/students",
+  "Unstop - Competitions, Quizzes, Hackathons, Scholarships and Internships for Students and\n"
+ ],
+ [
+  "https://geeksforgeeks.org/ambassador",
+  404,
+  "https://www.geeksforgeeks.org/ambassador/",
+  "GeeksforGeeks | 404"
+ ],
+ [
+  "https://geeksforgeeks.org/ambassador-program",
+  404,
+  "https://www.geeksforgeeks.org/ambassador-program/",
+  "GeeksforGeeks | 404"
+ ],
+ [
+  "https://geeksforgeeks.org/ambassadors",
+  404,
+  "https://www.geeksforgeeks.org/ambassadors/",
+  "GeeksforGeeks | 404"
+ ],
+ [
+  "https://geeksforgeeks.org/campus",
+  404,
+  "https://www.geeksforgeeks.org/campus/",
+  "GeeksforGeeks | 404"
+ ],
+ [
+  "https://geeksforgeeks.org/campus-ambassador",
+  404,
+  "https://www.geeksforgeeks.org/campus-ambassador/",
+  "GeeksforGeeks | 404"
+ ],
+ [
+  "https://geeksforgeeks.org/community/ambassadors",
+  404,
+  "https://www.geeksforgeeks.org/community/ambassadors/",
+  "GeeksforGeeks | 404"
+ ],
+ [
+  "https://geeksforgeeks.org/student-ambassador",
+  404,
+  "https://www.geeksforgeeks.org/student-ambassador/",
+  "GeeksforGeeks | 404"
+ ],
+ [
+  "https://geeksforgeeks.org/students",
+  404,
+  "https://www.geeksforgeeks.org/students/",
+  "GeeksforGeeks | 404"
+ ],
+ [
+  "https://www.geeksforgeeks.org/campus-training-program/",
+  200,
+  "https://www.geeksforgeeks.org/campus-training-program/",
+  "Campus Training Program - GeeksforGeeks"
+ ],
+ [
+  "https://codingninjas.com/ambassador",
+  200,
+  "https://www.codingninjas.com/ambassador",
+  "Coding Ninjas"
+ ],
+ [
+  "https://codingninjas.com/ambassador-program",
+  200,
+  "https://www.codingninjas.com/ambassador-program",
+  "Coding Ninjas"
+ ],
+ [
+  "https://codingninjas.com/ambassadors",
+  200,
+  "https://www.codingninjas.com/ambassadors",
+  "Coding Ninjas"
+ ],
+ [
+  "https://codingninjas.com/campus",
+  200,
+  "https://www.codingninjas.com/campus",
+  "Coding Ninjas"
+ ],
+ [
+  "https://codingninjas.com/campus-ambassador",
+  200,
+  "https://www.codingninjas.com/campus-ambassador",
+  "Coding Ninjas"
+ ],
+ [
+  "https://codingninjas.com/community/ambassadors",
+  200,
+  "https://www.codingninjas.com/community/ambassadors",
+  "Coding Ninjas"
+ ],
+ [
+  "https://codingninjas.com/student-ambassador",
+  200,
+  "https://www.codingninjas.com/student-ambassador",
+  "Coding Ninjas"
+ ],
+ [
+  "https://codingninjas.com/students",
+  200,
+  "https://www.codingninjas.com/students",
+  "Coding Ninjas"
+ ],
+ [
+  "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-dsa/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=footer",
+  200,
+  "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-dsa/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=footer",
+  "IITM Pravartak Student Training and Internship Certification in DSA"
+ ],
+ [
+  "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-dsa/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=homepage_new_courses&amp;angular_version=18",
+  200,
+  "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-dsa/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=homepage_new_courses&amp;angular_version=18",
+  "IITM Pravartak Student Training and Internship Certification in DSA"
+ ],
+ [
+  "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-dsa/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=important_links",
+  200,
+  "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-dsa/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=important_links",
+  "IITM Pravartak Student Training and Internship Certification in DSA"
+ ],
+ [
+  "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-fswd/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=homepage_new_courses&amp;angular_version=18",
+  200,
+  "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-fswd/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=homepage_new_courses&amp;angular_version=18",
+  "IITM Pravartak Student Training and Internship Certification in FSD"
+ ],
+ [
+  "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-fswd/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=important_links",
+  200,
+  "https://www.codingninjas.com/careercamp/iitm-student-training-and-internship-certification-fswd/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=important_links",
+  "IITM Pravartak Student Training and Internship Certification in FSD"
+ ],
+ [
+  "https://www.codingninjas.com/landing/10x-club-student-chapters/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=sitewide_footer",
+  200,
+  "https://www.codingninjas.com/landing/10x-club-student-chapters/?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=sitewide_footer",
+  "10X Student Chapters - Coding Ninjas"
+ ],
+ [
+  "https://www.codingninjas.com/programs/data-analytics-iit-mandi-students-certification?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=homepage_new_courses&amp;angular_version=18",
+  200,
+  "https://www.codingninjas.com/programs/data-analytics-iit-mandi-students-certification?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=homepage_new_courses&amp;angular_version=18",
+  "Certification in Data Analytics with GenAI | IIT Mandi - TIH"
+ ],
+ [
+  "https://www.codingninjas.com/programs/data-analytics-iit-mandi-students-certification?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=important_links",
+  200,
+  "https://www.codingninjas.com/programs/data-analytics-iit-mandi-students-certification?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=important_links",
+  "Certification in Data Analytics with GenAI | IIT Mandi - TIH"
+ ],
+ [
+  "https://www.codingninjas.com/programs/data-analytics-students-iitp-certification?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=homepage_new_courses&amp;angular_version=18",
+  200,
+  "https://www.codingninjas.com/programs/data-analytics-students-iitp-certification?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=homepage_new_courses&amp;angular_version=18",
+  "Training &amp; Internship Certification in Data Analytics | Vishlesan i-Hub, IIT Patna"
+ ],
+ [
+  "https://www.codingninjas.com/programs/data-analytics-students-iitp-certification?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=important_links",
+  200,
+  "https://www.codingninjas.com/programs/data-analytics-students-iitp-certification?utm_source=internal&amp;utm_medium=internal&amp;utm_campaign=important_links",
+  "Training &amp; Internship Certification in Data Analytics | Vishlesan i-Hub, IIT Patna"
+ ],
+ [
+  "https://www.cxotoday.com/press-release/coding-ninjas-unconventional-approach-upskills-1l-students-yields-2-2x-salary-increase-for-graduates/",
+  200,
+  "https://cxotoday.com/media-coverage/coding-ninjas-unconventional-approach-upskills-1l-students-yields-2-2x-salary-increase-for-graduates/",
+  "Coding Ninjas&#039; Unconventional Approach Upskills 1L Students, Yields 2.2x Salary Incre"
+ ],
+ [
+  "https://scaler.com/ambassador",
+  404,
+  "https://www.scaler.com/ambassador",
+  "Scaler Academy (Previously InterviewBit Academy) - Accelerate your tech career | Scaler"
+ ],
+ [
+  "https://scaler.com/ambassador-program",
+  404,
+  "https://www.scaler.com/ambassador-program",
+  "Scaler Academy (Previously InterviewBit Academy) - Accelerate your tech career | Scaler"
+ ],
+ [
+  "https://scaler.com/ambassadors",
+  404,
+  "https://www.scaler.com/ambassadors",
+  "Scaler Academy (Previously InterviewBit Academy) - Accelerate your tech career | Scaler"
+ ],
+ [
+  "https://scaler.com/campus",
+  404,
+  "https://www.scaler.com/campus",
+  "Scaler Academy (Previously InterviewBit Academy) - Accelerate your tech career | Scaler"
+ ],
+ [
+  "https://scaler.com/campus-ambassador",
+  404,
+  "https://www.scaler.com/campus-ambassador",
+  "Scaler Academy (Previously InterviewBit Academy) - Accelerate your tech career | Scaler"
+ ],
+ [
+  "https://scaler.com/community/ambassadors",
+  404,
+  "https://www.scaler.com/community/ambassadors",
+  "Scaler Academy (Previously InterviewBit Academy) - Accelerate your tech career | Scaler"
+ ],
+ [
+  "https://scaler.com/student-ambassador",
+  404,
+  "https://www.scaler.com/student-ambassador",
+  "Scaler Academy (Previously InterviewBit Academy) - Accelerate your tech career | Scaler"
+ ],
+ [
+  "https://scaler.com/students",
+  404,
+  "https://www.scaler.com/students",
+  "Scaler Academy (Previously InterviewBit Academy) - Accelerate your tech career | Scaler"
+ ],
+ [
+  "https://pw.live/ambassador",
+  404,
+  "https://www.pw.live/ambassador",
+  "index"
+ ],
+ [
+  "https://pw.live/ambassador-program",
+  404,
+  "https://www.pw.live/ambassador-program",
+  "index"
+ ],
+ [
+  "https://pw.live/ambassadors",
+  404,
+  "https://www.pw.live/ambassadors",
+  "index"
+ ],
+ [
+  "https://pw.live/campus",
+  404,
+  "https://www.pw.live/campus",
+  ""
+ ],
+ [
+  "https://pw.live/campus-ambassador",
+  404,
+  "https://www.pw.live/campus-ambassador",
+  ""
+ ],
+ [
+  "https://pw.live/community/ambassadors",
+  200,
+  "https://www.pw.live/community/ambassadors",
+  "PW Community"
+ ],
+ [
+  "https://pw.live/student-ambassador",
+  404,
+  "https://www.pw.live/student-ambassador",
+  "index"
+ ],
+ [
+  "https://pw.live/students",
+  404,
+  "https://www.pw.live/students",
+  "index"
+ ],
+ [
+  "https://unacademy.com/ambassador",
+  200,
+  "https://unacademy.com/ambassador",
+  "Unacademy -  India&#x27;s largest learning platform"
+ ],
+ [
+  "https://unacademy.com/ambassador-program",
+  200,
+  "https://unacademy.com/ambassador-program",
+  "Unacademy -  India&#x27;s largest learning platform"
+ ],
+ [
+  "https://unacademy.com/ambassadors",
+  200,
+  "https://unacademy.com/ambassadors",
+  "Unacademy -  India&#x27;s largest learning platform"
+ ],
+ [
+  "https://unacademy.com/campus",
+  200,
+  "https://unacademy.com/campus",
+  "Unacademy -  India&#x27;s largest learning platform"
+ ],
+ [
+  "https://unacademy.com/campus-ambassador",
+  200,
+  "https://unacademy.com/campus-ambassador",
+  "Unacademy -  India&#x27;s largest learning platform"
+ ],
+ [
+  "https://unacademy.com/community/ambassadors",
+  410,
+  "https://unacademy.com/community/ambassadors",
+  "This page is no longer available"
+ ],
+ [
+  "https://unacademy.com/student-ambassador",
+  200,
+  "https://unacademy.com/student-ambassador",
+  "Unacademy -  India&#x27;s largest learning platform"
+ ],
+ [
+  "https://unacademy.com/students",
+  200,
+  "https://unacademy.com/students",
+  "Unacademy -  India&#x27;s largest learning platform"
+ ],
+ [
+  "https://vedantu.com/ambassador",
+  200,
+  "https://www.vedantu.com/ambassador",
+  "PAGE NOT FOUND"
+ ],
+ [
+  "https://vedantu.com/ambassador-program",
+  200,
+  "https://www.vedantu.com/ambassador-program",
+  "PAGE NOT FOUND"
+ ],
+ [
+  "https://vedantu.com/ambassadors",
+  200,
+  "https://www.vedantu.com/ambassadors",
+  "PAGE NOT FOUND"
+ ],
+ [
+  "https://vedantu.com/campus",
+  200,
+  "https://www.vedantu.com/campus",
+  "PAGE NOT FOUND"
+ ],
+ [
+  "https://vedantu.com/campus-ambassador",
+  200,
+  "https://www.vedantu.com/campus-ambassador",
+  "PAGE NOT FOUND"
+ ],
+ [
+  "https://vedantu.com/community/ambassadors",
+  200,
+  "https://www.vedantu.com/community/ambassadors",
+  "PAGE NOT FOUND"
+ ],
+ [
+  "https://vedantu.com/student-ambassador",
+  200,
+  "https://www.vedantu.com/student-ambassador",
+  "PAGE NOT FOUND"
+ ],
+ [
+  "https://vedantu.com/students",
+  200,
+  "https://www.vedantu.com/students",
+  "PAGE NOT FOUND"
+ ],
+ [
+  "https://byjus.com/ambassador",
+  404,
+  "https://byjus.com/ambassador/",
+  "Page not found - BYJU&#039;S"
+ ],
+ [
+  "https://byjus.com/ambassador-program",
+  404,
+  "https://byjus.com/ambassador-program/",
+  "Page not found - BYJU&#039;S"
+ ],
+ [
+  "https://byjus.com/ambassadors",
+  404,
+  "https://byjus.com/ambassadors/",
+  "Page not found - BYJU&#039;S"
+ ],
+ [
+  "https://byjus.com/campus",
+  404,
+  "https://byjus.com/campus/",
+  "Page not found - BYJU&#039;S"
+ ],
+ [
+  "https://byjus.com/campus-ambassador",
+  404,
+  "https://byjus.com/campus-ambassador/",
+  "Page not found - BYJU&#039;S"
+ ],
+ [
+  "https://byjus.com/community/ambassadors",
+  404,
+  "https://byjus.com/community/ambassadors/",
+  "Page not found - BYJU&#039;S"
+ ],
+ [
+  "https://byjus.com/student-ambassador",
+  404,
+  "https://byjus.com/student-ambassador/",
+  "Page not found - BYJU&#039;S"
+ ],
+ [
+  "https://byjus.com/students",
+  404,
+  "https://byjus.com/students/",
+  "Page not found - BYJU&#039;S"
+ ],
+ [
+  "https://simplilearn.com/ambassador",
+  404,
+  "https://www.simplilearn.com/ambassador",
+  "OOPS Looks like you've crash landed on Mars!"
+ ],
+ [
+  "https://simplilearn.com/ambassador-program",
+  404,
+  "https://www.simplilearn.com/ambassador-program",
+  "OOPS Looks like you've crash landed on Mars!"
+ ],
+ [
+  "https://simplilearn.com/ambassadors",
+  404,
+  "https://www.simplilearn.com/ambassadors",
+  "OOPS Looks like you've crash landed on Mars!"
+ ],
+ [
+  "https://simplilearn.com/campus",
+  404,
+  "https://www.simplilearn.com/campus",
+  "OOPS Looks like you've crash landed on Mars!"
+ ],
+ [
+  "https://simplilearn.com/campus-ambassador",
+  404,
+  "https://www.simplilearn.com/campus-ambassador",
+  "OOPS Looks like you've crash landed on Mars!"
+ ],
+ [
+  "https://simplilearn.com/community/ambassadors",
+  404,
+  "https://www.simplilearn.com/community/ambassadors",
+  "OOPS Looks like you've crash landed on Mars!"
+ ],
+ [
+  "https://simplilearn.com/student-ambassador",
+  404,
+  "https://www.simplilearn.com/student-ambassador",
+  "OOPS Looks like you've crash landed on Mars!"
+ ],
+ [
+  "https://simplilearn.com/students",
+  404,
+  "https://www.simplilearn.com/students",
+  "OOPS Looks like you've crash landed on Mars!"
+ ],
+ [
+  "https://mygreatlearning.com/ambassador",
+  404,
+  "https://www.mygreatlearning.com:443/ambassador",
+  "The page you were looking for doesn't exist (404)"
+ ],
+ [
+  "https://mygreatlearning.com/ambassador-program",
+  404,
+  "https://www.mygreatlearning.com:443/ambassador-program",
+  "The page you were looking for doesn't exist (404)"
+ ],
+ [
+  "https://mygreatlearning.com/ambassadors",
+  200,
+  "https://www.mygreatlearning.com:443/ambassadors",
+  "Great Learning Ambassadors: Recommend programs, earn rewards"
+ ],
+ [
+  "https://mygreatlearning.com/campus",
+  404,
+  "https://www.mygreatlearning.com:443/campus",
+  "The page you were looking for doesn't exist (404)"
+ ],
+ [
+  "https://mygreatlearning.com/campus-ambassador",
+  404,
+  "https://www.mygreatlearning.com:443/campus-ambassador",
+  "The page you were looking for doesn't exist (404)"
+ ],
+ [
+  "https://mygreatlearning.com/community/ambassadors",
+  404,
+  "https://www.mygreatlearning.com:443/community/ambassadors",
+  "The page you were looking for doesn't exist (404)"
+ ],
+ [
+  "https://mygreatlearning.com/student-ambassador",
+  404,
+  "https://www.mygreatlearning.com:443/student-ambassador",
+  "The page you were looking for doesn't exist (404)"
+ ],
+ [
+  "https://mygreatlearning.com/students",
+  404,
+  "https://www.mygreatlearning.com:443/students",
+  "The page you were looking for doesn't exist (404)"
+ ],
+ [
+  "https://play.google.com/store/apps/details?id=com.upgrad.student&amp;hl=en_GB",
+  200,
+  "https://play.google.com/store/apps/details?id=com.upgrad.student&amp;hl=en_GB",
+  "upGrad - Apps on Google Play"
+ ],
+ [
+  "https://upgrad.com/ambassador",
+  404,
+  "https://www.upgrad.com/ambassador/",
+  ""
+ ],
+ [
+  "https://upgrad.com/ambassador-program",
+  404,
+  "https://www.upgrad.com/ambassador-program/",
+  ""
+ ],
+ [
+  "https://upgrad.com/ambassadors",
+  404,
+  "https://www.upgrad.com/ambassadors/",
+  ""
+ ],
+ [
+  "https://upgrad.com/campus",
+  404,
+  "https://www.upgrad.com/campus/",
+  ""
+ ],
+ [
+  "https://upgrad.com/campus-ambassador",
+  404,
+  "https://www.upgrad.com/campus-ambassador/",
+  ""
+ ],
+ [
+  "https://upgrad.com/community/ambassadors",
+  404,
+  "https://www.upgrad.com/community/ambassadors/",
+  ""
+ ],
+ [
+  "https://upgrad.com/student-ambassador",
+  404,
+  "https://www.upgrad.com/student-ambassador/",
+  ""
+ ],
+ [
+  "https://upgrad.com/students",
+  404,
+  "https://www.upgrad.com/students/",
+  ""
+ ],
+ [
+  "https://almabetter.com/ambassador",
+  404,
+  "https://almabetter.com/ambassador",
+  "404: This page could not be found"
+ ],
+ [
+  "https://almabetter.com/ambassador-program",
+  404,
+  "https://almabetter.com/ambassador-program",
+  "404: This page could not be found"
+ ],
+ [
+  "https://almabetter.com/ambassadors",
+  404,
+  "https://almabetter.com/ambassadors",
+  "404: This page could not be found"
+ ],
+ [
+  "https://almabetter.com/campus",
+  404,
+  "https://almabetter.com/campus",
+  "404: This page could not be found"
+ ],
+ [
+  "https://almabetter.com/campus-ambassador",
+  404,
+  "https://almabetter.com/campus-ambassador",
+  "404: This page could not be found"
+ ],
+ [
+  "https://almabetter.com/community/ambassadors",
+  404,
+  "https://almabetter.com/community/ambassadors",
+  "404: This page could not be found"
+ ],
+ [
+  "https://almabetter.com/student-ambassador",
+  404,
+  "https://almabetter.com/student-ambassador",
+  "404: This page could not be found"
+ ],
+ [
+  "https://almabetter.com/students",
+  404,
+  "https://almabetter.com/students",
+  "404: This page could not be found"
+ ],
+ [
+  "https://letsupgrade.in/ambassador",
+  404,
+  "https://letsupgrade.in/ambassador",
+  "LetsUpgrade - Platform Under Upgrade | LetsUpgrade"
+ ],
+ [
+  "https://letsupgrade.in/ambassador-program",
+  404,
+  "https://letsupgrade.in/ambassador-program",
+  "LetsUpgrade - Platform Under Upgrade | LetsUpgrade"
+ ],
+ [
+  "https://letsupgrade.in/ambassadors",
+  404,
+  "https://letsupgrade.in/ambassadors",
+  "LetsUpgrade - Platform Under Upgrade | LetsUpgrade"
+ ],
+ [
+  "https://letsupgrade.in/campus",
+  404,
+  "https://letsupgrade.in/campus",
+  "LetsUpgrade - Platform Under Upgrade | LetsUpgrade"
+ ],
+ [
+  "https://letsupgrade.in/campus-ambassador",
+  404,
+  "https://letsupgrade.in/campus-ambassador",
+  "LetsUpgrade - Platform Under Upgrade | LetsUpgrade"
+ ],
+ [
+  "https://letsupgrade.in/community/ambassadors",
+  404,
+  "https://letsupgrade.in/community/ambassadors",
+  "LetsUpgrade - Platform Under Upgrade | LetsUpgrade"
+ ],
+ [
+  "https://letsupgrade.in/login?type=student",
+  200,
+  "https://letsupgrade.in/login?type=student",
+  "LetsUpgrade"
+ ],
+ [
+  "https://letsupgrade.in/student-ambassador",
+  404,
+  "https://letsupgrade.in/student-ambassador",
+  "LetsUpgrade - Platform Under Upgrade | LetsUpgrade"
+ ],
+ [
+  "https://letsupgrade.in/students",
+  404,
+  "https://letsupgrade.in/students",
+  "LetsUpgrade - Platform Under Upgrade | LetsUpgrade"
+ ],
+ [
+  "https://devtown.in/ambassador",
+  404,
+  "https://devtown.in/ambassador",
+  "Not Found"
+ ],
+ [
+  "https://devtown.in/ambassador-program",
+  404,
+  "https://devtown.in/ambassador-program",
+  ""
+ ],
+ [
+  "https://devtown.in/ambassadors",
+  404,
+  "https://devtown.in/ambassadors",
+  ""
+ ],
+ [
+  "https://devtown.in/campus",
+  404,
+  "https://devtown.in/campus",
+  "Not Found"
+ ],
+ [
+  "https://devtown.in/campus-ambassador",
+  404,
+  "https://devtown.in/campus-ambassador",
+  ""
+ ],
+ [
+  "https://devtown.in/community/ambassadors",
+  404,
+  "https://devtown.in/community/ambassadors",
+  ""
+ ],
+ [
+  "https://devtown.in/student-ambassador",
+  404,
+  "https://devtown.in/student-ambassador",
+  ""
+ ],
+ [
+  "https://devtown.in/students",
+  404,
+  "https://devtown.in/students",
+  "Not Found"
+ ],
+ [
+  "https://naukreez.com/ambassador",
+  200,
+  "https://naukreez.com/ambassador",
+  "NaukrEase.Co"
+ ],
+ [
+  "https://naukreez.com/ambassador-program",
+  200,
+  "https://naukreez.com/ambassador-program",
+  "NaukrEase.Co"
+ ],
+ [
+  "https://naukreez.com/ambassadors",
+  200,
+  "https://naukreez.com/ambassadors",
+  "NaukrEase.Co"
+ ],
+ [
+  "https://naukreez.com/campus",
+  200,
+  "https://naukreez.com/campus",
+  "NaukrEase.Co"
+ ],
+ [
+  "https://naukreez.com/campus-ambassador",
+  200,
+  "https://naukreez.com/campus-ambassador",
+  "Get Job-Ready with Naukreez: Train &amp; Intern in 20 Days"
+ ],
+ [
+  "https://naukreez.com/community/ambassadors",
+  200,
+  "https://naukreez.com/community/ambassadors",
+  "NaukrEase.Co"
+ ],
+ [
+  "https://naukreez.com/student-ambassador",
+  200,
+  "https://naukreez.com/student-ambassador",
+  "NaukrEase.Co"
+ ],
+ [
+  "https://naukreez.com/student-showcase",
+  200,
+  "https://naukreez.com/student-showcase",
+  "AI-Powered Skills and Remote Internships for Indian Students"
+ ],
+ [
+  "https://naukreez.com/students",
+  200,
+  "https://naukreez.com/students",
+  "NaukrEase.Co"
+ ],
+ [
+  "https://taskveda.in/ambassador",
+  404,
+  "https://www.taskveda.in/ambassador",
+  "404 \u2014 Page Not Found | TaskVeda"
+ ],
+ [
+  "https://taskveda.in/ambassador-program",
+  404,
+  "https://www.taskveda.in/ambassador-program",
+  "404 \u2014 Page Not Found | TaskVeda"
+ ],
+ [
+  "https://taskveda.in/ambassadors",
+  404,
+  "https://www.taskveda.in/ambassadors",
+  "404 \u2014 Page Not Found | TaskVeda"
+ ],
+ [
+  "https://taskveda.in/campus",
+  404,
+  "https://www.taskveda.in/campus",
+  "404 \u2014 Page Not Found | TaskVeda"
+ ],
+ [
+  "https://taskveda.in/campus-ambassador",
+  200,
+  "https://www.taskveda.in/campus-ambassador",
+  "Campus Ambassador Program \u2014 Apply Now (2026) | TaskVeda"
+ ],
+ [
+  "https://taskveda.in/community/ambassadors",
+  404,
+  "https://www.taskveda.in/community/ambassadors",
+  "404 \u2014 Page Not Found | TaskVeda"
+ ],
+ [
+  "https://taskveda.in/student-ambassador",
+  404,
+  "https://www.taskveda.in/student-ambassador",
+  "404 \u2014 Page Not Found | TaskVeda"
+ ],
+ [
+  "https://taskveda.in/students",
+  404,
+  "https://www.taskveda.in/students",
+  "404 \u2014 Page Not Found | TaskVeda"
+ ],
+ [
+  "https://www.taskveda.in/blog/ai-tools-for-students.html",
+  200,
+  "https://www.taskveda.in/blog/ai-tools-for-students.html",
+  "Best AI Tools for Students in India (2026): 12 Free Picks, INR Pricing"
+ ],
+ [
+  "https://www.taskveda.in/blog/best-ai-models-for-students.html",
+  200,
+  "https://www.taskveda.in/blog/best-ai-models-for-students.html",
+  "Best Free AI Models for Students (2026): ChatGPT vs Claude vs Gemini"
+ ],
+ [
+  "https://www.taskveda.in/blog/chatgpt-prompts-for-students.html",
+  200,
+  "https://www.taskveda.in/blog/chatgpt-prompts-for-students.html",
+  "100+ Free ChatGPT Prompts for Students (2026) | TaskVeda"
+ ],
+ [
+  "https://www.taskveda.in/blog/free-ai-course-with-certificate-for-students.html",
+  200,
+  "https://www.taskveda.in/blog/free-ai-course-with-certificate-for-students.html",
+  "Free AI Course With Certificate for Students (2026) | TaskVeda"
+ ],
+ [
+  "https://www.taskveda.in/blog/free-ai-prompts-for-students.html",
+  200,
+  "https://www.taskveda.in/blog/free-ai-prompts-for-students.html",
+  "200+ Free AI Prompts for Students (2026) \u2014 Copy-Paste Ready | TaskVeda"
+ ],
+ [
+  "https://www.taskveda.in/blog/free-study-apps-for-students.html",
+  200,
+  "https://www.taskveda.in/blog/free-study-apps-for-students.html",
+  "Free Study Apps for Students: 9 Best Picks (2026) | TaskVeda"
+ ],
+ [
+  "https://www.taskveda.in/blog/llm-for-students.html",
+  200,
+  "https://www.taskveda.in/blog/llm-for-students.html",
+  "LLM for Students: Free Large Language Models Guide | TaskVeda"
+ ],
+ [
+  "https://www.taskveda.in/blog/why-students-choose-taskveda.html",
+  200,
+  "https://www.taskveda.in/blog/why-students-choose-taskveda.html",
+  "Why 10,000+ Students Chose TaskVeda (2026) | TaskVeda"
+ ],
+ [
+  "https://www.taskveda.in/campus-ambassador/apply-campus.html",
+  200,
+  "https://www.taskveda.in/campus-ambassador/apply-campus.html",
+  "Campus Ambassador Application | TaskVeda"
+ ],
+ [
+  "https://www.taskveda.in/campus-ambassador/apply-team.html",
+  200,
+  "https://www.taskveda.in/campus-ambassador/apply-team.html",
+  "Join TaskVeda Team | TaskVeda"
+ ],
+ [
+  "https://www.taskveda.in/campus-ambassador/hiring-form.html?role=campus",
+  200,
+  "https://www.taskveda.in/campus-ambassador/hiring-form.html?role=campus",
+  "Join TaskVeda \u2014 Campus Ambassador & Team Hiring | TaskVeda"
+ ],
+ [
+  "https://www.taskveda.in/india-student-search-report-2026.html",
+  200,
+  "https://www.taskveda.in/blog.html",
+  "TaskVeda Blog \u2014 AI Skills, Tools & Careers for Students"
+ ],
+ [
+  "https://campusunite.in/",
+  200,
+  "https://campusunite.in/",
+  "Campus Unite | Student Community &amp; Campus Ambassador Network"
+ ],
+ [
+  "https://campusunite.in/ambassador",
+  200,
+  "https://campusunite.in/ambassador",
+  "Campus Ambassador Program 2026 | Free Goodies, Certificates &amp; Leadership - Campus Unit"
+ ],
+ [
+  "https://campusunite.in/ambassador-program",
+  404,
+  "https://campusunite.in/ambassador-program",
+  "Page Not Found | CampusUnite"
+ ],
+ [
+  "https://campusunite.in/ambassador/apply",
+  200,
+  "https://campusunite.in/ambassador/apply",
+  "Ambassador Applications On Hold | CampusUnite"
+ ],
+ [
+  "https://campusunite.in/ambassadors",
+  404,
+  "https://campusunite.in/ambassadors",
+  "Page Not Found | CampusUnite"
+ ],
+ [
+  "https://campusunite.in/become-expert",
+  200,
+  "https://campusunite.in/become-expert",
+  "Become an Expert Speaker | Join CampusUnite Workshops Marketplace"
+ ],
+ [
+  "https://campusunite.in/campus",
+  404,
+  "https://campusunite.in/campus",
+  "Page Not Found | CampusUnite"
+ ],
+ [
+  "https://campusunite.in/campus-ambassador",
+  404,
+  "https://campusunite.in/campus-ambassador",
+  "Page Not Found | CampusUnite"
+ ],
+ [
+  "https://campusunite.in/community",
+  200,
+  "https://campusunite.in/community",
+  "Student Developer Community India | Join Campus Unite"
+ ],
+ [
+  "https://campusunite.in/community-guidelines",
+  200,
+  "https://campusunite.in/community-guidelines",
+  "Community Guidelines | CampusUnite"
+ ],
+ [
+  "https://campusunite.in/community/ambassadors",
+  200,
+  "https://campusunite.in/community/ambassadors",
+  "Student Developer Community India | Join Campus Unite"
+ ],
+ [
+  "https://campusunite.in/community/highlights",
+  200,
+  "https://campusunite.in/community/highlights",
+  "Community Highlights &amp; Contributions | CampusUnite"
+ ],
+ [
+  "https://campusunite.in/events/from-campus-to-corporate-hr-perspective",
+  200,
+  "https://campusunite.in/events/from-campus-to-corporate-hr-perspective",
+  "From Campus to Corporate: An HR Perspective \u2014 CampusUnite Community"
+ ],
+ [
+  "https://campusunite.in/experts",
+  200,
+  "https://campusunite.in/experts",
+  "All Industry Experts &amp; Speakers | Workshops Marketplace \u2014 CampusUnite"
+ ],
+ [
+  "https://campusunite.in/opportunities/detail/github-campus-experts-2026",
+  200,
+  "https://campusunite.in/opportunities/detail/github-campus-experts-2026",
+  "GitHub Campus Experts Program 2026 | Campus Unite"
+ ],
+ [
+  "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+  200,
+  "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+  "Internshala Student Partner (ISP) 2026 | Campus Unite"
+ ],
+ [
+  "https://campusunite.in/student-ambassador",
+  404,
+  "https://campusunite.in/student-ambassador",
+  "Page Not Found | CampusUnite"
+ ],
+ [
+  "https://campusunite.in/student-email-benefits",
+  200,
+  "https://campusunite.in/student-email-benefits",
+  "Student Email Benefits &amp; Perks Guide 2026 | CampusUnite"
+ ],
+ [
+  "https://campusunite.in/students",
+  404,
+  "https://campusunite.in/students",
+  "Page Not Found | CampusUnite"
+ ],
+ [
+  "https://www.instagram.com/campusunite.in/",
+  200,
+  "https://www.instagram.com/campusunite.in/",
+  "Instagram"
+ ],
+ [
+  "https://www.linkedin.com/company/campusunite-in/",
+  200,
+  "https://www.linkedin.com/company/campusunite-in/",
+  "Campus Unite | LinkedIn"
+ ],
+ [
+  "https://reskilll.com/ambassador",
+  200,
+  "https://reskilll.com/ambassador",
+  "404 - Page Not Found | Reskilll"
+ ],
+ [
+  "https://reskilll.com/ambassador-program",
+  200,
+  "https://reskilll.com/ambassador-program",
+  "404 - Page Not Found | Reskilll"
+ ],
+ [
+  "https://reskilll.com/ambassadors",
+  200,
+  "https://reskilll.com/ambassadors",
+  "404 - Page Not Found | Reskilll"
+ ],
+ [
+  "https://reskilll.com/campus",
+  200,
+  "https://reskilll.com/campus",
+  "404 - Page Not Found | Reskilll"
+ ],
+ [
+  "https://reskilll.com/campus-ambassador",
+  200,
+  "https://reskilll.com/campus-ambassador",
+  "404 - Page Not Found | Reskilll"
+ ],
+ [
+  "https://reskilll.com/community/ambassadors",
+  200,
+  "https://reskilll.com/community/ambassadors",
+  "404 - Page Not Found | Reskilll"
+ ],
+ [
+  "https://reskilll.com/student-ambassador",
+  200,
+  "https://reskilll.com/student-ambassador",
+  "404 - Page Not Found | Reskilll"
+ ],
+ [
+  "https://reskilll.com/students",
+  200,
+  "https://reskilll.com/students",
+  "404 - Page Not Found | Reskilll"
+ ],
+ [
+  "https://thesmartbridge.com/ambassador",
+  200,
+  "https://thesmartbridge.com/ambassador",
+  ""
+ ],
+ [
+  "https://thesmartbridge.com/ambassador-program",
+  200,
+  "https://thesmartbridge.com/ambassador-program",
+  ""
+ ],
+ [
+  "https://thesmartbridge.com/ambassadors",
+  200,
+  "https://thesmartbridge.com/ambassadors",
+  ""
+ ],
+ [
+  "https://thesmartbridge.com/campus",
+  200,
+  "https://thesmartbridge.com/campus",
+  ""
+ ],
+ [
+  "https://thesmartbridge.com/campus-ambassador",
+  200,
+  "https://thesmartbridge.com/campus-ambassador",
+  ""
+ ],
+ [
+  "https://thesmartbridge.com/community/ambassadors",
+  200,
+  "https://thesmartbridge.com/community/ambassadors",
+  ""
+ ],
+ [
+  "https://thesmartbridge.com/student-ambassador",
+  200,
+  "https://thesmartbridge.com/student-ambassador",
+  ""
+ ],
+ [
+  "https://thesmartbridge.com/students",
+  200,
+  "https://thesmartbridge.com/students",
+  ""
+ ],
+ [
+  "https://ctf7.com/ambassador",
+  404,
+  "https://ctf7.com/ambassador",
+  "Page not found | CTF7"
+ ],
+ [
+  "https://ctf7.com/ambassador-program",
+  404,
+  "https://ctf7.com/ambassador-program",
+  "Page not found | CTF7"
+ ],
+ [
+  "https://ctf7.com/ambassadors",
+  404,
+  "https://ctf7.com/ambassadors",
+  "Page not found | CTF7"
+ ],
+ [
+  "https://ctf7.com/campus",
+  404,
+  "https://ctf7.com/campus",
+  "Page not found | CTF7"
+ ],
+ [
+  "https://ctf7.com/campus-ambassador",
+  200,
+  "https://ctf7.com/campus-ambassador/",
+  "CTF7 Campus Ambassador Program for Students | CTF7"
+ ],
+ [
+  "https://ctf7.com/campus-ambassador/",
+  200,
+  "https://ctf7.com/campus-ambassador/",
+  "CTF7 Campus Ambassador Program for Students | CTF7"
+ ],
+ [
+  "https://ctf7.com/community/ambassadors",
+  404,
+  "https://ctf7.com/community/ambassadors",
+  "Page not found | CTF7"
+ ],
+ [
+  "https://ctf7.com/for/student-clubs/",
+  200,
+  "https://ctf7.com/for/student-clubs/",
+  "CTF Platform for Student Clubs &amp; College Fests | CTF7"
+ ],
+ [
+  "https://ctf7.com/student-ambassador",
+  404,
+  "https://ctf7.com/student-ambassador",
+  "Page not found | CTF7"
+ ],
+ [
+  "https://ctf7.com/students",
+  404,
+  "https://ctf7.com/students",
+  "Page not found | CTF7"
+ ],
+ [
+  "https://gajab.com/ambassador",
+  404,
+  "https://gajab.com/ambassador",
+  "Gajab: India\u2019s Bargain Bazaar | Bargain Online &amp; Save"
+ ],
+ [
+  "https://gajab.com/ambassador-program",
+  404,
+  "https://gajab.com/ambassador-program",
+  "Gajab: India\u2019s Bargain Bazaar | Bargain Online &amp; Save"
+ ],
+ [
+  "https://gajab.com/ambassadors",
+  404,
+  "https://gajab.com/ambassadors",
+  "Gajab: India\u2019s Bargain Bazaar | Bargain Online &amp; Save"
+ ],
+ [
+  "https://gajab.com/campus",
+  404,
+  "https://gajab.com/campus",
+  "Gajab: India\u2019s Bargain Bazaar | Bargain Online &amp; Save"
+ ],
+ [
+  "https://gajab.com/campus-ambassador",
+  200,
+  "https://gajab.com/campus-ambassador",
+  "Gajab Campus Ambassador Program | Grow Your Network &amp; Career"
+ ],
+ [
+  "https://gajab.com/community/ambassadors",
+  404,
+  "https://gajab.com/community/ambassadors",
+  "Gajab: India\u2019s Bargain Bazaar | Bargain Online &amp; Save"
+ ],
+ [
+  "https://gajab.com/student-ambassador",
+  404,
+  "https://gajab.com/student-ambassador",
+  "Gajab: India\u2019s Bargain Bazaar | Bargain Online &amp; Save"
+ ],
+ [
+  "https://gajab.com/students",
+  404,
+  "https://gajab.com/students",
+  "Gajab: India\u2019s Bargain Bazaar | Bargain Online &amp; Save"
+ ],
+ [
+  "https://campus.mygov.in/",
+  200,
+  "https://campus.mygov.in/",
+  "Welcome to the MyGov Campus Ambassador Program &#8211; An opportunity to become representa"
+ ],
+ [
+  "https://mygov.in/ambassador",
+  404,
+  "https://www.mygov.in/ambassador",
+  ""
+ ],
+ [
+  "https://mygov.in/ambassador-program",
+  404,
+  "https://www.mygov.in/ambassador-program",
+  ""
+ ],
+ [
+  "https://mygov.in/ambassadors",
+  404,
+  "https://www.mygov.in/ambassadors",
+  ""
+ ],
+ [
+  "https://mygov.in/campus",
+  404,
+  "https://www.mygov.in/campus",
+  ""
+ ],
+ [
+  "https://mygov.in/campus-ambassador",
+  404,
+  "https://www.mygov.in/campus-ambassador",
+  ""
+ ],
+ [
+  "https://mygov.in/community/ambassadors",
+  404,
+  "https://www.mygov.in/community/ambassadors",
+  ""
+ ],
+ [
+  "https://mygov.in/student-ambassador",
+  404,
+  "https://www.mygov.in/student-ambassador",
+  ""
+ ],
+ [
+  "https://mygov.in/students",
+  404,
+  "https://www.mygov.in/students",
+  ""
+ ],
+ [
+  "https://hcltech.com/ambassador",
+  404,
+  "https://www.hcltech.com/ambassador",
+  "404 page | HCLTech"
+ ],
+ [
+  "https://hcltech.com/ambassador-program",
+  404,
+  "https://www.hcltech.com/ambassador-program",
+  "404 page | HCLTech"
+ ],
+ [
+  "https://hcltech.com/ambassadors",
+  404,
+  "https://www.hcltech.com/ambassadors",
+  "404 page | HCLTech"
+ ],
+ [
+  "https://hcltech.com/campus",
+  404,
+  "https://www.hcltech.com/campus",
+  "404 page | HCLTech"
+ ],
+ [
+  "https://hcltech.com/campus-ambassador",
+  404,
+  "https://www.hcltech.com/campus-ambassador",
+  "404 page | HCLTech"
+ ],
+ [
+  "https://hcltech.com/community/ambassadors",
+  404,
+  "https://www.hcltech.com/community/ambassadors",
+  "404 page | HCLTech"
+ ],
+ [
+  "https://hcltech.com/student-ambassador",
+  404,
+  "https://www.hcltech.com/student-ambassador",
+  "404 page | HCLTech"
+ ],
+ [
+  "https://hcltech.com/students",
+  404,
+  "https://www.hcltech.com/students",
+  "404 page | HCLTech"
+ ],
+ [
+  "https://swiggy.com/ambassador",
+  404,
+  "https://www.swiggy.com:443/ambassador",
+  "Order food online from India's best food delivery service. Order from restaurants near you"
+ ],
+ [
+  "https://swiggy.com/ambassador-program",
+  404,
+  "https://www.swiggy.com:443/ambassador-program",
+  "Order food online from India's best food delivery service. Order from restaurants near you"
+ ],
+ [
+  "https://swiggy.com/ambassadors",
+  404,
+  "https://www.swiggy.com:443/ambassadors",
+  "Order food online from India's best food delivery service. Order from restaurants near you"
+ ],
+ [
+  "https://swiggy.com/campus",
+  404,
+  "https://www.swiggy.com:443/campus",
+  "Order food online from India's best food delivery service. Order from restaurants near you"
+ ],
+ [
+  "https://swiggy.com/campus-ambassador",
+  404,
+  "https://www.swiggy.com:443/campus-ambassador",
+  "Order food online from India's best food delivery service. Order from restaurants near you"
+ ],
+ [
+  "https://swiggy.com/community/ambassadors",
+  404,
+  "https://www.swiggy.com:443/community/ambassadors",
+  "Order food online from India's best food delivery service. Order from restaurants near you"
+ ],
+ [
+  "https://swiggy.com/student-ambassador",
+  404,
+  "https://www.swiggy.com:443/student-ambassador",
+  "Order food online from India's best food delivery service. Order from restaurants near you"
+ ],
+ [
+  "https://swiggy.com/students",
+  404,
+  "https://www.swiggy.com:443/students",
+  "Order food online from India's best food delivery service. Order from restaurants near you"
+ ],
+ [
+  "https://zomato.com/ambassador",
+  404,
+  "https://www.zomato.com:443/ambassador",
+  "404 | Zomato"
+ ],
+ [
+  "https://zomato.com/ambassador-program",
+  404,
+  "https://www.zomato.com:443/ambassador-program",
+  "404 | Zomato"
+ ],
+ [
+  "https://zomato.com/ambassadors",
+  404,
+  "https://www.zomato.com:443/ambassadors",
+  "404 | Zomato"
+ ],
+ [
+  "https://zomato.com/campus",
+  200,
+  "https://www.zomato.com:443/campus",
+  "Sunil | Zomato"
+ ],
+ [
+  "https://zomato.com/campus-ambassador",
+  404,
+  "https://www.zomato.com:443/campus-ambassador",
+  "404 | Zomato"
+ ],
+ [
+  "https://zomato.com/community/ambassadors",
+  404,
+  "https://www.zomato.com:443/community/ambassadors",
+  "404 | Zomato"
+ ],
+ [
+  "https://zomato.com/student-ambassador",
+  404,
+  "https://www.zomato.com:443/student-ambassador",
+  "404 | Zomato"
+ ],
+ [
+  "https://zomato.com/students",
+  200,
+  "https://www.zomato.com:443/students",
+  "Amal | Zomato"
+ ],
+ [
+  "https://zepto.com/ambassador",
+  202,
+  "https://www.zepto.com:443/ambassador",
+  ""
+ ],
+ [
+  "https://zepto.com/ambassador-program",
+  202,
+  "https://www.zepto.com:443/ambassador-program",
+  ""
+ ],
+ [
+  "https://zepto.com/ambassadors",
+  202,
+  "https://www.zepto.com:443/ambassadors",
+  ""
+ ],
+ [
+  "https://zepto.com/campus",
+  202,
+  "https://www.zepto.com:443/campus",
+  ""
+ ],
+ [
+  "https://zepto.com/campus-ambassador",
+  202,
+  "https://www.zepto.com:443/campus-ambassador",
+  ""
+ ],
+ [
+  "https://zepto.com/community/ambassadors",
+  202,
+  "https://www.zepto.com:443/community/ambassadors",
+  ""
+ ],
+ [
+  "https://zepto.com/student-ambassador",
+  202,
+  "https://www.zepto.com:443/student-ambassador",
+  ""
+ ],
+ [
+  "https://zepto.com/students",
+  202,
+  "https://www.zepto.com:443/students",
+  ""
+ ],
+ [
+  "https://blinkit.com/ambassador",
+  403,
+  "https://blinkit.com/ambassador",
+  "blinkit | Error Page"
+ ],
+ [
+  "https://blinkit.com/ambassador-program",
+  403,
+  "https://blinkit.com/ambassador-program",
+  "blinkit | Error Page"
+ ],
+ [
+  "https://blinkit.com/ambassadors",
+  403,
+  "https://blinkit.com/ambassadors",
+  "blinkit | Error Page"
+ ],
+ [
+  "https://blinkit.com/campus",
+  403,
+  "https://blinkit.com/campus",
+  "blinkit | Error Page"
+ ],
+ [
+  "https://blinkit.com/campus-ambassador",
+  403,
+  "https://blinkit.com/campus-ambassador",
+  "blinkit | Error Page"
+ ],
+ [
+  "https://blinkit.com/community/ambassadors",
+  403,
+  "https://blinkit.com/community/ambassadors",
+  "blinkit | Error Page"
+ ],
+ [
+  "https://blinkit.com/student-ambassador",
+  403,
+  "https://blinkit.com/student-ambassador",
+  "blinkit | Error Page"
+ ],
+ [
+  "https://blinkit.com/students",
+  403,
+  "https://blinkit.com/students",
+  "blinkit | Error Page"
+ ],
+ [
+  "https://cred.club/ambassador",
+  404,
+  "https://cred.club/ambassador",
+  "CRED - pay your credit card bills &amp; earn rewards"
+ ],
+ [
+  "https://cred.club/ambassador-program",
+  404,
+  "https://cred.club/ambassador-program",
+  "CRED - pay your credit card bills &amp; earn rewards"
+ ],
+ [
+  "https://cred.club/ambassadors",
+  404,
+  "https://cred.club/ambassadors",
+  "CRED - pay your credit card bills &amp; earn rewards"
+ ],
+ [
+  "https://cred.club/campus",
+  404,
+  "https://cred.club/campus",
+  "CRED - pay your credit card bills &amp; earn rewards"
+ ],
+ [
+  "https://cred.club/campus-ambassador",
+  404,
+  "https://cred.club/campus-ambassador",
+  "CRED - pay your credit card bills &amp; earn rewards"
+ ],
+ [
+  "https://cred.club/community/ambassadors",
+  404,
+  "https://cred.club/community/ambassadors",
+  "CRED - pay your credit card bills &amp; earn rewards"
+ ],
+ [
+  "https://cred.club/student-ambassador",
+  404,
+  "https://cred.club/student-ambassador",
+  "CRED - pay your credit card bills &amp; earn rewards"
+ ],
+ [
+  "https://cred.club/students",
+  404,
+  "https://cred.club/students",
+  "CRED - pay your credit card bills &amp; earn rewards"
+ ],
+ [
+  "https://groww.in/ambassador",
+  404,
+  "https://groww.in/ambassador",
+  "404! Page Not Found | Groww"
+ ],
+ [
+  "https://groww.in/ambassador-program",
+  404,
+  "https://groww.in/ambassador-program",
+  "404! Page Not Found | Groww"
+ ],
+ [
+  "https://groww.in/ambassadors",
+  404,
+  "https://groww.in/ambassadors",
+  "404! Page Not Found | Groww"
+ ],
+ [
+  "https://groww.in/campus",
+  404,
+  "https://groww.in/campus",
+  "404! Page Not Found | Groww"
+ ],
+ [
+  "https://groww.in/campus-ambassador",
+  404,
+  "https://groww.in/campus-ambassador",
+  "404! Page Not Found | Groww"
+ ],
+ [
+  "https://groww.in/community/ambassadors",
+  404,
+  "https://groww.in/community/ambassadors",
+  "404! Page Not Found | Groww"
+ ],
+ [
+  "https://groww.in/student-ambassador",
+  404,
+  "https://groww.in/student-ambassador",
+  "404! Page Not Found | Groww"
+ ],
+ [
+  "https://groww.in/students",
+  404,
+  "https://groww.in/students",
+  "404! Page Not Found | Groww"
+ ],
+ [
+  "https://zerodha.com/ambassador",
+  404,
+  "https://zerodha.com/ambassador",
+  "404"
+ ],
+ [
+  "https://zerodha.com/ambassador-program",
+  404,
+  "https://zerodha.com/ambassador-program",
+  "404"
+ ],
+ [
+  "https://zerodha.com/ambassadors",
+  404,
+  "https://zerodha.com/ambassadors",
+  "404"
+ ],
+ [
+  "https://zerodha.com/campus",
+  404,
+  "https://zerodha.com/campus",
+  "404"
+ ],
+ [
+  "https://zerodha.com/campus-ambassador",
+  429,
+  "https://zerodha.com/campus-ambassador",
+  "Just a moment..."
+ ],
+ [
+  "https://zerodha.com/community/ambassadors",
+  429,
+  "https://zerodha.com/community/ambassadors",
+  "Just a moment..."
+ ],
+ [
+  "https://zerodha.com/student-ambassador",
+  429,
+  "https://zerodha.com/student-ambassador",
+  "Just a moment..."
+ ],
+ [
+  "https://zerodha.com/students",
+  429,
+  "https://zerodha.com/students",
+  "Just a moment..."
+ ],
+ [
+  "https://upstox.com/ambassador",
+  404,
+  "https://upstox.com/ambassador/",
+  ""
+ ],
+ [
+  "https://upstox.com/ambassador-program",
+  404,
+  "https://upstox.com/ambassador-program/",
+  ""
+ ],
+ [
+  "https://upstox.com/ambassadors",
+  404,
+  "https://upstox.com/ambassadors/",
+  ""
+ ],
+ [
+  "https://upstox.com/campus",
+  404,
+  "https://upstox.com/campus/",
+  ""
+ ],
+ [
+  "https://upstox.com/campus-ambassador",
+  404,
+  "https://upstox.com/campus-ambassador/",
+  ""
+ ],
+ [
+  "https://upstox.com/community/ambassadors",
+  404,
+  "https://upstox.com/community/ambassadors/",
+  ""
+ ],
+ [
+  "https://upstox.com/student-ambassador",
+  404,
+  "https://upstox.com/student-ambassador/",
+  ""
+ ],
+ [
+  "https://upstox.com/students",
+  404,
+  "https://upstox.com/students/",
+  ""
+ ],
+ [
+  "https://angelone.in/ambassador",
+  404,
+  "https://www.angelone.in/ambassador",
+  "Angel One"
+ ],
+ [
+  "https://angelone.in/ambassador-program",
+  404,
+  "https://www.angelone.in/ambassador-program",
+  "Angel One"
+ ],
+ [
+  "https://angelone.in/ambassadors",
+  404,
+  "https://www.angelone.in/ambassadors",
+  "Angel One"
+ ],
+ [
+  "https://angelone.in/campus",
+  404,
+  "https://www.angelone.in/campus",
+  "Angel One"
+ ],
+ [
+  "https://angelone.in/campus-ambassador",
+  404,
+  "https://www.angelone.in/campus-ambassador",
+  "Angel One"
+ ],
+ [
+  "https://angelone.in/community/ambassadors",
+  404,
+  "https://www.angelone.in/community/ambassadors",
+  "Angel One"
+ ],
+ [
+  "https://angelone.in/student-ambassador",
+  404,
+  "https://www.angelone.in/student-ambassador",
+  "Angel One"
+ ],
+ [
+  "https://angelone.in/students",
+  404,
+  "https://www.angelone.in/students",
+  "Angel One"
+ ],
+ [
+  "https://ambassador.paytm.com",
+  200,
+  "https://ambassador.paytm.com/",
+  "Become a Paytm Ambassador \u00e2\u0080\u0093 Earn Rewards by Referring & Promoting"
+ ],
+ [
+  "https://paytm.com/ambassador",
+  200,
+  "https://paytm.com/",
+  "Paytm: Secure &amp; Fast UPI Payments, Recharge Mobile &amp; Pay Bills"
+ ],
+ [
+  "https://paytm.com/ambassador-program",
+  200,
+  "https://paytm.com/",
+  "Paytm: Secure &amp; Fast UPI Payments, Recharge Mobile &amp; Pay Bills"
+ ],
+ [
+  "https://paytm.com/ambassadors",
+  200,
+  "https://paytm.com/",
+  "Paytm: Secure &amp; Fast UPI Payments, Recharge Mobile &amp; Pay Bills"
+ ],
+ [
+  "https://paytm.com/campus",
+  200,
+  "https://paytm.com/campus",
+  "Campus Ambassador Program - Paytm"
+ ],
+ [
+  "https://paytm.com/campus-ambassador",
+  200,
+  "https://paytm.com/campus-ambassador",
+  "Campus Ambassador Program - Paytm"
+ ],
+ [
+  "https://paytm.com/community/ambassadors",
+  200,
+  "https://paytm.com/",
+  "Paytm: Secure &amp; Fast UPI Payments, Recharge Mobile &amp; Pay Bills"
+ ],
+ [
+  "https://paytm.com/student-ambassador",
+  200,
+  "https://paytm.com/",
+  "Paytm: Secure &amp; Fast UPI Payments, Recharge Mobile &amp; Pay Bills"
+ ],
+ [
+  "https://paytm.com/students",
+  200,
+  "https://paytm.com/",
+  "Paytm: Secure &amp; Fast UPI Payments, Recharge Mobile &amp; Pay Bills"
+ ],
+ [
+  "https://phonepe.com/ambassador",
+  404,
+  "https://www.phonepe.com/ambassador",
+  "404: Page Not Found!"
+ ],
+ [
+  "https://phonepe.com/ambassador-program",
+  404,
+  "https://www.phonepe.com/ambassador-program",
+  "404: Page Not Found!"
+ ],
+ [
+  "https://phonepe.com/ambassadors",
+  404,
+  "https://www.phonepe.com/ambassadors",
+  "404: Page Not Found!"
+ ],
+ [
+  "https://phonepe.com/campus",
+  404,
+  "https://www.phonepe.com/campus",
+  "404: Page Not Found!"
+ ],
+ [
+  "https://phonepe.com/campus-ambassador",
+  404,
+  "https://www.phonepe.com/campus-ambassador",
+  "404: Page Not Found!"
+ ],
+ [
+  "https://phonepe.com/community/ambassadors",
+  404,
+  "https://www.phonepe.com/community/ambassadors",
+  "404: Page Not Found!"
+ ],
+ [
+  "https://phonepe.com/student-ambassador",
+  404,
+  "https://www.phonepe.com/student-ambassador",
+  "404: Page Not Found!"
+ ],
+ [
+  "https://phonepe.com/students",
+  404,
+  "https://www.phonepe.com/students",
+  "404: Page Not Found!"
+ ],
+ [
+  "https://nykaa.com/ambassador",
+  403,
+  "https://www.nykaa.com/ambassador",
+  "Access Denied"
+ ],
+ [
+  "https://nykaa.com/ambassador-program",
+  403,
+  "https://www.nykaa.com/ambassador-program",
+  "Access Denied"
+ ],
+ [
+  "https://nykaa.com/ambassadors",
+  403,
+  "https://www.nykaa.com/ambassadors",
+  "Access Denied"
+ ],
+ [
+  "https://nykaa.com/campus",
+  403,
+  "https://www.nykaa.com/campus",
+  "Access Denied"
+ ],
+ [
+  "https://nykaa.com/campus-ambassador",
+  403,
+  "https://www.nykaa.com/campus-ambassador",
+  "Access Denied"
+ ],
+ [
+  "https://nykaa.com/community/ambassadors",
+  403,
+  "https://www.nykaa.com/community/ambassadors",
+  "Access Denied"
+ ],
+ [
+  "https://nykaa.com/student-ambassador",
+  403,
+  "https://www.nykaa.com/student-ambassador",
+  "Access Denied"
+ ],
+ [
+  "https://nykaa.com/students",
+  403,
+  "https://www.nykaa.com/students",
+  "Access Denied"
+ ],
+ [
+  "https://myntra.com/ambassador",
+  200,
+  "https://www.myntra.com/ambassador",
+  "Ambassador - Buy Ambassador online in India"
+ ],
+ [
+  "https://myntra.com/ambassador-program",
+  200,
+  "https://www.myntra.com/ambassador-program",
+  "Ambassador Program - Buy Ambassador Program online in India"
+ ],
+ [
+  "https://myntra.com/ambassadors",
+  200,
+  "https://www.myntra.com/ambassadors",
+  "Ambassador S - Buy Ambassador S online in India"
+ ],
+ [
+  "https://myntra.com/campus",
+  200,
+  "https://www.myntra.com/campus",
+  "Campus - Buy Campus Shoes & Sandals Online in India | Myntra"
+ ],
+ [
+  "https://myntra.com/campus-ambassador",
+  200,
+  "https://www.myntra.com/campus-ambassador",
+  "Campus Promote - Buy Campus Promote online in India"
+ ],
+ [
+  "https://myntra.com/community/ambassadors",
+  404,
+  "https://www.myntra.com/community/ambassadors",
+  "Page not found"
+ ],
+ [
+  "https://myntra.com/student-ambassador",
+  200,
+  "https://www.myntra.com/student-ambassador",
+  "Jordan Campus - Buy Jordan Campus online in India"
+ ],
+ [
+  "https://myntra.com/students",
+  200,
+  "https://www.myntra.com/students",
+  "Students - Buy Students online in India"
+ ],
+ [
+  "https://boat-lifestyle.com/ambassador",
+  404,
+  "https://www.boat-lifestyle.com/ambassador",
+  "404 Not Found"
+ ],
+ [
+  "https://boat-lifestyle.com/ambassador-program",
+  404,
+  "https://www.boat-lifestyle.com/ambassador-program",
+  "404 Not Found"
+ ],
+ [
+  "https://boat-lifestyle.com/ambassadors",
+  404,
+  "https://www.boat-lifestyle.com/ambassadors",
+  "404 Not Found"
+ ],
+ [
+  "https://boat-lifestyle.com/campus",
+  404,
+  "https://www.boat-lifestyle.com/campus",
+  "404 Not Found"
+ ],
+ [
+  "https://boat-lifestyle.com/campus-ambassador",
+  404,
+  "https://www.boat-lifestyle.com/campus-ambassador",
+  "404 Not Found"
+ ],
+ [
+  "https://boat-lifestyle.com/community/ambassadors",
+  404,
+  "https://www.boat-lifestyle.com/community/ambassadors",
+  ""
+ ],
+ [
+  "https://boat-lifestyle.com/student-ambassador",
+  404,
+  "https://www.boat-lifestyle.com/student-ambassador",
+  "404 Not Found"
+ ],
+ [
+  "https://boat-lifestyle.com/students",
+  404,
+  "https://www.boat-lifestyle.com/students",
+  "404 Not Found"
+ ],
+ [
+  "https://mamaearth.in/ambassador",
+  404,
+  "https://mamaearth.in/ambassador",
+  "404 Not Found"
+ ],
+ [
+  "https://mamaearth.in/ambassador-program",
+  404,
+  "https://mamaearth.in/ambassador-program",
+  "404 Not Found"
+ ],
+ [
+  "https://mamaearth.in/ambassadors",
+  404,
+  "https://mamaearth.in/ambassadors",
+  "404 Not Found"
+ ],
+ [
+  "https://mamaearth.in/campus",
+  404,
+  "https://mamaearth.in/campus",
+  "404 Not Found"
+ ],
+ [
+  "https://mamaearth.in/campus-ambassador",
+  404,
+  "https://mamaearth.in/campus-ambassador",
+  "404 Not Found"
+ ],
+ [
+  "https://mamaearth.in/community/ambassadors",
+  404,
+  "https://mamaearth.in/community/ambassadors",
+  ""
+ ],
+ [
+  "https://mamaearth.in/student-ambassador",
+  404,
+  "https://mamaearth.in/student-ambassador",
+  "404 Not Found"
+ ],
+ [
+  "https://mamaearth.in/students",
+  404,
+  "https://mamaearth.in/students",
+  "404 Not Found"
+ ],
+ [
+  "https://lenskart.com/ambassador",
+  404,
+  "https://www.lenskart.com/ambassador",
+  "Error Page"
+ ],
+ [
+  "https://lenskart.com/ambassador-program",
+  404,
+  "https://www.lenskart.com/ambassador-program",
+  "Error Page"
+ ],
+ [
+  "https://lenskart.com/ambassadors",
+  404,
+  "https://www.lenskart.com/ambassadors",
+  "Error Page"
+ ],
+ [
+  "https://lenskart.com/campus",
+  404,
+  "https://www.lenskart.com/campus",
+  "Error Page"
+ ],
+ [
+  "https://lenskart.com/campus-ambassador",
+  404,
+  "https://www.lenskart.com/campus-ambassador",
+  "Error Page"
+ ],
+ [
+  "https://lenskart.com/community/ambassadors",
+  404,
+  "https://www.lenskart.com/community/ambassadors",
+  "Error Page"
+ ],
+ [
+  "https://lenskart.com/student-ambassador",
+  404,
+  "https://www.lenskart.com/student-ambassador",
+  "Error Page"
+ ],
+ [
+  "https://lenskart.com/students",
+  404,
+  "https://www.lenskart.com/students",
+  "Error Page"
+ ],
+ [
+  "https://redbull.com/ambassador",
+  403,
+  "https://www.redbull.com/ambassador",
+  "Access Denied"
+ ],
+ [
+  "https://redbull.com/ambassador-program",
+  403,
+  "https://www.redbull.com/ambassador-program",
+  "Access Denied"
+ ],
+ [
+  "https://redbull.com/ambassadors",
+  403,
+  "https://www.redbull.com/ambassadors",
+  "Access Denied"
+ ],
+ [
+  "https://redbull.com/campus",
+  403,
+  "https://www.redbull.com/campus",
+  "Access Denied"
+ ],
+ [
+  "https://redbull.com/campus-ambassador",
+  403,
+  "https://www.redbull.com/campus-ambassador",
+  "Access Denied"
+ ],
+ [
+  "https://redbull.com/community/ambassadors",
+  403,
+  "https://www.redbull.com/community/ambassadors",
+  "Access Denied"
+ ],
+ [
+  "https://redbull.com/student-ambassador",
+  403,
+  "https://www.redbull.com/student-ambassador",
+  "Access Denied"
+ ],
+ [
+  "https://redbull.com/students",
+  403,
+  "https://www.redbull.com/students",
+  "Access Denied"
+ ],
+ [
+  "https://coca-cola.com/ambassador",
+  404,
+  "https://www.coca-cola.com/ambassador",
+  "404"
+ ],
+ [
+  "https://coca-cola.com/ambassador-program",
+  404,
+  "https://www.coca-cola.com/ambassador-program",
+  "404"
+ ],
+ [
+  "https://coca-cola.com/ambassadors",
+  404,
+  "https://www.coca-cola.com/ambassadors",
+  "404"
+ ],
+ [
+  "https://coca-cola.com/campus",
+  404,
+  "https://www.coca-cola.com/campus",
+  "404"
+ ],
+ [
+  "https://coca-cola.com/campus-ambassador",
+  404,
+  "https://www.coca-cola.com/campus-ambassador",
+  "404"
+ ],
+ [
+  "https://coca-cola.com/community/ambassadors",
+  404,
+  "https://www.coca-cola.com/community/ambassadors",
+  "404"
+ ],
+ [
+  "https://coca-cola.com/student-ambassador",
+  404,
+  "https://www.coca-cola.com/student-ambassador",
+  "404"
+ ],
+ [
+  "https://coca-cola.com/students",
+  404,
+  "https://www.coca-cola.com/students",
+  "404"
+ ],
+ [
+  "https://ethereum.org/ambassador",
+  404,
+  "https://ethereum.org/ambassador",
+  ""
+ ],
+ [
+  "https://ethereum.org/ambassador-program",
+  404,
+  "https://ethereum.org/ambassador-program",
+  ""
+ ],
+ [
+  "https://ethereum.org/ambassadors",
+  404,
+  "https://ethereum.org/ambassadors",
+  ""
+ ],
+ [
+  "https://ethereum.org/campus",
+  404,
+  "https://ethereum.org/campus",
+  ""
+ ],
+ [
+  "https://ethereum.org/campus-ambassador",
+  404,
+  "https://ethereum.org/campus-ambassador",
+  ""
+ ],
+ [
+  "https://ethereum.org/community/ambassadors",
+  404,
+  "https://ethereum.org/community/ambassadors",
+  ""
+ ],
+ [
+  "https://ethereum.org/student-ambassador",
+  404,
+  "https://ethereum.org/student-ambassador",
+  ""
+ ],
+ [
+  "https://ethereum.org/students",
+  404,
+  "https://ethereum.org/students",
+  ""
+ ],
+ [
+  "https://solana.com/ambassador",
+  404,
+  "https://solana.com/ambassador",
+  "Solana"
+ ],
+ [
+  "https://solana.com/ambassador-program",
+  404,
+  "https://solana.com/ambassador-program",
+  "Solana"
+ ],
+ [
+  "https://solana.com/ambassadors",
+  404,
+  "https://solana.com/ambassadors",
+  "Solana"
+ ],
+ [
+  "https://solana.com/campus",
+  404,
+  "https://solana.com/campus",
+  "Solana"
+ ],
+ [
+  "https://solana.com/campus-ambassador",
+  404,
+  "https://solana.com/campus-ambassador",
+  "Solana"
+ ],
+ [
+  "https://solana.com/community/ambassadors",
+  404,
+  "https://solana.com/community/ambassadors",
+  "Solana"
+ ],
+ [
+  "https://solana.com/student-ambassador",
+  404,
+  "https://solana.com/student-ambassador",
+  "Solana"
+ ],
+ [
+  "https://solana.com/students",
+  404,
+  "https://solana.com/students",
+  "Solana"
+ ],
+ [
+  "https://polygon.technology/ambassador",
+  404,
+  "https://polygon.technology/ambassador",
+  "Page not found | Polygon"
+ ],
+ [
+  "https://polygon.technology/ambassador-program",
+  404,
+  "https://polygon.technology/ambassador-program",
+  "Page not found | Polygon"
+ ],
+ [
+  "https://polygon.technology/ambassadors",
+  404,
+  "https://polygon.technology/ambassadors",
+  "Page not found | Polygon"
+ ],
+ [
+  "https://polygon.technology/campus",
+  404,
+  "https://polygon.technology/campus",
+  "Page not found | Polygon"
+ ],
+ [
+  "https://polygon.technology/campus-ambassador",
+  404,
+  "https://polygon.technology/campus-ambassador",
+  "Page not found | Polygon"
+ ],
+ [
+  "https://polygon.technology/community/ambassadors",
+  404,
+  "https://polygon.technology/community/ambassadors",
+  "Page not found | Polygon"
+ ],
+ [
+  "https://polygon.technology/student-ambassador",
+  404,
+  "https://polygon.technology/student-ambassador",
+  "Page not found | Polygon"
+ ],
+ [
+  "https://polygon.technology/students",
+  404,
+  "https://polygon.technology/students",
+  "Page not found | Polygon"
+ ],
+ [
+  "https://aptoslabs.com/ambassador",
+  404,
+  "https://aptoslabs.com/ambassador",
+  ""
+ ],
+ [
+  "https://aptoslabs.com/ambassador-program",
+  404,
+  "https://aptoslabs.com/ambassador-program",
+  ""
+ ],
+ [
+  "https://aptoslabs.com/ambassadors",
+  404,
+  "https://aptoslabs.com/ambassadors",
+  ""
+ ],
+ [
+  "https://aptoslabs.com/campus",
+  404,
+  "https://aptoslabs.com/campus",
+  ""
+ ],
+ [
+  "https://aptoslabs.com/campus-ambassador",
+  404,
+  "https://aptoslabs.com/campus-ambassador",
+  ""
+ ],
+ [
+  "https://aptoslabs.com/community/ambassadors",
+  404,
+  "https://aptoslabs.com/community/ambassadors",
+  "404: This page could not be found."
+ ],
+ [
+  "https://aptoslabs.com/student-ambassador",
+  404,
+  "https://aptoslabs.com/student-ambassador",
+  ""
+ ],
+ [
+  "https://aptoslabs.com/students",
+  404,
+  "https://aptoslabs.com/students",
+  ""
+ ],
+ [
+  "https://sui.io/ambassador",
+  404,
+  "https://www.sui.io/ambassador",
+  "Not Found"
+ ],
+ [
+  "https://sui.io/ambassador-program",
+  404,
+  "https://www.sui.io/ambassador-program",
+  "Not Found"
+ ],
+ [
+  "https://sui.io/ambassadors",
+  200,
+  "https://www.sui.io/community",
+  "Sui Community | Forge Meaningful Connections"
+ ],
+ [
+  "https://sui.io/campus",
+  404,
+  "https://www.sui.io/campus",
+  "Not Found"
+ ],
+ [
+  "https://sui.io/campus-ambassador",
+  404,
+  "https://www.sui.io/campus-ambassador",
+  "Not Found"
+ ],
+ [
+  "https://sui.io/community/ambassadors",
+  404,
+  "https://www.sui.io/community/ambassadors",
+  "Not Found"
+ ],
+ [
+  "https://sui.io/student-ambassador",
+  404,
+  "https://www.sui.io/student-ambassador",
+  "Not Found"
+ ],
+ [
+  "https://sui.io/students",
+  404,
+  "https://www.sui.io/students",
+  "Not Found"
+ ],
+ [
+  "https://ton.org/ambassador",
+  404,
+  "https://ton.org/ambassador",
+  "404 Not Found"
+ ],
+ [
+  "https://ton.org/ambassador-program",
+  404,
+  "https://ton.org/ambassador-program",
+  "404 Not Found"
+ ],
+ [
+  "https://ton.org/ambassadors",
+  "ERR",
+  "https://ton.org/ambassadors",
+  "HTTPSConnectionPool(host='society.ton.org', port=443): Max r"
+ ],
+ [
+  "https://ton.org/campus",
+  404,
+  "https://ton.org/campus",
+  "404 Not Found"
+ ],
+ [
+  "https://ton.org/campus-ambassador",
+  404,
+  "https://ton.org/campus-ambassador",
+  "404 Not Found"
+ ],
+ [
+  "https://ton.org/community/ambassadors",
+  404,
+  "https://ton.org/community/ambassadors",
+  "404 Not Found"
+ ],
+ [
+  "https://ton.org/student-ambassador",
+  404,
+  "https://ton.org/student-ambassador",
+  "404 Not Found"
+ ],
+ [
+  "https://ton.org/students",
+  404,
+  "https://ton.org/students",
+  "404 Not Found"
+ ],
+ [
+  "https://polkadot.com/ambassador",
+  404,
+  "https://polkadot.com/ambassador",
+  "Polkadot"
+ ],
+ [
+  "https://polkadot.com/ambassador-program",
+  404,
+  "https://polkadot.com/ambassador-program",
+  "Polkadot"
+ ],
+ [
+  "https://polkadot.com/ambassadors",
+  404,
+  "https://polkadot.com/ambassadors",
+  "Polkadot"
+ ],
+ [
+  "https://polkadot.com/campus",
+  404,
+  "https://polkadot.com/campus",
+  "Polkadot"
+ ],
+ [
+  "https://polkadot.com/campus-ambassador",
+  404,
+  "https://polkadot.com/campus-ambassador",
+  "Polkadot"
+ ],
+ [
+  "https://polkadot.com/community/ambassadors",
+  404,
+  "https://polkadot.com/community/ambassadors",
+  "Polkadot"
+ ],
+ [
+  "https://polkadot.com/student-ambassador",
+  404,
+  "https://polkadot.com/student-ambassador",
+  "Polkadot"
+ ],
+ [
+  "https://polkadot.com/students",
+  404,
+  "https://polkadot.com/students",
+  "Polkadot"
+ ],
+ [
+  "https://cardano.org/ambassador",
+  404,
+  "https://cardano.org/ambassador",
+  "Page Not Found | Cardano"
+ ],
+ [
+  "https://cardano.org/ambassador-program",
+  404,
+  "https://cardano.org/ambassador-program",
+  "Page Not Found | Cardano"
+ ],
+ [
+  "https://cardano.org/ambassadors",
+  200,
+  "https://cardano.org/ambassadors/",
+  "Cardano Ambassador Program, Join the Community | Cardano"
+ ],
+ [
+  "https://cardano.org/campus",
+  404,
+  "https://cardano.org/campus",
+  "Page Not Found | Cardano"
+ ],
+ [
+  "https://cardano.org/campus-ambassador",
+  404,
+  "https://cardano.org/campus-ambassador",
+  "Page Not Found | Cardano"
+ ],
+ [
+  "https://cardano.org/community/ambassadors",
+  404,
+  "https://cardano.org/community/ambassadors",
+  "Page Not Found | Cardano"
+ ],
+ [
+  "https://cardano.org/student-ambassador",
+  404,
+  "https://cardano.org/student-ambassador",
+  "Page Not Found | Cardano"
+ ],
+ [
+  "https://cardano.org/students",
+  404,
+  "https://cardano.org/students",
+  "Page Not Found | Cardano"
+ ],
+ [
+  "https://algorand.com/ambassador",
+  404,
+  "https://algorand.co/ambassador",
+  ""
+ ],
+ [
+  "https://algorand.com/ambassador-program",
+  404,
+  "https://algorand.co/ambassador-program",
+  ""
+ ],
+ [
+  "https://algorand.com/ambassadors",
+  404,
+  "https://algorand.co/ambassadors",
+  ""
+ ],
+ [
+  "https://algorand.com/campus",
+  404,
+  "https://algorand.co/campus",
+  ""
+ ],
+ [
+  "https://algorand.com/campus-ambassador",
+  404,
+  "https://algorand.co/campus-ambassador",
+  ""
+ ],
+ [
+  "https://algorand.com/community/ambassadors",
+  404,
+  "https://algorand.co/community/ambassadors",
+  ""
+ ],
+ [
+  "https://algorand.com/student-ambassador",
+  404,
+  "https://algorand.co/student-ambassador",
+  ""
+ ],
+ [
+  "https://algorand.com/students",
+  404,
+  "https://algorand.co/students",
+  ""
+ ],
+ [
+  "https://stellar.org/ambassador",
+  404,
+  "https://stellar.org/ambassador",
+  ""
+ ],
+ [
+  "https://stellar.org/ambassador-program",
+  404,
+  "https://stellar.org/ambassador-program",
+  ""
+ ],
+ [
+  "https://stellar.org/ambassadors",
+  404,
+  "https://stellar.org/ambassadors",
+  ""
+ ],
+ [
+  "https://stellar.org/campus",
+  404,
+  "https://stellar.org/campus",
+  ""
+ ],
+ [
+  "https://stellar.org/campus-ambassador",
+  404,
+  "https://stellar.org/campus-ambassador",
+  ""
+ ],
+ [
+  "https://stellar.org/community/ambassadors",
+  404,
+  "https://stellar.org/community/ambassadors",
+  ""
+ ],
+ [
+  "https://stellar.org/student-ambassador",
+  404,
+  "https://stellar.org/student-ambassador",
+  ""
+ ],
+ [
+  "https://stellar.org/students",
+  404,
+  "https://stellar.org/students",
+  ""
+ ],
+ [
+  "https://hedera.com/ambassador",
+  404,
+  "https://hedera.com/ambassador",
+  "Page not found | Hedera"
+ ],
+ [
+  "https://hedera.com/ambassador-program",
+  200,
+  "https://hedera.com/ambassador-program/",
+  "Ambassador Program | Hedera"
+ ],
+ [
+  "https://hedera.com/ambassador-program/",
+  200,
+  "https://hedera.com/ambassador-program/",
+  "Ambassador Program | Hedera"
+ ],
+ [
+  "https://hedera.com/ambassadors",
+  200,
+  "https://hedera.com/ambassador-program/",
+  "Ambassador Program | Hedera"
+ ],
+ [
+  "https://hedera.com/campus",
+  404,
+  "https://hedera.com/campus",
+  "Page not found | Hedera"
+ ],
+ [
+  "https://hedera.com/campus-ambassador",
+  404,
+  "https://hedera.com/campus-ambassador",
+  "Page not found | Hedera"
+ ],
+ [
+  "https://hedera.com/community/ambassadors",
+  404,
+  "https://hedera.com/community/ambassadors",
+  "Page not found | Hedera"
+ ],
+ [
+  "https://hedera.com/student-ambassador",
+  404,
+  "https://hedera.com/student-ambassador",
+  "Page not found | Hedera"
+ ],
+ [
+  "https://hedera.com/students",
+  404,
+  "https://hedera.com/students",
+  "Page not found | Hedera"
+ ],
+ [
+  "https://chain.link/ambassador",
+  404,
+  "https://chain.link/ambassador",
+  "Page not found | Chainlink"
+ ],
+ [
+  "https://chain.link/ambassador-program",
+  404,
+  "https://chain.link/ambassador-program",
+  "Page not found | Chainlink"
+ ],
+ [
+  "https://chain.link/ambassadors",
+  404,
+  "https://chain.link/ambassadors",
+  "Page not found | Chainlink"
+ ],
+ [
+  "https://chain.link/campus",
+  404,
+  "https://chain.link/campus",
+  "Page not found | Chainlink"
+ ],
+ [
+  "https://chain.link/campus-ambassador",
+  404,
+  "https://chain.link/campus-ambassador",
+  "Page not found | Chainlink"
+ ],
+ [
+  "https://chain.link/community/ambassadors",
+  404,
+  "https://chain.link/community/ambassadors",
+  "Page not found | Chainlink"
+ ],
+ [
+  "https://chain.link/student-ambassador",
+  404,
+  "https://chain.link/student-ambassador",
+  "Page not found | Chainlink"
+ ],
+ [
+  "https://chain.link/students",
+  404,
+  "https://chain.link/students",
+  "Page not found | Chainlink"
+ ],
+ [
+  "https://alchemy.com/ambassador",
+  404,
+  "https://www.alchemy.com/ambassador",
+  ""
+ ],
+ [
+  "https://alchemy.com/ambassador-program",
+  404,
+  "https://www.alchemy.com/ambassador-program",
+  ""
+ ],
+ [
+  "https://alchemy.com/ambassadors",
+  "ERR",
+  "https://alchemy.com/ambassadors",
+  "HTTPSConnectionPool(host='app.deform.cc', port=443): Max ret"
+ ],
+ [
+  "https://alchemy.com/campus",
+  404,
+  "https://www.alchemy.com/campus",
+  ""
+ ],
+ [
+  "https://alchemy.com/campus-ambassador",
+  404,
+  "https://www.alchemy.com/campus-ambassador",
+  ""
+ ],
+ [
+  "https://alchemy.com/community/ambassadors",
+  404,
+  "https://www.alchemy.com/community/ambassadors",
+  ""
+ ],
+ [
+  "https://alchemy.com/student-ambassador",
+  404,
+  "https://www.alchemy.com/student-ambassador",
+  ""
+ ],
+ [
+  "https://alchemy.com/students",
+  404,
+  "https://www.alchemy.com/students",
+  ""
+ ],
+ [
+  "https://filecoin.io/ambassador",
+  404,
+  "https://filecoin.io/ambassador",
+  "404: This page could not be found."
+ ],
+ [
+  "https://filecoin.io/ambassador-program",
+  404,
+  "https://filecoin.io/ambassador-program",
+  "404: This page could not be found."
+ ],
+ [
+  "https://filecoin.io/ambassadors",
+  404,
+  "https://filecoin.io/ambassadors",
+  "404: This page could not be found."
+ ],
+ [
+  "https://filecoin.io/campus",
+  404,
+  "https://filecoin.io/campus",
+  "404: This page could not be found."
+ ],
+ [
+  "https://filecoin.io/campus-ambassador",
+  404,
+  "https://filecoin.io/campus-ambassador",
+  "404: This page could not be found."
+ ],
+ [
+  "https://filecoin.io/community/ambassadors",
+  404,
+  "https://filecoin.io/community/ambassadors",
+  "404: This page could not be found."
+ ],
+ [
+  "https://filecoin.io/student-ambassador",
+  404,
+  "https://filecoin.io/student-ambassador",
+  "404: This page could not be found."
+ ],
+ [
+  "https://filecoin.io/students",
+  404,
+  "https://filecoin.io/students",
+  "404: This page could not be found."
+ ],
+ [
+  "https://base.org/ambassador",
+  404,
+  "https://www.base.org/ambassador",
+  "Page not found"
+ ],
+ [
+  "https://base.org/ambassador-program",
+  404,
+  "https://www.base.org/ambassador-program",
+  "Page not found"
+ ],
+ [
+  "https://base.org/ambassadors",
+  404,
+  "https://www.base.org/ambassadors",
+  "Page not found"
+ ],
+ [
+  "https://base.org/campus",
+  404,
+  "https://www.base.org/campus",
+  "Page not found"
+ ],
+ [
+  "https://base.org/campus-ambassador",
+  404,
+  "https://www.base.org/campus-ambassador",
+  "Page not found"
+ ],
+ [
+  "https://base.org/community/ambassadors",
+  404,
+  "https://www.base.org/community/ambassadors",
+  "Page not found"
+ ],
+ [
+  "https://base.org/student-ambassador",
+  404,
+  "https://www.base.org/student-ambassador",
+  "Page not found"
+ ],
+ [
+  "https://base.org/students",
+  404,
+  "https://www.base.org/students",
+  "Page not found"
+ ],
+ [
+  "https://optimism.io/ambassador",
+  404,
+  "https://optimism.io/ambassador",
+  ""
+ ],
+ [
+  "https://optimism.io/ambassador-program",
+  404,
+  "https://optimism.io/ambassador-program",
+  ""
+ ],
+ [
+  "https://optimism.io/ambassadors",
+  404,
+  "https://optimism.io/ambassadors",
+  ""
+ ],
+ [
+  "https://optimism.io/campus",
+  404,
+  "https://optimism.io/campus",
+  ""
+ ],
+ [
+  "https://optimism.io/campus-ambassador",
+  404,
+  "https://optimism.io/campus-ambassador",
+  ""
+ ],
+ [
+  "https://optimism.io/community/ambassadors",
+  404,
+  "https://optimism.io/community/ambassadors",
+  ""
+ ],
+ [
+  "https://optimism.io/student-ambassador",
+  404,
+  "https://optimism.io/student-ambassador",
+  ""
+ ],
+ [
+  "https://optimism.io/students",
+  404,
+  "https://optimism.io/students",
+  ""
+ ],
+ [
+  "https://arbitrum.io/ambassador",
+  403,
+  "https://arbitrum.io/ambassador",
+  "Just a moment..."
+ ],
+ [
+  "https://arbitrum.io/ambassador-program",
+  403,
+  "https://arbitrum.io/ambassador-program",
+  "Just a moment..."
+ ],
+ [
+  "https://arbitrum.io/ambassadors",
+  403,
+  "https://arbitrum.io/ambassadors",
+  "Just a moment..."
+ ],
+ [
+  "https://arbitrum.io/campus",
+  403,
+  "https://arbitrum.io/campus",
+  "Just a moment..."
+ ],
+ [
+  "https://arbitrum.io/campus-ambassador",
+  403,
+  "https://arbitrum.io/campus-ambassador",
+  "Just a moment..."
+ ],
+ [
+  "https://arbitrum.io/community/ambassadors",
+  403,
+  "https://arbitrum.io/community/ambassadors",
+  "Just a moment..."
+ ],
+ [
+  "https://arbitrum.io/student-ambassador",
+  403,
+  "https://arbitrum.io/student-ambassador",
+  "Just a moment..."
+ ],
+ [
+  "https://arbitrum.io/students",
+  403,
+  "https://arbitrum.io/students",
+  "Just a moment..."
+ ],
+ [
+  "https://uniswap.org/ambassador",
+  200,
+  "https://app.uniswap.org/",
+  "Uniswap Interface"
+ ],
+ [
+  "https://uniswap.org/ambassador-program",
+  200,
+  "https://app.uniswap.org/",
+  "Uniswap Interface"
+ ],
+ [
+  "https://uniswap.org/ambassadors",
+  200,
+  "https://app.uniswap.org/",
+  "Uniswap Interface"
+ ],
+ [
+  "https://uniswap.org/campus",
+  200,
+  "https://app.uniswap.org/",
+  "Uniswap Interface"
+ ],
+ [
+  "https://uniswap.org/campus-ambassador",
+  200,
+  "https://app.uniswap.org/",
+  "Uniswap Interface"
+ ],
+ [
+  "https://uniswap.org/community/ambassadors",
+  200,
+  "https://app.uniswap.org/",
+  "Uniswap Interface"
+ ],
+ [
+  "https://uniswap.org/student-ambassador",
+  200,
+  "https://app.uniswap.org/",
+  "Uniswap Interface"
+ ],
+ [
+  "https://uniswap.org/students",
+  200,
+  "https://app.uniswap.org/",
+  "Uniswap Interface"
+ ],
+ [
+  "https://coindcx.com/ambassador",
+  200,
+  "https://coindcx.com/ambassador",
+  "CoinDCX: Crypto Investment App | Trusted by 1.4 Cr+ Users"
+ ],
+ [
+  "https://coindcx.com/ambassador-program",
+  200,
+  "https://coindcx.com/ambassador-program",
+  "CoinDCX: Crypto Investment App | Trusted by 1.4 Cr+ Users"
+ ],
+ [
+  "https://coindcx.com/ambassadors",
+  200,
+  "https://coindcx.com/ambassadors",
+  "CoinDCX: Crypto Investment App | Trusted by 1.4 Cr+ Users"
+ ],
+ [
+  "https://coindcx.com/campus",
+  200,
+  "https://coindcx.com/campus",
+  "CoinDCX: Crypto Investment App | Trusted by 1.4 Cr+ Users"
+ ],
+ [
+  "https://coindcx.com/campus-ambassador",
+  200,
+  "https://coindcx.com/campus-ambassador",
+  "CoinDCX: Crypto Investment App | Trusted by 1.4 Cr+ Users"
+ ],
+ [
+  "https://coindcx.com/community/ambassadors",
+  404,
+  "https://coindcx.com/community/ambassadors",
+  "Page Not Found - CoinDCX"
+ ],
+ [
+  "https://coindcx.com/student-ambassador",
+  200,
+  "https://coindcx.com/student-ambassador",
+  "CoinDCX: Crypto Investment App | Trusted by 1.4 Cr+ Users"
+ ],
+ [
+  "https://coindcx.com/students",
+  200,
+  "https://coindcx.com/students",
+  "CoinDCX: Crypto Investment App | Trusted by 1.4 Cr+ Users"
+ ],
+ [
+  "https://wazirx.com/ambassador",
+  200,
+  "https://wazirx.com/ambassador",
+  "Buy Bitcoin, Cryptocurrency at India\u00e2\u0080\u0099s Largest Exchange | Trading Platform | WazirX"
+ ],
+ [
+  "https://wazirx.com/ambassador-program",
+  200,
+  "https://wazirx.com/ambassador-program",
+  "Buy Bitcoin, Cryptocurrency at India\u00e2\u0080\u0099s Largest Exchange | Trading Platform | WazirX"
+ ],
+ [
+  "https://wazirx.com/ambassadors",
+  200,
+  "https://wazirx.com/ambassadors",
+  "Buy Bitcoin, Cryptocurrency at India\u00e2\u0080\u0099s Largest Exchange | Trading Platform | WazirX"
+ ],
+ [
+  "https://wazirx.com/campus",
+  200,
+  "https://wazirx.com/campus",
+  "Buy Bitcoin, Cryptocurrency at India\u00e2\u0080\u0099s Largest Exchange | Trading Platform | WazirX"
+ ],
+ [
+  "https://wazirx.com/campus-ambassador",
+  200,
+  "https://wazirx.com/campus-ambassador",
+  "Buy Bitcoin, Cryptocurrency at India\u00e2\u0080\u0099s Largest Exchange | Trading Platform | WazirX"
+ ],
+ [
+  "https://wazirx.com/community/ambassadors",
+  200,
+  "https://wazirx.com/community/ambassadors",
+  "Buy Bitcoin, Cryptocurrency at India\u00e2\u0080\u0099s Largest Exchange | Trading Platform | WazirX"
+ ],
+ [
+  "https://wazirx.com/student-ambassador",
+  200,
+  "https://wazirx.com/student-ambassador",
+  "Buy Bitcoin, Cryptocurrency at India\u00e2\u0080\u0099s Largest Exchange | Trading Platform | WazirX"
+ ],
+ [
+  "https://wazirx.com/students",
+  200,
+  "https://wazirx.com/students",
+  "Buy Bitcoin, Cryptocurrency at India\u00e2\u0080\u0099s Largest Exchange | Trading Platform | WazirX"
+ ],
+ [
+  "https://mudrex.com/ambassador",
+  200,
+  "https://mudrex.com/",
+  "Mudrex: Trade Bitcoin &amp; Crypto on India&#x27;s Best Crypto Exchange."
+ ],
+ [
+  "https://mudrex.com/ambassador-program",
+  200,
+  "https://mudrex.com/",
+  "Mudrex: Trade Bitcoin &amp; Crypto on India&#x27;s Best Crypto Exchange."
+ ],
+ [
+  "https://mudrex.com/ambassadors",
+  200,
+  "https://mudrex.com/",
+  "Mudrex: Trade Bitcoin &amp; Crypto on India&#x27;s Best Crypto Exchange."
+ ],
+ [
+  "https://mudrex.com/campus",
+  200,
+  "https://mudrex.com/",
+  "Mudrex: Trade Bitcoin &amp; Crypto on India&#x27;s Best Crypto Exchange."
+ ],
+ [
+  "https://mudrex.com/campus-ambassador",
+  200,
+  "https://mudrex.com/",
+  "Mudrex: Trade Bitcoin &amp; Crypto on India&#x27;s Best Crypto Exchange."
+ ],
+ [
+  "https://mudrex.com/community/ambassadors",
+  404,
+  "https://mudrex.com/community/ambassadors",
+  "404: This page could not be found"
+ ],
+ [
+  "https://mudrex.com/student-ambassador",
+  200,
+  "https://mudrex.com/",
+  "Mudrex: Trade Bitcoin &amp; Crypto on India&#x27;s Best Crypto Exchange."
+ ],
+ [
+  "https://mudrex.com/students",
+  200,
+  "https://mudrex.com/",
+  "Mudrex: Trade Bitcoin &amp; Crypto on India&#x27;s Best Crypto Exchange."
+ ],
+ [
+  "https://binance.com/ambassador",
+  202,
+  "https://www.binance.com/ambassador",
+  ""
+ ],
+ [
+  "https://binance.com/ambassador-program",
+  202,
+  "https://www.binance.com/ambassador-program",
+  ""
+ ],
+ [
+  "https://binance.com/ambassadors",
+  202,
+  "https://www.binance.com/ambassadors",
+  ""
+ ],
+ [
+  "https://binance.com/campus",
+  202,
+  "https://www.binance.com/campus",
+  ""
+ ],
+ [
+  "https://binance.com/campus-ambassador",
+  202,
+  "https://www.binance.com/campus-ambassador",
+  ""
+ ],
+ [
+  "https://binance.com/community/ambassadors",
+  202,
+  "https://www.binance.com/community/ambassadors",
+  ""
+ ],
+ [
+  "https://binance.com/student-ambassador",
+  202,
+  "https://www.binance.com/student-ambassador",
+  ""
+ ],
+ [
+  "https://binance.com/students",
+  202,
+  "https://www.binance.com/students",
+  ""
+ ],
+ [
+  "https://bybit.com/ambassador",
+  200,
+  "https://www.bybit.com/",
+  "Bybit: Trade Crypto, Stocks, Gold &amp; Forex | The New Financial Platform"
+ ],
+ [
+  "https://bybit.com/ambassador-program",
+  200,
+  "https://www.bybit.com/",
+  "Bybit: Trade Crypto, Stocks, Gold &amp; Forex | The New Financial Platform"
+ ],
+ [
+  "https://bybit.com/ambassadors",
+  200,
+  "https://www.bybit.com/",
+  "Bybit: Trade Crypto, Stocks, Gold &amp; Forex | The New Financial Platform"
+ ],
+ [
+  "https://bybit.com/campus",
+  200,
+  "https://www.bybit.com/",
+  "Bybit: Trade Crypto, Stocks, Gold &amp; Forex | The New Financial Platform"
+ ],
+ [
+  "https://bybit.com/campus-ambassador",
+  200,
+  "https://www.bybit.com/",
+  "Bybit: Trade Crypto, Stocks, Gold &amp; Forex | The New Financial Platform"
+ ],
+ [
+  "https://bybit.com/community/ambassadors",
+  200,
+  "https://www.bybit.com/",
+  "Bybit: Trade Crypto, Stocks, Gold &amp; Forex | The New Financial Platform"
+ ],
+ [
+  "https://bybit.com/student-ambassador",
+  200,
+  "https://www.bybit.com/",
+  "Bybit: Trade Crypto, Stocks, Gold &amp; Forex | The New Financial Platform"
+ ],
+ [
+  "https://bybit.com/students",
+  200,
+  "https://www.bybit.com/",
+  "Bybit: Trade Crypto, Stocks, Gold &amp; Forex | The New Financial Platform"
+ ],
+ [
+  "https://okx.com/ambassador",
+  404,
+  "https://www.okx.com/ambassador",
+  "Buy Bitcoin &amp; Crypto | Crypto Exchange, App &amp; Wallet | OKX"
+ ],
+ [
+  "https://okx.com/ambassador-program",
+  404,
+  "https://www.okx.com/ambassador-program",
+  "Buy Bitcoin &amp; Crypto | Crypto Exchange, App &amp; Wallet | OKX"
+ ],
+ [
+  "https://okx.com/ambassadors",
+  404,
+  "https://www.okx.com/ambassadors",
+  "Buy Bitcoin &amp; Crypto | Crypto Exchange, App &amp; Wallet | OKX"
+ ],
+ [
+  "https://okx.com/campus",
+  404,
+  "https://www.okx.com/campus",
+  "Buy Bitcoin &amp; Crypto | Crypto Exchange, App &amp; Wallet | OKX"
+ ],
+ [
+  "https://okx.com/campus-ambassador",
+  404,
+  "https://www.okx.com/campus-ambassador",
+  "Buy Bitcoin &amp; Crypto | Crypto Exchange, App &amp; Wallet | OKX"
+ ],
+ [
+  "https://okx.com/community/ambassadors",
+  404,
+  "https://www.okx.com/community/ambassadors",
+  "Buy Bitcoin &amp; Crypto | Crypto Exchange, App &amp; Wallet | OKX"
+ ],
+ [
+  "https://okx.com/student-ambassador",
+  404,
+  "https://www.okx.com/student-ambassador",
+  "Buy Bitcoin &amp; Crypto | Crypto Exchange, App &amp; Wallet | OKX"
+ ],
+ [
+  "https://okx.com/students",
+  404,
+  "https://www.okx.com/students",
+  "Buy Bitcoin &amp; Crypto | Crypto Exchange, App &amp; Wallet | OKX"
+ ],
+ [
+  "https://techfest.org/ambassador",
+  200,
+  "https://techfest.org/ambassador",
+  "Techfest | IIT Bombay"
+ ],
+ [
+  "https://techfest.org/ambassador-program",
+  200,
+  "https://techfest.org/ambassador-program",
+  "Techfest | IIT Bombay"
+ ],
+ [
+  "https://techfest.org/ambassadors",
+  200,
+  "https://techfest.org/ambassadors",
+  "Techfest | IIT Bombay"
+ ],
+ [
+  "https://techfest.org/campus",
+  200,
+  "https://techfest.org/campus",
+  "Techfest | IIT Bombay"
+ ],
+ [
+  "https://techfest.org/campus-ambassador",
+  200,
+  "https://techfest.org/campus-ambassador",
+  "Techfest | IIT Bombay"
+ ],
+ [
+  "https://techfest.org/community/ambassadors",
+  200,
+  "https://techfest.org/community/ambassadors",
+  "Techfest | IIT Bombay"
+ ],
+ [
+  "https://techfest.org/student-ambassador",
+  200,
+  "https://techfest.org/student-ambassador",
+  "Techfest | IIT Bombay"
+ ],
+ [
+  "https://techfest.org/students",
+  200,
+  "https://techfest.org/students",
+  "Techfest | IIT Bombay"
+ ],
+ [
+  "https://moodi.org/ambassador",
+  200,
+  "https://moodi.org/ambassador",
+  "Mood Indigo"
+ ],
+ [
+  "https://moodi.org/ambassador-program",
+  200,
+  "https://moodi.org/ambassador-program",
+  "Mood Indigo"
+ ],
+ [
+  "https://moodi.org/ambassadors",
+  200,
+  "https://moodi.org/ambassadors",
+  "Mood Indigo"
+ ],
+ [
+  "https://moodi.org/campus",
+  200,
+  "https://moodi.org/campus",
+  "Mood Indigo"
+ ],
+ [
+  "https://moodi.org/campus-ambassador",
+  200,
+  "https://moodi.org/campus-ambassador",
+  "Mood Indigo"
+ ],
+ [
+  "https://moodi.org/community/ambassadors",
+  200,
+  "https://moodi.org/community/ambassadors",
+  "Mood Indigo"
+ ],
+ [
+  "https://moodi.org/student-ambassador",
+  200,
+  "https://moodi.org/student-ambassador",
+  "Mood Indigo"
+ ],
+ [
+  "https://moodi.org/students",
+  200,
+  "https://moodi.org/students",
+  "Mood Indigo"
+ ],
+ [
+  "https://kshitij.com/ambassador",
+  404,
+  "https://kshitij.com/ambassador",
+  ""
+ ],
+ [
+  "https://kshitij.com/ambassador-program",
+  404,
+  "https://kshitij.com/ambassador-program",
+  ""
+ ],
+ [
+  "https://kshitij.com/ambassadors",
+  404,
+  "https://kshitij.com/ambassadors",
+  ""
+ ],
+ [
+  "https://kshitij.com/campus",
+  404,
+  "https://kshitij.com/campus",
+  ""
+ ],
+ [
+  "https://kshitij.com/campus-ambassador",
+  404,
+  "https://kshitij.com/campus-ambassador",
+  ""
+ ],
+ [
+  "https://kshitij.com/community/ambassadors",
+  404,
+  "https://kshitij.com/community/ambassadors",
+  ""
+ ],
+ [
+  "https://kshitij.com/student-ambassador",
+  404,
+  "https://kshitij.com/student-ambassador",
+  ""
+ ],
+ [
+  "https://kshitij.com/students",
+  404,
+  "https://kshitij.com/students",
+  ""
+ ],
+ [
+  "https://antaragni.in/ambassador",
+  402,
+  "https://antaragni.in/ambassador",
+  ""
+ ],
+ [
+  "https://antaragni.in/ambassador-program",
+  402,
+  "https://antaragni.in/ambassador-program",
+  ""
+ ],
+ [
+  "https://antaragni.in/ambassadors",
+  402,
+  "https://antaragni.in/ambassadors",
+  ""
+ ],
+ [
+  "https://antaragni.in/campus",
+  402,
+  "https://antaragni.in/campus",
+  ""
+ ],
+ [
+  "https://antaragni.in/campus-ambassador",
+  402,
+  "https://antaragni.in/campus-ambassador",
+  ""
+ ],
+ [
+  "https://antaragni.in/community/ambassadors",
+  402,
+  "https://antaragni.in/community/ambassadors",
+  ""
+ ],
+ [
+  "https://antaragni.in/student-ambassador",
+  402,
+  "https://antaragni.in/student-ambassador",
+  ""
+ ],
+ [
+  "https://antaragni.in/students",
+  402,
+  "https://antaragni.in/students",
+  ""
+ ],
+ [
+  "https://cognizance.in/ambassador",
+  200,
+  "https://sedo.com/search/details/?domain=cognizance.in&campaignId=329145&origin=sales_lander_15",
+  "Domain Details Page"
+ ],
+ [
+  "https://cognizance.in/ambassador-program",
+  200,
+  "https://sedo.com/search/details/?domain=cognizance.in&campaignId=329145&origin=sales_lander_15",
+  "Domain Details Page"
+ ],
+ [
+  "https://cognizance.in/ambassadors",
+  200,
+  "https://sedo.com/search/details/?domain=cognizance.in&campaignId=329145&origin=sales_lander_15",
+  "Domain Details Page"
+ ],
+ [
+  "https://cognizance.in/campus",
+  200,
+  "https://sedo.com/search/details/?domain=cognizance.in&campaignId=329145&origin=sales_lander_15",
+  "Domain Details Page"
+ ],
+ [
+  "https://cognizance.in/campus-ambassador",
+  200,
+  "https://sedo.com/search/details/?domain=cognizance.in&campaignId=329145&origin=sales_lander_15",
+  "Domain Details Page"
+ ],
+ [
+  "https://cognizance.in/community/ambassadors",
+  200,
+  "https://sedo.com/search/details/?domain=cognizance.in&campaignId=329145&origin=sales_lander_15",
+  "Domain Details Page"
+ ],
+ [
+  "https://cognizance.in/student-ambassador",
+  200,
+  "https://sedo.com/search/details/?domain=cognizance.in&campaignId=329145&origin=sales_lander_15",
+  "Domain Details Page"
+ ],
+ [
+  "https://cognizance.in/students",
+  200,
+  "https://sedo.com/search/details/?domain=cognizance.in&campaignId=329145&origin=sales_lander_15",
+  "Domain Details Page"
+ ],
+ [
+  "https://sphinx.org.in/ambassador",
+  404,
+  "https://www.sphinx.org.in/ambassador",
+  "Sphinx &#x27;26 | MNIT Jaipur"
+ ],
+ [
+  "https://sphinx.org.in/ambassador-program",
+  404,
+  "https://www.sphinx.org.in/ambassador-program",
+  "Sphinx &#x27;26 | MNIT Jaipur"
+ ],
+ [
+  "https://sphinx.org.in/ambassadors",
+  404,
+  "https://www.sphinx.org.in/ambassadors",
+  "Sphinx &#x27;26 | MNIT Jaipur"
+ ],
+ [
+  "https://sphinx.org.in/campus",
+  404,
+  "https://www.sphinx.org.in/campus",
+  "Sphinx &#x27;26 | MNIT Jaipur"
+ ],
+ [
+  "https://sphinx.org.in/campus-ambassador",
+  404,
+  "https://www.sphinx.org.in/campus-ambassador",
+  "Sphinx &#x27;26 | MNIT Jaipur"
+ ],
+ [
+  "https://sphinx.org.in/community/ambassadors",
+  404,
+  "https://www.sphinx.org.in/community/ambassadors",
+  "Sphinx &#x27;26 | MNIT Jaipur"
+ ],
+ [
+  "https://sphinx.org.in/student-ambassador",
+  404,
+  "https://www.sphinx.org.in/student-ambassador",
+  "Sphinx &#x27;26 | MNIT Jaipur"
+ ],
+ [
+  "https://sphinx.org.in/students",
+  404,
+  "https://www.sphinx.org.in/students",
+  "Sphinx &#x27;26 | MNIT Jaipur"
+ ],
+ [
+  "https://ecell.in/ambassador",
+  200,
+  "https://www.ecell.in/ambassador",
+  "E-Cell - Creating Job Creators"
+ ],
+ [
+  "https://ecell.in/ambassador-program",
+  200,
+  "https://www.ecell.in/ambassador-program",
+  "E-Cell - Creating Job Creators"
+ ],
+ [
+  "https://ecell.in/ambassadors",
+  200,
+  "https://www.ecell.in/ambassadors",
+  "E-Cell - Creating Job Creators"
+ ],
+ [
+  "https://ecell.in/campus",
+  200,
+  "https://www.ecell.in/campus",
+  "Campus Ambassador | E-Cell IIT Bombay"
+ ],
+ [
+  "https://ecell.in/campus-ambassador",
+  200,
+  "https://www.ecell.in/ca/",
+  "Campus Ambassador | E-Cell IIT Bombay"
+ ],
+ [
+  "https://ecell.in/community/ambassadors",
+  200,
+  "https://www.ecell.in/community/ambassadors",
+  "E-Cell - Creating Job Creators"
+ ],
+ [
+  "https://ecell.in/student-ambassador",
+  200,
+  "https://www.ecell.in/student-ambassador",
+  "E-Cell - Creating Job Creators"
+ ],
+ [
+  "https://ecell.in/students",
+  200,
+  "https://www.ecell.in/students",
+  "E-Cell - Creating Job Creators"
+ ],
+ [
+  "https://tryst-iitdelhi.org/ambassador",
+  200,
+  "https://tryst-iitdelhi.org/ambassador",
+  "Tryst 2027 | IIT Delhi"
+ ],
+ [
+  "https://tryst-iitdelhi.org/ambassador-program",
+  200,
+  "https://tryst-iitdelhi.org/ambassador-program",
+  "Tryst 2027 | IIT Delhi"
+ ],
+ [
+  "https://tryst-iitdelhi.org/ambassadors",
+  200,
+  "https://tryst-iitdelhi.org/ambassadors",
+  "Tryst 2027 | IIT Delhi"
+ ],
+ [
+  "https://tryst-iitdelhi.org/campus",
+  200,
+  "https://tryst-iitdelhi.org/campus",
+  "Tryst 2027 | IIT Delhi"
+ ],
+ [
+  "https://tryst-iitdelhi.org/campus-ambassador",
+  200,
+  "https://tryst-iitdelhi.org/campus-ambassador",
+  "Tryst 2027 | IIT Delhi"
+ ],
+ [
+  "https://tryst-iitdelhi.org/community/ambassadors",
+  200,
+  "https://tryst-iitdelhi.org/community/ambassadors",
+  "Tryst 2027 | IIT Delhi"
+ ],
+ [
+  "https://tryst-iitdelhi.org/student-ambassador",
+  200,
+  "https://tryst-iitdelhi.org/student-ambassador",
+  "Tryst 2027 | IIT Delhi"
+ ],
+ [
+  "https://tryst-iitdelhi.org/students",
+  200,
+  "https://tryst-iitdelhi.org/students",
+  "Tryst 2027 | IIT Delhi"
+ ],
+ [
+  "https://rendezvous-iitd.org/ambassador",
+  404,
+  "https://rendezvous-iitd.org/ambassador",
+  ""
+ ],
+ [
+  "https://rendezvous-iitd.org/ambassador-program",
+  404,
+  "https://rendezvous-iitd.org/ambassador-program",
+  ""
+ ],
+ [
+  "https://rendezvous-iitd.org/ambassadors",
+  404,
+  "https://rendezvous-iitd.org/ambassadors",
+  ""
+ ],
+ [
+  "https://rendezvous-iitd.org/campus",
+  404,
+  "https://rendezvous-iitd.org/campus",
+  ""
+ ],
+ [
+  "https://rendezvous-iitd.org/campus-ambassador",
+  404,
+  "https://rendezvous-iitd.org/campus-ambassador",
+  ""
+ ],
+ [
+  "https://rendezvous-iitd.org/community/ambassadors",
+  404,
+  "https://rendezvous-iitd.org/community/ambassadors",
+  ""
+ ],
+ [
+  "https://rendezvous-iitd.org/student-ambassador",
+  404,
+  "https://rendezvous-iitd.org/student-ambassador",
+  ""
+ ],
+ [
+  "https://rendezvous-iitd.org/students",
+  404,
+  "https://rendezvous-iitd.org/students",
+  ""
+ ]
+]

@@ -192,3 +192,77 @@ local language where the lab is Chinese. No page means no program, not a hidden 
 
 **Alibaba Cloud campus ambassadors**, https://news.qq.com/rain/a/20240812A04USR00 , V2
 > "阿里云、淘天、阿里国际、饿了么、高德已完成'校园大使'新一轮扩招计划" (Alibaba Cloud and other Alibaba units completed a new campus ambassador expansion)
+
+---
+
+# v2 evidence, added 4 Nov 2026
+
+## The SpaceXAI / Cursor correction
+
+Cursor forum, "Ambassador page Apply button links to a closed Typeform", 29 to 31 Oct 2026,
+https://forum.cursor.com/t/ambassador-page-apply-button-links-to-a-closed-typeform/176665 , V1
+> "You're right, the button on the Ambassadors page still points to the older form, which is closed. Applications are open through the new form you found, so anyone who wants to apply can use it here: SpaceXSI Ambassador Program https://anysphere.typeform.com/spacexsi-amb"
+
+Ben Lang, 13 Oct 2026, https://x.com/benln , V2 (reposted)
+> "Ambassador applications for @spacexai / @cursor_ai are reopening soon! Drop your email to be the first to know"
+
+Cursor forum, "New Campus Community Launches", 25 Jun 2026, https://forum.cursor.com/t/new-campus-community-launches/164026 , V1
+> "We will be welcoming 40 new ambassadors into our Campus Leads program this fall... This program is invite-only to start."
+
+Cursor Campus Leads, https://cursor.com/campus-leads , V1
+> "Applications will open again in January."
+
+## New open programs verified this round
+
+Kiro Ambassadors, https://kiro.dev/ambassadors/ , V1
+> "Applications are reviewed on a rolling basis."
+
+Kiro, https://kiro.dev/blog/introducing-kiro-ambassadors , V1
+> "Kiro Ambassadors formalizes relationships with our most engaged developers"
+
+SupaSquad, https://supabase.com/supasquad , V1
+> "Apply to Join SupaSquad"
+
+AAIF Ambassador Program, https://aaif.io/learn-more-about-the-program , V1
+> "Applications are open on a rolling basis. You can apply any time, we'll review your application at the next intake window."
+
+Stellar Ambassador Program, https://www.risein.com/stellar-ambassadors , V1
+> "Applications open"
+
+Stellar India chapter, https://stellar.gitbook.io/ambassador-program/chapters/asia-pacific/india-chapter , V1
+> "Welcome to the Stellar Ambassador Chapter in India!"
+
+GMI Cloud Clouder, https://www.gmicloud.ai/en/company/ambassador-program , V1
+> "Apply to be a Clouder"
+
+Sandisk Ambassador, https://www.sandisk.com/company/programs/ambassadors , V1
+> "Anyone passionate about digital creativity... who actively engages with a creative community can apply."
+
+HeLa Ambassador 3.0, https://x.com/Hela_Network/status/2110297437625635059 , V2
+> "HeLa Ambassador Program 3.0 is open"
+
+## Closed, new signals
+
+Reddit Campus Ambassador India, https://job-boards.greenhouse.io/reddit/jobs/7090049 , V1
+> "This job is no longer accepting applications"
+
+v0 Ambassadors, https://v0ambassadorform.vercel.app/ , V1
+> "Sorry! We're not accepting new applications right now"
+
+Canvassador, https://www.canva.com/help/canva-affiliate-marketing-program/ , V1
+> "The Canvassador Program is managed separately and is currently closed for applications."
+
+Campus Canvassadors, https://public.canva.site/campus-canvassadors , V1
+> "Student leaders at U.S. universities"
+
+PowerLabs, https://powerlabstech.com/community/ambassadors , V1
+> "You are a qualified undergraduate from any department in an accredited Nigerian university."
+
+## Social and forum leads
+
+Reddit r/ChandigarhUniversiti, 20 days before 4 Nov 2026,
+https://www.reddit.com/r/ChandigarhUniversiti/comments/1w62o54/ , V3
+> "Hugsy is looking for Campus Ambassadors! We're looking for college students across India"
+
+Reddit r/EngineeringStudents, Techfest thread, https://www.reddit.com/r/EngineeringStudents/comments/1u4tuu0/ , V3
+> "applications for the Techfest, IIT Bombay Campus Ambassador Program 2026 are now open... Apply here: ca.techfest.org"
