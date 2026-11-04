@@ -206,3 +206,26 @@ Still unverified and worth a manual look: Jentech, Hugsy, SolAcc, Reskilll, the 
 marked LEAD, and Intel's ambassador page. Spots close without notice. Apply early.
 
 Last updated 4 Nov 2026, 18:30 IST.
+
+---
+
+# Added 4 Nov 2026: hardware and electrical layer
+
+The applicant is second year Electrical and Computer Engineering, graduating 2029, so this
+layer matters more than another generic AI list.
+
+| Program | Org | Status | Note | Apply |
+|---|---|---|---|---|
+| Arduino and Qualcomm Ambassador | Arduino / Qualcomm | OPEN | Worldwide, 18+. Page names "Student Ambassadors: campus leaders driving grassroots adoption". Hardware kits, paid content, beta access. | https://www.arduino.cc/ambassador-program |
+| Qualcomm Ambassador Program | Qualcomm | OPEN | Worldwide except sanctioned countries. Separate from the invite-only student program. | https://www.qualcomm.com/developer/qualcomm-ambassador-program |
+| Siemens Student Ambassador | Siemens | OPEN | 18+, enrolled. Industrial software, microcredentials, employee mentors. | https://ambassador-community.com/siemens-student-ambassador/ |
+| Arm Ambassador | Arm | WAITLIST | Opens twice a year. Strong for embedded and edge. | https://developer.arm.com/arm-developer-program/ambassadors |
+| Texas Instruments BYTE Campus Ambassador | TI | LEAD | No public form. Recruited through campus hiring, so ask the MUJ placement cell. | https://www.ti.com/careers/university-programs.html |
+| Aptos Collective | Aptos | OPEN | Quarterly cohorts, global. | https://aptosfoundation.org/collective |
+| Solana University Ambassador | Solana | CLOSED | Aug 21 to Sep 1, 2026. Two per campus, USDC stipend. Watch for 2027. | https://solana.com/university |
+
+Consumer brands checked and mostly closed or creator-only: Nykaa College Ambassador (creator
+program, no public form), Be The Face of Nykaa (closed 15 Oct), Myntra StyleCast (2022, stale),
+Zomato and Swiggy (appear as Internshala listings, not a standing program).
+
+Profile filter and stacking rules: `scope/PROFILE.md`.
