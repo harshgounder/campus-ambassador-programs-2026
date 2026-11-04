@@ -293,3 +293,41 @@ So: use it as a lead generator, verify every row.
 | ElevenLabs Creator Partner | ElevenLabs | OPEN | Paid per performing post, separate from the ambassador track | https://elevenlabs.io/cpp |
 | Qoder CN Ambassador | Alibaba Qoder | CHINA ONLY | Mainland creator program, not open to India. Corrects the earlier "no program" note. | qoder.website CN page |
 | Cline Ambassador | Cline | CLOSED | Form closed | Google Form |
+
+---
+
+# Added 4 Nov 2026: scan of the AI universe
+
+Scanned the notable 1,097 (curated, or 5M+ downloads, or 3+ categories) for a public
+ambassador, campus, student or community page.
+
+Method: pull the external website from each Hugging Face profile and each GitHub owner's
+blog field, then probe nine paths on that site: /ambassador, /ambassadors,
+/ambassador-program, /campus, /campus-ambassador, /students, /student-ambassador,
+/community/ambassadors, /community. Keep only pages whose title or URL actually says
+ambassador, campus or student.
+
+Result at 900 of 1,097 scanned: 127 rows with at least one hit, 151 unique candidate URLs.
+After removing false positives, two real programs:
+
+| Program | Status | Note |
+|---|---|---|
+| MLflow Ambassadors | OPEN | Applications reviewed every 6 months, global, MLOps community |
+| AMD Student Programs | OPEN | Student internships and programs, not an ambassador title |
+
+False positive patterns worth knowing, because they will fool any scraper:
+- Single-page apps return 200 with the shell page for every path. Predibase returns an
+  Apache "It works!" page, CopilotKit returns "Page not found", Tencent, Alibaba, ByteDance,
+  Coze and ModelScope return their homepage title.
+- Hugging Face profiles often link to a job board (apply.workable.com) or to a personal
+  YouTube channel, which then answers /ambassador with a generic listing.
+- A Hugging Face user named "ambassador" makes huggingface.co/ambassador resolve to a person,
+  not a program.
+
+Conclusion so far: ambassador programs are rare among model publishers. They cluster in the
+tooling, harness and infrastructure layer, which is exactly where Cerebras, Supabase, Convex,
+Firecrawl, TinyFish, n8n, Langflow and the rest sit. China's big labs run 开源大使 (open source
+ambassador) style programs, but they are domestic.
+
+Remaining: about 200 names, then a manual pass on the Tencent, Alibaba, ByteDance, Coze and
+ModelScope open source ambassador pages to confirm whether any accept overseas applicants.
