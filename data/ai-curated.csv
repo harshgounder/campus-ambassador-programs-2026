@@ -1,0 +1,507 @@
+name,handle,source,kind,category,url,metric,cats
+OpenAI,OpenAI,curated,org,frontier-llm,,,frontier-llm
+Anthropic,Anthropic,curated,org,frontier-llm,,,frontier-llm
+Google DeepMind,Google DeepMind,curated,org,frontier-llm,,,frontier-llm
+Meta AI,Meta AI,curated,org,frontier-llm,,,frontier-llm
+xAI,xAI,curated,org,frontier-llm,,,frontier-llm
+SpaceXAI,SpaceXAI,curated,org,frontier-llm,,,frontier-llm
+Mistral AI,Mistral AI,curated,org,frontier-llm,,,frontier-llm
+Cohere,Cohere,curated,org,frontier-llm,,,frontier-llm
+AI21 Labs,AI21 Labs,curated,org,frontier-llm,,,frontier-llm
+Amazon AGI,Amazon AGI,curated,org,frontier-llm,,,frontier-llm
+Microsoft AI,Microsoft AI,curated,org,frontier-llm,,,frontier-llm
+Apple,Apple,curated,org,frontier-llm,,,frontier-llm
+Reka AI,Reka AI,curated,org,frontier-llm,,,frontier-llm
+Allen Institute for AI,Allen Institute for AI,curated,org,frontier-llm,,,frontier-llm
+EleutherAI,EleutherAI,curated,org,frontier-llm,,,frontier-llm
+Nous Research,Nous Research,curated,org,frontier-llm,,,frontier-llm
+Liquid AI,Liquid AI,curated,org,frontier-llm,,,frontier-llm
+Inflection AI,Inflection AI,curated,org,frontier-llm,,,frontier-llm
+Character.AI,Character.AI,curated,org,frontier-llm,,,frontier-llm
+Perplexity AI,Perplexity AI,curated,org,frontier-llm,,,frontier-llm
+SambaNova Systems,SambaNova Systems,curated,org,frontier-llm,,,frontier-llm
+Cerebras Systems,Cerebras Systems,curated,org,frontier-llm,,,frontier-llm
+Groq,Groq,curated,org,frontier-llm,,,frontier-llm
+Together AI,Together AI,curated,org,frontier-llm,,,frontier-llm
+Fireworks AI,Fireworks AI,curated,org,frontier-llm,,,frontier-llm
+DeepInfra,DeepInfra,curated,org,frontier-llm,,,frontier-llm
+Replicate,Replicate,curated,org,frontier-llm,,,frontier-llm
+Modal,Modal,curated,org,frontier-llm,,,frontier-llm
+Anyscale,Anyscale,curated,org,frontier-llm,,,frontier-llm
+RunPod,RunPod,curated,org,frontier-llm,,,frontier-llm
+Lambda,Lambda,curated,org,frontier-llm,,,frontier-llm
+CoreWeave,CoreWeave,curated,org,frontier-llm,,,frontier-llm
+Crusoe,Crusoe,curated,org,frontier-llm,,,frontier-llm
+Nebius,Nebius,curated,org,frontier-llm,,,frontier-llm
+Meta Llama,Meta Llama,curated,org,open-model-lab,,,open-model-lab
+Qwen,Qwen,curated,org,open-model-lab,,,open-model-lab
+Alibaba Tongyi,Alibaba Tongyi,curated,org,open-model-lab,,,open-model-lab
+DeepSeek,DeepSeek,curated,org,open-model-lab,,,open-model-lab
+Moonshot AI,Moonshot AI,curated,org,open-model-lab,,,open-model-lab
+Kimi,Kimi,curated,org,open-model-lab,,,open-model-lab
+Zhipu AI,Zhipu AI,curated,org,open-model-lab,,,open-model-lab
+Z.ai,Z.ai,curated,org,open-model-lab,,,open-model-lab
+MiniMax,MiniMax,curated,org,open-model-lab,,,open-model-lab
+01.AI,01.AI,curated,org,open-model-lab,,,open-model-lab
+Baichuan,Baichuan,curated,org,open-model-lab,,,open-model-lab
+StepFun,StepFun,curated,org,open-model-lab,,,open-model-lab
+Shanghai AI Lab,Shanghai AI Lab,curated,org,open-model-lab,,,open-model-lab
+InternLM,InternLM,curated,org,open-model-lab,,,open-model-lab
+OpenBMB,OpenBMB,curated,org,open-model-lab,,,open-model-lab
+BAAI,BAAI,curated,org,open-model-lab,,,open-model-lab
+Tencent Hunyuan,Tencent Hunyuan,curated,org,open-model-lab,,,open-model-lab
+ByteDance Seed,ByteDance Seed,curated,org,open-model-lab,,,open-model-lab
+Baidu ERNIE,Baidu ERNIE,curated,org,open-model-lab,,,open-model-lab
+iFlytek Spark,iFlytek Spark,curated,org,open-model-lab,,,open-model-lab
+SenseTime,SenseTime,curated,org,open-model-lab,,,open-model-lab
+Huawei Pangu,Huawei Pangu,curated,org,open-model-lab,,,open-model-lab
+Xiaomi MiMo,Xiaomi MiMo,curated,org,open-model-lab,,,open-model-lab
+InclusionAI,InclusionAI,curated,org,open-model-lab,,,open-model-lab
+Ant Group,Ant Group,curated,org,open-model-lab,,,open-model-lab
+LG AI Research,LG AI Research,curated,org,open-model-lab,,,open-model-lab
+EXAONE,EXAONE,curated,org,open-model-lab,,,open-model-lab
+Naver HyperCLOVA,Naver HyperCLOVA,curated,org,open-model-lab,,,open-model-lab
+Upstage,Upstage,curated,org,open-model-lab,,,open-model-lab
+Sarvam AI,Sarvam AI,curated,org,open-model-lab,,,open-model-lab
+Krutrim,Krutrim,curated,org,open-model-lab,,,open-model-lab
+AI4Bharat,AI4Bharat,curated,org,open-model-lab,,,open-model-lab
+Project Indus,Project Indus,curated,org,open-model-lab,,,open-model-lab
+NVIDIA Nemotron,NVIDIA Nemotron,curated,org,open-model-lab,,,open-model-lab
+IBM Granite,IBM Granite,curated,org,open-model-lab,,,open-model-lab
+Microsoft Phi,Microsoft Phi,curated,org,open-model-lab,,,open-model-lab
+Apple OpenELM,Apple OpenELM,curated,org,open-model-lab,,,open-model-lab
+Samsung Gauss,Samsung Gauss,curated,org,open-model-lab,,,open-model-lab
+SK Telecom,SK Telecom,curated,org,open-model-lab,,,open-model-lab
+KT Midm,KT Midm,curated,org,open-model-lab,,,open-model-lab
+FuriosaAI,FuriosaAI,curated,org,open-model-lab,,,open-model-lab
+Rebellions,Rebellions,curated,org,open-model-lab,,,open-model-lab
+Sber GigaChat,Sber GigaChat,curated,org,open-model-lab,,,open-model-lab
+Yandex,Yandex,curated,org,open-model-lab,,,open-model-lab
+TII Falcon,TII Falcon,curated,org,open-model-lab,,,open-model-lab
+AI Singapore,AI Singapore,curated,org,open-model-lab,,,open-model-lab
+SEA-LION,SEA-LION,curated,org,open-model-lab,,,open-model-lab
+Cohere For AI,Cohere For AI,curated,org,open-model-lab,,,open-model-lab
+Ai2 OLMo,Ai2 OLMo,curated,org,open-model-lab,,,open-model-lab
+Microsoft Phi,Microsoft Phi,curated,org,slm-edge,,,slm-edge
+Google Gemma,Google Gemma,curated,org,slm-edge,,,slm-edge
+Qwen Small,Qwen Small,curated,org,slm-edge,,,slm-edge
+Llama Small,Llama Small,curated,org,slm-edge,,,slm-edge
+Hugging Face SmolLM,Hugging Face SmolLM,curated,org,slm-edge,,,slm-edge
+Stability StableLM,Stability StableLM,curated,org,slm-edge,,,slm-edge
+TinyLlama,TinyLlama,curated,org,slm-edge,,,slm-edge
+MobileLLM,MobileLLM,curated,org,slm-edge,,,slm-edge
+MiniCPM,MiniCPM,curated,org,slm-edge,,,slm-edge
+Apple On-Device,Apple On-Device,curated,org,slm-edge,,,slm-edge
+Qualcomm AI,Qualcomm AI,curated,org,slm-edge,,,slm-edge
+MediaTek,MediaTek,curated,org,slm-edge,,,slm-edge
+Samsung Exynos,Samsung Exynos,curated,org,slm-edge,,,slm-edge
+Arm Ethos,Arm Ethos,curated,org,slm-edge,,,slm-edge
+Google Coral,Google Coral,curated,org,slm-edge,,,slm-edge
+Edge Impulse,Edge Impulse,curated,org,slm-edge,,,slm-edge
+Arduino,Arduino,curated,org,slm-edge,,,slm-edge
+Qualcomm AI Hub,Qualcomm AI Hub,curated,org,slm-edge,,,slm-edge
+Hailo,Hailo,curated,org,slm-edge,,,slm-edge
+Axelera AI,Axelera AI,curated,org,slm-edge,,,slm-edge
+Sima.ai,Sima.ai,curated,org,slm-edge,,,slm-edge
+Kneron,Kneron,curated,org,slm-edge,,,slm-edge
+GreenWaves,GreenWaves,curated,org,slm-edge,,,slm-edge
+Syntiant,Syntiant,curated,org,slm-edge,,,slm-edge
+Innatera,Innatera,curated,org,slm-edge,,,slm-edge
+Midjourney,Midjourney,curated,org,image-gen,,,image-gen
+Stability AI,Stability AI,curated,org,image-gen,,,image-gen
+Black Forest Labs,Black Forest Labs,curated,org,image-gen,,,image-gen
+FLUX,FLUX,curated,org,image-gen,,,image-gen
+Ideogram,Ideogram,curated,org,image-gen,,,image-gen
+Leonardo.Ai,Leonardo.Ai,curated,org,image-gen,,,image-gen
+Playground AI,Playground AI,curated,org,image-gen,,,image-gen
+Recraft,Recraft,curated,org,image-gen,,,image-gen
+Adobe Firefly,Adobe Firefly,curated,org,image-gen,,,image-gen
+Canva,Canva,curated,org,image-gen,,,image-gen
+Krea,Krea,curated,org,image-gen,,,image-gen
+Freepik,Freepik,curated,org,image-gen,,,image-gen
+Fal,Fal,curated,org,image-gen,,,image-gen
+Photoroom,Photoroom,curated,org,image-gen,,,image-gen
+Clipdrop,Clipdrop,curated,org,image-gen,,,image-gen
+NightCafe,NightCafe,curated,org,image-gen,,,image-gen
+Civitai,Civitai,curated,org,image-gen,,,image-gen
+Sogni,Sogni,curated,org,image-gen,,,image-gen
+Bria AI,Bria AI,curated,org,image-gen,,,image-gen
+Getty Images,Getty Images,curated,org,image-gen,,,image-gen
+Shutterstock AI,Shutterstock AI,curated,org,image-gen,,,image-gen
+Runway,Runway,curated,org,image-gen,,,image-gen
+Pika,Pika,curated,org,image-gen,,,image-gen
+Luma AI,Luma AI,curated,org,image-gen,,,image-gen
+Kling,Kling,curated,org,image-gen,,,image-gen
+Kuaishou,Kuaishou,curated,org,image-gen,,,image-gen
+Hailuo,Hailuo,curated,org,image-gen,,,image-gen
+Vidu,Vidu,curated,org,image-gen,,,image-gen
+Shengshu,Shengshu,curated,org,image-gen,,,image-gen
+Haiper,Haiper,curated,org,image-gen,,,image-gen
+Genmo,Genmo,curated,org,image-gen,,,image-gen
+Moonvalley,Moonvalley,curated,org,image-gen,,,image-gen
+Higgsfield,Higgsfield,curated,org,image-gen,,,image-gen
+Runway,Runway,curated,org,video-gen,,,video-gen
+Pika,Pika,curated,org,video-gen,,,video-gen
+Luma AI,Luma AI,curated,org,video-gen,,,video-gen
+Kling,Kling,curated,org,video-gen,,,video-gen
+Hailuo,Hailuo,curated,org,video-gen,,,video-gen
+Sora,Sora,curated,org,video-gen,,,video-gen
+OpenAI Sora,OpenAI Sora,curated,org,video-gen,,,video-gen
+Veo,Veo,curated,org,video-gen,,,video-gen
+Google Veo,Google Veo,curated,org,video-gen,,,video-gen
+Haiper,Haiper,curated,org,video-gen,,,video-gen
+Genmo,Genmo,curated,org,video-gen,,,video-gen
+Moonvalley,Moonvalley,curated,org,video-gen,,,video-gen
+Higgsfield,Higgsfield,curated,org,video-gen,,,video-gen
+Synthesia,Synthesia,curated,org,video-gen,,,video-gen
+HeyGen,HeyGen,curated,org,video-gen,,,video-gen
+D-ID,D-ID,curated,org,video-gen,,,video-gen
+Tavus,Tavus,curated,org,video-gen,,,video-gen
+Rephrase,Rephrase,curated,org,video-gen,,,video-gen
+Colossyan,Colossyan,curated,org,video-gen,,,video-gen
+Hour One,Hour One,curated,org,video-gen,,,video-gen
+Veed,Veed,curated,org,video-gen,,,video-gen
+Kapwing,Kapwing,curated,org,video-gen,,,video-gen
+Descript,Descript,curated,org,video-gen,,,video-gen
+Wondercraft,Wondercraft,curated,org,video-gen,,,video-gen
+Captions,Captions,curated,org,video-gen,,,video-gen
+World Labs,World Labs,curated,org,world-model-3d,,,world-model-3d
+Decart,Decart,curated,org,world-model-3d,,,world-model-3d
+Odyssey,Odyssey,curated,org,world-model-3d,,,world-model-3d
+Google Genie,Google Genie,curated,org,world-model-3d,,,world-model-3d
+Google Dreamer,Google Dreamer,curated,org,world-model-3d,,,world-model-3d
+Wayve,Wayve,curated,org,world-model-3d,,,world-model-3d
+GAIA,GAIA,curated,org,world-model-3d,,,world-model-3d
+Covariant,Covariant,curated,org,world-model-3d,,,world-model-3d
+Physical Intelligence,Physical Intelligence,curated,org,world-model-3d,,,world-model-3d
+Skild AI,Skild AI,curated,org,world-model-3d,,,world-model-3d
+Figure AI,Figure AI,curated,org,world-model-3d,,,world-model-3d
+1X Technologies,1X Technologies,curated,org,world-model-3d,,,world-model-3d
+Tesla Optimus,Tesla Optimus,curated,org,world-model-3d,,,world-model-3d
+Apptronik,Apptronik,curated,org,world-model-3d,,,world-model-3d
+Agility Robotics,Agility Robotics,curated,org,world-model-3d,,,world-model-3d
+Sanctuary AI,Sanctuary AI,curated,org,world-model-3d,,,world-model-3d
+Unitree,Unitree,curated,org,world-model-3d,,,world-model-3d
+UBTECH,UBTECH,curated,org,world-model-3d,,,world-model-3d
+Boston Dynamics,Boston Dynamics,curated,org,world-model-3d,,,world-model-3d
+Nuro,Nuro,curated,org,world-model-3d,,,world-model-3d
+Waabi,Waabi,curated,org,world-model-3d,,,world-model-3d
+Aurora,Aurora,curated,org,world-model-3d,,,world-model-3d
+Zoox,Zoox,curated,org,world-model-3d,,,world-model-3d
+Waymo,Waymo,curated,org,world-model-3d,,,world-model-3d
+Momenta,Momenta,curated,org,world-model-3d,,,world-model-3d
+Pony.ai,Pony.ai,curated,org,world-model-3d,,,world-model-3d
+WeRide,WeRide,curated,org,world-model-3d,,,world-model-3d
+Cruise,Cruise,curated,org,world-model-3d,,,world-model-3d
+Meshcapade,Meshcapade,curated,org,world-model-3d,,,world-model-3d
+Tripo,Tripo,curated,org,world-model-3d,,,world-model-3d
+Rodin,Rodin,curated,org,world-model-3d,,,world-model-3d
+Meshy,Meshy,curated,org,world-model-3d,,,world-model-3d
+Spline,Spline,curated,org,world-model-3d,,,world-model-3d
+Kaedim,Kaedim,curated,org,world-model-3d,,,world-model-3d
+ElevenLabs,ElevenLabs,curated,org,speech-audio,,,speech-audio
+Suno,Suno,curated,org,speech-audio,,,speech-audio
+Udio,Udio,curated,org,speech-audio,,,speech-audio
+PlayHT,PlayHT,curated,org,speech-audio,,,speech-audio
+Resemble AI,Resemble AI,curated,org,speech-audio,,,speech-audio
+Respeecher,Respeecher,curated,org,speech-audio,,,speech-audio
+AssemblyAI,AssemblyAI,curated,org,speech-audio,,,speech-audio
+Deepgram,Deepgram,curated,org,speech-audio,,,speech-audio
+Rev AI,Rev AI,curated,org,speech-audio,,,speech-audio
+Speechmatics,Speechmatics,curated,org,speech-audio,,,speech-audio
+Cartesia,Cartesia,curated,org,speech-audio,,,speech-audio
+Rime,Rime,curated,org,speech-audio,,,speech-audio
+LMNT,LMNT,curated,org,speech-audio,,,speech-audio
+Sesame,Sesame,curated,org,speech-audio,,,speech-audio
+Hume AI,Hume AI,curated,org,speech-audio,,,speech-audio
+Voiceflow,Voiceflow,curated,org,speech-audio,,,speech-audio
+Vapi,Vapi,curated,org,speech-audio,,,speech-audio
+Retell,Retell,curated,org,speech-audio,,,speech-audio
+Bland,Bland,curated,org,speech-audio,,,speech-audio
+PolyAI,PolyAI,curated,org,speech-audio,,,speech-audio
+OpenAI Whisper,OpenAI Whisper,curated,org,speech-audio,,,speech-audio
+Meta AudioCraft,Meta AudioCraft,curated,org,speech-audio,,,speech-audio
+Google Lyria,Google Lyria,curated,org,speech-audio,,,speech-audio
+Stability Audio,Stability Audio,curated,org,speech-audio,,,speech-audio
+Landr,Landr,curated,org,speech-audio,,,speech-audio
+Boomy,Boomy,curated,org,speech-audio,,,speech-audio
+Aiva,Aiva,curated,org,speech-audio,,,speech-audio
+Soundraw,Soundraw,curated,org,speech-audio,,,speech-audio
+Mubert,Mubert,curated,org,speech-audio,,,speech-audio
+Kits.AI,Kits.AI,curated,org,speech-audio,,,speech-audio
+GitHub Copilot,GitHub Copilot,curated,org,code-ai,,,code-ai
+Cursor,Cursor,curated,org,code-ai,,,code-ai
+Anysphere,Anysphere,curated,org,code-ai,,,code-ai
+Windsurf,Windsurf,curated,org,code-ai,,,code-ai
+Codeium,Codeium,curated,org,code-ai,,,code-ai
+Replit,Replit,curated,org,code-ai,,,code-ai
+Cognition Devin,Cognition Devin,curated,org,code-ai,,,code-ai
+Sourcegraph Cody,Sourcegraph Cody,curated,org,code-ai,,,code-ai
+Tabnine,Tabnine,curated,org,code-ai,,,code-ai
+Qodo,Qodo,curated,org,code-ai,,,code-ai
+Augment Code,Augment Code,curated,org,code-ai,,,code-ai
+Magic,Magic,curated,org,code-ai,,,code-ai
+Poolside,Poolside,curated,org,code-ai,,,code-ai
+JetBrains AI,JetBrains AI,curated,org,code-ai,,,code-ai
+Amazon Q Developer,Amazon Q Developer,curated,org,code-ai,,,code-ai
+Google Gemini Code Assist,Google Gemini Code Assist,curated,org,code-ai,,,code-ai
+Continue.dev,Continue.dev,curated,org,code-ai,,,code-ai
+Aider,Aider,curated,org,code-ai,,,code-ai
+Cline,Cline,curated,org,code-ai,,,code-ai
+Roo Code,Roo Code,curated,org,code-ai,,,code-ai
+OpenHands,OpenHands,curated,org,code-ai,,,code-ai
+SWE-agent,SWE-agent,curated,org,code-ai,,,code-ai
+Factory,Factory,curated,org,code-ai,,,code-ai
+Sweep,Sweep,curated,org,code-ai,,,code-ai
+CodeRabbit,CodeRabbit,curated,org,code-ai,,,code-ai
+Greptile,Greptile,curated,org,code-ai,,,code-ai
+Graphite,Graphite,curated,org,code-ai,,,code-ai
+Ellipsis,Ellipsis,curated,org,code-ai,,,code-ai
+Kiro,Kiro,curated,org,code-ai,,,code-ai
+AWS Kiro,AWS Kiro,curated,org,code-ai,,,code-ai
+Zed,Zed,curated,org,code-ai,,,code-ai
+Warp,Warp,curated,org,code-ai,,,code-ai
+Cohere Embed,Cohere Embed,curated,org,embeddings-rerank,,,embeddings-rerank
+Voyage AI,Voyage AI,curated,org,embeddings-rerank,,,embeddings-rerank
+Jina AI,Jina AI,curated,org,embeddings-rerank,,,embeddings-rerank
+Mixedbread,Mixedbread,curated,org,embeddings-rerank,,,embeddings-rerank
+Nomic AI,Nomic AI,curated,org,embeddings-rerank,,,embeddings-rerank
+BGE,BGE,curated,org,embeddings-rerank,,,embeddings-rerank
+E5 Microsoft,E5 Microsoft,curated,org,embeddings-rerank,,,embeddings-rerank
+Sentence Transformers,Sentence Transformers,curated,org,embeddings-rerank,,,embeddings-rerank
+Pinecone,Pinecone,curated,org,embeddings-rerank,,,embeddings-rerank
+Weaviate,Weaviate,curated,org,embeddings-rerank,,,embeddings-rerank
+Qdrant,Qdrant,curated,org,embeddings-rerank,,,embeddings-rerank
+Chroma,Chroma,curated,org,embeddings-rerank,,,embeddings-rerank
+Milvus,Milvus,curated,org,embeddings-rerank,,,embeddings-rerank
+Zilliz,Zilliz,curated,org,embeddings-rerank,,,embeddings-rerank
+Vespa,Vespa,curated,org,embeddings-rerank,,,embeddings-rerank
+pgvector,pgvector,curated,org,embeddings-rerank,,,embeddings-rerank
+LanceDB,LanceDB,curated,org,embeddings-rerank,,,embeddings-rerank
+Marqo,Marqo,curated,org,embeddings-rerank,,,embeddings-rerank
+Turbopuffer,Turbopuffer,curated,org,embeddings-rerank,,,embeddings-rerank
+Vectara,Vectara,curated,org,embeddings-rerank,,,embeddings-rerank
+Redis,Redis,curated,org,embeddings-rerank,,,embeddings-rerank
+Elastic,Elastic,curated,org,embeddings-rerank,,,embeddings-rerank
+MongoDB Atlas,MongoDB Atlas,curated,org,embeddings-rerank,,,embeddings-rerank
+Neo4j,Neo4j,curated,org,embeddings-rerank,,,embeddings-rerank
+SingleStore,SingleStore,curated,org,embeddings-rerank,,,embeddings-rerank
+KX,KX,curated,org,embeddings-rerank,,,embeddings-rerank
+LangChain,LangChain,curated,org,agent-harness,,,agent-harness
+LangGraph,LangGraph,curated,org,agent-harness,,,agent-harness
+LlamaIndex,LlamaIndex,curated,org,agent-harness,,,agent-harness
+CrewAI,CrewAI,curated,org,agent-harness,,,agent-harness
+AutoGen,AutoGen,curated,org,agent-harness,,,agent-harness
+Semantic Kernel,Semantic Kernel,curated,org,agent-harness,,,agent-harness
+Haystack,Haystack,curated,org,agent-harness,,,agent-harness
+deepset,deepset,curated,org,agent-harness,,,agent-harness
+DSPy,DSPy,curated,org,agent-harness,,,agent-harness
+OpenHands Agent,OpenHands Agent,curated,org,agent-harness,,,agent-harness
+SWE-agent Harness,SWE-agent Harness,curated,org,agent-harness,,,agent-harness
+MetaGPT,MetaGPT,curated,org,agent-harness,,,agent-harness
+ChatDev,ChatDev,curated,org,agent-harness,,,agent-harness
+AgentOps,AgentOps,curated,org,agent-harness,,,agent-harness
+Composio,Composio,curated,org,agent-harness,,,agent-harness
+E2B,E2B,curated,org,agent-harness,,,agent-harness
+Daytona,Daytona,curated,org,agent-harness,,,agent-harness
+Browserbase,Browserbase,curated,org,agent-harness,,,agent-harness
+Stagehand,Stagehand,curated,org,agent-harness,,,agent-harness
+Skyvern,Skyvern,curated,org,agent-harness,,,agent-harness
+Letta,Letta,curated,org,agent-harness,,,agent-harness
+MemGPT,MemGPT,curated,org,agent-harness,,,agent-harness
+Mem0,Mem0,curated,org,agent-harness,,,agent-harness
+Zep,Zep,curated,org,agent-harness,,,agent-harness
+Supermemory,Supermemory,curated,org,agent-harness,,,agent-harness
+Lindy,Lindy,curated,org,agent-harness,,,agent-harness
+Zapier Agents,Zapier Agents,curated,org,agent-harness,,,agent-harness
+n8n,n8n,curated,org,agent-harness,,,agent-harness
+Make,Make,curated,org,agent-harness,,,agent-harness
+Gumloop,Gumloop,curated,org,agent-harness,,,agent-harness
+Relevance AI,Relevance AI,curated,org,agent-harness,,,agent-harness
+Beam AI,Beam AI,curated,org,agent-harness,,,agent-harness
+MultiOn,MultiOn,curated,org,agent-harness,,,agent-harness
+Adept,Adept,curated,org,agent-harness,,,agent-harness
+Simular,Simular,curated,org,agent-harness,,,agent-harness
+Rabbit,Rabbit,curated,org,agent-harness,,,agent-harness
+Humane,Humane,curated,org,agent-harness,,,agent-harness
+vLLM,vLLM,curated,org,inference-serving,,,inference-serving
+SGLang,SGLang,curated,org,inference-serving,,,inference-serving
+TensorRT-LLM,TensorRT-LLM,curated,org,inference-serving,,,inference-serving
+llama.cpp,llama.cpp,curated,org,inference-serving,,,inference-serving
+Ollama,Ollama,curated,org,inference-serving,,,inference-serving
+LM Studio,LM Studio,curated,org,inference-serving,,,inference-serving
+Jan,Jan,curated,org,inference-serving,,,inference-serving
+GPT4All,GPT4All,curated,org,inference-serving,,,inference-serving
+LocalAI,LocalAI,curated,org,inference-serving,,,inference-serving
+text-generation-webui,text-generation-webui,curated,org,inference-serving,,,inference-serving
+ExLlama,ExLlama,curated,org,inference-serving,,,inference-serving
+MLC LLM,MLC LLM,curated,org,inference-serving,,,inference-serving
+Triton,Triton,curated,org,inference-serving,,,inference-serving
+Ray Serve,Ray Serve,curated,org,inference-serving,,,inference-serving
+KServe,KServe,curated,org,inference-serving,,,inference-serving
+BentoML,BentoML,curated,org,inference-serving,,,inference-serving
+Modal Serving,Modal Serving,curated,org,inference-serving,,,inference-serving
+Baseten,Baseten,curated,org,inference-serving,,,inference-serving
+Replicate Serving,Replicate Serving,curated,org,inference-serving,,,inference-serving
+Fireworks Serving,Fireworks Serving,curated,org,inference-serving,,,inference-serving
+Together Serving,Together Serving,curated,org,inference-serving,,,inference-serving
+DeepInfra Serving,DeepInfra Serving,curated,org,inference-serving,,,inference-serving
+OpenRouter,OpenRouter,curated,org,inference-serving,,,inference-serving
+LiteLLM,LiteLLM,curated,org,inference-serving,,,inference-serving
+Portkey,Portkey,curated,org,inference-serving,,,inference-serving
+Helicone,Helicone,curated,org,inference-serving,,,inference-serving
+Cloudflare AI Gateway,Cloudflare AI Gateway,curated,org,inference-serving,,,inference-serving
+Martian,Martian,curated,org,inference-serving,,,inference-serving
+NotDiamond,NotDiamond,curated,org,inference-serving,,,inference-serving
+RouteLLM,RouteLLM,curated,org,inference-serving,,,inference-serving
+Predibase,Predibase,curated,org,inference-serving,,,inference-serving
+OpenPipe,OpenPipe,curated,org,inference-serving,,,inference-serving
+Lamini,Lamini,curated,org,inference-serving,,,inference-serving
+Hugging Face,Hugging Face,curated,org,training-finetune,,,training-finetune
+Unsloth,Unsloth,curated,org,training-finetune,,,training-finetune
+Axolotl,Axolotl,curated,org,training-finetune,,,training-finetune
+PEFT,PEFT,curated,org,training-finetune,,,training-finetune
+LoRA,LoRA,curated,org,training-finetune,,,training-finetune
+DeepSpeed,DeepSpeed,curated,org,training-finetune,,,training-finetune
+Megatron-LM,Megatron-LM,curated,org,training-finetune,,,training-finetune
+FSDP,FSDP,curated,org,training-finetune,,,training-finetune
+Colossal-AI,Colossal-AI,curated,org,training-finetune,,,training-finetune
+Ray Train,Ray Train,curated,org,training-finetune,,,training-finetune
+Determined AI,Determined AI,curated,org,training-finetune,,,training-finetune
+Weights and Biases,Weights and Biases,curated,org,training-finetune,,,training-finetune
+MLflow,MLflow,curated,org,training-finetune,,,training-finetune
+Comet,Comet,curated,org,training-finetune,,,training-finetune
+Neptune,Neptune,curated,org,training-finetune,,,training-finetune
+ClearML,ClearML,curated,org,training-finetune,,,training-finetune
+Kaggle,Kaggle,curated,org,training-finetune,,,training-finetune
+Lightning AI,Lightning AI,curated,org,training-finetune,,,training-finetune
+Predibase Train,Predibase Train,curated,org,training-finetune,,,training-finetune
+OpenPipe Train,OpenPipe Train,curated,org,training-finetune,,,training-finetune
+Lamini Train,Lamini Train,curated,org,training-finetune,,,training-finetune
+Contextual AI,Contextual AI,curated,org,training-finetune,,,training-finetune
+Writer,Writer,curated,org,training-finetune,,,training-finetune
+Adept Train,Adept Train,curated,org,training-finetune,,,training-finetune
+Databricks Mosaic AI,Databricks Mosaic AI,curated,org,training-finetune,,,training-finetune
+LangSmith,LangSmith,curated,org,eval-guardrails,,,eval-guardrails
+Langfuse,Langfuse,curated,org,eval-guardrails,,,eval-guardrails
+Arize,Arize,curated,org,eval-guardrails,,,eval-guardrails
+Phoenix,Phoenix,curated,org,eval-guardrails,,,eval-guardrails
+Humanloop,Humanloop,curated,org,eval-guardrails,,,eval-guardrails
+Braintrust,Braintrust,curated,org,eval-guardrails,,,eval-guardrails
+Galileo,Galileo,curated,org,eval-guardrails,,,eval-guardrails
+Patronus AI,Patronus AI,curated,org,eval-guardrails,,,eval-guardrails
+Lakera,Lakera,curated,org,eval-guardrails,,,eval-guardrails
+Robust Intelligence,Robust Intelligence,curated,org,eval-guardrails,,,eval-guardrails
+Protect AI,Protect AI,curated,org,eval-guardrails,,,eval-guardrails
+HiddenLayer,HiddenLayer,curated,org,eval-guardrails,,,eval-guardrails
+CalypsoAI,CalypsoAI,curated,org,eval-guardrails,,,eval-guardrails
+Prompt Security,Prompt Security,curated,org,eval-guardrails,,,eval-guardrails
+Guardrails AI,Guardrails AI,curated,org,eval-guardrails,,,eval-guardrails
+NeMo Guardrails,NeMo Guardrails,curated,org,eval-guardrails,,,eval-guardrails
+Giskard,Giskard,curated,org,eval-guardrails,,,eval-guardrails
+DeepEval,DeepEval,curated,org,eval-guardrails,,,eval-guardrails
+Ragas,Ragas,curated,org,eval-guardrails,,,eval-guardrails
+TruLens,TruLens,curated,org,eval-guardrails,,,eval-guardrails
+Evidently,Evidently,curated,org,eval-guardrails,,,eval-guardrails
+Fiddler,Fiddler,curated,org,eval-guardrails,,,eval-guardrails
+WhyLabs,WhyLabs,curated,org,eval-guardrails,,,eval-guardrails
+Aporia,Aporia,curated,org,eval-guardrails,,,eval-guardrails
+Credo AI,Credo AI,curated,org,eval-guardrails,,,eval-guardrails
+Holistic AI,Holistic AI,curated,org,eval-guardrails,,,eval-guardrails
+Scale AI,Scale AI,curated,org,data-labeling,,,data-labeling
+Surge AI,Surge AI,curated,org,data-labeling,,,data-labeling
+Mercor,Mercor,curated,org,data-labeling,,,data-labeling
+Turing,Turing,curated,org,data-labeling,,,data-labeling
+Outlier,Outlier,curated,org,data-labeling,,,data-labeling
+Handshake AI,Handshake AI,curated,org,data-labeling,,,data-labeling
+Snorkel,Snorkel,curated,org,data-labeling,,,data-labeling
+Labelbox,Labelbox,curated,org,data-labeling,,,data-labeling
+Appen,Appen,curated,org,data-labeling,,,data-labeling
+TELUS Digital,TELUS Digital,curated,org,data-labeling,,,data-labeling
+iMerit,iMerit,curated,org,data-labeling,,,data-labeling
+Shaip,Shaip,curated,org,data-labeling,,,data-labeling
+Innodata,Innodata,curated,org,data-labeling,,,data-labeling
+Defined.ai,Defined.ai,curated,org,data-labeling,,,data-labeling
+Toloka,Toloka,curated,org,data-labeling,,,data-labeling
+Sama,Sama,curated,org,data-labeling,,,data-labeling
+CloudFactory,CloudFactory,curated,org,data-labeling,,,data-labeling
+Remotasks,Remotasks,curated,org,data-labeling,,,data-labeling
+NVIDIA,NVIDIA,curated,org,ai-infra,,,ai-infra
+AMD,AMD,curated,org,ai-infra,,,ai-infra
+Intel,Intel,curated,org,ai-infra,,,ai-infra
+Cerebras Hardware,Cerebras Hardware,curated,org,ai-infra,,,ai-infra
+SambaNova Hardware,SambaNova Hardware,curated,org,ai-infra,,,ai-infra
+Groq Hardware,Groq Hardware,curated,org,ai-infra,,,ai-infra
+Tenstorrent,Tenstorrent,curated,org,ai-infra,,,ai-infra
+Graphcore,Graphcore,curated,org,ai-infra,,,ai-infra
+d-Matrix,d-Matrix,curated,org,ai-infra,,,ai-infra
+Etched,Etched,curated,org,ai-infra,,,ai-infra
+Enflame,Enflame,curated,org,ai-infra,,,ai-infra
+Biren,Biren,curated,org,ai-infra,,,ai-infra
+Cambricon,Cambricon,curated,org,ai-infra,,,ai-infra
+MetaX,MetaX,curated,org,ai-infra,,,ai-infra
+Iluvatar,Iluvatar,curated,org,ai-infra,,,ai-infra
+AWS,AWS,curated,org,ai-infra,,,ai-infra
+Azure,Azure,curated,org,ai-infra,,,ai-infra
+Google Cloud,Google Cloud,curated,org,ai-infra,,,ai-infra
+Oracle Cloud,Oracle Cloud,curated,org,ai-infra,,,ai-infra
+CoreWeave Cloud,CoreWeave Cloud,curated,org,ai-infra,,,ai-infra
+Lambda Cloud,Lambda Cloud,curated,org,ai-infra,,,ai-infra
+Crusoe Cloud,Crusoe Cloud,curated,org,ai-infra,,,ai-infra
+Nebius Cloud,Nebius Cloud,curated,org,ai-infra,,,ai-infra
+Vultr,Vultr,curated,org,ai-infra,,,ai-infra
+DigitalOcean,DigitalOcean,curated,org,ai-infra,,,ai-infra
+Paperspace,Paperspace,curated,org,ai-infra,,,ai-infra
+RunPod Cloud,RunPod Cloud,curated,org,ai-infra,,,ai-infra
+Modal Cloud,Modal Cloud,curated,org,ai-infra,,,ai-infra
+Baseten Cloud,Baseten Cloud,curated,org,ai-infra,,,ai-infra
+MIRI,MIRI,curated,org,ai-safety,,,ai-safety
+ARC,ARC,curated,org,ai-safety,,,ai-safety
+Conjecture,Conjecture,curated,org,ai-safety,,,ai-safety
+Redwood Research,Redwood Research,curated,org,ai-safety,,,ai-safety
+METR,METR,curated,org,ai-safety,,,ai-safety
+Apollo Research,Apollo Research,curated,org,ai-safety,,,ai-safety
+UK AISI,UK AISI,curated,org,ai-safety,,,ai-safety
+NIST,NIST,curated,org,ai-safety,,,ai-safety
+Stanford HAI,Stanford HAI,curated,org,ai-safety,,,ai-safety
+MIT CSAIL,MIT CSAIL,curated,org,ai-safety,,,ai-safety
+Berkeley AI Research,Berkeley AI Research,curated,org,ai-safety,,,ai-safety
+CMU AI,CMU AI,curated,org,ai-safety,,,ai-safety
+Vector Institute,Vector Institute,curated,org,ai-safety,,,ai-safety
+Mila,Mila,curated,org,ai-safety,,,ai-safety
+Alan Turing Institute,Alan Turing Institute,curated,org,ai-safety,,,ai-safety
+EleutherAI Safety,EleutherAI Safety,curated,org,ai-safety,,,ai-safety
+Ai2 Safety,Ai2 Safety,curated,org,ai-safety,,,ai-safety
+Anthropic Safety,Anthropic Safety,curated,org,ai-safety,,,ai-safety
+OpenAI Safety,OpenAI Safety,curated,org,ai-safety,,,ai-safety
+DeepMind Safety,DeepMind Safety,curated,org,ai-safety,,,ai-safety
+Sarvam AI,Sarvam AI,curated,org,india-ai,,,india-ai
+Krutrim,Krutrim,curated,org,india-ai,,,india-ai
+Fractal Analytics,Fractal Analytics,curated,org,india-ai,,,india-ai
+Haptik,Haptik,curated,org,india-ai,,,india-ai
+Uniphore,Uniphore,curated,org,india-ai,,,india-ai
+Observe.AI,Observe.AI,curated,org,india-ai,,,india-ai
+Yellow.ai,Yellow.ai,curated,org,india-ai,,,india-ai
+Gupshup,Gupshup,curated,org,india-ai,,,india-ai
+CoRover,CoRover,curated,org,india-ai,,,india-ai
+Bhashini,Bhashini,curated,org,india-ai,,,india-ai
+Tech Mahindra AI,Tech Mahindra AI,curated,org,india-ai,,,india-ai
+Wipro AI,Wipro AI,curated,org,india-ai,,,india-ai
+Infosys Topaz,Infosys Topaz,curated,org,india-ai,,,india-ai
+TCS AI.Cloud,TCS AI.Cloud,curated,org,india-ai,,,india-ai
+HCL AI,HCL AI,curated,org,india-ai,,,india-ai
+Zoho,Zoho,curated,org,india-ai,,,india-ai
+Freshworks,Freshworks,curated,org,india-ai,,,india-ai
+Darwinbox,Darwinbox,curated,org,india-ai,,,india-ai
+Mad Street Den,Mad Street Den,curated,org,india-ai,,,india-ai
+SigTuple,SigTuple,curated,org,india-ai,,,india-ai
+Qure.ai,Qure.ai,curated,org,india-ai,,,india-ai
+Niramai,Niramai,curated,org,india-ai,,,india-ai
+Artelus,Artelus,curated,org,india-ai,,,india-ai
+Cropin,Cropin,curated,org,india-ai,,,india-ai
+AgroStar,AgroStar,curated,org,india-ai,,,india-ai
+Intello Labs,Intello Labs,curated,org,india-ai,,,india-ai
+Arya.ai,Arya.ai,curated,org,india-ai,,,india-ai
+Absentia,Absentia,curated,org,india-ai,,,india-ai
+NeuroPixels,NeuroPixels,curated,org,india-ai,,,india-ai
+AI4Bharat Research,AI4Bharat Research,curated,org,india-ai,,,india-ai

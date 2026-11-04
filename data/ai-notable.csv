@@ -1,0 +1,1098 @@
+name,handle,sources,kinds,cats,url,metric,curated
+BAAI,BAAI,curated;huggingface,org,hf:any-to-any;hf:feature-extraction;hf:image-text-to-text;hf:robotics;hf:sentence-similarity;hf:text-to-image;hf:text-to-video;hf:visual-question-answering;hf:zero-shot-image-classification;open-model-lab,https://huggingface.co/BAAI,48832479,True
+Qwen,Qwen,curated;huggingface,org,hf:any-to-any;hf:automatic-speech-recognition;hf:feature-extraction;hf:image-text-to-text;hf:image-to-image;hf:sentence-similarity;hf:text-generation;hf:text-to-image;hf:text-to-speech;open-model-lab,https://huggingface.co/Qwen,22322522,True
+OpenAI,OpenAI,curated;github;huggingface,org,frontier-llm;gh:llm;hf:automatic-speech-recognition;hf:image-to-image;hf:text-generation;hf:zero-shot-image-classification,https://huggingface.co/openai,17630415,True
+Nomic AI,Nomic AI,curated;github;huggingface,org,embeddings-rerank;gh:embeddings;gh:llm-inference;gh:multimodal;hf:fill-mask;hf:sentence-similarity,https://huggingface.co/nomic-ai,11776951,True
+Microsoft AI,Microsoft AI,curated;github;huggingface,org,frontier-llm;gh:agent-framework;gh:ai-agents;gh:diffusion-models;gh:evaluation;gh:llm;gh:llm-inference;gh:llmops;gh:mcp;gh:model-serving;gh:multimodal;gh:rag;gh:speech-recognition;gh:text-to-image;gh:vector-database;gh:vision-language-model;gh:world-models;hf:automatic-speech-recognition;hf:feature-extraction;hf:fill-mask;hf:image-classification;hf:image-segmentation;hf:image-text-to-text;hf:image-to-image;hf:object-detection;hf:question-answering;hf:robotics;hf:summarization;hf:text-generation;hf:text-to-speech;hf:video-classification;hf:visual-question-answering;hf:zero-shot-image-classification,https://huggingface.co/microsoft,7577908,True
+DeepSeek,DeepSeek,curated;github;huggingface,org,gh:ai-agents;gh:diffusion-models;gh:llm;gh:multimodal;gh:vision-language-model;hf:any-to-any;hf:image-text-to-text;hf:text-generation;open-model-lab,https://huggingface.co/deepseek-ai,6966488,True
+NVIDIA,NVIDIA,curated;github;huggingface,org,ai-infra;gh:ai-agents;gh:evaluation;gh:llm-inference;gh:mcp;gh:rag;gh:speech-recognition;gh:world-models;hf:any-to-any;hf:automatic-speech-recognition;hf:depth-estimation;hf:feature-extraction;hf:fill-mask;hf:image-classification;hf:image-segmentation;hf:image-text-to-text;hf:image-to-image;hf:image-to-video;hf:object-detection;hf:reinforcement-learning;hf:robotics;hf:sentence-similarity;hf:text-generation;hf:text-to-image;hf:text-to-speech;hf:text-to-video;hf:video-classification,https://huggingface.co/nvidia,3754331,True
+EleutherAI,EleutherAI,curated;github;huggingface,org,frontier-llm;gh:multimodal;gh:text-to-image;hf:text-generation,https://huggingface.co/EleutherAI,3384300,True
+Mixedbread,Mixedbread,curated;huggingface,org,embeddings-rerank;hf:feature-extraction;hf:sentence-similarity,https://huggingface.co/mixedbread-ai,2270167,True
+Unsloth,Unsloth,curated;huggingface,org,hf:any-to-any;hf:automatic-speech-recognition;hf:feature-extraction;hf:fill-mask;hf:image-text-to-text;hf:image-to-image;hf:image-to-video;hf:sentence-similarity;hf:text-generation;hf:text-to-image;hf:text-to-speech;hf:text-to-video;hf:translation;training-finetune,https://huggingface.co/unsloth,2197411,True
+Qdrant,Qdrant,curated;github;huggingface,org,embeddings-rerank;gh:embeddings;gh:rag;gh:vector-database;hf:feature-extraction;hf:image-classification;hf:sentence-similarity,https://huggingface.co/Qdrant,1881131,True
+OpenBMB,OpenBMB,curated;github;huggingface,org,gh:diffusion-models;gh:evaluation;gh:mcp;gh:multimodal;gh:rag;gh:speech-recognition;gh:vision-language-model;hf:any-to-any;hf:feature-extraction;hf:image-text-to-text;hf:robotics;hf:text-generation;hf:text-to-speech;hf:visual-question-answering;open-model-lab,https://huggingface.co/openbmb,1062201,True
+TinyLlama,TinyLlama,curated;huggingface,org,hf:text-generation;slm-edge,https://huggingface.co/TinyLlama,946492,True
+Poolside,Poolside,curated;huggingface,org,code-ai;hf:text-generation,https://huggingface.co/poolside,905143,True
+Marqo,Marqo,curated;github;huggingface,org,embeddings-rerank;gh:embeddings;hf:image-classification;hf:zero-shot-image-classification,https://huggingface.co/Marqo,667089,True
+Intel,Intel,curated;github;huggingface,org,ai-infra;gh:inference-engine;gh:llm;gh:llm-inference;gh:model-serving;gh:rag;hf:depth-estimation;hf:image-segmentation;hf:image-to-image;hf:image-to-video;hf:question-answering;hf:text-to-video,https://huggingface.co/Intel,480724,True
+deepset,deepset,curated;github;huggingface,org,agent-harness;gh:agent-framework;gh:ai-agents;gh:llm;gh:mcp;gh:rag;hf:feature-extraction;hf:fill-mask;hf:question-answering,https://huggingface.co/deepset,445704,True
+Redis,Redis,curated;github;huggingface,org,embeddings-rerank;gh:vector-database;hf:sentence-similarity,https://huggingface.co/redis,441196,True
+JetBrains AI,JetBrains AI,curated;github;huggingface,org,code-ai;gh:ai-agents;gh:mcp;hf:image-text-to-text;hf:text-generation,https://huggingface.co/JetBrains,414000,True
+Freepik,Freepik,curated;huggingface,org,hf:image-classification;hf:text-to-image;image-gen,https://huggingface.co/Freepik,387328,True
+Perplexity AI,Perplexity AI,curated;huggingface,org,frontier-llm;hf:feature-extraction,https://huggingface.co/perplexity-ai,295182,True
+AI4Bharat Research,AI4Bharat,curated;huggingface,org,hf:automatic-speech-recognition;hf:fill-mask;hf:question-answering;hf:text-to-speech;hf:translation;india-ai;open-model-lab,https://huggingface.co/ai4bharat,241426,True
+StepFun,StepFun,curated;huggingface,org,hf:any-to-any;hf:image-text-to-text;hf:image-to-image;hf:image-to-video;hf:text-generation;hf:text-to-video;open-model-lab,https://huggingface.co/stepfun-ai,222721,True
+Ollama,Ollama,curated;github,org,gh:llm;inference-serving,https://github.com/ollama,185897,True
+LangChain,LangChain,curated;github,org,agent-harness;gh:ai-agents;gh:evaluation;gh:llm;gh:rag,https://github.com/langchain-ai,149008,True
+Sesame,Sesame,curated;huggingface,org,hf:text-to-speech;speech-audio,https://huggingface.co/sesame,97616,True
+Krea,Krea,curated;github;huggingface,org,gh:diffusion-models;gh:text-to-image;hf:text-to-image;hf:text-to-video;image-gen,https://huggingface.co/krea,93775,True
+OpenHands,OpenHands,curated;github,org,code-ai;gh:llm,https://github.com/OpenHands,92636,True
+Fal,Fal,curated;huggingface,org,hf:image-to-image;hf:image-to-video;hf:robotics;hf:text-to-image;hf:zero-shot-image-classification;image-gen,https://huggingface.co/fal,75407,True
+RunPod,RunPod,curated;huggingface,org,frontier-llm;hf:text-to-image,https://huggingface.co/Runpod,71445,True
+Ideogram,Ideogram,curated;huggingface,org,hf:text-to-image;image-gen,https://huggingface.co/ideogram-ai,71239,True
+Descript,Descript,curated;huggingface,org,hf:feature-extraction;video-gen,https://huggingface.co/descript,65198,True
+Apple,Apple,curated;huggingface,org,frontier-llm;hf:depth-estimation;hf:image-classification;hf:image-segmentation;hf:object-detection;hf:zero-shot-image-classification,https://huggingface.co/apple,61533,True
+InternLM,InternLM,curated;github;huggingface,org,gh:llm-inference;gh:multimodal;gh:rag;gh:vision-language-model;hf:any-to-any;hf:question-answering;hf:text-generation;hf:visual-question-answering;open-model-lab,https://huggingface.co/internlm,51868,True
+Upstage,Upstage,curated;huggingface,org,hf:text-generation;open-model-lab,https://huggingface.co/upstage,49971,True
+InclusionAI,InclusionAI,curated;github;huggingface,org,gh:agent-framework;gh:local-llm;gh:speech-recognition;hf:any-to-any;hf:automatic-speech-recognition;hf:feature-extraction;hf:image-text-to-text;hf:text-generation;hf:text-to-image;hf:text-to-speech;open-model-lab,https://huggingface.co/inclusionAI,44868,True
+AMD,AMD,curated;github;huggingface,org,ai-infra;gh:llm-inference;hf:image-text-to-text,https://huggingface.co/amd,40796,True
+Langfuse,Langfuse,curated;github,org,eval-guardrails;gh:ai-gateway;gh:evaluation;gh:llm;gh:llmops,https://github.com/langfuse,36995,True
+MLflow,MLflow,curated;github,org,gh:evaluation;gh:llmops;training-finetune,https://github.com/mlflow,28657,True
+Browserbase,Browserbase,curated;github,org,agent-harness;gh:ai-agents,https://github.com/browserbase,25941,True
+Letta,Letta,curated;github,org,agent-harness;gh:ai-agents;gh:llm,https://github.com/letta-ai,25347,True
+Skyvern,Skyvern,curated;github,org,agent-harness;gh:llm,https://github.com/Skyvern-AI,23340,True
+Jina AI,Jina AI,curated;github,org,embeddings-rerank;gh:embeddings;gh:fine-tuning;gh:llm;gh:llmops;gh:multimodal;gh:vector-database,https://github.com/jina-ai,21849,True
+SWE-agent,SWE-agent,curated;github,org,code-ai;gh:llm,https://github.com/SWE-agent,20721,True
+Weaviate,Weaviate,curated;github,org,embeddings-rerank;gh:vector-database,https://github.com/weaviate,16936,True
+Suno,Suno,curated;huggingface,org,hf:text-to-speech;speech-audio,https://huggingface.co/suno,16624,True
+Lightning AI,Lightning AI,curated;github,org,gh:llm;gh:llm-inference;training-finetune,https://github.com/Lightning-AI,13746,True
+Portkey,Portkey,curated;github,org,gh:ai-gateway;gh:llm;gh:llmops;gh:mcp;inference-serving,https://github.com/Portkey-AI,13322,True
+Simular,Simular,curated;github,org,agent-harness;gh:ai-agents,https://github.com/simular-ai,12871,True
+BentoML,BentoML,curated;github,org,gh:diffusion-models;gh:fine-tuning;gh:llm;gh:llm-inference;gh:llmops;gh:model-serving;gh:multimodal;inference-serving,https://github.com/bentoml,12582,True
+Arize,Arize,curated;github,org,eval-guardrails;gh:llmops,https://github.com/Arize-ai,12139,True
+LanceDB,LanceDB,curated;github,org,embeddings-rerank;gh:embeddings;gh:fine-tuning;gh:multimodal;gh:vector-database,https://github.com/lancedb,11842,True
+SenseTime,SenseTime,curated;huggingface,org,hf:object-detection;open-model-lab,https://huggingface.co/SenseTime,11456,True
+LlamaIndex,LlamaIndex,curated;huggingface,org,agent-harness;hf:image-text-to-text,https://huggingface.co/llamaindex,10812,True
+Cartesia,Cartesia,curated;huggingface,org,hf:text-to-speech;speech-audio,https://huggingface.co/cartesia,7480,True
+ClearML,ClearML,curated;github,org,gh:llmops;gh:model-serving;training-finetune,https://github.com/clearml,6929,True
+Helicone,Helicone,curated;github,org,gh:evaluation;gh:llmops;inference-serving,https://github.com/Helicone,6260,True
+KServe,KServe,curated;github,org,gh:llm-inference;gh:model-serving;inference-serving,https://github.com/kserve,6188,True
+Giskard,Giskard,curated;github,org,eval-guardrails;gh:llmops,https://github.com/Giskard-AI,5943,True
+Qualcomm AI,Qualcomm AI,curated;github;huggingface,org,gh:inference-engine;hf:audio-classification;hf:depth-estimation;hf:image-classification;hf:image-segmentation;hf:image-to-image;hf:object-detection;hf:video-classification;slm-edge,https://huggingface.co/qualcomm,4220,True
+Genmo,Genmo,curated;huggingface,org,hf:text-to-video;image-gen;video-gen,https://huggingface.co/genmo,3915,True
+Predibase,Predibase,curated;github,org,gh:fine-tuning;gh:llm-inference;gh:llmops;gh:model-serving;inference-serving,https://github.com/predibase,3834,True
+MiniMax,MiniMax,curated;github,org,gh:text-to-image;gh:vision-language-model;open-model-lab,https://github.com/MiniMax-AI,3470,True
+Anthropic,Anthropic,curated;huggingface,org,frontier-llm;hf:translation,https://huggingface.co/Anthropic-ai,3430,True
+OpenPipe,OpenPipe,curated;github,org,gh:llmops;inference-serving,https://github.com/OpenPipe,2837,True
+Stability AI,Stability AI,curated;github,org,gh:multimodal;image-gen,https://github.com/Stability-AI,2437,True
+Civitai,Civitai,curated;huggingface,org,hf:text-to-video;image-gen,https://huggingface.co/Civitai,2139,True
+Qodo,Qodo,curated;huggingface,org,code-ai;hf:sentence-similarity,https://huggingface.co/Qodo,2135,True
+Neo4j,Neo4j,curated;github,org,embeddings-rerank;gh:rag,https://github.com/neo4j,1329,True
+Azure,Azure,curated;github,org,ai-infra;gh:agent-framework;gh:embeddings;gh:rag,https://github.com/Azure,1204,True
+Lambda,Lambda,curated;huggingface,org,frontier-llm;hf:image-to-image,https://huggingface.co/lambda,1088,True
+Deepgram,Deepgram,curated;github,org,gh:speech-recognition;speech-audio,https://github.com/deepgram,824,True
+Elastic,Elastic,curated;github,org,embeddings-rerank;gh:vector-database,https://github.com/elastic,729,True
+Bria AI,Bria AI,curated;github,org,gh:text-to-image;image-gen,https://github.com/Bria-AI,359,True
+Aporia,Aporia,curated;github,org,eval-guardrails;gh:model-serving,https://github.com/aporia-ai,82,True
+Toloka,Toloka,curated;huggingface,org,data-labeling;hf:summarization,https://huggingface.co/toloka,31,True
+01.AI,01.AI,curated,org,open-model-lab,,0,True
+1X Technologies,1X Technologies,curated,org,world-model-3d,,0,True
+Absentia,Absentia,curated,org,india-ai,,0,True
+Adept,Adept,curated,org,agent-harness,,0,True
+Adept Train,Adept Train,curated,org,training-finetune,,0,True
+Adobe Firefly,Adobe Firefly,curated,org,image-gen,,0,True
+AgentOps,AgentOps,curated,org,agent-harness,,0,True
+Agility Robotics,Agility Robotics,curated,org,world-model-3d,,0,True
+AgroStar,AgroStar,curated,org,india-ai,,0,True
+AI Singapore,AI Singapore,curated,org,open-model-lab,,0,True
+Ai2 OLMo,Ai2 OLMo,curated,org,open-model-lab,,0,True
+Ai2 Safety,Ai2 Safety,curated,org,ai-safety,,0,True
+AI21 Labs,AI21 Labs,curated,org,frontier-llm,,0,True
+Aider,Aider,curated,org,code-ai,,0,True
+Aiva,Aiva,curated,org,speech-audio,,0,True
+Alan Turing Institute,Alan Turing Institute,curated,org,ai-safety,,0,True
+Alibaba Tongyi,Alibaba Tongyi,curated,org,open-model-lab,,0,True
+Allen Institute for AI,Allen Institute for AI,curated,org,frontier-llm,,0,True
+Amazon AGI,Amazon AGI,curated,org,frontier-llm,,0,True
+Amazon Q Developer,Amazon Q Developer,curated,org,code-ai,,0,True
+Ant Group,Ant Group,curated,org,open-model-lab,,0,True
+Anthropic Safety,Anthropic Safety,curated,org,ai-safety,,0,True
+Anyscale,Anyscale,curated,org,frontier-llm,,0,True
+Anysphere,Anysphere,curated,org,code-ai,,0,True
+Apollo Research,Apollo Research,curated,org,ai-safety,,0,True
+Appen,Appen,curated,org,data-labeling,,0,True
+Apple On-Device,Apple On-Device,curated,org,slm-edge,,0,True
+Apple OpenELM,Apple OpenELM,curated,org,open-model-lab,,0,True
+Apptronik,Apptronik,curated,org,world-model-3d,,0,True
+ARC,ARC,curated,org,ai-safety,,0,True
+Arduino,Arduino,curated,org,slm-edge,,0,True
+Arm Ethos,Arm Ethos,curated,org,slm-edge,,0,True
+Artelus,Artelus,curated,org,india-ai,,0,True
+Arya.ai,Arya.ai,curated,org,india-ai,,0,True
+AssemblyAI,AssemblyAI,curated,org,speech-audio,,0,True
+Augment Code,Augment Code,curated,org,code-ai,,0,True
+Aurora,Aurora,curated,org,world-model-3d,,0,True
+AutoGen,AutoGen,curated,org,agent-harness,,0,True
+AWS,AWS,curated,org,ai-infra,,0,True
+AWS Kiro,AWS Kiro,curated,org,code-ai,,0,True
+Axelera AI,Axelera AI,curated,org,slm-edge,,0,True
+Axolotl,Axolotl,curated,org,training-finetune,,0,True
+Baichuan,Baichuan,curated,org,open-model-lab,,0,True
+Baidu ERNIE,Baidu ERNIE,curated,org,open-model-lab,,0,True
+Baseten,Baseten,curated,org,inference-serving,,0,True
+Baseten Cloud,Baseten Cloud,curated,org,ai-infra,,0,True
+Beam AI,Beam AI,curated,org,agent-harness,,0,True
+Berkeley AI Research,Berkeley AI Research,curated,org,ai-safety,,0,True
+BGE,BGE,curated,org,embeddings-rerank,,0,True
+Bhashini,Bhashini,curated,org,india-ai,,0,True
+Biren,Biren,curated,org,ai-infra,,0,True
+Black Forest Labs,Black Forest Labs,curated,org,image-gen,,0,True
+Bland,Bland,curated,org,speech-audio,,0,True
+Boomy,Boomy,curated,org,speech-audio,,0,True
+Boston Dynamics,Boston Dynamics,curated,org,world-model-3d,,0,True
+Braintrust,Braintrust,curated,org,eval-guardrails,,0,True
+ByteDance Seed,ByteDance Seed,curated,org,open-model-lab,,0,True
+CalypsoAI,CalypsoAI,curated,org,eval-guardrails,,0,True
+Cambricon,Cambricon,curated,org,ai-infra,,0,True
+Canva,Canva,curated,org,image-gen,,0,True
+Captions,Captions,curated,org,video-gen,,0,True
+Cerebras Hardware,Cerebras Hardware,curated,org,ai-infra,,0,True
+Cerebras Systems,Cerebras Systems,curated,org,frontier-llm,,0,True
+Character.AI,Character.AI,curated,org,frontier-llm,,0,True
+ChatDev,ChatDev,curated,org,agent-harness,,0,True
+Chroma,Chroma,curated,org,embeddings-rerank,,0,True
+Cline,Cline,curated,org,code-ai,,0,True
+Clipdrop,Clipdrop,curated,org,image-gen,,0,True
+CloudFactory,CloudFactory,curated,org,data-labeling,,0,True
+Cloudflare AI Gateway,Cloudflare AI Gateway,curated,org,inference-serving,,0,True
+CMU AI,CMU AI,curated,org,ai-safety,,0,True
+Codeium,Codeium,curated,org,code-ai,,0,True
+CodeRabbit,CodeRabbit,curated,org,code-ai,,0,True
+Cognition Devin,Cognition Devin,curated,org,code-ai,,0,True
+Cohere,Cohere,curated,org,frontier-llm,,0,True
+Cohere Embed,Cohere Embed,curated,org,embeddings-rerank,,0,True
+Cohere For AI,Cohere For AI,curated,org,open-model-lab,,0,True
+Colossal-AI,Colossal-AI,curated,org,training-finetune,,0,True
+Colossyan,Colossyan,curated,org,video-gen,,0,True
+Comet,Comet,curated,org,training-finetune,,0,True
+Composio,Composio,curated,org,agent-harness,,0,True
+Conjecture,Conjecture,curated,org,ai-safety,,0,True
+Contextual AI,Contextual AI,curated,org,training-finetune,,0,True
+Continue.dev,Continue.dev,curated,org,code-ai,,0,True
+CoreWeave,CoreWeave,curated,org,frontier-llm,,0,True
+CoreWeave Cloud,CoreWeave Cloud,curated,org,ai-infra,,0,True
+CoRover,CoRover,curated,org,india-ai,,0,True
+Covariant,Covariant,curated,org,world-model-3d,,0,True
+Credo AI,Credo AI,curated,org,eval-guardrails,,0,True
+CrewAI,CrewAI,curated,org,agent-harness,,0,True
+Cropin,Cropin,curated,org,india-ai,,0,True
+Cruise,Cruise,curated,org,world-model-3d,,0,True
+Crusoe,Crusoe,curated,org,frontier-llm,,0,True
+Crusoe Cloud,Crusoe Cloud,curated,org,ai-infra,,0,True
+Cursor,Cursor,curated,org,code-ai,,0,True
+D-ID,D-ID,curated,org,video-gen,,0,True
+d-Matrix,d-Matrix,curated,org,ai-infra,,0,True
+Darwinbox,Darwinbox,curated,org,india-ai,,0,True
+Databricks Mosaic AI,Databricks Mosaic AI,curated,org,training-finetune,,0,True
+Daytona,Daytona,curated,org,agent-harness,,0,True
+Decart,Decart,curated,org,world-model-3d,,0,True
+DeepEval,DeepEval,curated,org,eval-guardrails,,0,True
+DeepInfra,DeepInfra,curated,org,frontier-llm,,0,True
+DeepInfra Serving,DeepInfra Serving,curated,org,inference-serving,,0,True
+DeepMind Safety,DeepMind Safety,curated,org,ai-safety,,0,True
+DeepSpeed,DeepSpeed,curated,org,training-finetune,,0,True
+Defined.ai,Defined.ai,curated,org,data-labeling,,0,True
+Determined AI,Determined AI,curated,org,training-finetune,,0,True
+DigitalOcean,DigitalOcean,curated,org,ai-infra,,0,True
+DSPy,DSPy,curated,org,agent-harness,,0,True
+E2B,E2B,curated,org,agent-harness,,0,True
+E5 Microsoft,E5 Microsoft,curated,org,embeddings-rerank,,0,True
+Edge Impulse,Edge Impulse,curated,org,slm-edge,,0,True
+EleutherAI Safety,EleutherAI Safety,curated,org,ai-safety,,0,True
+ElevenLabs,ElevenLabs,curated,org,speech-audio,,0,True
+Ellipsis,Ellipsis,curated,org,code-ai,,0,True
+Enflame,Enflame,curated,org,ai-infra,,0,True
+Etched,Etched,curated,org,ai-infra,,0,True
+Evidently,Evidently,curated,org,eval-guardrails,,0,True
+EXAONE,EXAONE,curated,org,open-model-lab,,0,True
+ExLlama,ExLlama,curated,org,inference-serving,,0,True
+Factory,Factory,curated,org,code-ai,,0,True
+Fiddler,Fiddler,curated,org,eval-guardrails,,0,True
+Figure AI,Figure AI,curated,org,world-model-3d,,0,True
+Fireworks AI,Fireworks AI,curated,org,frontier-llm,,0,True
+Fireworks Serving,Fireworks Serving,curated,org,inference-serving,,0,True
+FLUX,FLUX,curated,org,image-gen,,0,True
+Fractal Analytics,Fractal Analytics,curated,org,india-ai,,0,True
+Freshworks,Freshworks,curated,org,india-ai,,0,True
+FSDP,FSDP,curated,org,training-finetune,,0,True
+FuriosaAI,FuriosaAI,curated,org,open-model-lab,,0,True
+GAIA,GAIA,curated,org,world-model-3d,,0,True
+Galileo,Galileo,curated,org,eval-guardrails,,0,True
+Getty Images,Getty Images,curated,org,image-gen,,0,True
+GitHub Copilot,GitHub Copilot,curated,org,code-ai,,0,True
+Google Cloud,Google Cloud,curated,org,ai-infra,,0,True
+Google Coral,Google Coral,curated,org,slm-edge,,0,True
+Google DeepMind,Google DeepMind,curated,org,frontier-llm,,0,True
+Google Dreamer,Google Dreamer,curated,org,world-model-3d,,0,True
+Google Gemini Code Assist,Google Gemini Code Assist,curated,org,code-ai,,0,True
+Google Gemma,Google Gemma,curated,org,slm-edge,,0,True
+Google Genie,Google Genie,curated,org,world-model-3d,,0,True
+Google Lyria,Google Lyria,curated,org,speech-audio,,0,True
+Google Veo,Google Veo,curated,org,video-gen,,0,True
+GPT4All,GPT4All,curated,org,inference-serving,,0,True
+Graphcore,Graphcore,curated,org,ai-infra,,0,True
+Graphite,Graphite,curated,org,code-ai,,0,True
+GreenWaves,GreenWaves,curated,org,slm-edge,,0,True
+Greptile,Greptile,curated,org,code-ai,,0,True
+Groq,Groq,curated,org,frontier-llm,,0,True
+Groq Hardware,Groq Hardware,curated,org,ai-infra,,0,True
+Guardrails AI,Guardrails AI,curated,org,eval-guardrails,,0,True
+Gumloop,Gumloop,curated,org,agent-harness,,0,True
+Gupshup,Gupshup,curated,org,india-ai,,0,True
+Hailo,Hailo,curated,org,slm-edge,,0,True
+Hailuo,Hailuo,curated,org,image-gen;video-gen,,0,True
+Haiper,Haiper,curated,org,image-gen;video-gen,,0,True
+Handshake AI,Handshake AI,curated,org,data-labeling,,0,True
+Haptik,Haptik,curated,org,india-ai,,0,True
+Haystack,Haystack,curated,org,agent-harness,,0,True
+HCL AI,HCL AI,curated,org,india-ai,,0,True
+HeyGen,HeyGen,curated,org,video-gen,,0,True
+HiddenLayer,HiddenLayer,curated,org,eval-guardrails,,0,True
+Higgsfield,Higgsfield,curated,org,image-gen;video-gen,,0,True
+Holistic AI,Holistic AI,curated,org,eval-guardrails,,0,True
+Hour One,Hour One,curated,org,video-gen,,0,True
+Huawei Pangu,Huawei Pangu,curated,org,open-model-lab,,0,True
+Hugging Face,Hugging Face,curated,org,training-finetune,,0,True
+Hugging Face SmolLM,Hugging Face SmolLM,curated,org,slm-edge,,0,True
+Humane,Humane,curated,org,agent-harness,,0,True
+Humanloop,Humanloop,curated,org,eval-guardrails,,0,True
+Hume AI,Hume AI,curated,org,speech-audio,,0,True
+IBM Granite,IBM Granite,curated,org,open-model-lab,,0,True
+iFlytek Spark,iFlytek Spark,curated,org,open-model-lab,,0,True
+Iluvatar,Iluvatar,curated,org,ai-infra,,0,True
+iMerit,iMerit,curated,org,data-labeling,,0,True
+Inflection AI,Inflection AI,curated,org,frontier-llm,,0,True
+Infosys Topaz,Infosys Topaz,curated,org,india-ai,,0,True
+Innatera,Innatera,curated,org,slm-edge,,0,True
+Innodata,Innodata,curated,org,data-labeling,,0,True
+Intello Labs,Intello Labs,curated,org,india-ai,,0,True
+Jan,Jan,curated,org,inference-serving,,0,True
+Kaedim,Kaedim,curated,org,world-model-3d,,0,True
+Kaggle,Kaggle,curated,org,training-finetune,,0,True
+Kapwing,Kapwing,curated,org,video-gen,,0,True
+Kimi,Kimi,curated,org,open-model-lab,,0,True
+Kiro,Kiro,curated,org,code-ai,,0,True
+Kits.AI,Kits.AI,curated,org,speech-audio,,0,True
+Kling,Kling,curated,org,image-gen;video-gen,,0,True
+Kneron,Kneron,curated,org,slm-edge,,0,True
+Krutrim,Krutrim,curated,org,india-ai;open-model-lab,,0,True
+KT Midm,KT Midm,curated,org,open-model-lab,,0,True
+Kuaishou,Kuaishou,curated,org,image-gen,,0,True
+KX,KX,curated,org,embeddings-rerank,,0,True
+Labelbox,Labelbox,curated,org,data-labeling,,0,True
+Lakera,Lakera,curated,org,eval-guardrails,,0,True
+Lambda Cloud,Lambda Cloud,curated,org,ai-infra,,0,True
+Lamini,Lamini,curated,org,inference-serving,,0,True
+Lamini Train,Lamini Train,curated,org,training-finetune,,0,True
+Landr,Landr,curated,org,speech-audio,,0,True
+LangGraph,LangGraph,curated,org,agent-harness,,0,True
+LangSmith,LangSmith,curated,org,eval-guardrails,,0,True
+Leonardo.Ai,Leonardo.Ai,curated,org,image-gen,,0,True
+LG AI Research,LG AI Research,curated,org,open-model-lab,,0,True
+Lindy,Lindy,curated,org,agent-harness,,0,True
+Liquid AI,Liquid AI,curated,org,frontier-llm,,0,True
+LiteLLM,LiteLLM,curated,org,inference-serving,,0,True
+Llama Small,Llama Small,curated,org,slm-edge,,0,True
+llama.cpp,llama.cpp,curated,org,inference-serving,,0,True
+LM Studio,LM Studio,curated,org,inference-serving,,0,True
+LMNT,LMNT,curated,org,speech-audio,,0,True
+LocalAI,LocalAI,curated,org,inference-serving,,0,True
+LoRA,LoRA,curated,org,training-finetune,,0,True
+Luma AI,Luma AI,curated,org,image-gen;video-gen,,0,True
+Mad Street Den,Mad Street Den,curated,org,india-ai,,0,True
+Magic,Magic,curated,org,code-ai,,0,True
+Make,Make,curated,org,agent-harness,,0,True
+Martian,Martian,curated,org,inference-serving,,0,True
+MediaTek,MediaTek,curated,org,slm-edge,,0,True
+Megatron-LM,Megatron-LM,curated,org,training-finetune,,0,True
+Mem0,Mem0,curated,org,agent-harness,,0,True
+MemGPT,MemGPT,curated,org,agent-harness,,0,True
+Mercor,Mercor,curated,org,data-labeling,,0,True
+Meshcapade,Meshcapade,curated,org,world-model-3d,,0,True
+Meshy,Meshy,curated,org,world-model-3d,,0,True
+Meta AI,Meta AI,curated,org,frontier-llm,,0,True
+Meta AudioCraft,Meta AudioCraft,curated,org,speech-audio,,0,True
+Meta Llama,Meta Llama,curated,org,open-model-lab,,0,True
+MetaGPT,MetaGPT,curated,org,agent-harness,,0,True
+MetaX,MetaX,curated,org,ai-infra,,0,True
+METR,METR,curated,org,ai-safety,,0,True
+Microsoft Phi,Microsoft Phi,curated,org,open-model-lab;slm-edge,,0,True
+Midjourney,Midjourney,curated,org,image-gen,,0,True
+Mila,Mila,curated,org,ai-safety,,0,True
+Milvus,Milvus,curated,org,embeddings-rerank,,0,True
+MiniCPM,MiniCPM,curated,org,slm-edge,,0,True
+MIRI,MIRI,curated,org,ai-safety,,0,True
+Mistral AI,Mistral AI,curated,org,frontier-llm,,0,True
+MIT CSAIL,MIT CSAIL,curated,org,ai-safety,,0,True
+MLC LLM,MLC LLM,curated,org,inference-serving,,0,True
+MobileLLM,MobileLLM,curated,org,slm-edge,,0,True
+Modal,Modal,curated,org,frontier-llm,,0,True
+Modal Cloud,Modal Cloud,curated,org,ai-infra,,0,True
+Modal Serving,Modal Serving,curated,org,inference-serving,,0,True
+Momenta,Momenta,curated,org,world-model-3d,,0,True
+MongoDB Atlas,MongoDB Atlas,curated,org,embeddings-rerank,,0,True
+Moonshot AI,Moonshot AI,curated,org,open-model-lab,,0,True
+Moonvalley,Moonvalley,curated,org,image-gen;video-gen,,0,True
+Mubert,Mubert,curated,org,speech-audio,,0,True
+MultiOn,MultiOn,curated,org,agent-harness,,0,True
+n8n,n8n,curated,org,agent-harness,,0,True
+Naver HyperCLOVA,Naver HyperCLOVA,curated,org,open-model-lab,,0,True
+Nebius,Nebius,curated,org,frontier-llm,,0,True
+Nebius Cloud,Nebius Cloud,curated,org,ai-infra,,0,True
+NeMo Guardrails,NeMo Guardrails,curated,org,eval-guardrails,,0,True
+Neptune,Neptune,curated,org,training-finetune,,0,True
+NeuroPixels,NeuroPixels,curated,org,india-ai,,0,True
+NightCafe,NightCafe,curated,org,image-gen,,0,True
+Niramai,Niramai,curated,org,india-ai,,0,True
+NIST,NIST,curated,org,ai-safety,,0,True
+NotDiamond,NotDiamond,curated,org,inference-serving,,0,True
+Nous Research,Nous Research,curated,org,frontier-llm,,0,True
+Nuro,Nuro,curated,org,world-model-3d,,0,True
+NVIDIA Nemotron,NVIDIA Nemotron,curated,org,open-model-lab,,0,True
+Observe.AI,Observe.AI,curated,org,india-ai,,0,True
+Odyssey,Odyssey,curated,org,world-model-3d,,0,True
+OpenAI Safety,OpenAI Safety,curated,org,ai-safety,,0,True
+OpenAI Sora,OpenAI Sora,curated,org,video-gen,,0,True
+OpenAI Whisper,OpenAI Whisper,curated,org,speech-audio,,0,True
+OpenHands Agent,OpenHands Agent,curated,org,agent-harness,,0,True
+OpenPipe Train,OpenPipe Train,curated,org,training-finetune,,0,True
+OpenRouter,OpenRouter,curated,org,inference-serving,,0,True
+Oracle Cloud,Oracle Cloud,curated,org,ai-infra,,0,True
+Outlier,Outlier,curated,org,data-labeling,,0,True
+Paperspace,Paperspace,curated,org,ai-infra,,0,True
+Patronus AI,Patronus AI,curated,org,eval-guardrails,,0,True
+PEFT,PEFT,curated,org,training-finetune,,0,True
+pgvector,pgvector,curated,org,embeddings-rerank,,0,True
+Phoenix,Phoenix,curated,org,eval-guardrails,,0,True
+Photoroom,Photoroom,curated,org,image-gen,,0,True
+Physical Intelligence,Physical Intelligence,curated,org,world-model-3d,,0,True
+Pika,Pika,curated,org,image-gen;video-gen,,0,True
+Pinecone,Pinecone,curated,org,embeddings-rerank,,0,True
+Playground AI,Playground AI,curated,org,image-gen,,0,True
+PlayHT,PlayHT,curated,org,speech-audio,,0,True
+PolyAI,PolyAI,curated,org,speech-audio,,0,True
+Pony.ai,Pony.ai,curated,org,world-model-3d,,0,True
+Predibase Train,Predibase Train,curated,org,training-finetune,,0,True
+Project Indus,Project Indus,curated,org,open-model-lab,,0,True
+Prompt Security,Prompt Security,curated,org,eval-guardrails,,0,True
+Protect AI,Protect AI,curated,org,eval-guardrails,,0,True
+Qualcomm AI Hub,Qualcomm AI Hub,curated,org,slm-edge,,0,True
+Qure.ai,Qure.ai,curated,org,india-ai,,0,True
+Qwen Small,Qwen Small,curated,org,slm-edge,,0,True
+Rabbit,Rabbit,curated,org,agent-harness,,0,True
+Ragas,Ragas,curated,org,eval-guardrails,,0,True
+Ray Serve,Ray Serve,curated,org,inference-serving,,0,True
+Ray Train,Ray Train,curated,org,training-finetune,,0,True
+Rebellions,Rebellions,curated,org,open-model-lab,,0,True
+Recraft,Recraft,curated,org,image-gen,,0,True
+Redwood Research,Redwood Research,curated,org,ai-safety,,0,True
+Reka AI,Reka AI,curated,org,frontier-llm,,0,True
+Relevance AI,Relevance AI,curated,org,agent-harness,,0,True
+Remotasks,Remotasks,curated,org,data-labeling,,0,True
+Rephrase,Rephrase,curated,org,video-gen,,0,True
+Replicate,Replicate,curated,org,frontier-llm,,0,True
+Replicate Serving,Replicate Serving,curated,org,inference-serving,,0,True
+Replit,Replit,curated,org,code-ai,,0,True
+Resemble AI,Resemble AI,curated,org,speech-audio,,0,True
+Respeecher,Respeecher,curated,org,speech-audio,,0,True
+Retell,Retell,curated,org,speech-audio,,0,True
+Rev AI,Rev AI,curated,org,speech-audio,,0,True
+Rime,Rime,curated,org,speech-audio,,0,True
+Robust Intelligence,Robust Intelligence,curated,org,eval-guardrails,,0,True
+Rodin,Rodin,curated,org,world-model-3d,,0,True
+Roo Code,Roo Code,curated,org,code-ai,,0,True
+RouteLLM,RouteLLM,curated,org,inference-serving,,0,True
+RunPod Cloud,RunPod Cloud,curated,org,ai-infra,,0,True
+Runway,Runway,curated,org,image-gen;video-gen,,0,True
+Sama,Sama,curated,org,data-labeling,,0,True
+SambaNova Hardware,SambaNova Hardware,curated,org,ai-infra,,0,True
+SambaNova Systems,SambaNova Systems,curated,org,frontier-llm,,0,True
+Samsung Exynos,Samsung Exynos,curated,org,slm-edge,,0,True
+Samsung Gauss,Samsung Gauss,curated,org,open-model-lab,,0,True
+Sanctuary AI,Sanctuary AI,curated,org,world-model-3d,,0,True
+Sarvam AI,Sarvam AI,curated,org,india-ai;open-model-lab,,0,True
+Sber GigaChat,Sber GigaChat,curated,org,open-model-lab,,0,True
+Scale AI,Scale AI,curated,org,data-labeling,,0,True
+SEA-LION,SEA-LION,curated,org,open-model-lab,,0,True
+Semantic Kernel,Semantic Kernel,curated,org,agent-harness,,0,True
+Sentence Transformers,Sentence Transformers,curated,org,embeddings-rerank,,0,True
+SGLang,SGLang,curated,org,inference-serving,,0,True
+Shaip,Shaip,curated,org,data-labeling,,0,True
+Shanghai AI Lab,Shanghai AI Lab,curated,org,open-model-lab,,0,True
+Shengshu,Shengshu,curated,org,image-gen,,0,True
+Shutterstock AI,Shutterstock AI,curated,org,image-gen,,0,True
+SigTuple,SigTuple,curated,org,india-ai,,0,True
+Sima.ai,Sima.ai,curated,org,slm-edge,,0,True
+SingleStore,SingleStore,curated,org,embeddings-rerank,,0,True
+SK Telecom,SK Telecom,curated,org,open-model-lab,,0,True
+Skild AI,Skild AI,curated,org,world-model-3d,,0,True
+Snorkel,Snorkel,curated,org,data-labeling,,0,True
+Sogni,Sogni,curated,org,image-gen,,0,True
+Sora,Sora,curated,org,video-gen,,0,True
+Soundraw,Soundraw,curated,org,speech-audio,,0,True
+Sourcegraph Cody,Sourcegraph Cody,curated,org,code-ai,,0,True
+SpaceXAI,SpaceXAI,curated,org,frontier-llm,,0,True
+Speechmatics,Speechmatics,curated,org,speech-audio,,0,True
+Spline,Spline,curated,org,world-model-3d,,0,True
+Stability Audio,Stability Audio,curated,org,speech-audio,,0,True
+Stability StableLM,Stability StableLM,curated,org,slm-edge,,0,True
+Stagehand,Stagehand,curated,org,agent-harness,,0,True
+Stanford HAI,Stanford HAI,curated,org,ai-safety,,0,True
+Supermemory,Supermemory,curated,org,agent-harness,,0,True
+Surge AI,Surge AI,curated,org,data-labeling,,0,True
+SWE-agent Harness,SWE-agent Harness,curated,org,agent-harness,,0,True
+Sweep,Sweep,curated,org,code-ai,,0,True
+Synthesia,Synthesia,curated,org,video-gen,,0,True
+Syntiant,Syntiant,curated,org,slm-edge,,0,True
+Tabnine,Tabnine,curated,org,code-ai,,0,True
+Tavus,Tavus,curated,org,video-gen,,0,True
+TCS AI.Cloud,TCS AI.Cloud,curated,org,india-ai,,0,True
+Tech Mahindra AI,Tech Mahindra AI,curated,org,india-ai,,0,True
+TELUS Digital,TELUS Digital,curated,org,data-labeling,,0,True
+Tencent Hunyuan,Tencent Hunyuan,curated,org,open-model-lab,,0,True
+TensorRT-LLM,TensorRT-LLM,curated,org,inference-serving,,0,True
+Tenstorrent,Tenstorrent,curated,org,ai-infra,,0,True
+Tesla Optimus,Tesla Optimus,curated,org,world-model-3d,,0,True
+text-generation-webui,text-generation-webui,curated,org,inference-serving,,0,True
+TII Falcon,TII Falcon,curated,org,open-model-lab,,0,True
+Together AI,Together AI,curated,org,frontier-llm,,0,True
+Together Serving,Together Serving,curated,org,inference-serving,,0,True
+Tripo,Tripo,curated,org,world-model-3d,,0,True
+Triton,Triton,curated,org,inference-serving,,0,True
+TruLens,TruLens,curated,org,eval-guardrails,,0,True
+Turbopuffer,Turbopuffer,curated,org,embeddings-rerank,,0,True
+Turing,Turing,curated,org,data-labeling,,0,True
+UBTECH,UBTECH,curated,org,world-model-3d,,0,True
+Udio,Udio,curated,org,speech-audio,,0,True
+UK AISI,UK AISI,curated,org,ai-safety,,0,True
+Uniphore,Uniphore,curated,org,india-ai,,0,True
+Unitree,Unitree,curated,org,world-model-3d,,0,True
+Vapi,Vapi,curated,org,speech-audio,,0,True
+Vectara,Vectara,curated,org,embeddings-rerank,,0,True
+Vector Institute,Vector Institute,curated,org,ai-safety,,0,True
+Veed,Veed,curated,org,video-gen,,0,True
+Veo,Veo,curated,org,video-gen,,0,True
+Vespa,Vespa,curated,org,embeddings-rerank,,0,True
+Vidu,Vidu,curated,org,image-gen,,0,True
+vLLM,vLLM,curated,org,inference-serving,,0,True
+Voiceflow,Voiceflow,curated,org,speech-audio,,0,True
+Voyage AI,Voyage AI,curated,org,embeddings-rerank,,0,True
+Vultr,Vultr,curated,org,ai-infra,,0,True
+Waabi,Waabi,curated,org,world-model-3d,,0,True
+Warp,Warp,curated,org,code-ai,,0,True
+Waymo,Waymo,curated,org,world-model-3d,,0,True
+Wayve,Wayve,curated,org,world-model-3d,,0,True
+Weights and Biases,Weights and Biases,curated,org,training-finetune,,0,True
+WeRide,WeRide,curated,org,world-model-3d,,0,True
+WhyLabs,WhyLabs,curated,org,eval-guardrails,,0,True
+Windsurf,Windsurf,curated,org,code-ai,,0,True
+Wipro AI,Wipro AI,curated,org,india-ai,,0,True
+Wondercraft,Wondercraft,curated,org,video-gen,,0,True
+World Labs,World Labs,curated,org,world-model-3d,,0,True
+Writer,Writer,curated,org,training-finetune,,0,True
+xAI,xAI,curated,org,frontier-llm,,0,True
+Xiaomi MiMo,Xiaomi MiMo,curated,org,open-model-lab,,0,True
+Yandex,Yandex,curated,org,open-model-lab,,0,True
+Yellow.ai,Yellow.ai,curated,org,india-ai,,0,True
+Z.ai,Z.ai,curated,org,open-model-lab,,0,True
+Zapier Agents,Zapier Agents,curated,org,agent-harness,,0,True
+Zed,Zed,curated,org,code-ai,,0,True
+Zep,Zep,curated,org,agent-harness,,0,True
+Zhipu AI,Zhipu AI,curated,org,open-model-lab,,0,True
+Zilliz,Zilliz,curated,org,embeddings-rerank,,0,True
+Zoho,Zoho,curated,org,india-ai,,0,True
+Zoox,Zoox,curated,org,world-model-3d,,0,True
+sentence-transformers,sentence-transformers,huggingface,org,hf:feature-extraction;hf:sentence-similarity,https://huggingface.co/sentence-transformers,181007867,False
+argmaxinc,argmaxinc,github;huggingface,org,gh:speech-recognition;hf:automatic-speech-recognition;hf:text-to-image,https://huggingface.co/argmaxinc,34624804,False
+openai-community,openai-community,huggingface,org,hf:text-generation,https://huggingface.co/openai-community,30091264,False
+google-bert,google-bert,huggingface,org,hf:fill-mask;hf:question-answering,https://huggingface.co/google-bert,29770382,False
+google-t5,google-t5,huggingface,org,hf:translation,https://huggingface.co/google-t5,22802650,False
+jonatasgrosman,jonatasgrosman,github;huggingface,org;user,gh:speech-recognition;hf:automatic-speech-recognition,https://huggingface.co/jonatasgrosman,16131153,False
+google,google,github;huggingface,org,gh:ai-agents;gh:diffusion-models;gh:embeddings;gh:evaluation;gh:llm;gh:llmops;gh:mcp;gh:multimodal;gh:text-to-image;hf:any-to-any;hf:automatic-speech-recognition;hf:depth-estimation;hf:feature-extraction;hf:fill-mask;hf:image-classification;hf:image-segmentation;hf:image-text-to-text;hf:question-answering;hf:sentence-similarity;hf:summarization;hf:text-generation;hf:text-to-audio;hf:translation;hf:video-classification;hf:visual-question-answering;hf:zero-shot-image-classification,https://huggingface.co/google,16099072,False
+timm,timm,huggingface,org,hf:image-classification;hf:zero-shot-image-classification,https://huggingface.co/timm,15249612,False
+hexgrad,hexgrad,huggingface,org,hf:text-to-speech,https://huggingface.co/hexgrad,11706109,False
+Comfy-Org,Comfy-Org,huggingface,org,hf:depth-estimation;hf:image-to-image;hf:image-to-video;hf:text-to-audio;hf:text-to-image;hf:text-to-speech;hf:text-to-video,https://huggingface.co/Comfy-Org,10622397,False
+prithivMLmods,prithivMLmods,huggingface,org,hf:any-to-any;hf:audio-classification;hf:feature-extraction;hf:image-classification;hf:image-text-to-text;hf:image-to-image;hf:question-answering;hf:robotics;hf:summarization;hf:text-to-image;hf:visual-question-answering,https://huggingface.co/prithivMLmods,9776496,False
+intfloat,intfloat,huggingface,org,hf:feature-extraction;hf:sentence-similarity;hf:zero-shot-image-classification,https://huggingface.co/intfloat,9290756,False
+FacebookAI,FacebookAI,huggingface,org,hf:fill-mask,https://huggingface.co/FacebookAI,8578357,False
+audio-cpp,audio-cpp,huggingface,org,hf:automatic-speech-recognition;hf:feature-extraction;hf:image-to-video;hf:text-to-audio;hf:text-to-speech,https://huggingface.co/audio-cpp,8252030,False
+ISTA-DASLab,ISTA-DASLab,huggingface,org,hf:image-text-to-text;hf:text-generation,https://huggingface.co/ISTA-DASLab,7117770,False
+pyannote,pyannote,huggingface,org,hf:automatic-speech-recognition,https://huggingface.co/pyannote,6945594,False
+ibm-granite,ibm-granite,huggingface,org,hf:automatic-speech-recognition;hf:feature-extraction;hf:image-segmentation;hf:image-text-to-text;hf:image-to-image;hf:sentence-similarity;hf:text-generation,https://huggingface.co/ibm-granite,6747628,False
+zai-org,zai-org,github;huggingface,org,gh:diffusion-models;gh:llm;gh:multimodal;gh:text-to-image;hf:automatic-speech-recognition;hf:image-text-to-text;hf:image-to-video;hf:text-generation;hf:text-to-image;hf:text-to-speech;hf:text-to-video,https://huggingface.co/zai-org,6303033,False
+laion,laion,github;huggingface,org,gh:fine-tuning;hf:audio-classification;hf:feature-extraction;hf:text-to-speech;hf:video-classification;hf:zero-shot-image-classification,https://huggingface.co/laion,6138039,False
+coqui,coqui,github;huggingface,org,gh:speech-recognition;hf:text-to-speech,https://huggingface.co/coqui,5850941,False
+distilbert,distilbert,huggingface,org,hf:fill-mask;hf:question-answering;hf:text-generation,https://huggingface.co/distilbert,5826634,False
+ornith-ai,ornith-ai,huggingface,org,hf:text-generation,https://huggingface.co/ornith-ai,5503195,False
+Systran,Systran,github;huggingface,org,gh:speech-recognition;hf:automatic-speech-recognition,https://huggingface.co/Systran,5499140,False
+facebook,facebook,huggingface,org,hf:audio-classification;hf:automatic-speech-recognition;hf:depth-estimation;hf:feature-extraction;hf:fill-mask;hf:image-classification;hf:image-segmentation;hf:object-detection;hf:sentence-similarity;hf:summarization;hf:text-generation;hf:text-to-audio;hf:text-to-speech;hf:translation;hf:video-classification;hf:zero-shot-image-classification,https://huggingface.co/facebook,4610327,False
+baidu,baidu,huggingface,org,hf:image-text-to-text;hf:text-generation;hf:text-to-image;hf:text-to-video,https://huggingface.co/baidu,4582171,False
+Xenova,Xenova,huggingface,org,hf:audio-classification;hf:automatic-speech-recognition;hf:depth-estimation;hf:document-question-answering;hf:feature-extraction;hf:fill-mask;hf:image-classification;hf:image-segmentation;hf:image-to-image;hf:object-detection;hf:question-answering;hf:summarization;hf:text-generation;hf:text-to-audio;hf:text-to-speech;hf:translation;hf:zero-shot-image-classification,https://huggingface.co/Xenova,4578800,False
+stabilityai,stabilityai,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-audio;hf:text-to-image,https://huggingface.co/stabilityai,4559985,False
+meta-llama,meta-llama,github;huggingface,org,gh:llm;hf:image-text-to-text;hf:text-generation,https://huggingface.co/meta-llama,4441991,False
+huihui-ai,huihui-ai,huggingface,org,hf:any-to-any;hf:image-text-to-text;hf:text-generation,https://huggingface.co/huihui-ai,3476597,False
+lmstudio-community,lmstudio-community,huggingface,org,hf:any-to-any;hf:image-text-to-text;hf:text-generation,https://huggingface.co/lmstudio-community,3253739,False
+answerdotai,answerdotai,github;huggingface,org,gh:embeddings;gh:llm-inference;hf:fill-mask;hf:sentence-similarity,https://huggingface.co/answerdotai,3137675,False
+mlx-community,mlx-community,huggingface,org,hf:any-to-any;hf:audio-classification;hf:automatic-speech-recognition;hf:depth-estimation;hf:feature-extraction;hf:image-segmentation;hf:image-text-to-text;hf:image-to-image;hf:image-to-video;hf:object-detection;hf:question-answering;hf:sentence-similarity;hf:text-generation;hf:text-to-audio;hf:text-to-image;hf:text-to-speech;hf:text-to-video;hf:translation;hf:video-classification;hf:visual-question-answering;hf:zero-shot-image-classification,https://huggingface.co/mlx-community,2698885,False
+Lightricks,Lightricks,github;huggingface,org,gh:diffusion-models;gh:text-to-image;hf:any-to-any;hf:image-text-to-text;hf:image-to-video;hf:text-to-audio;hf:text-to-video,https://huggingface.co/Lightricks,2493402,False
+trl-internal-testing,trl-internal-testing,huggingface,org,hf:feature-extraction;hf:image-text-to-text;hf:text-generation,https://huggingface.co/trl-internal-testing,2342187,False
+Alibaba-NLP,Alibaba-NLP,github;huggingface,org,gh:llm;hf:fill-mask;hf:question-answering;hf:sentence-similarity,https://huggingface.co/Alibaba-NLP,2111563,False
+DavidAU,DavidAU,huggingface,org,hf:any-to-any;hf:image-text-to-text;hf:text-generation,https://huggingface.co/DavidAU,2012937,False
+ggml-org,ggml-org,github;huggingface,org,gh:local-llm;gh:speech-recognition;hf:any-to-any;hf:automatic-speech-recognition;hf:feature-extraction;hf:image-text-to-text;hf:sentence-similarity;hf:text-generation;hf:text-to-speech,https://huggingface.co/ggml-org,1971047,False
+Falconsai,Falconsai,huggingface,org,hf:image-classification;hf:question-answering;hf:summarization,https://huggingface.co/Falconsai,1679963,False
+mistralai,mistralai,github;huggingface,org,gh:llm;gh:llm-inference;hf:automatic-speech-recognition;hf:text-generation;hf:text-to-speech,https://huggingface.co/mistralai,1665600,False
+mudler,mudler,github;huggingface,org;user,gh:llm;gh:mcp;hf:audio-classification;hf:automatic-speech-recognition;hf:depth-estimation;hf:image-segmentation;hf:object-detection;hf:text-to-speech,https://huggingface.co/mudler,1536893,False
+RedHatAI,RedHatAI,huggingface,org,hf:any-to-any;hf:automatic-speech-recognition;hf:feature-extraction;hf:image-text-to-text;hf:sentence-similarity;hf:text-generation,https://huggingface.co/RedHatAI,1370952,False
+airesearch,airesearch,huggingface,org,hf:automatic-speech-recognition;hf:fill-mask;hf:question-answering,https://huggingface.co/airesearch,1329219,False
+KBLab,KBLab,huggingface,org,hf:automatic-speech-recognition;hf:fill-mask;hf:sentence-similarity,https://huggingface.co/KBLab,1311636,False
+MiniMaxAI,MiniMaxAI,huggingface,org,hf:image-text-to-text;hf:text-generation;hf:text-to-audio,https://huggingface.co/MiniMaxAI,1273270,False
+tencent,tencent,github;huggingface,org,gh:diffusion-models;gh:embeddings;gh:evaluation;gh:fine-tuning;gh:inference-engine;gh:llm;gh:multimodal;gh:rag;hf:any-to-any;hf:automatic-speech-recognition;hf:depth-estimation;hf:feature-extraction;hf:image-text-to-text;hf:image-to-image;hf:image-to-video;hf:robotics;hf:sentence-similarity;hf:text-generation;hf:text-to-audio;hf:text-to-image;hf:text-to-speech;hf:text-to-video;hf:translation,https://huggingface.co/tencent,1223825,False
+nguyenvulebinh,nguyenvulebinh,github;huggingface,org;user,gh:fine-tuning;hf:automatic-speech-recognition;hf:question-answering,https://huggingface.co/nguyenvulebinh,1107877,False
+mesolitica,mesolitica,huggingface,org,hf:automatic-speech-recognition;hf:feature-extraction;hf:fill-mask;hf:text-generation;hf:translation,https://huggingface.co/mesolitica,1097941,False
+cyankiwi,cyankiwi,huggingface,org,hf:any-to-any;hf:image-text-to-text;hf:text-generation,https://huggingface.co/cyankiwi,1084426,False
+WarmBloodAban,WarmBloodAban,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-image,https://huggingface.co/WarmBloodAban,1054718,False
+black-forest-labs,black-forest-labs,huggingface,org,hf:image-text-to-text;hf:image-to-image;hf:robotics;hf:text-to-image,https://huggingface.co/black-forest-labs,1052684,False
+deepvk,deepvk,huggingface,org,hf:feature-extraction;hf:fill-mask;hf:sentence-similarity;hf:translation,https://huggingface.co/deepvk,1027188,False
+classla,classla,huggingface,org,hf:audio-classification;hf:automatic-speech-recognition;hf:fill-mask,https://huggingface.co/classla,1020221,False
+QuantStack,QuantStack,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/QuantStack,996475,False
+imvladikon,imvladikon,huggingface,org,hf:automatic-speech-recognition;hf:fill-mask;hf:sentence-similarity,https://huggingface.co/imvladikon,987149,False
+bartowski,bartowski,huggingface,org,hf:any-to-any;hf:image-text-to-text;hf:text-generation,https://huggingface.co/bartowski,978163,False
+drbaph,drbaph,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-image;hf:text-to-speech;hf:text-to-video,https://huggingface.co/drbaph,973929,False
+unslothai,unslothai,github;huggingface,org,gh:fine-tuning;gh:llm;hf:automatic-speech-recognition;hf:feature-extraction,https://huggingface.co/unslothai,955002,False
+NeuML,NeuML,github;huggingface,org,gh:ai-agents;gh:embeddings;gh:llm;gh:rag;gh:vector-database;hf:question-answering;hf:sentence-similarity;hf:text-to-speech,https://huggingface.co/NeuML,943325,False
+NbAiLab,NbAiLab,huggingface,org,hf:automatic-speech-recognition;hf:fill-mask;hf:image-segmentation;hf:sentence-similarity,https://huggingface.co/NbAiLab,935078,False
+Jackrong,Jackrong,huggingface,org,hf:image-text-to-text;hf:question-answering;hf:text-generation,https://huggingface.co/Jackrong,934749,False
+PaddlePaddle,PaddlePaddle,github;huggingface,org,gh:inference-engine;gh:llm;gh:multimodal;gh:rag;gh:speech-recognition;gh:text-to-image;hf:image-segmentation;hf:image-text-to-text;hf:object-detection,https://huggingface.co/PaddlePaddle,929360,False
+shibing624,shibing624,github;huggingface,org;user,gh:agent-framework;gh:embeddings;gh:speech-recognition;hf:sentence-similarity;hf:text-generation;hf:text-to-speech,https://huggingface.co/shibing624,901188,False
+almanach,almanach,huggingface,org,hf:feature-extraction;hf:fill-mask;hf:question-answering,https://huggingface.co/almanach,893909,False
+OpenGVLab,OpenGVLab,github;huggingface,org,gh:llm;gh:multimodal;gh:vision-language-model;hf:image-classification;hf:image-text-to-text;hf:video-classification;hf:visual-question-answering,https://huggingface.co/OpenGVLab,866890,False
+sshleifer,sshleifer,huggingface,org,hf:fill-mask;hf:question-answering;hf:summarization;hf:text-generation,https://huggingface.co/sshleifer,850776,False
+lightonai,lightonai,github;huggingface,org,gh:vector-database;hf:feature-extraction;hf:image-text-to-text;hf:sentence-similarity,https://huggingface.co/lightonai,829623,False
+moonshotai,moonshotai,huggingface,org,hf:image-text-to-text;hf:text-generation;hf:text-to-speech,https://huggingface.co/moonshotai,768725,False
+gaunernst,gaunernst,huggingface,org,hf:audio-classification;hf:fill-mask;hf:image-text-to-text,https://huggingface.co/gaunernst,768546,False
+onnx-community,onnx-community,huggingface,org,hf:any-to-any;hf:audio-classification;hf:automatic-speech-recognition;hf:depth-estimation;hf:feature-extraction;hf:image-classification;hf:image-segmentation;hf:image-text-to-text;hf:image-to-image;hf:object-detection;hf:question-answering;hf:sentence-similarity;hf:summarization;hf:text-generation;hf:text-to-speech;hf:translation;hf:video-classification;hf:zero-shot-image-classification,https://huggingface.co/onnx-community,742749,False
+hustvl,hustvl,github;huggingface,org,gh:diffusion-models;gh:multimodal;gh:vision-language-model;hf:object-detection,https://huggingface.co/hustvl,734111,False
+AtomicChat,AtomicChat,huggingface,org,hf:any-to-any;hf:automatic-speech-recognition;hf:feature-extraction;hf:image-text-to-text;hf:text-generation;hf:text-to-image,https://huggingface.co/AtomicChat,724243,False
+ai-forever,ai-forever,github;huggingface,org,gh:text-to-image;hf:feature-extraction;hf:fill-mask;hf:text-generation;hf:text-to-video;hf:video-classification,https://huggingface.co/ai-forever,684082,False
+allenai,allenai,github;huggingface,org,gh:evaluation;gh:multimodal;gh:vision-language-model;hf:feature-extraction;hf:image-text-to-text;hf:object-detection;hf:question-answering;hf:robotics;hf:text-generation;hf:translation,https://huggingface.co/allenai,674582,False
+Salesforce,Salesforce,github;huggingface,org,gh:evaluation;hf:feature-extraction;hf:image-text-to-text;hf:image-to-image;hf:object-detection;hf:question-answering;hf:text-generation;hf:visual-question-answering;hf:zero-shot-image-classification,https://huggingface.co/Salesforce,557119,False
+pfnet,pfnet,huggingface,org,hf:image-text-to-text;hf:sentence-similarity;hf:translation,https://huggingface.co/pfnet,540972,False
+FINAL-Bench,FINAL-Bench,huggingface,org,hf:image-classification;hf:text-generation;hf:text-to-image,https://huggingface.co/FINAL-Bench,535491,False
+rinna,rinna,huggingface,org,hf:feature-extraction;hf:fill-mask;hf:text-generation,https://huggingface.co/rinna,450248,False
+ml-resources,ml-resources,huggingface,org,hf:audio-classification;hf:depth-estimation;hf:image-segmentation;hf:image-to-image;hf:image-to-video;hf:zero-shot-image-classification,https://huggingface.co/ml-resources,449810,False
+OsaurusAI,OsaurusAI,huggingface,org,hf:any-to-any;hf:text-generation;hf:text-to-image,https://huggingface.co/OsaurusAI,446846,False
+lightx2v,lightx2v,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/lightx2v,432917,False
+naver,naver,github;huggingface,org,gh:fine-tuning;hf:depth-estimation;hf:feature-extraction;hf:fill-mask;hf:image-classification,https://huggingface.co/naver,427611,False
+Abiray,Abiray,huggingface,org,hf:any-to-any;hf:feature-extraction;hf:image-text-to-text;hf:image-to-video;hf:text-generation;hf:text-to-audio;hf:text-to-image;hf:text-to-video,https://huggingface.co/Abiray,421688,False
+cointegrated,cointegrated,huggingface,org,hf:feature-extraction;hf:fill-mask;hf:sentence-similarity;hf:summarization,https://huggingface.co/cointegrated,411620,False
+m3hrdadfi,m3hrdadfi,github;huggingface,org;user,gh:speech-recognition;hf:automatic-speech-recognition;hf:summarization,https://huggingface.co/m3hrdadfi,408253,False
+briaai,briaai,huggingface,org,hf:image-segmentation;hf:image-to-image;hf:text-to-image,https://huggingface.co/briaai,401714,False
+NousResearch,NousResearch,github;huggingface,org,gh:ai-agents;gh:llm;hf:reinforcement-learning;hf:text-generation,https://huggingface.co/NousResearch,339299,False
+0xSero,0xSero,github;huggingface,org;user,gh:llm-inference;gh:local-llm;hf:text-generation,https://huggingface.co/0xSero,325939,False
+janhq,janhq,github;huggingface,org,gh:llm;hf:image-text-to-text;hf:text-generation,https://huggingface.co/janhq,324467,False
+LiquidAI,LiquidAI,huggingface,org,hf:any-to-any;hf:feature-extraction;hf:fill-mask;hf:image-text-to-text;hf:sentence-similarity;hf:text-generation;hf:text-to-audio;hf:translation,https://huggingface.co/LiquidAI,318765,False
+FluidInference,FluidInference,huggingface,org,hf:audio-classification;hf:automatic-speech-recognition;hf:feature-extraction;hf:text-to-speech;hf:zero-shot-image-classification,https://huggingface.co/FluidInference,314853,False
+FenomAI,FenomAI,huggingface,org,hf:image-text-to-text;hf:image-to-video;hf:text-generation;hf:text-to-audio;hf:text-to-video,https://huggingface.co/FenomAI,306534,False
+PrunaAI,PrunaAI,github;huggingface,org,gh:diffusion-models;gh:speech-recognition;hf:image-to-image;hf:text-to-image,https://huggingface.co/PrunaAI,298463,False
+affaan-m,affaan-m,github,user,gh:ai-agents;gh:llm;gh:mcp,https://github.com/affaan-m,296960,False
+t8star,t8star,huggingface,org,hf:image-to-video;hf:text-to-speech;hf:text-to-video,https://huggingface.co/t8star,291028,False
+ai-sage,ai-sage,huggingface,org,hf:automatic-speech-recognition;hf:feature-extraction;hf:sentence-similarity,https://huggingface.co/ai-sage,289249,False
+XLabs-AI,XLabs-AI,huggingface,org,hf:image-to-image;hf:text-generation;hf:text-to-image,https://huggingface.co/XLabs-AI,285478,False
+llm-jp,llm-jp,github;huggingface,org,gh:multimodal;gh:vision-language-model;hf:feature-extraction;hf:fill-mask;hf:text-generation;hf:zero-shot-image-classification,https://huggingface.co/llm-jp,274069,False
+tiny-random,tiny-random,huggingface,org,hf:any-to-any;hf:image-text-to-text;hf:image-to-image,https://huggingface.co/tiny-random,273790,False
+Alibaba-DAMO-Academy,Alibaba-DAMO-Academy,github;huggingface,org,gh:multimodal;hf:any-to-any;hf:image-text-to-text;hf:image-to-video;hf:robotics,https://huggingface.co/Alibaba-DAMO-Academy,268579,False
+FunAudioLLM,FunAudioLLM,huggingface,org,hf:any-to-any;hf:automatic-speech-recognition;hf:text-to-speech,https://huggingface.co/FunAudioLLM,256838,False
+speechbrain,speechbrain,github;huggingface,org,gh:speech-recognition;hf:audio-classification;hf:text-to-speech,https://huggingface.co/speechbrain,248337,False
+ByteDance,ByteDance,github;huggingface,org,gh:ai-agents;gh:diffusion-models;gh:evaluation;gh:llm;gh:llm-inference;gh:mcp;gh:multimodal;gh:speech-recognition;gh:text-to-image;hf:image-to-video;hf:text-to-image;hf:text-to-speech;hf:text-to-video;hf:visual-question-answering,https://huggingface.co/ByteDance,245248,False
+alphaedge-ai,alphaedge-ai,huggingface,org,hf:fill-mask;hf:sentence-similarity;hf:zero-shot-image-classification,https://huggingface.co/alphaedge-ai,243254,False
+Alissonerdx,Alissonerdx,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-audio;hf:text-to-image,https://huggingface.co/Alissonerdx,243222,False
+city96,city96,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/city96,243048,False
+monologg,monologg,huggingface,org,hf:feature-extraction;hf:fill-mask;hf:question-answering,https://huggingface.co/monologg,242992,False
+CohereLabs,CohereLabs,huggingface,org,hf:automatic-speech-recognition;hf:image-text-to-text;hf:text-generation;hf:translation,https://huggingface.co/CohereLabs,235466,False
+MCG-NJU,MCG-NJU,github;huggingface,org,gh:multimodal;hf:image-to-video;hf:video-classification,https://huggingface.co/MCG-NJU,228163,False
+software-mansion,software-mansion,github;huggingface,org,gh:llm-inference;hf:automatic-speech-recognition;hf:depth-estimation;hf:image-classification;hf:image-segmentation;hf:image-text-to-text;hf:image-to-image;hf:object-detection;hf:sentence-similarity;hf:text-to-speech;hf:translation,https://huggingface.co/software-mansion,217341,False
+FastFlowLM,FastFlowLM,huggingface,org,hf:any-to-any;hf:automatic-speech-recognition;hf:sentence-similarity;hf:text-generation;hf:translation,https://huggingface.co/FastFlowLM,212642,False
+h2oai,h2oai,github;huggingface,org,gh:embeddings;gh:fine-tuning;gh:llm;gh:model-serving;hf:image-text-to-text;hf:sentence-similarity;hf:text-generation,https://huggingface.co/h2oai,211364,False
+firecrawl,firecrawl,github,org,gh:ai-agents;gh:llm;gh:mcp,https://github.com/firecrawl,198540,False
+cstr,cstr,huggingface,org,hf:audio-classification;hf:automatic-speech-recognition;hf:feature-extraction;hf:image-to-image;hf:object-detection;hf:sentence-similarity;hf:text-to-speech;hf:translation,https://huggingface.co/cstr,197837,False
+OpenMOSS-Team,OpenMOSS-Team,huggingface,org,hf:any-to-any;hf:feature-extraction;hf:fill-mask;hf:image-to-video;hf:robotics;hf:text-to-audio;hf:text-to-image;hf:text-to-speech,https://huggingface.co/OpenMOSS-Team,197325,False
+eustlb,eustlb,huggingface,org,hf:feature-extraction;hf:text-to-audio;hf:text-to-speech,https://huggingface.co/eustlb,191287,False
+Rostlab,Rostlab,huggingface,org,hf:fill-mask;hf:summarization;hf:translation,https://huggingface.co/Rostlab,188299,False
+omlab,omlab,huggingface,org,hf:image-text-to-text;hf:object-detection;hf:visual-question-answering,https://huggingface.co/omlab,184025,False
+NAMAA-Space,NAMAA-Space,huggingface,org,hf:audio-classification;hf:automatic-speech-recognition;hf:fill-mask;hf:image-text-to-text;hf:text-to-speech,https://huggingface.co/NAMAA-Space,177335,False
+huggingface,huggingface,github;huggingface,org,gh:diffusion-models;gh:embeddings;gh:evaluation;gh:fine-tuning;gh:llm;gh:multimodal;gh:speech-recognition;hf:fill-mask;hf:question-answering,https://huggingface.co/huggingface,168536,False
+peft-internal-testing,peft-internal-testing,huggingface,org,hf:feature-extraction;hf:image-classification;hf:image-text-to-text;hf:text-generation,https://huggingface.co/peft-internal-testing,165224,False
+HIT-TMG,HIT-TMG,huggingface,org,hf:any-to-any;hf:feature-extraction;hf:sentence-similarity,https://huggingface.co/HIT-TMG,164857,False
+second-state,second-state,huggingface,org,hf:any-to-any;hf:feature-extraction;hf:sentence-similarity;hf:text-to-image;hf:text-to-speech;hf:visual-question-answering,https://huggingface.co/second-state,160294,False
+open-webui,open-webui,github,org,gh:llm;gh:mcp;gh:rag,https://github.com/open-webui,157753,False
+HuggingFaceM4,HuggingFaceM4,huggingface,org,hf:image-text-to-text;hf:text-generation;hf:zero-shot-image-classification,https://huggingface.co/HuggingFaceM4,155577,False
+bullerwins,bullerwins,huggingface,org,hf:any-to-any;hf:image-text-to-text;hf:image-to-image;hf:image-to-video;hf:text-to-video,https://huggingface.co/bullerwins,155154,False
+nateraw,nateraw,huggingface,org,hf:image-classification;hf:text-to-audio;hf:video-classification,https://huggingface.co/nateraw,151249,False
+kyutai,kyutai,huggingface,org,hf:any-to-any;hf:automatic-speech-recognition;hf:feature-extraction;hf:image-to-image;hf:robotics;hf:text-to-speech;hf:translation,https://huggingface.co/kyutai,150556,False
+Graphify-Labs,Graphify-Labs,github,org,gh:ai-agents;gh:llm;gh:mcp;gh:rag,https://github.com/Graphify-Labs,142223,False
+vinai,vinai,huggingface,org,hf:automatic-speech-recognition;hf:feature-extraction;hf:fill-mask,https://huggingface.co/vinai,139911,False
+typhoon-ai,typhoon-ai,huggingface,org,hf:automatic-speech-recognition;hf:image-text-to-text;hf:text-generation,https://huggingface.co/typhoon-ai,138623,False
+keremberke,keremberke,huggingface,org,hf:image-classification;hf:image-segmentation;hf:object-detection,https://huggingface.co/keremberke,136394,False
+optimum-intel-internal-testing,optimum-intel-internal-testing,huggingface,org,hf:automatic-speech-recognition;hf:document-question-answering;hf:feature-extraction;hf:image-classification;hf:image-text-to-text;hf:image-to-image;hf:sentence-similarity;hf:text-generation;hf:text-to-image,https://huggingface.co/optimum-intel-internal-testing,131422,False
+OS-Software,OS-Software,huggingface,org,hf:any-to-any;hf:image-segmentation;hf:text-generation;hf:translation,https://huggingface.co/OS-Software,130268,False
+Mungert,Mungert,huggingface,org,hf:any-to-any;hf:automatic-speech-recognition;hf:feature-extraction;hf:image-text-to-text;hf:robotics;hf:sentence-similarity;hf:text-to-speech;hf:translation,https://huggingface.co/Mungert,125867,False
+bosonai,bosonai,huggingface,org,hf:automatic-speech-recognition;hf:feature-extraction;hf:text-to-speech,https://huggingface.co/bosonai,123167,False
+vllm-project,vllm-project,github;huggingface,org,gh:ai-gateway;gh:guardrails;gh:llm;gh:llmops;gh:model-serving;gh:multimodal;hf:text-generation,https://huggingface.co/vllm-project,123044,False
+ARTPARK-IISc,ARTPARK-IISc,huggingface,org,hf:automatic-speech-recognition;hf:feature-extraction;hf:text-to-speech,https://huggingface.co/ARTPARK-IISc,122916,False
+dealignai,dealignai,huggingface,org,hf:any-to-any;hf:image-text-to-text;hf:text-generation,https://huggingface.co/dealignai,121924,False
+browser-use,browser-use,github,org,gh:ai-agents;gh:llm;gh:mcp,https://github.com/browser-use,120012,False
+taronaeo,taronaeo,huggingface,org,hf:image-text-to-text;hf:sentence-similarity;hf:text-generation,https://huggingface.co/taronaeo,118530,False
+ChrisColeTech,ChrisColeTech,huggingface,org,hf:image-to-image;hf:object-detection;hf:text-to-audio;hf:text-to-image;hf:text-to-video,https://huggingface.co/ChrisColeTech,118358,False
+Cactus-Compute,Cactus-Compute,github;huggingface,org,gh:llm;gh:llm-inference;gh:rag;hf:automatic-speech-recognition;hf:text-generation,https://huggingface.co/Cactus-Compute,118017,False
+thedotmack,thedotmack,github,user,gh:ai-agents;gh:embeddings;gh:rag,https://github.com/thedotmack,112537,False
+docling-project,docling-project,huggingface,org,hf:image-classification;hf:image-text-to-text;hf:object-detection,https://huggingface.co/docling-project,111157,False
+paperclipai,paperclipai,github,org,gh:ai-agents;gh:llm;gh:mcp,https://github.com/paperclipai,111022,False
+XiaomiMiMo,XiaomiMiMo,github;huggingface,org,gh:ai-agents;gh:vision-language-model;hf:any-to-any;hf:automatic-speech-recognition;hf:image-text-to-text;hf:text-generation,https://huggingface.co/XiaomiMiMo,109941,False
+l3cube-pune,l3cube-pune,huggingface,org,hf:fill-mask;hf:question-answering;hf:sentence-similarity,https://huggingface.co/l3cube-pune,109323,False
+ZawShiShawn,ZawShiShawn,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-video,https://huggingface.co/ZawShiShawn,106162,False
+SupraLabs,SupraLabs,huggingface,org,hf:feature-extraction;hf:text-generation;hf:text-to-speech,https://huggingface.co/SupraLabs,102092,False
+Tencent-Hunyuan,Tencent-Hunyuan,github;huggingface,org,gh:diffusion-models;gh:multimodal;gh:text-to-image;gh:vision-language-model;gh:world-models;hf:text-to-image,https://huggingface.co/Tencent-Hunyuan,100422,False
+vantagewithai,vantagewithai,huggingface,org,hf:any-to-any;hf:image-to-image;hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/vantagewithai,100399,False
+michaelfeil,michaelfeil,huggingface,org,hf:feature-extraction;hf:sentence-similarity;hf:translation,https://huggingface.co/michaelfeil,100346,False
+cahya,cahya,huggingface,org,hf:automatic-speech-recognition;hf:fill-mask;hf:question-answering;hf:summarization,https://huggingface.co/cahya,96686,False
+diffusers,diffusers,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-image,https://huggingface.co/diffusers,95585,False
+infiniflow,infiniflow,github,org,gh:ai-agents;gh:rag;gh:vector-database,https://github.com/infiniflow,93491,False
+molbal,molbal,huggingface,org,hf:image-to-video;hf:text-to-audio;hf:text-to-image,https://huggingface.co/molbal,93248,False
+m-a-p,m-a-p,huggingface,org,hf:audio-classification;hf:feature-extraction;hf:text-to-audio,https://huggingface.co/m-a-p,90307,False
+litert-community,litert-community,huggingface,org,hf:any-to-any;hf:audio-classification;hf:automatic-speech-recognition;hf:depth-estimation;hf:image-classification;hf:image-segmentation;hf:image-to-image;hf:object-detection;hf:question-answering;hf:sentence-similarity;hf:text-generation;hf:text-to-image;hf:text-to-speech;hf:text-to-video;hf:translation;hf:video-classification,https://huggingface.co/litert-community,90177,False
+q-future,q-future,github;huggingface,org,gh:evaluation;hf:feature-extraction;hf:image-text-to-text;hf:zero-shot-image-classification,https://huggingface.co/q-future,87618,False
+unclecode,unclecode,github,user,gh:ai-agents;gh:llm;gh:mcp;gh:rag,https://github.com/unclecode,86892,False
+MemTensor,MemTensor,github;huggingface,org,gh:ai-agents;gh:llm;gh:mcp;gh:rag;hf:text-generation,https://huggingface.co/MemTensor,86663,False
+datawhalechina,datawhalechina,github,org,gh:evaluation;gh:fine-tuning;gh:inference-engine;gh:llm;gh:llm-inference;gh:mcp;gh:multimodal;gh:rag;gh:vector-database,https://github.com/datawhalechina,86025,False
+cheaper-inference,cheaper-inference,github,org,gh:ai-agents;gh:ai-gateway;gh:mcp,https://github.com/cheaper-inference,84457,False
+InstantX,InstantX,huggingface,org,hf:image-to-image;hf:text-to-image;hf:text-to-video,https://huggingface.co/InstantX,83657,False
+InstaDeepAI,InstaDeepAI,github;huggingface,org,gh:evaluation;hf:feature-extraction;hf:fill-mask,https://huggingface.co/InstaDeepAI,81144,False
+ATH-MaaS,ATH-MaaS,github;huggingface,org,gh:multimodal;gh:rag;gh:text-to-image;gh:vision-language-model;hf:any-to-any;hf:feature-extraction;hf:image-text-to-text;hf:translation,https://huggingface.co/ATH-MaaS,80459,False
+fancyfeast,fancyfeast,huggingface,org,hf:image-classification;hf:image-text-to-text;hf:text-to-image;hf:zero-shot-image-classification,https://huggingface.co/fancyfeast,80311,False
+echarlaix,echarlaix,huggingface,org,hf:feature-extraction;hf:image-to-image;hf:question-answering;hf:summarization;hf:text-generation;hf:text-to-audio;hf:text-to-image;hf:translation,https://huggingface.co/echarlaix,79598,False
+headroomlabs-ai,headroomlabs-ai,github,org,gh:llm;gh:mcp;gh:rag,https://github.com/headroomlabs-ai,78829,False
+ComposioHQ,ComposioHQ,github,org,gh:ai-agents;gh:llm;gh:llmops;gh:mcp,https://github.com/ComposioHQ,78721,False
+rohitg00,rohitg00,github,user,gh:ai-agents;gh:llm;gh:mcp,https://github.com/rohitg00,76816,False
+philschmid,philschmid,huggingface,org,hf:question-answering;hf:sentence-similarity;hf:summarization;hf:zero-shot-image-classification,https://huggingface.co/philschmid,76150,False
+OpenVINO,OpenVINO,huggingface,org,hf:automatic-speech-recognition;hf:feature-extraction;hf:image-segmentation;hf:image-text-to-text;hf:object-detection;hf:robotics;hf:text-generation;hf:text-to-speech,https://huggingface.co/OpenVINO,75939,False
+hiyouga,hiyouga,github;huggingface,org;user,gh:fine-tuning;gh:llm;hf:visual-question-answering,https://huggingface.co/hiyouga,75886,False
+jayn7,jayn7,huggingface,org,hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/jayn7,73668,False
+realrebelai,realrebelai,huggingface,org,hf:image-to-video;hf:text-to-audio;hf:text-to-image;hf:text-to-video,https://huggingface.co/realrebelai,72647,False
+dmis-lab,dmis-lab,huggingface,org,hf:feature-extraction;hf:fill-mask;hf:question-answering;hf:sentence-similarity;hf:visual-question-answering,https://huggingface.co/dmis-lab,72378,False
+coolthor,coolthor,huggingface,org,hf:any-to-any;hf:image-text-to-text;hf:text-to-speech;hf:text-to-video,https://huggingface.co/coolthor,71489,False
+gpustack,gpustack,github;huggingface,org,gh:llm-inference;gh:model-serving;hf:image-to-image;hf:sentence-similarity;hf:text-to-image;hf:text-to-speech,https://huggingface.co/gpustack,70747,False
+mem0ai,mem0ai,github,org,gh:ai-agents;gh:llm;gh:rag,https://github.com/mem0ai,68389,False
+Mintplex-Labs,Mintplex-Labs,github,org,gh:ai-agents;gh:embeddings;gh:llm;gh:multimodal;gh:rag;gh:vector-database,https://github.com/Mintplex-Labs,67934,False
+IndexTeam,IndexTeam,huggingface,org,hf:text-to-speech;hf:translation;hf:visual-question-answering,https://huggingface.co/IndexTeam,65503,False
+upstash,upstash,github,org,gh:llm;gh:mcp;gh:vector-database,https://github.com/upstash,64179,False
+robbyant,robbyant,github;huggingface,org,gh:world-models;hf:depth-estimation;hf:image-to-video,https://huggingface.co/robbyant,63906,False
+BerriAI,BerriAI,github,org,gh:ai-gateway;gh:llm;gh:llmops,https://github.com/BerriAI,62693,False
+netease-youdao,netease-youdao,github;huggingface,org;user,gh:fine-tuning;gh:mcp;hf:automatic-speech-recognition;hf:text-to-speech;hf:translation,https://huggingface.co/netease-youdao,62247,False
+pathwaycom,pathwaycom,github,org,gh:llm;gh:rag;gh:vector-database,https://github.com/pathwaycom,58728,False
+alibaba-pai,alibaba-pai,huggingface,org,hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/alibaba-pai,58243,False
+TechnoBaptist,TechnoBaptist,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/TechnoBaptist,58070,False
+bojieli,bojieli,github,user,gh:llm;gh:llm-inference;gh:mcp;gh:multimodal;gh:rag,https://github.com/bojieli,57136,False
+akhaliq,akhaliq,huggingface,org,hf:automatic-speech-recognition;hf:image-to-image;hf:text-to-image;hf:text-to-speech,https://huggingface.co/akhaliq,56047,False
+Efficient-Large-Model,Efficient-Large-Model,huggingface,org,hf:image-to-video;hf:robotics;hf:text-generation;hf:text-to-video,https://huggingface.co/Efficient-Large-Model,55326,False
+HKUDS,HKUDS,github,org,gh:agent-framework;gh:ai-agents;gh:llm;gh:local-llm;gh:mcp;gh:rag,https://github.com/HKUDS,54966,False
+yujiepan,yujiepan,huggingface,org,hf:any-to-any;hf:audio-classification;hf:image-text-to-text;hf:text-generation;hf:text-to-image;hf:zero-shot-image-classification,https://huggingface.co/yujiepan,54448,False
+botp,botp,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/botp,53905,False
+run-llama,run-llama,github,org,gh:embeddings;gh:evaluation;gh:fine-tuning;gh:llm;gh:rag;gh:vector-database,https://github.com/run-llama,52803,False
+mradermacher,mradermacher,huggingface,org,hf:any-to-any;hf:automatic-speech-recognition;hf:feature-extraction;hf:image-classification;hf:image-text-to-text;hf:object-detection;hf:question-answering;hf:reinforcement-learning;hf:robotics;hf:sentence-similarity;hf:summarization;hf:text-to-audio;hf:text-to-image;hf:text-to-speech;hf:text-to-video;hf:translation;hf:visual-question-answering;hf:zero-shot-image-classification,https://huggingface.co/mradermacher,51581,False
+rockerBOO,rockerBOO,huggingface,org,hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/rockerBOO,48409,False
+jeecgboot,jeecgboot,github,org,gh:llm;gh:mcp;gh:rag,https://github.com/jeecgboot,48372,False
+Jundot,Jundot,github;huggingface,org;user,gh:llm;hf:any-to-any;hf:feature-extraction;hf:image-text-to-text,https://huggingface.co/Jundot,47860,False
+zhayujie,zhayujie,github,user,gh:ai-agents;gh:llm;gh:mcp,https://github.com/zhayujie,47784,False
+kukidevalml,kukidevalml,huggingface,org,hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/kukidevalml,47707,False
+sbintuitions,sbintuitions,huggingface,org,hf:feature-extraction;hf:fill-mask;hf:sentence-similarity;hf:text-to-speech,https://huggingface.co/sbintuitions,47586,False
+LibreChat-AI,LibreChat-AI,github,org,gh:embeddings;gh:mcp;gh:vector-database,https://github.com/LibreChat-AI,46730,False
+milvus-io,milvus-io,github,org,gh:embeddings;gh:llm;gh:rag;gh:vector-database,https://github.com/milvus-io,46591,False
+0xSojalSec,0xSojalSec,huggingface,org,hf:image-text-to-text;hf:text-to-image;hf:text-to-video,https://huggingface.co/0xSojalSec,44448,False
+ray-project,ray-project,github,org,gh:fine-tuning;gh:llm;gh:llm-inference;gh:model-serving,https://github.com/ray-project,44199,False
+groxaxo,groxaxo,huggingface,org,hf:any-to-any;hf:feature-extraction;hf:image-text-to-text,https://huggingface.co/groxaxo,44135,False
+uer,uer,huggingface,org,hf:fill-mask;hf:question-answering;hf:sentence-similarity;hf:text-generation,https://huggingface.co/uer,43905,False
+TencentARC,TencentARC,github;huggingface,org,gh:diffusion-models;gh:text-to-image;gh:world-models;hf:image-to-image;hf:image-to-video;hf:text-to-image;hf:text-to-video;hf:zero-shot-image-classification,https://huggingface.co/TencentARC,43212,False
+tinyhumansai,tinyhumansai,github,org,gh:agent-framework;gh:ai-agents;gh:llm;gh:mcp,https://github.com/tinyhumansai,42534,False
+volcengine,volcengine,github,org,gh:rag;gh:text-to-image;gh:vector-database;gh:vision-language-model,https://github.com/volcengine,41525,False
+patchy631,patchy631,github,user,gh:llm-inference;gh:mcp;gh:rag,https://github.com/patchy631,41106,False
+BennyDaBall,BennyDaBall,huggingface,org,hf:feature-extraction;hf:image-to-image;hf:text-to-image;hf:text-to-video,https://huggingface.co/BennyDaBall,40640,False
+ByteDance-Seed,ByteDance-Seed,github;huggingface,org,gh:evaluation;gh:llm-inference;gh:vision-language-model;hf:any-to-any;hf:image-text-to-text;hf:image-to-image;hf:text-generation;hf:translation,https://huggingface.co/ByteDance-Seed,40577,False
+VAGOsolutions,VAGOsolutions,huggingface,org,hf:image-text-to-text;hf:sentence-similarity;hf:text-generation,https://huggingface.co/VAGOsolutions,40288,False
+VectifyAI,VectifyAI,github,org,gh:ai-agents;gh:llm;gh:rag;gh:vector-database,https://github.com/VectifyAI,39983,False
+ashishpatel26,ashishpatel26,github,user,gh:ai-agents;gh:fine-tuning;gh:speech-recognition,https://github.com/ashishpatel26,39292,False
+FireRedTeam,FireRedTeam,github;huggingface,org,gh:diffusion-models;gh:speech-recognition;hf:audio-classification;hf:automatic-speech-recognition;hf:image-to-image,https://huggingface.co/FireRedTeam,39152,False
+CopilotKit,CopilotKit,github,org,gh:ai-agents;gh:llm;gh:mcp,https://github.com/CopilotKit,38509,False
+sgl-project,sgl-project,github,org,gh:llm;gh:model-serving;gh:multimodal;gh:speech-recognition,https://github.com/sgl-project,38453,False
+BSC-LT,BSC-LT,huggingface,org,hf:automatic-speech-recognition;hf:fill-mask;hf:text-generation;hf:translation,https://huggingface.co/BSC-LT,38185,False
+ItzCrazyKns,ItzCrazyKns,github,user,gh:ai-agents;gh:llm;gh:rag,https://github.com/ItzCrazyKns,38011,False
+QuantFactory,QuantFactory,huggingface,org,hf:feature-extraction;hf:question-answering;hf:text-generation;hf:text-to-speech,https://huggingface.co/QuantFactory,37933,False
+agentscope-ai,agentscope-ai,github,org,gh:agent-framework;gh:ai-agents;gh:evaluation;gh:llm;gh:mcp;gh:rag,https://github.com/agentscope-ai,37346,False
+virgiliojr94,virgiliojr94,github,user,gh:ai-agents;gh:llm;gh:rag,https://github.com/virgiliojr94,36943,False
+VoltAgent,VoltAgent,github,org,gh:ai-agents;gh:llm;gh:mcp;gh:rag,https://github.com/VoltAgent,36839,False
+lxe,lxe,github;huggingface,org;user,gh:local-llm;gh:multimodal;hf:text-generation,https://huggingface.co/lxe,36777,False
+mrfakename,mrfakename,huggingface,org,hf:automatic-speech-recognition;hf:image-text-to-text;hf:text-to-audio;hf:text-to-speech;hf:text-to-video;hf:translation,https://huggingface.co/mrfakename,36201,False
+KBlueLeaf,KBlueLeaf,huggingface,org,hf:text-generation;hf:text-to-image;hf:video-classification,https://huggingface.co/KBlueLeaf,36143,False
+mukul975,mukul975,github,user,gh:ai-agents;gh:llm;gh:mcp,https://github.com/mukul975,35562,False
+calcuis,calcuis,huggingface,org,hf:any-to-any;hf:image-to-image;hf:image-to-video;hf:text-to-audio;hf:text-to-image;hf:text-to-speech;hf:text-to-video,https://huggingface.co/calcuis,35265,False
+alibaba,alibaba,github,org,gh:ai-agents;gh:llm;gh:llm-inference;gh:llmops;gh:mcp;gh:model-serving;gh:rag;gh:vector-database,https://github.com/alibaba,33495,False
+onyx-dot-app,onyx-dot-app,github,org,gh:evaluation;gh:llm;gh:rag,https://github.com/onyx-dot-app,33207,False
+topoteretes,topoteretes,github,org,gh:ai-agents;gh:llmops;gh:vector-database,https://github.com/topoteretes,33059,False
+feder-cr,feder-cr,github,user,gh:ai-agents;gh:llm-inference;gh:local-llm;gh:mcp,https://github.com/feder-cr,32384,False
+Manojb,Manojb,huggingface,org,hf:depth-estimation;hf:image-to-image;hf:text-to-image;hf:zero-shot-image-classification,https://huggingface.co/Manojb,32344,False
+decolua,decolua,github,user,gh:ai-agents;gh:ai-gateway;gh:llm,https://github.com/decolua,31933,False
+desert-ant-labs,desert-ant-labs,huggingface,org,hf:audio-classification;hf:automatic-speech-recognition;hf:image-classification;hf:text-generation,https://huggingface.co/desert-ant-labs,30914,False
+TencentCloud,TencentCloud,github,org,gh:agent-framework;gh:ai-agents;gh:llm,https://github.com/TencentCloud,30435,False
+dicta-il,dicta-il,huggingface,org,hf:feature-extraction;hf:fill-mask;hf:question-answering;hf:sentence-similarity,https://huggingface.co/dicta-il,30367,False
+NirDiamant,NirDiamant,github,user,gh:agent-framework;gh:ai-agents;gh:embeddings;gh:llm;gh:mcp;gh:rag;gh:vector-database,https://github.com/NirDiamant,30224,False
+labring,labring,github,org,gh:llm;gh:mcp;gh:rag,https://github.com/labring,29991,False
+mobilint,mobilint,huggingface,org,hf:automatic-speech-recognition;hf:depth-estimation;hf:fill-mask;hf:image-segmentation;hf:image-text-to-text;hf:object-detection,https://huggingface.co/mobilint,29865,False
+aufklarer,aufklarer,huggingface,org,hf:audio-classification;hf:automatic-speech-recognition;hf:text-to-audio;hf:text-to-speech,https://huggingface.co/aufklarer,29726,False
+QwenLM,QwenLM,github,org,gh:llm;gh:mcp;gh:vision-language-model,https://github.com/QwenLM,29005,False
+Soul-AILab,Soul-AILab,github;huggingface,org,gh:speech-recognition;hf:image-to-video;hf:text-to-speech,https://huggingface.co/Soul-AILab,27893,False
+promptfoo,promptfoo,github,org,gh:evaluation;gh:llm;gh:llmops;gh:rag,https://github.com/promptfoo,26826,False
+Mozilla,Mozilla,github;huggingface,org,gh:ai-gateway;gh:llmops;gh:local-llm;gh:speech-recognition;hf:object-detection;hf:sentence-similarity,https://huggingface.co/Mozilla,26772,False
+MERaLiON,MERaLiON,huggingface,org,hf:audio-classification;hf:automatic-speech-recognition;hf:feature-extraction;hf:text-to-speech,https://huggingface.co/MERaLiON,25264,False
+liguodongiot,liguodongiot,github,user,gh:llm;gh:llm-inference;gh:llmops,https://github.com/liguodongiot,25253,False
+QwenAudio,QwenAudio,github,org,gh:fine-tuning;gh:multimodal;gh:speech-recognition,https://github.com/QwenAudio,24287,False
+infly,infly,huggingface,org,hf:image-text-to-text;hf:reinforcement-learning;hf:sentence-similarity;hf:visual-question-answering,https://huggingface.co/infly,23478,False
+meituan-longcat,meituan-longcat,github;huggingface,org,gh:evaluation;hf:any-to-any;hf:image-to-image;hf:text-to-image;hf:text-to-video,https://huggingface.co/meituan-longcat,23462,False
+comet-ml,comet-ml,github,org,gh:evaluation;gh:llm;gh:llmops,https://github.com/comet-ml,23166,False
+walkinglabs,walkinglabs,github,org,gh:ai-agents;gh:llm;gh:llm-inference,https://github.com/walkinglabs,23138,False
+1Panel-dev,1Panel-dev,github,org,gh:ai-gateway;gh:llm;gh:rag,https://github.com/1Panel-dev,23111,False
+surogate,surogate,huggingface,org,hf:audio-classification;hf:automatic-speech-recognition;hf:image-text-to-text,https://huggingface.co/surogate,22973,False
+dipakkr,dipakkr,github,user,gh:ai-agents;gh:fine-tuning;gh:llm;gh:llmops;gh:mcp;gh:rag,https://github.com/dipakkr,22523,False
+xiaomi-research,xiaomi-research,huggingface,org,hf:audio-classification;hf:image-text-to-text;hf:translation,https://huggingface.co/xiaomi-research,22488,False
+joyfox,joyfox,huggingface,org,hf:image-text-to-text;hf:image-to-image;hf:image-to-video;hf:text-to-video,https://huggingface.co/joyfox,22464,False
+screenpipe,screenpipe,github,org,gh:llm;gh:mcp;gh:multimodal,https://github.com/screenpipe,22233,False
+KKKKhazix,KKKKhazix,github,user,gh:ai-agents;gh:llm;gh:mcp,https://github.com/KKKKhazix,21947,False
+liyupi,liyupi,github,user,gh:ai-agents;gh:llm;gh:mcp;gh:rag;gh:vector-database,https://github.com/liyupi,21860,False
+jnMetaCode,jnMetaCode,github,user,gh:ai-agents;gh:guardrails;gh:llm;gh:mcp,https://github.com/jnMetaCode,21858,False
+coze-dev,coze-dev,github,org,gh:evaluation;gh:llmops;gh:rag,https://github.com/coze-dev,21806,False
+modelscope,modelscope,github;huggingface,org,gh:diffusion-models;gh:evaluation;gh:fine-tuning;gh:llm;gh:llm-inference;gh:model-serving;gh:multimodal;gh:rag;gh:speech-recognition;hf:any-to-any,https://huggingface.co/modelscope,20936,False
+darkmaniac7,darkmaniac7,huggingface,org,hf:any-to-any;hf:feature-extraction;hf:text-to-image,https://huggingface.co/darkmaniac7,20737,False
+eosphoros-ai,eosphoros-ai,github,org,gh:fine-tuning;gh:llm;gh:rag,https://github.com/eosphoros-ai,20258,False
+utrobinmv,utrobinmv,huggingface,org,hf:summarization;hf:text-to-speech;hf:translation,https://huggingface.co/utrobinmv,20127,False
+kuleshov-group,kuleshov-group,github;huggingface,org,gh:diffusion-models;hf:feature-extraction;hf:fill-mask,https://huggingface.co/kuleshov-group,19603,False
+rhymes-ai,rhymes-ai,github;huggingface,org,gh:multimodal;hf:image-text-to-text;hf:image-to-video;hf:text-to-video,https://huggingface.co/rhymes-ai,19523,False
+strangerzonehf,strangerzonehf,huggingface,org,hf:image-to-image;hf:text-to-image;hf:text-to-video,https://huggingface.co/strangerzonehf,19048,False
+xerj-org,xerj-org,github,user,gh:ai-agents;gh:mcp;gh:rag,https://github.com/xerj-org,19035,False
+wanshuiyin,wanshuiyin,github,user,gh:llm;gh:mcp;gh:vision-language-model,https://github.com/wanshuiyin,18634,False
+hf-tiny-model-private,hf-tiny-model-private,huggingface,org,hf:audio-classification;hf:depth-estimation;hf:document-question-answering;hf:feature-extraction;hf:fill-mask;hf:question-answering;hf:video-classification;hf:visual-question-answering;hf:zero-shot-image-classification,https://huggingface.co/hf-tiny-model-private,18574,False
+arc53,arc53,github,org,gh:llm;gh:llm-inference;gh:rag,https://github.com/arc53,18352,False
+RightNow-AI,RightNow-AI,github,org,gh:agent-framework;gh:ai-agents;gh:inference-engine;gh:llm;gh:llm-inference;gh:mcp,https://github.com/RightNow-AI,18244,False
+Canner,Canner,github,org,gh:ai-agents;gh:llm;gh:mcp;gh:rag,https://github.com/Canner,18072,False
+memvid,memvid,github,org,gh:llm;gh:rag;gh:vector-database,https://github.com/memvid,17362,False
+apache,apache,github,org,gh:ai-gateway;gh:embeddings;gh:llm;gh:llmops;gh:mcp;gh:multimodal;gh:rag,https://github.com/apache,17293,False
+deutsche-telekom,deutsche-telekom,huggingface,org,hf:question-answering;hf:sentence-similarity;hf:summarization,https://huggingface.co/deutsche-telekom,17130,False
+rzgar,rzgar,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-audio;hf:text-to-image;hf:text-to-video,https://huggingface.co/rzgar,16449,False
+vibrantlabsai,vibrantlabsai,github,org,gh:evaluation;gh:llm;gh:llmops,https://github.com/vibrantlabsai,16236,False
+Anionex,Anionex,github,user,gh:llm;gh:multimodal;gh:vision-language-model,https://github.com/Anionex,15941,False
+corsairdev,corsairdev,github,org,gh:ai-agents;gh:llm;gh:mcp,https://github.com/corsairdev,15704,False
+drawthingsai,drawthingsai,github;huggingface,org,gh:llm-inference;gh:local-llm;hf:image-to-image;hf:image-to-video;hf:text-to-image,https://huggingface.co/drawthingsai,15411,False
+vllm-sr,vllm-sr,huggingface,org,hf:feature-extraction;hf:fill-mask;hf:sentence-similarity;hf:zero-shot-image-classification,https://huggingface.co/vllm-sr,15174,False
+ConardLi,ConardLi,github,user,gh:fine-tuning;gh:llm;gh:rag,https://github.com/ConardLi,15082,False
+optimum,optimum,huggingface,org,hf:feature-extraction;hf:image-segmentation;hf:question-answering;hf:sentence-similarity;hf:translation,https://huggingface.co/optimum,14934,False
+casdoor,casdoor,github,org,gh:ai-gateway;gh:llm;gh:mcp,https://github.com/casdoor,14755,False
+e2b-dev,e2b-dev,github,org,gh:ai-agents;gh:llm;gh:llmops,https://github.com/e2b-dev,14710,False
+vdo,vdo,huggingface,org,hf:image-to-video;hf:text-to-video;hf:visual-question-answering,https://huggingface.co/vdo,14683,False
+princeton-nlp,princeton-nlp,github;huggingface,org,gh:evaluation;gh:vision-language-model;gh:world-models;hf:feature-extraction,https://huggingface.co/princeton-nlp,14490,False
+Runware,Runware,huggingface,org,hf:any-to-any;hf:image-to-image;hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/Runware,14326,False
+browseros-ai,browseros-ai,github,org,gh:ai-agents;gh:llm;gh:mcp,https://github.com/browseros-ai,14250,False
+EverMind-AI,EverMind-AI,github;huggingface,org,gh:ai-agents;gh:embeddings;gh:llm;gh:mcp;gh:rag;hf:feature-extraction;hf:question-answering,https://huggingface.co/EverMind-AI,13804,False
+StarTrail-org,StarTrail-org,github,org,gh:llm;gh:multimodal;gh:rag;gh:vector-database,https://github.com/StarTrail-org,13770,False
+langchain4j,langchain4j,github,org,gh:embeddings;gh:llm;gh:vector-database,https://github.com/langchain4j,13354,False
+espnet,espnet,github;huggingface,org,gh:speech-recognition;hf:audio-classification;hf:automatic-speech-recognition;hf:feature-extraction;hf:text-to-audio,https://huggingface.co/espnet,13343,False
+0x4m4,0x4m4,github,user,gh:ai-agents;gh:llm;gh:mcp,https://github.com/0x4m4,13342,False
+starsfriday,starsfriday,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-image,https://huggingface.co/starsfriday,13319,False
+elix3r,elix3r,huggingface,org,hf:feature-extraction;hf:image-to-video;hf:text-to-video,https://huggingface.co/elix3r,13197,False
+FareedKhan-dev,FareedKhan-dev,github,user,gh:ai-agents;gh:guardrails;gh:inference-engine;gh:llm;gh:llm-inference,https://github.com/FareedKhan-dev,13127,False
+codexu,codexu,github,user,gh:llm;gh:mcp;gh:rag,https://github.com/codexu,12982,False
+cocktailpeanut,cocktailpeanut,github;huggingface,org;user,gh:llm;hf:image-segmentation;hf:text-to-audio;hf:text-to-speech,https://huggingface.co/cocktailpeanut,12869,False
+zilliztech,zilliztech,github,org,gh:embeddings;gh:mcp;gh:rag;gh:vector-database,https://github.com/zilliztech,12667,False
+OzzyGT,OzzyGT,huggingface,org,hf:depth-estimation;hf:image-to-image;hf:text-to-audio;hf:text-to-video,https://huggingface.co/OzzyGT,12601,False
+optimum-internal-testing,optimum-internal-testing,huggingface,org,hf:automatic-speech-recognition;hf:feature-extraction;hf:image-text-to-text;hf:text-to-image,https://huggingface.co/optimum-internal-testing,12442,False
+dataelement,dataelement,github,org,gh:llm;gh:llmops;gh:rag,https://github.com/dataelement,12111,False
+cocoindex-io,cocoindex-io,github,org,gh:ai-agents;gh:llm;gh:rag,https://github.com/cocoindex-io,11821,False
+cobusgreyling,cobusgreyling,github,user,gh:ai-agents;gh:llm;gh:mcp,https://github.com/cobusgreyling,11689,False
+off-grid-ai,off-grid-ai,github;huggingface,org,gh:ai-gateway;gh:guardrails;gh:local-llm;gh:vision-language-model;hf:text-to-image;hf:text-to-video,https://huggingface.co/off-grid-ai,11502,False
+holaboss-ai,holaboss-ai,github,org,gh:ai-agents;gh:llm;gh:mcp,https://github.com/holaboss-ai,11445,False
+lucidrains,lucidrains,github,user,gh:multimodal;gh:text-to-image;gh:world-models,https://github.com/lucidrains,11306,False
+omnigent-ai,omnigent-ai,github,org,gh:agent-framework;gh:ai-agents;gh:llm,https://github.com/omnigent-ai,11210,False
+openvinotoolkit,openvinotoolkit,github,org,gh:diffusion-models;gh:inference-engine;gh:llm-inference;gh:model-serving;gh:speech-recognition,https://github.com/openvinotoolkit,11113,False
+trailhq,trailhq,github,org,gh:ai-agents;gh:llm;gh:mcp,https://github.com/trailhq,11081,False
+bytebot-ai,bytebot-ai,github,org,gh:ai-agents;gh:llm;gh:mcp,https://github.com/bytebot-ai,11068,False
+ytu-ce-cosmos,ytu-ce-cosmos,huggingface,org,hf:feature-extraction;hf:fill-mask;hf:sentence-similarity,https://huggingface.co/ytu-ce-cosmos,11007,False
+TykTechnologies,TykTechnologies,github,org,gh:ai-gateway;gh:llm;gh:mcp,https://github.com/TykTechnologies,10874,False
+qubvel-hf,qubvel-hf,huggingface,org,hf:image-segmentation;hf:object-detection;hf:video-classification,https://huggingface.co/qubvel-hf,10767,False
+1aurent,1aurent,huggingface,org,hf:audio-classification;hf:feature-extraction;hf:image-classification,https://huggingface.co/1aurent,10730,False
+prj-beatrice,prj-beatrice,huggingface,org,hf:audio-classification;hf:automatic-speech-recognition;hf:feature-extraction,https://huggingface.co/prj-beatrice,10604,False
+JCTN,JCTN,huggingface,org,hf:image-to-image;hf:text-to-image;hf:text-to-video,https://huggingface.co/JCTN,10582,False
+sigoden,sigoden,github,user,gh:ai-agents;gh:llm;gh:rag,https://github.com/sigoden,10544,False
+RunanywhereAI,RunanywhereAI,github,org,gh:diffusion-models;gh:llm;gh:multimodal,https://github.com/RunanywhereAI,10333,False
+vanch007,vanch007,huggingface,org,hf:any-to-any;hf:text-to-audio;hf:text-to-image;hf:text-to-speech,https://huggingface.co/vanch007,10301,False
+astrid-runtime,astrid-runtime,github,org,gh:ai-agents;gh:llm;gh:mcp,https://github.com/astrid-runtime,10290,False
+artificialguybr,artificialguybr,huggingface,org,hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/artificialguybr,10216,False
+yuvraj108c,yuvraj108c,huggingface,org,hf:image-segmentation;hf:image-to-image;hf:image-to-video,https://huggingface.co/yuvraj108c,10191,False
+MakazhanAlpamys,MakazhanAlpamys,github,user,gh:fine-tuning;gh:llm;gh:llmops;gh:local-llm,https://github.com/MakazhanAlpamys,10138,False
+yzhao062,yzhao062,github,user,gh:llm;gh:llmops;gh:multimodal,https://github.com/yzhao062,10075,False
+awslabs,awslabs,github,org,gh:llmops;gh:mcp;gh:speech-recognition;gh:vector-database;gh:world-models,https://github.com/awslabs,9877,False
+NVlabs,NVlabs,github,org,gh:diffusion-models;gh:fine-tuning;gh:vision-language-model;gh:world-models,https://github.com/NVlabs,9763,False
+UCSC-VLAA,UCSC-VLAA,github;huggingface,org,gh:diffusion-models;gh:vision-language-model;gh:world-models;hf:question-answering;hf:zero-shot-image-classification,https://huggingface.co/UCSC-VLAA,9701,False
+stanfordmimi,stanfordmimi,huggingface,org,hf:any-to-any;hf:image-to-image;hf:text-to-image,https://huggingface.co/stanfordmimi,9644,False
+activeloopai,activeloopai,github,org,gh:embeddings;gh:llm;gh:multimodal;gh:rag;gh:vector-database,https://github.com/activeloopai,9263,False
+ai-boost,ai-boost,github,user,gh:ai-agents;gh:llm;gh:mcp,https://github.com/ai-boost,9175,False
+poloclub,poloclub,github,org,gh:embeddings;gh:llm;gh:vector-database,https://github.com/poloclub,9091,False
+WangRongsheng,WangRongsheng,github,user,gh:fine-tuning;gh:llm;gh:multimodal;gh:rag,https://github.com/WangRongsheng,9067,False
+strands-agents,strands-agents,github,org,gh:agent-framework;gh:ai-agents;gh:evaluation;gh:llm;gh:mcp,https://github.com/strands-agents,9043,False
+iflytek,iflytek,github,org,gh:agent-framework;gh:llm;gh:mcp,https://github.com/iflytek,8942,False
+patrickvonplaten,patrickvonplaten,huggingface,org,hf:automatic-speech-recognition;hf:feature-extraction;hf:summarization,https://huggingface.co/patrickvonplaten,8872,False
+FoundationVision,FoundationVision,github;huggingface,org,gh:diffusion-models;gh:multimodal;gh:text-to-image;gh:vision-language-model;hf:any-to-any,https://huggingface.co/FoundationVision,8765,False
+deeplethe,deeplethe,github,org,gh:ai-agents;gh:llm;gh:rag,https://github.com/deeplethe,8671,False
+Roboflow,Roboflow,github;huggingface,org,gh:fine-tuning;gh:multimodal;gh:vision-language-model;hf:image-segmentation;hf:object-detection,https://huggingface.co/Roboflow,8608,False
+lastmile-ai,lastmile-ai,github,org,gh:ai-agents;gh:llm;gh:mcp,https://github.com/lastmile-ai,8575,False
+WenyuChiou,WenyuChiou,github,user,gh:ai-agents;gh:mcp;gh:rag,https://github.com/WenyuChiou,8504,False
+Bingsu,Bingsu,huggingface,org,hf:any-to-any;hf:visual-question-answering;hf:zero-shot-image-classification,https://huggingface.co/Bingsu,8380,False
+cmarkea,cmarkea,huggingface,org,hf:fill-mask;hf:image-segmentation;hf:object-detection;hf:question-answering;hf:visual-question-answering,https://huggingface.co/cmarkea,8301,False
+Neywa-Labs,Neywa-Labs,github,org,gh:multimodal;gh:speech-recognition;gh:vision-language-model,https://github.com/Neywa-Labs,8194,False
+Skywork,Skywork,huggingface,org,hf:any-to-any;hf:image-to-video;hf:text-to-video,https://huggingface.co/Skywork,8140,False
+robertbschuette,robertbschuette,huggingface,org,hf:image-to-video;hf:text-to-speech;hf:text-to-video,https://huggingface.co/robertbschuette,8008,False
+Upsonic,Upsonic,github,org,gh:agent-framework;gh:mcp;gh:rag,https://github.com/Upsonic,7969,False
+abacusai,abacusai,github;huggingface,org,gh:local-llm;hf:any-to-any;hf:audio-classification;hf:image-classification,https://huggingface.co/abacusai,7933,False
+megagonlabs,megagonlabs,huggingface,org,hf:feature-extraction;hf:fill-mask;hf:summarization,https://huggingface.co/megagonlabs,7821,False
+chfm,chfm,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/chfm,7806,False
+Gen-Verse,Gen-Verse,github;huggingface,org,gh:agent-framework;gh:diffusion-models;gh:text-to-image;gh:world-models;hf:any-to-any,https://huggingface.co/Gen-Verse,7602,False
+xerrors,xerrors,github,user,gh:ai-agents;gh:mcp;gh:rag,https://github.com/xerrors,7600,False
+open-mmlab,open-mmlab,github,org,gh:diffusion-models;gh:multimodal;gh:text-to-image,https://github.com/open-mmlab,7479,False
+NVIDIA-NeMo,NVIDIA-NeMo,github,org,gh:evaluation;gh:fine-tuning;gh:guardrails;gh:llmops;gh:multimodal,https://github.com/NVIDIA-NeMo,7431,False
+Disty0,Disty0,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-image,https://huggingface.co/Disty0,7196,False
+bodhan-ai,bodhan-ai,huggingface,org,hf:automatic-speech-recognition;hf:text-to-speech;hf:translation,https://huggingface.co/bodhan-ai,7109,False
+katanemo,katanemo,github,org,gh:ai-gateway;gh:llm-inference;gh:llmops,https://github.com/katanemo,7107,False
+open-multi-agent,open-multi-agent,github,org,gh:agent-framework;gh:ai-agents;gh:local-llm;gh:mcp,https://github.com/open-multi-agent,7047,False
+qihoo360,qihoo360,huggingface,org,hf:fill-mask;hf:object-detection;hf:sentence-similarity;hf:visual-question-answering;hf:zero-shot-image-classification,https://huggingface.co/qihoo360,6983,False
+lewtun,lewtun,huggingface,org,hf:audio-classification;hf:feature-extraction;hf:sentence-similarity;hf:zero-shot-image-classification,https://huggingface.co/lewtun,6859,False
+superagent-ai,superagent-ai,github,org,gh:embeddings;gh:guardrails;gh:vector-database,https://github.com/superagent-ai,6826,False
+postgresml,postgresml,github,org,gh:embeddings;gh:rag;gh:vector-database,https://github.com/postgresml,6825,False
+Frederic75,Frederic75,huggingface,org,hf:any-to-any;hf:image-to-image;hf:image-to-video;hf:text-to-image,https://huggingface.co/Frederic75,6577,False
+genkit-ai,genkit-ai,github,org,gh:multimodal;gh:rag;gh:vector-database,https://github.com/genkit-ai,6566,False
+SkalskiP,SkalskiP,github,user,gh:embeddings;gh:multimodal;gh:vision-language-model,https://github.com/SkalskiP,6492,False
+promptslab,promptslab,github,org,gh:fine-tuning;gh:llm-inference;gh:llmops;gh:text-to-image,https://github.com/promptslab,6431,False
+MinishLab,MinishLab,github,org,gh:embeddings;gh:mcp;gh:vector-database,https://github.com/MinishLab,6359,False
+camenduru,camenduru,huggingface,org,hf:image-segmentation;hf:image-to-image;hf:text-to-image;hf:text-to-video,https://huggingface.co/camenduru,6322,False
+Dicklesworthstone,Dicklesworthstone,github,user,gh:ai-agents;gh:embeddings;gh:vision-language-model,https://github.com/Dicklesworthstone,6249,False
+ARahim3,ARahim3,github,user,gh:embeddings;gh:inference-engine;gh:llm-inference;gh:local-llm;gh:multimodal;gh:speech-recognition;gh:vision-language-model,https://github.com/ARahim3,6223,False
+DAMO-NLP-SG,DAMO-NLP-SG,github;huggingface,org,gh:evaluation;hf:feature-extraction;hf:visual-question-answering,https://huggingface.co/DAMO-NLP-SG,6199,False
+unum-cloud,unum-cloud,github;huggingface,org,gh:multimodal;hf:feature-extraction;hf:visual-question-answering,https://huggingface.co/unum-cloud,6186,False
+InsecureErasure,InsecureErasure,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-image,https://huggingface.co/InsecureErasure,6119,False
+om-ai-lab,om-ai-lab,github,org,gh:multimodal;gh:rag;gh:vision-language-model,https://github.com/om-ai-lab,6046,False
+somosnlp-hackathon-2022,somosnlp-hackathon-2022,huggingface,org,hf:audio-classification;hf:question-answering;hf:sentence-similarity,https://huggingface.co/somosnlp-hackathon-2022,6046,False
+tensorchord,tensorchord,github,org,gh:llmops;gh:model-serving;gh:vector-database,https://github.com/tensorchord,5969,False
+ali-vilab,ali-vilab,github;huggingface,org,gh:diffusion-models;hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/ali-vilab,5887,False
+showlab,showlab,github;huggingface,org,gh:diffusion-models;gh:multimodal;gh:vision-language-model;gh:world-models;hf:any-to-any;hf:image-to-image;hf:robotics;hf:text-to-video,https://huggingface.co/showlab,5826,False
+didilili,didilili,github,user,gh:agent-framework;gh:mcp;gh:rag;gh:vector-database,https://github.com/didilili,5820,False
+naklitechie,naklitechie,huggingface,org,hf:text-to-audio;hf:text-to-speech;hf:translation,https://huggingface.co/naklitechie,5717,False
+facebookresearch,facebookresearch,github,org,gh:evaluation;gh:multimodal;gh:vision-language-model,https://github.com/facebookresearch,5635,False
+Shitao,Shitao,huggingface,org,hf:fill-mask;hf:sentence-similarity;hf:text-to-image,https://huggingface.co/Shitao,5622,False
+VietAI,VietAI,huggingface,org,hf:question-answering;hf:summarization;hf:translation,https://huggingface.co/VietAI,5471,False
+filipecalegario,filipecalegario,github,user,gh:ai-agents;gh:embeddings;gh:text-to-image,https://github.com/filipecalegario,5405,False
+superduper-io,superduper-io,github,org,gh:llm-inference;gh:llmops;gh:rag,https://github.com/superduper-io,5330,False
+Kiln-AI,Kiln-AI,github,org,gh:evaluation;gh:fine-tuning;gh:mcp,https://github.com/Kiln-AI,5253,False
+shyngys879,shyngys879,huggingface,org,hf:automatic-speech-recognition;hf:feature-extraction;hf:text-to-speech,https://huggingface.co/shyngys879,5238,False
+infosave,infosave,huggingface,org,hf:any-to-any;hf:automatic-speech-recognition;hf:feature-extraction;hf:image-segmentation;hf:image-to-image;hf:text-to-audio;hf:text-to-video;hf:translation,https://huggingface.co/infosave,5234,False
+zjwfufu,zjwfufu,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-video,https://huggingface.co/zjwfufu,5136,False
+melgarafael,melgarafael,github,user,gh:ai-agents;gh:mcp;gh:rag,https://github.com/melgarafael,5125,False
+Picovoice,Picovoice,github,org,gh:llm-inference;gh:speech-recognition;gh:vision-language-model,https://github.com/Picovoice,5018,False
+gaianet,gaianet,github;huggingface,org,gh:ai-agents;gh:mcp;hf:any-to-any;hf:feature-extraction;hf:sentence-similarity;hf:text-to-speech;hf:visual-question-answering,https://huggingface.co/gaianet,5016,False
+langwatch,langwatch,github,org,gh:agent-framework;gh:evaluation;gh:guardrails;gh:llmops,https://github.com/langwatch,5012,False
+FellouAI,FellouAI,github,org,gh:ai-agents;gh:llm-inference;gh:rag,https://github.com/FellouAI,4960,False
+aipotheosis-labs,aipotheosis-labs,github,org,gh:ai-agents;gh:guardrails;gh:mcp,https://github.com/aipotheosis-labs,4931,False
+pguso,pguso,github,user,gh:ai-agents;gh:local-llm;gh:rag,https://github.com/pguso,4894,False
+nolabs-ai,nolabs-ai,github,org,gh:ai-agents;gh:evaluation;gh:fine-tuning;gh:mcp,https://github.com/nolabs-ai,4836,False
+IBM,IBM,github,org,gh:evaluation;gh:inference-engine;gh:mcp;gh:text-to-image,https://github.com/IBM,4751,False
+oxide-lab,oxide-lab,github;huggingface,org,gh:local-llm;hf:automatic-speech-recognition;hf:text-to-video,https://huggingface.co/oxide-lab,4749,False
+ModelsLab,ModelsLab,huggingface,org,hf:image-to-image;hf:text-to-audio;hf:text-to-image;hf:text-to-speech;hf:zero-shot-image-classification,https://huggingface.co/ModelsLab,4748,False
+sanchit-gandhi,sanchit-gandhi,github;huggingface,org;user,gh:speech-recognition;hf:audio-classification;hf:text-to-audio,https://huggingface.co/sanchit-gandhi,4679,False
+PKU-Alignment,PKU-Alignment,github;huggingface,org,gh:multimodal;gh:vision-language-model;hf:any-to-any;hf:reinforcement-learning,https://huggingface.co/PKU-Alignment,4669,False
+MBZUAI,MBZUAI,huggingface,org,hf:image-classification;hf:text-to-speech;hf:visual-question-answering,https://huggingface.co/MBZUAI,4622,False
+CaviraOSS,CaviraOSS,github,org,gh:ai-agents;gh:embeddings;gh:rag;gh:vector-database,https://github.com/CaviraOSS,4564,False
+crmne,crmne,github,user,gh:agent-framework;gh:ai-agents;gh:embeddings;gh:multimodal;gh:rag,https://github.com/crmne,4493,False
+nielsr,nielsr,huggingface,org,hf:depth-estimation;hf:feature-extraction;hf:image-segmentation;hf:object-detection;hf:text-to-speech;hf:visual-question-answering,https://huggingface.co/nielsr,4493,False
+EvolvingLMMs-Lab,EvolvingLMMs-Lab,github,org,gh:evaluation;gh:multimodal;gh:vision-language-model,https://github.com/EvolvingLMMs-Lab,4483,False
+sensenova,sensenova,huggingface,org,hf:any-to-any;hf:feature-extraction;hf:robotics,https://huggingface.co/sensenova,4471,False
+Arm,Arm,huggingface,org,hf:audio-classification;hf:depth-estimation;hf:image-classification;hf:image-segmentation;hf:image-to-image;hf:object-detection;hf:text-to-speech;hf:translation;hf:zero-shot-image-classification,https://huggingface.co/Arm,4463,False
+ZJU-REAL,ZJU-REAL,github,org,gh:agent-framework;gh:evaluation;gh:mcp,https://github.com/ZJU-REAL,4409,False
+truefoundry,truefoundry,github,org,gh:fine-tuning;gh:llmops;gh:rag,https://github.com/truefoundry,4408,False
+decodingai-magazine,decodingai-magazine,github,org,gh:fine-tuning;gh:llmops;gh:rag,https://github.com/decodingai-magazine,4407,False
+declare-lab,declare-lab,github;huggingface,org,gh:diffusion-models;hf:robotics;hf:text-to-audio,https://huggingface.co/declare-lab,4395,False
+ModelTC,ModelTC,github;huggingface,org,gh:diffusion-models;gh:evaluation;gh:model-serving;gh:world-models;hf:question-answering,https://huggingface.co/ModelTC,4352,False
+cudabenchmarktest,cudabenchmarktest,huggingface,org,hf:image-to-image;hf:text-to-audio;hf:text-to-speech,https://huggingface.co/cudabenchmarktest,4307,False
+OpenMOSS,OpenMOSS,github,org,gh:diffusion-models;gh:evaluation;gh:model-serving;gh:multimodal;gh:speech-recognition;gh:text-to-image;gh:vision-language-model;gh:world-models,https://github.com/OpenMOSS,4292,False
+csebuetnlp,csebuetnlp,huggingface,org,hf:fill-mask;hf:summarization;hf:translation,https://huggingface.co/csebuetnlp,4290,False
+gsarti,gsarti,huggingface,org,hf:feature-extraction;hf:summarization;hf:translation,https://huggingface.co/gsarti,4277,False
+linoyts,linoyts,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/linoyts,4197,False
+IDEA-CCNL,IDEA-CCNL,github;huggingface,org,gh:multimodal;hf:feature-extraction;hf:fill-mask;hf:question-answering;hf:summarization;hf:visual-question-answering,https://huggingface.co/IDEA-CCNL,4117,False
+raullenchai,raullenchai,github,user,gh:llm-inference;gh:local-llm;gh:mcp,https://github.com/raullenchai,4099,False
+Sumanth077,Sumanth077,github,user,gh:ai-agents;gh:mcp;gh:rag,https://github.com/Sumanth077,4082,False
+aiming-lab,aiming-lab,github,org,gh:agent-framework;gh:fine-tuning;gh:multimodal;gh:rag,https://github.com/aiming-lab,3867,False
+fxmarty,fxmarty,huggingface,org,hf:document-question-answering;hf:feature-extraction;hf:image-classification,https://huggingface.co/fxmarty,3748,False
+atfortes,atfortes,github,user,gh:diffusion-models;gh:multimodal;gh:text-to-image,https://github.com/atfortes,3707,False
+HKUSTAudio,HKUSTAudio,huggingface,org,hf:any-to-any;hf:feature-extraction;hf:text-to-audio;hf:text-to-speech,https://huggingface.co/HKUSTAudio,3706,False
+ayousanz,ayousanz,huggingface,org,hf:audio-classification;hf:robotics;hf:text-to-speech,https://huggingface.co/ayousanz,3619,False
+amitshekhariitbhu,amitshekhariitbhu,github,user,gh:fine-tuning;gh:llm-inference;gh:rag,https://github.com/amitshekhariitbhu,3607,False
+arampacha,arampacha,huggingface,org,hf:automatic-speech-recognition;hf:fill-mask;hf:zero-shot-image-classification,https://huggingface.co/arampacha,3525,False
+audarai,audarai,github;huggingface,org,gh:speech-recognition;hf:automatic-speech-recognition;hf:text-to-speech,https://huggingface.co/audarai,3523,False
+rasyosef,rasyosef,huggingface,org,hf:feature-extraction;hf:fill-mask;hf:sentence-similarity,https://huggingface.co/rasyosef,3521,False
+TheStageAI,TheStageAI,github;huggingface,org,gh:speech-recognition;hf:automatic-speech-recognition;hf:text-to-audio;hf:text-to-video,https://huggingface.co/TheStageAI,3508,False
+embeddings-benchmark,embeddings-benchmark,github,org,gh:embeddings;gh:evaluation;gh:multimodal,https://github.com/embeddings-benchmark,3493,False
+superlinked,superlinked,github,org,gh:embeddings;gh:llmops;gh:vector-database,https://github.com/superlinked,3470,False
+giancarloerra,giancarloerra,github,user,gh:embeddings;gh:guardrails;gh:vector-database,https://github.com/giancarloerra,3365,False
+JIA-Lab-research,JIA-Lab-research,github,org,gh:llm-inference;gh:multimodal;gh:text-to-image;gh:vision-language-model,https://github.com/JIA-Lab-research,3322,False
+JoaoZaokk,JoaoZaokk,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/JoaoZaokk,3264,False
+Driw0x,Driw0x,huggingface,org,hf:image-classification;hf:question-answering;hf:summarization,https://huggingface.co/Driw0x,3261,False
+xlang-ai,xlang-ai,github,org,gh:embeddings;gh:multimodal;gh:vision-language-model,https://github.com/xlang-ai,3252,False
+scenario-labs,scenario-labs,github;huggingface,org,gh:text-to-image;hf:depth-estimation;hf:text-to-image,https://huggingface.co/scenario-labs,3230,False
+mit-han-lab,mit-han-lab,github;huggingface,org,gh:diffusion-models;gh:llm-inference;hf:any-to-any;hf:image-to-image;hf:text-to-image,https://huggingface.co/mit-han-lab,3178,False
+zzw922cn,zzw922cn,github,user,gh:diffusion-models;gh:evaluation;gh:speech-recognition,https://github.com/zzw922cn,3133,False
+ldov,ldov,huggingface,org,hf:audio-classification;hf:text-to-image;hf:text-to-speech,https://huggingface.co/ldov,3103,False
+jbilcke-hf,jbilcke-hf,huggingface,org,hf:image-to-video;hf:text-to-image;hf:text-to-video,https://huggingface.co/jbilcke-hf,3055,False
+bghira,bghira,github;huggingface,org;user,gh:diffusion-models;gh:fine-tuning;hf:text-to-audio;hf:text-to-video,https://huggingface.co/bghira,2954,False
+ddalcu,ddalcu,github;huggingface,org;user,gh:local-llm;hf:text-to-audio;hf:text-to-image;hf:text-to-speech;hf:text-to-video,https://huggingface.co/ddalcu,2837,False
+Jinstudio,Jinstudio,huggingface,org,hf:any-to-any;hf:depth-estimation;hf:image-segmentation;hf:image-to-image;hf:text-to-image,https://huggingface.co/Jinstudio,2684,False
+youssofal,youssofal,github,user,gh:inference-engine;gh:llm-inference;gh:local-llm,https://github.com/youssofal,2672,False
+mrm8488,mrm8488,github;huggingface,org;user,gh:fine-tuning;hf:question-answering;hf:summarization;hf:translation,https://huggingface.co/mrm8488,2634,False
+athina-ai,athina-ai,github,org,gh:evaluation;gh:llmops;gh:rag,https://github.com/athina-ai,2576,False
+wesjos,wesjos,huggingface,org,hf:object-detection;hf:text-to-image;hf:zero-shot-image-classification,https://huggingface.co/wesjos,2560,False
+AI-Efficiency,AI-Efficiency,github,org,gh:diffusion-models;gh:multimodal;gh:world-models,https://github.com/AI-Efficiency,2465,False
+AI4Protein,AI4Protein,github;huggingface,org,gh:fine-tuning;hf:feature-extraction;hf:fill-mask,https://huggingface.co/AI4Protein,2465,False
+AI-Hypercomputer,AI-Hypercomputer,github,org,gh:fine-tuning;gh:llm-inference;gh:llmops;gh:model-serving,https://github.com/AI-Hypercomputer,2456,False
+mingyi456,mingyi456,huggingface,org,hf:text-to-audio;hf:text-to-image;hf:text-to-video,https://huggingface.co/mingyi456,2451,False
+lioensky,lioensky,github,user,gh:agent-framework;gh:rag;gh:vector-database,https://github.com/lioensky,2427,False
+vearch,vearch,github,org,gh:embeddings;gh:rag;gh:vector-database,https://github.com/vearch,2333,False
+Alpha-VLLM,Alpha-VLLM,github;huggingface,org,gh:diffusion-models;hf:any-to-any;hf:text-to-image,https://huggingface.co/Alpha-VLLM,2324,False
+joeynyc,joeynyc,github;huggingface,org;user,gh:local-llm;gh:model-serving;hf:text-to-image,https://huggingface.co/joeynyc,2313,False
+developerjeremylive,developerjeremylive,huggingface,org,hf:any-to-any;hf:image-to-video;hf:text-to-image,https://huggingface.co/developerjeremylive,2255,False
+Harsha001,Harsha001,huggingface,org,hf:image-to-video;hf:text-to-speech;hf:text-to-video,https://huggingface.co/Harsha001,2248,False
+PKU-YuanGroup,PKU-YuanGroup,github,org,gh:diffusion-models;gh:evaluation;gh:vision-language-model;gh:world-models,https://github.com/PKU-YuanGroup,2248,False
+future-agi,future-agi,github,org,gh:ai-gateway;gh:evaluation;gh:guardrails;gh:llmops,https://github.com/future-agi,2247,False
+flax-community,flax-community,huggingface,org,hf:fill-mask;hf:summarization;hf:zero-shot-image-classification,https://huggingface.co/flax-community,2222,False
+Casual-Autopsy,Casual-Autopsy,huggingface,org,hf:feature-extraction;hf:sentence-similarity;hf:translation,https://huggingface.co/Casual-Autopsy,2134,False
+fikrikarim,fikrikarim,github,user,gh:local-llm;gh:multimodal;gh:speech-recognition,https://github.com/fikrikarim,2110,False
+ybelkada,ybelkada,huggingface,org,hf:automatic-speech-recognition;hf:feature-extraction;hf:question-answering;hf:visual-question-answering,https://huggingface.co/ybelkada,2035,False
+suryatmodulus,suryatmodulus,huggingface,org,hf:image-to-image;hf:text-to-image;hf:text-to-video,https://huggingface.co/suryatmodulus,1991,False
+adobe-research,adobe-research,github,org,gh:diffusion-models;gh:evaluation;gh:fine-tuning,https://github.com/adobe-research,1979,False
+vstorm-co,vstorm-co,github,org,gh:agent-framework;gh:guardrails;gh:local-llm;gh:rag,https://github.com/vstorm-co,1973,False
+NVIDIA-AI-Blueprints,NVIDIA-AI-Blueprints,github,org,gh:guardrails;gh:rag;gh:vision-language-model,https://github.com/NVIDIA-AI-Blueprints,1963,False
+kp-forks,kp-forks,huggingface,org,hf:depth-estimation;hf:image-to-image;hf:image-to-video,https://huggingface.co/kp-forks,1920,False
+trpc-group,trpc-group,github,org,gh:agent-framework;gh:evaluation;gh:rag,https://github.com/trpc-group,1904,False
+google-deepmind,google-deepmind,github,org,gh:evaluation;gh:fine-tuning;gh:vision-language-model,https://github.com/google-deepmind,1899,False
+AlibabaResearch,AlibabaResearch,github,org,gh:diffusion-models;gh:multimodal;gh:vision-language-model,https://github.com/AlibabaResearch,1833,False
+aurelio-ai,aurelio-ai,huggingface,org,hf:image-classification;hf:video-classification;hf:zero-shot-image-classification,https://huggingface.co/aurelio-ai,1792,False
+voidful,voidful,github;huggingface,org;user,gh:world-models;hf:automatic-speech-recognition;hf:fill-mask,https://huggingface.co/voidful,1716,False
+deepsense-ai,deepsense-ai,github,org,gh:evaluation;gh:guardrails;gh:rag,https://github.com/deepsense-ai,1682,False
+FrigadeHQ,FrigadeHQ,github,org,gh:local-llm;gh:rag;gh:speech-recognition,https://github.com/FrigadeHQ,1666,False
+kandinskylab,kandinskylab,huggingface,org,hf:any-to-any;hf:image-to-image;hf:image-to-video,https://huggingface.co/kandinskylab,1533,False
+aws-samples,aws-samples,github,org,gh:ai-gateway;gh:embeddings;gh:guardrails;gh:llm-inference;gh:llmops;gh:rag;gh:vector-database,https://github.com/aws-samples,1532,False
+TIGER-AI-Lab,TIGER-AI-Lab,github,org,gh:evaluation;gh:fine-tuning;gh:multimodal;gh:rag,https://github.com/TIGER-AI-Lab,1513,False
+AlekseyCalvin,AlekseyCalvin,huggingface,org,hf:any-to-any;hf:image-to-image;hf:image-to-video;hf:text-to-video,https://huggingface.co/AlekseyCalvin,1475,False
+autonomous-ai,autonomous-ai,github,org,gh:agent-framework;gh:fine-tuning;gh:local-llm,https://github.com/autonomous-ai,1422,False
+ELiRF,ELiRF,huggingface,org,hf:feature-extraction;hf:fill-mask;hf:summarization,https://huggingface.co/ELiRF,1410,False
+soniqo,soniqo,github;huggingface,org,gh:speech-recognition;hf:audio-classification;hf:text-to-speech,https://huggingface.co/soniqo,1386,False
+DFloat11,DFloat11,huggingface,org,hf:any-to-any;hf:image-to-video;hf:text-to-video,https://huggingface.co/DFloat11,1344,False
+SakanaAI,SakanaAI,github;huggingface,org,gh:fine-tuning;hf:image-to-image;hf:visual-question-answering,https://huggingface.co/SakanaAI,1328,False
+SmythOS,SmythOS,github,org,gh:agent-framework;gh:llmops;gh:rag,https://github.com/SmythOS,1302,False
+ICTNLP,ICTNLP,github;huggingface,org,gh:llm-inference;gh:multimodal;gh:speech-recognition;gh:vision-language-model;hf:any-to-any,https://huggingface.co/ICTNLP,1293,False
+loom-ai-org,loom-ai-org,huggingface,org,hf:audio-classification;hf:text-to-audio;hf:text-to-speech,https://huggingface.co/loom-ai-org,1285,False
+jwuthri-cloud,jwuthri-cloud,github,user,gh:fine-tuning;gh:guardrails;gh:llmops,https://github.com/jwuthri-cloud,1210,False
+zjunlp,zjunlp,github;huggingface,org,gh:multimodal;gh:rag;gh:vision-language-model;hf:robotics,https://huggingface.co/zjunlp,1209,False
+Acly,Acly,huggingface,org,hf:depth-estimation;hf:image-segmentation;hf:image-to-image,https://huggingface.co/Acly,1208,False
+biali,biali,huggingface,org,hf:depth-estimation;hf:image-to-image;hf:image-to-video;hf:text-to-video,https://huggingface.co/biali,1108,False
+InternRobotics,InternRobotics,github;huggingface,org,gh:multimodal;gh:vision-language-model;gh:world-models;hf:robotics,https://huggingface.co/InternRobotics,1064,False
+worldbench,worldbench,github,org,gh:diffusion-models;gh:text-to-image;gh:world-models,https://github.com/worldbench,1025,False
+AutowareFoundation,AutowareFoundation,huggingface,org,hf:image-segmentation;hf:object-detection;hf:robotics,https://huggingface.co/AutowareFoundation,1010,False
+fcakyon,fcakyon,github;huggingface,org;user,gh:vector-database;hf:image-segmentation;hf:object-detection;hf:video-classification,https://huggingface.co/fcakyon,1002,False
+vlad-grig,vlad-grig,huggingface,org,hf:image-segmentation;hf:text-to-speech;hf:translation,https://huggingface.co/vlad-grig,982,False
+mlboydaisuke,mlboydaisuke,huggingface,org,hf:audio-classification;hf:depth-estimation;hf:image-segmentation;hf:image-to-image;hf:object-detection;hf:text-to-audio;hf:video-classification;hf:zero-shot-image-classification,https://huggingface.co/mlboydaisuke,981,False
+topk-io,topk-io,github;huggingface,org,gh:vector-database;hf:feature-extraction;hf:sentence-similarity,https://huggingface.co/topk-io,975,False
+mbzuai-oryx,mbzuai-oryx,github,org,gh:multimodal;gh:vision-language-model;gh:world-models,https://github.com/mbzuai-oryx,969,False
+nasa-ibm-ai4science,nasa-ibm-ai4science,huggingface,org,hf:image-segmentation;hf:image-to-image;hf:object-detection,https://huggingface.co/nasa-ibm-ai4science,934,False
+orneryd,orneryd,github,user,gh:llmops;gh:local-llm;gh:vector-database,https://github.com/orneryd,924,False
+zhihu,zhihu,github,org,gh:inference-engine;gh:llm-inference;gh:model-serving,https://github.com/zhihu,906,False
+stronman,stronman,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-video,https://huggingface.co/stronman,901,False
+OpenDCAI,OpenDCAI,github,org,gh:diffusion-models;gh:evaluation;gh:world-models,https://github.com/OpenDCAI,889,False
+refiners,refiners,huggingface,org,hf:feature-extraction;hf:image-segmentation;hf:image-to-image,https://huggingface.co/refiners,877,False
+NeumTry,NeumTry,github,org,gh:embeddings;gh:llmops;gh:vector-database,https://github.com/NeumTry,868,False
+whitecircle,whitecircle,github,org,gh:fine-tuning;gh:guardrails;gh:multimodal,https://github.com/whitecircle,842,False
+Shilin-LU,Shilin-LU,github;huggingface,org;user,gh:diffusion-models;gh:text-to-image;hf:image-to-image,https://huggingface.co/Shilin-LU,810,False
+OpenDriveLab,OpenDriveLab,github,org,gh:diffusion-models;gh:vision-language-model;gh:world-models,https://github.com/OpenDriveLab,809,False
+ThakiCloud,ThakiCloud,huggingface,org,hf:audio-classification;hf:image-segmentation;hf:sentence-similarity,https://huggingface.co/ThakiCloud,806,False
+bayartsogt,bayartsogt,huggingface,org,hf:audio-classification;hf:automatic-speech-recognition;hf:fill-mask,https://huggingface.co/bayartsogt,801,False
+chipfighter,chipfighter,github,user,gh:guardrails;gh:multimodal;gh:vision-language-model,https://github.com/chipfighter,770,False
+Azure-Samples,Azure-Samples,github,org,gh:embeddings;gh:llmops;gh:vector-database,https://github.com/Azure-Samples,766,False
+vicgalle,vicgalle,github;huggingface,org;user,gh:diffusion-models;gh:text-to-image;hf:zero-shot-image-classification,https://huggingface.co/vicgalle,746,False
+pegainfer-project,pegainfer-project,github,org,gh:inference-engine;gh:llm-inference;gh:model-serving,https://github.com/pegainfer-project,733,False
+ovi054,ovi054,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-video,https://huggingface.co/ovi054,728,False
+stoyan-stoyanov,stoyan-stoyanov,github,user,gh:llm-inference;gh:llmops;gh:vector-database,https://github.com/stoyan-stoyanov,708,False
+AXERA-TECH,AXERA-TECH,huggingface,org,hf:depth-estimation;hf:image-segmentation;hf:image-to-video;hf:object-detection;hf:text-to-audio;hf:visual-question-answering;hf:zero-shot-image-classification,https://huggingface.co/AXERA-TECH,696,False
+framerslab,framerslab,github,org,gh:agent-framework;gh:guardrails;gh:world-models,https://github.com/framerslab,683,False
+timfromhcs,timfromhcs,huggingface,org,hf:any-to-any;hf:image-to-video;hf:text-to-video,https://huggingface.co/timfromhcs,678,False
+acul3,acul3,huggingface,org,hf:question-answering;hf:text-to-audio;hf:text-to-speech,https://huggingface.co/acul3,664,False
+qqceqqq,qqceqqq,huggingface,org,hf:any-to-any;hf:depth-estimation;hf:image-to-video,https://huggingface.co/qqceqqq,656,False
+wolf1280,wolf1280,huggingface,org,hf:depth-estimation;hf:image-to-image;hf:image-to-video;hf:text-to-video,https://huggingface.co/wolf1280,652,False
+carloslfu,carloslfu,github,user,gh:inference-engine;gh:llm-inference;gh:local-llm,https://github.com/carloslfu,651,False
+sekkit,sekkit,huggingface,org,hf:any-to-any;hf:image-to-image;hf:image-to-video,https://huggingface.co/sekkit,644,False
+omriav,omriav,github,user,gh:diffusion-models;gh:multimodal;gh:text-to-image,https://github.com/omriav,631,False
+FreedomIntelligence,FreedomIntelligence,github;huggingface,org,gh:evaluation;hf:any-to-any;hf:question-answering,https://huggingface.co/FreedomIntelligence,624,False
+thewh1teagle,thewh1teagle,github;huggingface,org;user,gh:embeddings;gh:speech-recognition;hf:text-to-speech,https://huggingface.co/thewh1teagle,621,False
+benmaster82,benmaster82,github,user,gh:embeddings;gh:inference-engine;gh:local-llm,https://github.com/benmaster82,612,False
+jaylfc,jaylfc,github,user,gh:agent-framework;gh:llm-inference;gh:local-llm,https://github.com/jaylfc,598,False
+dronefreak,dronefreak,github;huggingface,org;user,gh:guardrails;hf:image-segmentation;hf:object-detection;hf:video-classification,https://huggingface.co/dronefreak,589,False
+codelion,codelion,github,user,gh:embeddings;gh:fine-tuning;gh:llm-inference,https://github.com/codelion,577,False
+nativ-community,nativ-community,huggingface,org,hf:any-to-any;hf:depth-estimation;hf:feature-extraction;hf:image-segmentation,https://huggingface.co/nativ-community,577,False
+oxbshw,oxbshw,github,user,gh:fine-tuning;gh:llmops;gh:multimodal,https://github.com/oxbshw,558,False
+OpenEnvision,OpenEnvision,github,org,gh:evaluation;gh:multimodal;gh:world-models,https://github.com/OpenEnvision,551,False
+androidli,androidli,huggingface,org,hf:depth-estimation;hf:feature-extraction;hf:image-segmentation,https://huggingface.co/androidli,526,False
+CATIE-AQ,CATIE-AQ,huggingface,org,hf:question-answering;hf:sentence-similarity;hf:summarization,https://huggingface.co/CATIE-AQ,525,False
+mll-lab-nu,mll-lab-nu,github,org,gh:evaluation;gh:vision-language-model;gh:world-models,https://github.com/mll-lab-nu,518,False
+Kevin-thu,Kevin-thu,github;huggingface,org;user,gh:diffusion-models;gh:world-models;hf:text-to-video,https://huggingface.co/Kevin-thu,510,False
+ylacombe,ylacombe,huggingface,org,hf:audio-classification;hf:text-to-audio;hf:text-to-speech,https://huggingface.co/ylacombe,475,False
+helenai,helenai,huggingface,org,hf:audio-classification;hf:fill-mask;hf:question-answering;hf:zero-shot-image-classification,https://huggingface.co/helenai,472,False
+AlaaLab,AlaaLab,github,org,gh:diffusion-models;gh:text-to-image;gh:vision-language-model,https://github.com/AlaaLab,463,False
+mehmetkeremturkcan,mehmetkeremturkcan,huggingface,org,hf:object-detection;hf:text-to-video;hf:video-classification,https://huggingface.co/mehmetkeremturkcan,448,False
+Kenza-AI,Kenza-AI,github,org,gh:ai-gateway;gh:llm-inference;gh:llmops,https://github.com/Kenza-AI,443,False
+MirroS-Lab,MirroS-Lab,github;huggingface,org,gh:evaluation;gh:multimodal;gh:vision-language-model;gh:world-models;hf:image-to-video;hf:question-answering,https://huggingface.co/MirroS-Lab,443,False
+H-EmbodVis,H-EmbodVis,github;huggingface,org,gh:vision-language-model;gh:world-models;hf:robotics;hf:text-to-video,https://huggingface.co/H-EmbodVis,437,False
+erax-ai,erax-ai,huggingface,org,hf:object-detection;hf:translation;hf:visual-question-answering,https://huggingface.co/erax-ai,411,False
+sayakpaul,sayakpaul,github;huggingface,org;user,gh:diffusion-models;gh:fine-tuning;gh:text-to-image;hf:text-to-video,https://huggingface.co/sayakpaul,396,False
+EulerSearch,EulerSearch,github,org,gh:embeddings;gh:fine-tuning;gh:llm-inference;gh:vector-database,https://github.com/EulerSearch,381,False
+dusty-nv,dusty-nv,github,user,gh:llm-inference;gh:multimodal;gh:vector-database,https://github.com/dusty-nv,379,False
+uclanlp,uclanlp,github;huggingface,org,gh:multimodal;gh:vision-language-model;hf:question-answering;hf:sentence-similarity,https://huggingface.co/uclanlp,376,False
+interestingLSY,interestingLSY,github,user,gh:inference-engine;gh:llm-inference;gh:llmops;gh:model-serving,https://github.com/interestingLSY,363,False
+GreenMap,GreenMap,huggingface,org,hf:image-segmentation;hf:object-detection;hf:question-answering,https://huggingface.co/GreenMap,337,False
+AEmotionStudio,AEmotionStudio,huggingface,org,hf:depth-estimation;hf:image-segmentation;hf:text-to-audio,https://huggingface.co/AEmotionStudio,304,False
+Sawfwair,Sawfwair,huggingface,org,hf:any-to-any;hf:image-to-video;hf:text-to-video,https://huggingface.co/Sawfwair,301,False
+Yigtwxx,Yigtwxx,github,user,gh:embeddings;gh:llmops;gh:vector-database,https://github.com/Yigtwxx,289,False
+StartLuxLabs,StartLuxLabs,github,org,gh:evaluation;gh:inference-engine;gh:llm-inference,https://github.com/StartLuxLabs,276,False
+ferro-labs,ferro-labs,github,org,gh:ai-gateway;gh:guardrails;gh:llmops,https://github.com/ferro-labs,275,False
+tensorblock,tensorblock,github;huggingface,org,gh:ai-gateway;hf:question-answering;hf:reinforcement-learning;hf:summarization;hf:translation,https://huggingface.co/tensorblock,253,False
+CollectionStudio,CollectionStudio,huggingface,org,hf:depth-estimation;hf:object-detection;hf:summarization;hf:zero-shot-image-classification,https://huggingface.co/CollectionStudio,252,False
+jadechoghari,jadechoghari,huggingface,org,hf:object-detection;hf:robotics;hf:text-to-audio,https://huggingface.co/jadechoghari,252,False
+d14945921,d14945921,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-video,https://huggingface.co/d14945921,248,False
+SyFeee,SyFeee,huggingface,org,hf:any-to-any;hf:image-to-video;hf:text-to-video,https://huggingface.co/SyFeee,247,False
+chaitnya26,chaitnya26,huggingface,org,hf:any-to-any;hf:depth-estimation;hf:image-to-image;hf:image-to-video;hf:text-to-video,https://huggingface.co/chaitnya26,241,False
+pie-project,pie-project,github,org,gh:inference-engine;gh:llm-inference;gh:multimodal,https://github.com/pie-project,239,False
+aniketmaurya,aniketmaurya,github;huggingface,org;user,gh:llm-inference;gh:model-serving;hf:visual-question-answering,https://huggingface.co/aniketmaurya,234,False
+OmniJev,OmniJev,github,org,gh:inference-engine;gh:multimodal;gh:vision-language-model,https://github.com/OmniJev,226,False
+zeromodels,zeromodels,huggingface,org,hf:depth-estimation;hf:image-segmentation;hf:object-detection;hf:zero-shot-image-classification,https://huggingface.co/zeromodels,221,False
+api7,api7,github,org,gh:ai-gateway;gh:guardrails;gh:llmops,https://github.com/api7,212,False
+SamuelM0422,SamuelM0422,huggingface,org,hf:audio-classification;hf:reinforcement-learning;hf:text-to-audio,https://huggingface.co/SamuelM0422,203,False
+skillsafe-ai,skillsafe-ai,huggingface,org,hf:depth-estimation;hf:image-segmentation;hf:translation,https://huggingface.co/skillsafe-ai,179,False
+Scottcjn,Scottcjn,github,user,gh:agent-framework;gh:llm-inference;gh:llmops,https://github.com/Scottcjn,173,False
+philfung,philfung,github,user,gh:fine-tuning;gh:vision-language-model;gh:world-models,https://github.com/philfung,167,False
+FriendliAI,FriendliAI,github;huggingface,org,gh:inference-engine;gh:llmops;hf:any-to-any,https://huggingface.co/FriendliAI,165,False
+peva3,peva3,github,user,gh:ai-gateway;gh:local-llm;gh:model-serving,https://github.com/peva3,155,False
+my-app-s,my-app-s,huggingface,org,hf:image-to-image;hf:image-to-video;hf:text-to-video,https://huggingface.co/my-app-s,153,False
+zenlm,zenlm,huggingface,org,hf:text-to-audio;hf:text-to-video;hf:visual-question-answering,https://huggingface.co/zenlm,146,False
+muaibinrah,muaibinrah,huggingface,org,hf:audio-classification;hf:reinforcement-learning;hf:video-classification,https://huggingface.co/muaibinrah,144,False
+L-Forster,L-Forster,github,user,gh:inference-engine;gh:llm-inference;gh:local-llm,https://github.com/L-Forster,133,False
+JONNYVERSE,JONNYVERSE,huggingface,org,hf:depth-estimation;hf:document-question-answering;hf:image-segmentation,https://huggingface.co/JONNYVERSE,127,False
+OrlojHQ,OrlojHQ,github,org,gh:agent-framework;gh:guardrails;gh:llmops,https://github.com/OrlojHQ,126,False
+kekzl,kekzl,github,user,gh:inference-engine;gh:llm-inference;gh:local-llm,https://github.com/kekzl,124,False
+raiyanyahya,raiyanyahya,github,user,gh:llmops;gh:local-llm;gh:vector-database,https://github.com/raiyanyahya,105,False
+AcademiaSD,AcademiaSD,huggingface,org,hf:image-to-image;hf:text-to-audio;hf:text-to-video,https://huggingface.co/AcademiaSD,101,False
+keras-io,keras-io,huggingface,org,hf:audio-classification;hf:image-segmentation;hf:video-classification,https://huggingface.co/keras-io,79,False
+nagayama0706,nagayama0706,huggingface,org,hf:depth-estimation;hf:text-to-audio;hf:text-to-video;hf:visual-question-answering,https://huggingface.co/nagayama0706,78,False
+radicalbit,radicalbit,github,org,gh:ai-gateway;gh:guardrails;gh:llmops,https://github.com/radicalbit,71,False
+Mattral,Mattral,github,user,gh:fine-tuning;gh:guardrails;gh:vision-language-model;gh:world-models,https://github.com/Mattral,58,False
+anthony-chaudhary,anthony-chaudhary,github,user,gh:ai-gateway;gh:guardrails;gh:llmops,https://github.com/anthony-chaudhary,46,False
+talhaanwarch,talhaanwarch,github,user,gh:ai-gateway;gh:guardrails;gh:llmops,https://github.com/talhaanwarch,39,False
+thealper2,thealper2,huggingface,org,hf:depth-estimation;hf:visual-question-answering;hf:zero-shot-image-classification,https://huggingface.co/thealper2,27,False
+not-lain,not-lain,huggingface,org,hf:audio-classification;hf:depth-estimation;hf:image-segmentation,https://huggingface.co/not-lain,26,False
