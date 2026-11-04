@@ -1,0 +1,5 @@
+URL https://qwen.ai/ambassador
+FINAL https://qwen.ai/ambassador
+HTTP 200
+
+ Qwen 

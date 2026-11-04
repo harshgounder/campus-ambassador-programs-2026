@@ -1,0 +1,5 @@
+URL https://yiyan.baidu.com/
+FINAL https://wenxin.baidu.com/?enter_type=yiyan_site
+HTTP 200
+
+ 百度文心助手 - 办公学习一站解决 

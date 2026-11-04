@@ -1,0 +1,5 @@
+URL https://about.gitlab.com/community/heroes/
+FINAL https://contributors.gitlab.com/docs/previous-heroes
+HTTP 200
+
+ GitLab Contributor Platform 
