@@ -21,3 +21,5 @@ Each wave has a definition of done. The checker reads the artifacts, not my word
 - Wave 9 is done when every OPEN row has a tracker line with deadline, link and applied yes/no.
 
 | 10 | Check all 4,252 org-tier names one by one | data/scan3758.jsonl | FAILED COVERAGE 5 Nov: 192 of 4,252 reachable and checked, 2,412 no website, 1,359 unreachable, 289 missing |
+
+| 11 | Cover all 5,745 org-tier names | COVERAGE.md | 44.0% covered 5 Nov, 2,526 of 5,745, Parallel pass running |
