@@ -1,0 +1,36 @@
+Microsoft AI
+Nomic AI
+TinyLlama
+Mixedbread
+DeepSeek
+BAAI
+JetBrains AI
+Perplexity AI
+Unsloth
+StepFun
+AI4Bharat Research
+Qdrant
+Freepik
+LangChain
+EleutherAI
+OpenAI
+Poolside
+Intel
+Ideogram
+deepset
+Ollama
+Sesame
+Krea
+Qwen
+Fal
+OpenHands
+InclusionAI
+Letta
+Skyvern
+RunPod
+Jina AI
+Marqo
+OpenBMB
+Lightning AI
+Portkey
+Descript
