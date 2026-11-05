@@ -412,3 +412,31 @@ The Captain application is separate from the tour and is the route that matters.
 
 `data/tracker.csv` now has 95 open rows with columns program, org, region, deadline, apply URL,
 applied, notes. Sorted so dated deadlines come first. This is the file to work from daily.
+
+---
+
+# Wave 5 complete: the notable AI scan
+
+1,096 of the 1,097 notable organisations processed. Two passes, the second resumable with a
+processed log at `data/scan_processed.txt`.
+
+Result: 149 candidate URLs after filtering, and exactly **two** real programs among the model
+publishers: **MLflow Ambassadors** and **AMD Student Programs**. Everything else was a
+single-page-app catch-all, a job board, or a personal profile.
+
+That is the finding worth keeping: the ambassador layer is almost absent among the companies
+that make models. It lives in the tooling, cloud and community layer, and in national
+ecosystems like India, China and Africa, not in the labs themselves.
+
+# Wave 6 complete: LATAM
+
+| Program | Status | Note |
+|---|---|---|
+| Google Student Ambassadors Brazil | CLOSED | Applications ran 20 to 31 July 2026, programme Aug to Dec 2026. |
+| Google Gemini Student Ambassadors Mexico | LEAD | Mexico-only cohort, article confirms it ran, no live form found. |
+| ArchiMeds Embaixadores | OPEN, Brazil only | Medical students, commission per referral, no fee. |
+| FAM Embaixadores IA | RESTRICTED | Internal to FAM students, Sao Paulo. |
+| UniversitarIA | RESTRICTED | Five named public universities in Argentina, Brazil, Chile, Spain, Uruguay. |
+
+No India-eligible programme came out of LATAM. The Google country programmes are regional by
+design.

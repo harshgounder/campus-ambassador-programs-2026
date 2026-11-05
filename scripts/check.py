@@ -26,6 +26,8 @@ chk("ai scope report exists",os.path.exists("REPORT-AI-SCOPE.md"),"REPORT-AI-SCO
 chk("universe csv exists",len(rows("data/ai-universe.csv"))>10000,f"{len(rows('data/ai-universe.csv'))} rows")
 chk("waves tracker exists",os.path.exists("WAVES.md"),"WAVES.md")
 chk("tracker exists with 50+ open rows",len(rows("data/tracker.csv"))>=50,f"{len(rows('data/tracker.csv'))} rows")
+import os as _os
+chk("notable scan processed 1000+",_os.path.exists("data/scan_processed.txt") and len(open("data/scan_processed.txt").read().split("\n"))>=1000,f"{len(open('data/scan_processed.txt').read().split(chr(10)))-1 if _os.path.exists('data/scan_processed.txt') else 0} processed")
 for n,d in passes: print("PASS",n,"|",d)
 for n,d in fails: print("FAIL",n,"|",d)
 print(f"\n{len(passes)} passed, {len(fails)} failed")

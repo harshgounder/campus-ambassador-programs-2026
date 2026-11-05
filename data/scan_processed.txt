@@ -34,3 +34,1064 @@ OpenBMB
 Lightning AI
 Portkey
 Descript
+Apple
+SWE-agent
+Redis
+Langfuse
+Arize
+InternLM
+Upstage
+Browserbase
+AMD
+NVIDIA
+Giskard
+Weaviate
+Qualcomm AI
+MiniMax
+Helicone
+Cartesia
+Stability AI
+KServe
+Qodo
+MLflow
+OpenPipe
+LlamaIndex
+Suno
+LanceDB
+Anthropic
+Bria AI
+Aporia
+01.AI
+1X Technologies
+Absentia
+Adept
+Adept Train
+Adobe Firefly
+AgentOps
+Agility Robotics
+AgroStar
+AI Singapore
+Ai2 OLMo
+Ai2 Safety
+AI21 Labs
+Aider
+Aiva
+Alan Turing Institute
+Alibaba Tongyi
+Allen Institute for AI
+Amazon AGI
+Amazon Q Developer
+Ant Group
+Anthropic Safety
+Anyscale
+Anysphere
+Apollo Research
+Appen
+Apple On-Device
+Apple OpenELM
+Apptronik
+ARC
+Arduino
+Arm Ethos
+Artelus
+Arya.ai
+AssemblyAI
+Augment Code
+Aurora
+AutoGen
+AWS
+AWS Kiro
+Axelera AI
+Axolotl
+Baichuan
+Baidu ERNIE
+Baseten
+Baseten Cloud
+Beam AI
+Berkeley AI Research
+BGE
+Bhashini
+Biren
+Black Forest Labs
+Bland
+Boomy
+Boston Dynamics
+Braintrust
+ByteDance Seed
+CalypsoAI
+Cambricon
+Canva
+Captions
+Cerebras Hardware
+Cerebras Systems
+Character.AI
+ChatDev
+Chroma
+Cline
+Clipdrop
+CloudFactory
+Cloudflare AI Gateway
+CMU AI
+Codeium
+CodeRabbit
+Cognition Devin
+Cohere
+Cohere Embed
+Cohere For AI
+Colossal-AI
+Colossyan
+Comet
+Composio
+Conjecture
+Contextual AI
+Continue.dev
+CoreWeave
+CoreWeave Cloud
+CoRover
+Covariant
+Credo AI
+CrewAI
+Cropin
+Cruise
+Crusoe
+Crusoe Cloud
+Cursor
+D-ID
+d-Matrix
+Darwinbox
+Databricks Mosaic AI
+Daytona
+Decart
+DeepEval
+DeepInfra
+DeepInfra Serving
+DeepMind Safety
+DeepSpeed
+Defined.ai
+Determined AI
+DigitalOcean
+DSPy
+E2B
+E5 Microsoft
+Edge Impulse
+EleutherAI Safety
+ElevenLabs
+Ellipsis
+Enflame
+Etched
+Evidently
+EXAONE
+ExLlama
+Factory
+Fiddler
+Figure AI
+Fireworks AI
+Fireworks Serving
+FLUX
+Fractal Analytics
+Freshworks
+FSDP
+FuriosaAI
+GAIA
+Galileo
+Getty Images
+GitHub Copilot
+Google Cloud
+Google Coral
+Google DeepMind
+Google Dreamer
+Google Gemini Code Assist
+Google Gemma
+Google Genie
+Google Lyria
+Google Veo
+GPT4All
+Graphcore
+Graphite
+GreenWaves
+Greptile
+Groq
+Groq Hardware
+Guardrails AI
+Gumloop
+Gupshup
+Hailo
+Hailuo
+Haiper
+Handshake AI
+Haptik
+Haystack
+HCL AI
+HeyGen
+HiddenLayer
+Higgsfield
+Holistic AI
+Hour One
+Huawei Pangu
+Hugging Face
+Hugging Face SmolLM
+Humane
+Humanloop
+Hume AI
+IBM Granite
+iFlytek Spark
+Iluvatar
+iMerit
+Inflection AI
+Infosys Topaz
+Innatera
+Innodata
+Intello Labs
+Jan
+Kaedim
+Kaggle
+Kapwing
+Kimi
+Kiro
+Kits.AI
+Kling
+Kneron
+Krutrim
+KT Midm
+Kuaishou
+KX
+Labelbox
+Lakera
+Lambda Cloud
+Lamini
+Lamini Train
+Landr
+LangGraph
+LangSmith
+Leonardo.Ai
+LG AI Research
+Lindy
+Liquid AI
+LiteLLM
+Llama Small
+llama.cpp
+LM Studio
+LMNT
+LocalAI
+LoRA
+Luma AI
+Mad Street Den
+Magic
+Make
+Martian
+MediaTek
+Megatron-LM
+Mem0
+MemGPT
+Mercor
+Meshcapade
+Meshy
+Meta AI
+Meta AudioCraft
+Meta Llama
+MetaGPT
+MetaX
+METR
+Microsoft Phi
+Midjourney
+Mila
+Milvus
+MiniCPM
+MIRI
+Mistral AI
+MIT CSAIL
+MLC LLM
+MobileLLM
+Modal
+Modal Cloud
+Modal Serving
+Momenta
+MongoDB Atlas
+Moonshot AI
+Moonvalley
+Mubert
+MultiOn
+n8n
+Naver HyperCLOVA
+Nebius
+Nebius Cloud
+NeMo Guardrails
+Neptune
+NeuroPixels
+NightCafe
+Niramai
+NIST
+NotDiamond
+Nous Research
+Nuro
+NVIDIA Nemotron
+Observe.AI
+Odyssey
+OpenAI Safety
+OpenAI Sora
+OpenAI Whisper
+OpenHands Agent
+OpenPipe Train
+OpenRouter
+Oracle Cloud
+Outlier
+Paperspace
+Patronus AI
+PEFT
+pgvector
+Phoenix
+Photoroom
+Physical Intelligence
+Pika
+Pinecone
+Playground AI
+PlayHT
+PolyAI
+Pony.ai
+Predibase Train
+Project Indus
+Prompt Security
+Protect AI
+Qualcomm AI Hub
+Qure.ai
+Qwen Small
+Rabbit
+Ragas
+Ray Serve
+Ray Train
+Rebellions
+Recraft
+Redwood Research
+Reka AI
+Relevance AI
+Remotasks
+Rephrase
+Replicate
+Replicate Serving
+Replit
+Resemble AI
+Respeecher
+Retell
+Rev AI
+Rime
+Robust Intelligence
+Rodin
+Roo Code
+RouteLLM
+RunPod Cloud
+Runway
+Sama
+SambaNova Hardware
+SambaNova Systems
+Samsung Exynos
+Samsung Gauss
+Sanctuary AI
+Sarvam AI
+Sber GigaChat
+Scale AI
+SEA-LION
+Semantic Kernel
+Sentence Transformers
+SGLang
+Shaip
+Shanghai AI Lab
+Shengshu
+Shutterstock AI
+SigTuple
+Sima.ai
+SingleStore
+SK Telecom
+Skild AI
+Snorkel
+Sogni
+Sora
+Soundraw
+Sourcegraph Cody
+SpaceXAI
+Speechmatics
+Spline
+Stability Audio
+Stability StableLM
+Stagehand
+Stanford HAI
+Supermemory
+Surge AI
+SWE-agent Harness
+Sweep
+Synthesia
+Syntiant
+Tabnine
+Tavus
+TCS AI.Cloud
+Tech Mahindra AI
+TELUS Digital
+Tencent Hunyuan
+TensorRT-LLM
+Tenstorrent
+Tesla Optimus
+text-generation-webui
+TII Falcon
+Together AI
+Together Serving
+Tripo
+Triton
+TruLens
+Turbopuffer
+Turing
+UBTECH
+Udio
+UK AISI
+Uniphore
+Unitree
+Vapi
+Vectara
+Vector Institute
+Veed
+Veo
+Vespa
+Vidu
+vLLM
+Voiceflow
+Voyage AI
+Vultr
+Waabi
+Warp
+Waymo
+Wayve
+Weights and Biases
+WeRide
+WhyLabs
+Windsurf
+Wipro AI
+Wondercraft
+World Labs
+Writer
+xAI
+Xiaomi MiMo
+Yandex
+Yellow.ai
+Z.ai
+Zapier Agents
+Zed
+Zep
+Zhipu AI
+Zilliz
+Zoho
+Zoox
+Predibase
+Civitai
+openai-community
+BentoML
+Simular
+google-bert
+google-t5
+timm
+hexgrad
+Azure
+Comfy-Org
+Elastic
+FacebookAI
+jonatasgrosman
+audio-cpp
+Neo4j
+prithivMLmods
+Toloka
+Deepgram
+ClearML
+distilbert
+argmaxinc
+sentence-transformers
+Lambda
+Genmo
+laion
+pyannote
+coqui
+zai-org
+ornith-ai
+SenseTime
+Systran
+google
+trl-internal-testing
+mlx-community
+Alibaba-NLP
+DavidAU
+ibm-granite
+ISTA-DASLab
+Lightricks
+ggml-org
+huihui-ai
+Xenova
+Falconsai
+stabilityai
+tencent
+nguyenvulebinh
+answerdotai
+lmstudio-community
+airesearch
+mudler
+mesolitica
+cyankiwi
+QuantStack
+imvladikon
+meta-llama
+bartowski
+black-forest-labs
+facebook
+unslothai
+Jackrong
+shibing624
+drbaph
+NeuML
+mistralai
+KBLab
+OpenGVLab
+gaunernst
+sshleifer
+NbAiLab
+onnx-community
+hustvl
+ai-forever
+almanach
+pfnet
+WarmBloodAban
+deepvk
+MiniMaxAI
+ml-resources
+lightonai
+lightx2v
+AtomicChat
+Abiray
+classla
+Salesforce
+OsaurusAI
+cointegrated
+naver
+NousResearch
+RedHatAI
+FenomAI
+janhq
+allenai
+m3hrdadfi
+0xSero
+intfloat
+t8star
+ai-sage
+affaan-m
+tiny-random
+Alibaba-DAMO-Academy
+moonshotai
+FunAudioLLM
+speechbrain
+ByteDance
+alphaedge-ai
+Alissonerdx
+city96
+monologg
+CohereLabs
+MCG-NJU
+software-mansion
+FastFlowLM
+h2oai
+cstr
+OpenMOSS-Team
+FluidInference
+eustlb
+briaai
+FINAL-Bench
+rinna
+omlab
+Rostlab
+NAMAA-Space
+HIT-TMG
+huggingface
+peft-internal-testing
+second-state
+bullerwins
+HuggingFaceM4
+nateraw
+kyutai
+vinai
+keremberke
+typhoon-ai
+optimum-intel-internal-testing
+OS-Software
+Mungert
+vllm-project
+ARTPARK-IISc
+bosonai
+dealignai
+ChrisColeTech
+Cactus-Compute
+thedotmack
+docling-project
+XiaomiMiMo
+ZawShiShawn
+LiquidAI
+open-webui
+SupraLabs
+taronaeo
+l3cube-pune
+Tencent-Hunyuan
+vantagewithai
+llm-jp
+michaelfeil
+browser-use
+cahya
+diffusers
+molbal
+m-a-p
+litert-community
+q-future
+MemTensor
+InstantX
+InstaDeepAI
+ATH-MaaS
+fancyfeast
+echarlaix
+PrunaAI
+paperclipai
+rohitg00
+philschmid
+firecrawl
+OpenVINO
+hiyouga
+infiniflow
+jayn7
+realrebelai
+ComposioHQ
+dmis-lab
+gpustack
+IndexTeam
+coolthor
+robbyant
+netease-youdao
+Mintplex-Labs
+Graphify-Labs
+mem0ai
+TechnoBaptist
+alibaba-pai
+akhaliq
+Efficient-Large-Model
+yujiepan
+botp
+headroomlabs-ai
+BerriAI
+mradermacher
+rockerBOO
+upstash
+unclecode
+Jundot
+kukidevalml
+sbintuitions
+0xSojalSec
+cheaper-inference
+bojieli
+groxaxo
+uer
+pathwaycom
+LibreChat-AI
+TencentARC
+patchy631
+BennyDaBall
+ByteDance-Seed
+HKUDS
+VAGOsolutions
+run-llama
+FireRedTeam
+ashishpatel26
+sgl-project
+BSC-LT
+XLabs-AI
+ItzCrazyKns
+QuantFactory
+virgiliojr94
+agentscope-ai
+tinyhumansai
+VectifyAI
+lxe
+mrfakename
+KBlueLeaf
+alibaba
+VoltAgent
+calcuis
+feder-cr
+Manojb
+decolua
+desert-ant-labs
+dicta-il
+ray-project
+datawhalechina
+milvus-io
+labring
+mobilint
+aufklarer
+Soul-AILab
+mukul975
+Mozilla
+MERaLiON
+TencentCloud
+CopilotKit
+promptfoo
+infly
+meituan-longcat
+volcengine
+topoteretes
+NirDiamant
+1Panel-dev
+surogate
+dipakkr
+xiaomi-research
+onyx-dot-app
+joyfox
+KKKKhazix
+jnMetaCode
+modelscope
+darkmaniac7
+utrobinmv
+zhayujie
+kuleshov-group
+rhymes-ai
+walkinglabs
+strangerzonehf
+eosphoros-ai
+xerj-org
+wanshuiyin
+hf-tiny-model-private
+PaddlePaddle
+jeecgboot
+coze-dev
+deutsche-telekom
+rzgar
+vibrantlabsai
+screenpipe
+corsairdev
+drawthingsai
+vllm-sr
+optimum
+apache
+Canner
+RightNow-AI
+vdo
+princeton-nlp
+Runware
+EverMind-AI
+StarTrail-org
+comet-ml
+QwenLM
+browseros-ai
+arc53
+QwenAudio
+espnet
+starsfriday
+elix3r
+FareedKhan-dev
+codexu
+memvid
+cocktailpeanut
+OzzyGT
+optimum-internal-testing
+off-grid-ai
+0x4m4
+Anionex
+langchain4j
+e2b-dev
+ConardLi
+bytebot-ai
+ytu-ce-cosmos
+cocoindex-io
+qubvel-hf
+1aurent
+lucidrains
+omnigent-ai
+trailhq
+holaboss-ai
+prj-beatrice
+JCTN
+sigoden
+vanch007
+astrid-runtime
+artificialguybr
+yuvraj108c
+TykTechnologies
+UCSC-VLAA
+zilliztech
+stanfordmimi
+MakazhanAlpamys
+activeloopai
+cobusgreyling
+ai-boost
+strands-agents
+RunanywhereAI
+patrickvonplaten
+yzhao062
+FoundationVision
+deeplethe
+Roboflow
+openvinotoolkit
+Bingsu
+cmarkea
+Neywa-Labs
+Skywork
+poloclub
+WangRongsheng
+robertbschuette
+abacusai
+iflytek
+megagonlabs
+NVlabs
+chfm
+Gen-Verse
+lastmile-ai
+Disty0
+bodhan-ai
+WenyuChiou
+katanemo
+dataelement
+qihoo360
+lewtun
+postgresml
+Frederic75
+liyupi
+open-multi-agent
+camenduru
+liguodongiot
+xerrors
+DAMO-NLP-SG
+unum-cloud
+genkit-ai
+InsecureErasure
+om-ai-lab
+MinishLab
+somosnlp-hackathon-2022
+open-mmlab
+ali-vilab
+showlab
+SkalskiP
+naklitechie
+promptslab
+superagent-ai
+ARahim3
+Shitao
+VietAI
+Dicklesworthstone
+casdoor
+Upsonic
+shyngys879
+infosave
+zjwfufu
+melgarafael
+langwatch
+gaianet
+tensorchord
+Kiln-AI
+pguso
+oxide-lab
+sanchit-gandhi
+ModelsLab
+nolabs-ai
+PKU-Alignment
+MBZUAI
+awslabs
+nielsr
+EvolvingLMMs-Lab
+sensenova
+CaviraOSS
+Arm
+aipotheosis-labs
+ZJU-REAL
+declare-lab
+ModelTC
+Picovoice
+cudabenchmarktest
+didilili
+filipecalegario
+superduper-io
+csebuetnlp
+gsarti
+linoyts
+IDEA-CCNL
+crmne
+raullenchai
+aiming-lab
+fxmarty
+HKUSTAudio
+ayousanz
+arampacha
+audarai
+rasyosef
+TheStageAI
+embeddings-benchmark
+OpenMOSS
+facebookresearch
+JIA-Lab-research
+JoaoZaokk
+Driw0x
+decodingai-magazine
+Sumanth077
+amitshekhariitbhu
+scenario-labs
+mit-han-lab
+zzw922cn
+atfortes
+ldov
+jbilcke-hf
+bghira
+FellouAI
+ddalcu
+Jinstudio
+youssofal
+mrm8488
+wesjos
+superlinked
+AI4Protein
+mingyi456
+lioensky
+vearch
+Alpha-VLLM
+joeynyc
+developerjeremylive
+Harsha001
+Casual-Autopsy
+xlang-ai
+flax-community
+IBM
+ybelkada
+suryatmodulus
+kp-forks
+athina-ai
+fikrikarim
+NVIDIA-NeMo
+AI-Efficiency
+trpc-group
+aurelio-ai
+voidful
+PKU-YuanGroup
+kandinskylab
+TIGER-AI-Lab
+AlekseyCalvin
+giancarloerra
+ELiRF
+FrigadeHQ
+soniqo
+DFloat11
+SakanaAI
+AlibabaResearch
+vstorm-co
+ICTNLP
+NVIDIA-AI-Blueprints
+loom-ai-org
+zjunlp
+Acly
+adobe-research
+biali
+InternRobotics
+AutowareFoundation
+AI-Hypercomputer
+vlad-grig
+fcakyon
+mlboydaisuke
+topk-io
+nasa-ibm-ai4science
+future-agi
+orneryd
+truefoundry
+autonomous-ai
+stronman
+OpenDCAI
+refiners
+Shilin-LU
+ThakiCloud
+jwuthri-cloud
+bayartsogt
+worldbench
+chipfighter
+vicgalle
+ovi054
+stoyan-stoyanov
+AXERA-TECH
+mbzuai-oryx
+timfromhcs
+pegainfer-project
+NeumTry
+acul3
+SmythOS
+OpenDriveLab
+qqceqqq
+whitecircle
+wolf1280
+sekkit
+FreedomIntelligence
+thewh1teagle
+jaylfc
+dronefreak
+nativ-community
+zhihu
+oxbshw
+androidli
+CATIE-AQ
+mll-lab-nu
+ylacombe
+Kevin-thu
+helenai
+framerslab
+mehmetkeremturkcan
+Kenza-AI
+MirroS-Lab
+Azure-Samples
+H-EmbodVis
+aws-samples
+sayakpaul
+erax-ai
+omriav
+EulerSearch
+benmaster82
+uclanlp
+GreenMap
+AEmotionStudio
+Sawfwair
+OpenEnvision
+StartLuxLabs
+tensorblock
+Yigtwxx
+CollectionStudio
+jadechoghari
+d14945921
+SyFeee
+chaitnya26
+aniketmaurya
+AlaaLab
+zeromodels
+SamuelM0422
+carloslfu
+deepsense-ai
+skillsafe-ai
+FriendliAI
+peva3
+my-app-s
+interestingLSY
+zenlm
+muaibinrah
+ferro-labs
+JONNYVERSE
+kekzl
+codelion
+AcademiaSD
+pie-project
+google-deepmind
+keras-io
+nagayama0706
+thealper2
+OmniJev
+philfung
+not-lain
+L-Forster
+dusty-nv
+raiyanyahya
+api7
+baidu
+Mattral
+OrlojHQ
+anthony-chaudhary
+talhaanwarch
+Scottcjn
+radicalbit
