@@ -1,0 +1,11 @@
+sentence-transformers
+BAAI
+openai-community
+google-bert
+google-t5
+jonatasgrosman
+timm
+hexgrad
+Comfy-Org
+prithivMLmods
+FacebookAI
