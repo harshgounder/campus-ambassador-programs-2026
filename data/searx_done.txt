@@ -349,3 +349,222 @@ FireRedTeam
 huanngzh
 lxe
 BlinkDL
+01-ai
+playgroundai
+codefuse-ai
+rhymes-ai
+nari-labs
+mlabonne
+princeton-nlp
+openmmlab
+espnet
+kakaobrain
+pytorch
+altic-dev
+off-grid-ai
+VAST-AI
+llamaindex
+arcee-ai
+Mozilla
+hpcai-tech
+refuelai
+Roboflow
+2Noise
+vladmandic
+supertone-oss-archive
+pipecat-ai
+ali-vilab
+galilai-group
+hyp1231
+sapientinc
+declare-lab
+cocktailpeanut
+Uminosachi
+TokenRhythm
+showlab
+katanemo
+scenario-labs
+mit-han-lab
+OpenNMT
+ddalcu
+r3gm
+StarVLA
+Alpha-VLLM
+commaai
+InvokeAI
+edbeeching
+Intelligent-Internet
+leggedrobotics
+voidful
+GanjinZero
+IDEA-CCNL
+frgfm
+soniqo
+ise-uiuc
+browser-use
+Acly
+tugstugi
+bghira
+TheLastBen
+Dexmal
+AutowareFoundation
+breezedeus
+p-e-w
+Purfview
+Goekdeniz-Guelmez
+miromind-ai
+clips
+PKU-Alignment
+AntResearch
+fixie-ai
+Edresson
+metarank
+latentcat
+thewh1teagle
+SeanLee97
+CAMB-AI
+fofr
+rail-berkeley
+EverMind-AI
+metavoiceio
+gorse-io
+AdapterHub
+thu-coai
+enactic
+torchgeo
+OpenDCAI
+IAHispano
+sanchit-gandhi
+ICTNLP
+PSRben
+sambanovasystems
+RLinf
+ddz16
+mosaicml
+kornia
+SakanaAI
+CarperAI
+3DTopia
+deepdoctection
+mozilla-ai
+mrdbourke
+minimaxir
+yibie
+rsxdalv
+khoj-ai
+looplj
+rhasspy
+ModelTC
+FoundationVision
+EvanZhouDev
+ParisNeo
+RUCAIBox
+yorko
+snap-research
+antgroup
+LMD0311
+deepklarity
+arize-ai
+roboterax
+toloka
+carsonkatri
+hyperonym
+Voxel51
+AmazonScience
+afx-team
+krasserm
+alphacep
+fastai
+Xnhyacinth
+jingyaogong
+neonwatty
+GitMylo
+X-D-Lab
+EmbeddedLLM
+bethgelab
+ayoolaolafenwa
+jjyaoao
+araffin
+yurijmikhalevich
+fireworks-ai
+ollama
+langfuse
+continuedev
+SWE-agent
+google-deepmind
+bentoml
+lancedb
+humanloop
+kserve
+deepgram
+prompt-security
+ContextualAI
+alan-turing-institute
+deepinfra
+Amazon AGI
+Microsoft AI
+Allen Institute for AI
+Alibaba Tongyi
+StepFun
+Shanghai AI Lab
+Baidu ERNIE
+iFlytek Spark
+Huawei Pangu
+LG AI Research
+EXAONE
+Naver HyperCLOVA
+Krutrim
+Project Indus
+NVIDIA Nemotron
+Microsoft Phi
+Apple OpenELM
+Samsung Gauss
+SK Telecom
+KT Midm
+Sber GigaChat
+TII Falcon
+Cohere For AI
+Ai2 OLMo
+Google Gemma
+Qwen Small
+Llama Small
+Hugging Face SmolLM
+Stability StableLM
+MobileLLM
+MiniCPM
+Apple On-Device
+Qualcomm AI
+Samsung Exynos
+Arm Ethos
+Google Coral
+Qualcomm AI Hub
+Axelera AI
+GreenWaves
+Syntiant
+Midjourney
+Adobe Firefly
+NightCafe
+Getty Images
+Shutterstock AI
+Luma AI
+Kuaishou
+Shengshu
+OpenAI Sora
+Google Veo
+Google Genie
+Google Dreamer
+Wayve
+Tesla Optimus
+Sanctuary AI
+Waymo
+Cruise
+OpenAI Whisper
+Meta AudioCraft
+Stability Audio
+Boomy
+Kits.AI
+Codeium
+Cognition Devin
+Sourcegraph Cody
+Tabnine
+Amazon Q Developer
