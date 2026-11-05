@@ -24,6 +24,8 @@ chk("registry has OPEN rows",any(x["status"]=="OPEN" for x in r),f"{sum(1 for x 
 chk("registry has India-eligible rows",any("India" in x["region"] or x["region"]=="global" for x in r),"")
 chk("report exists",os.path.exists("REPORT.md"),"REPORT.md")
 chk("ai scope report exists",os.path.exists("REPORT-AI-SCOPE.md"),"REPORT-AI-SCOPE.md")
+chk("census has 25000+ names",len(rows("data/ai-orgs-census.csv"))>=25000,f"{len(rows('data/ai-orgs-census.csv'))} rows")
+chk("census has 3000+ org-tier names",sum(1 for x in rows("data/ai-orgs-census.csv") if x["tier"] in ("curated","org"))>=3000,"org tier")
 chk("universe csv exists",len(rows("data/ai-universe.csv"))>10000,f"{len(rows('data/ai-universe.csv'))} rows")
 chk("waves tracker exists",os.path.exists("WAVES.md"),"WAVES.md")
 chk("tracker exists with 50+ open rows",len(rows("data/tracker.csv"))>=50,f"{len(rows('data/tracker.csv'))} rows")
