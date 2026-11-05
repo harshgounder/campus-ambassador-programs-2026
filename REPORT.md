@@ -331,3 +331,60 @@ ambassador) style programs, but they are domestic.
 
 Remaining: about 200 names, then a manual pass on the Tencent, Alibaba, ByteDance, Coze and
 ModelScope open source ambassador pages to confirm whether any accept overseas applicants.
+
+---
+
+# Added 5 Nov 2026: the X layer
+
+Two corrections from the timeline.
+
+1. **Gemini Semester 2 is live and starts 5 November 2026.** Application form page 1 of 5,
+   students graduating before March 2027 excluded, which passes a 2029 graduation. Referral
+   GIDs (7206, 7926, 611) are circulating, they are not required.
+2. **SpaceXAI and Cursor reopened on 29 October 2026.** Alberto Jauregui, who runs
+   ambassador.sh, posted that he updated the directory the same day. The live form remains
+   `https://anysphere.typeform.com/spacexsi-amb`.
+
+## Why X shows hundreds and the corporate pages show dozens
+
+The X timeline is dominated by Web3, creator and micro-project ambassador programs. They
+recruit in public posts, pay in tokens or USDC, take anyone, and never appear in a company
+careers page or a directory. That is the layer the first passes missed. It is also a
+different quality tier: most have no certificate, no LOR, and a reward pool under $10k.
+
+Harvested and open as of 5 Nov 2026 (all V2, official account posts):
+
+| Program | Reward | Clock | Link |
+|---|---|---|---|
+| Folester Ambassador | $10k, 50 spots | ends about 9 Nov | https://folester.xyz/ambassadors |
+| RivrDEX Cohort 2 | monthly USDT | 7 Nov | X post |
+| Rax Finance Round 2 | points and rewards | 5 days | X post |
+| Superstakez Ambassador | $6k pool, 20 spots | 7-day program | X post |
+| Jirobots Ambassador | not stated | rolling | X post |
+| VarsityScape Campus Ambassador | India, edtech | rolling | X post |
+| Krexa Campus Ambassador | AI and trading | rolling | X post |
+| JoinCare Ambassador | AI biotech | rolling | Google Form |
+| QuantArc Creator & Ambassador | reward pools | rolling | X post |
+| BLOK Capital Ambassador | video creators | rolling | X post |
+| BetaCoin Ambassador | incentives | rolling | Telegram |
+| Orbinum Ambassador | monthly ORB | reopened | X post |
+| Garly City Ambassador | city rep | rolling | X post |
+| Parallax Ambassador | weekly cohorts | rolling | referral |
+| ETC Grants DAO | 1 point = 1 ETC | rolling | X post |
+| Irys DataPunk | stipend plus bounties | rolling | https://ambassador.irys.xyz/ |
+| PrismPay Ambassador | not stated | live 29 Oct | Telegram |
+| Remix Ambassador | weekly USDC, top 50 | rolling | https://remix.gg/events/rewards/ambassador |
+| Bagel Ambassador | not stated | rolling | Google Form |
+| GOHOME Ambassador | $15 prizes | rolling | X post |
+| Action Model | paid monthly | rolling | X post |
+| Canborsa | $4,500 monthly pool | season 2 | X post |
+
+Restricted or closed: Simplyr (US only), GMI Clouders (Taiwan, Japan, Korea, Singapore, SEA,
+India not listed), Toronet (closed 30 Oct), Docker Campus Ambassador (2017, dead).
+
+## The honest read
+
+For a resume, the corporate layer still wins: Gemini, AWS, IBM Z, Arduino and Qualcomm,
+Cerebras, Claude Community. The X layer is fine for cash, practice and a first "ambassador"
+line, but it will not carry the same weight, and some of these projects are weeks old with no
+product. Pick at most two, treat the reward as a bonus, and never pay to join.
