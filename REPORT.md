@@ -388,3 +388,27 @@ For a resume, the corporate layer still wins: Gemini, AWS, IBM Z, Arduino and Qu
 Cerebras, Claude Community. The X layer is fine for cash, practice and a first "ambassador"
 line, but it will not carry the same weight, and some of these projects are weeks old with no
 product. Pick at most two, treat the reward as a bonus, and never pay to join.
+
+---
+
+# Wave 6, India block, 5 Nov 2026
+
+Checked the Indian AI and SaaS orgs in `data/master-ai.csv`.
+
+| Program | Org | Status | Note | Apply |
+|---|---|---|---|---|
+| **Sarvam Captain** | Sarvam AI | OPEN | The strongest India find. Sarvam Campus runs a national tour, and a Captain leads the campus programme with direct access to Sarvam researchers, engineers and product teams, plus credits and event support. Application takes about 15 minutes. | https://www.sarvam.ai/campus |
+| **IncuXai Campus AI Ambassador 2026-27** | IncuXai | OPEN | 300 ambassadors, exactly 2 per college, free, certificate, national network. | https://campusambassador.incuxai.com/ |
+| **INSIDE Campus Ambassador** | INSIDE / AutoKryx | OPEN | AI education platform, represent at your institution, lead AI study initiatives. | https://getinside.in/ |
+| Fractal iqigai Campus Ambassador | Fractal Analytics | LEAD | Runs inside in-person campus events, 3 to 4 ambassadors per participating college. Ask the placement cell. | https://iqigai.ai/ |
+| Sarvam Next | Sarvam AI | RESTRICTED | Campus founders programme, explicitly IITs, IISc, ISB, NITs. MUJ does not qualify. | https://www.sarvam.ai/sarvam-next |
+| Krutrim Insights Campus Ambassador | Krutrim Insights | CLOSED | Deadline was 13 Apr 2026. Note this is a training company, not Ola Krutrim. | Unstop |
+| Code for GovTech Campus Ambassador | C4GT | LEAD | Ran a 2024-25 cohort, no live form found. | codeforgovtech.in |
+
+Sarvam Campus tour stops already held include IIIT Pune and PICT Pune on 3 November 2026.
+The Captain application is separate from the tour and is the route that matters.
+
+## Tracker
+
+`data/tracker.csv` now has 95 open rows with columns program, org, region, deadline, apply URL,
+applied, notes. Sorted so dated deadlines come first. This is the file to work from daily.

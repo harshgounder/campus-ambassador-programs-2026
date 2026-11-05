@@ -9,10 +9,10 @@ Each wave has a definition of done. The checker reads the artifacts, not my word
 | 3 | Ambassador programs, corporate layer | data/registry.csv, REPORT.md | DONE, 174 rows |
 | 4 | Ambassador programs, X and Web3 layer | REPORT.md section, registry rows | DONE, 31 rows |
 | 5 | Ambassador scan of the notable 1,097 | data/scan_hits.jsonl | PARTIAL, 900 of 1,097 |
-| 6 | Country by country program check | registry region column | PENDING |
+| 6 | Country by country program check | registry region column | INDIA DONE 5 Nov, other regions pending |
 | 7 | Open vs soon vs closed recheck at one date | registry status column | PENDING |
 | 8 | India eligibility filter for a 2nd year ECE at MUJ | scope/PROFILE.md | PARTIAL |
-| 9 | Applied tracker with deadlines and logins | data/tracker.csv | PENDING |
+| 9 | Applied tracker with deadlines and logins | data/tracker.csv | STARTED 5 Nov, 97 open rows |
 
 ## Definition of done per wave
 
