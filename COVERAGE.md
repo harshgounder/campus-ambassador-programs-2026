@@ -16,3 +16,7 @@
 | FOUND | 75 |
 
 Passes: initial scan, resolver v1, v2, DuckDuckGo, SearXNG, Parallel AI, browser retry, unverified domain-match.
+
+## Depth correction
+
+Breadth: 3,965 covered. Depth: **738 substantive and domain-verified**. See COVERED-AUDIT.md.

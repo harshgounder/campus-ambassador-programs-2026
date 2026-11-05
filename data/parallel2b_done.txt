@@ -144,3 +144,220 @@ stepfun-ai
 BoldingBuilds
 roneneldan
 stefan-it
+pszemraj
+giacomoarienti
+larryvrh
+ChristianAzinn
+LiheYoung
+xbgoose
+OFA-Sys
+eustlb
+gabor-hosu
+GnLOLot
+ilintar
+trmteb
+Rostlab
+KyleHessling1
+cjvt
+omlab
+John6666
+ISxOdin
+ifrz
+TahaDouaji
+aari1995
+nreimers
+NAMAA-Space
+nijatzeynalov
+peft-internal-testing
+lokeshe09
+CaptainArni
+bullerwins
+SimianLuo
+HuggingFaceM4
+ihanif
+stelterlab
+neroued
+abhishekchohan
+fla-hub
+gmunkhtur
+azukivc
+MaxJeblick
+hfl
+yuxinlu1
+leliuga
+shalev396
+latent-consistency
+llmfan46
+keremberke
+AngelSlim
+OS-Software
+vasista22
+HuggingFaceH4
+dima806
+Mungert
+istupakov
+tiiuae
+alibiserikbay
+joe32140
+christopherthompson81
+Orion-zhen
+ChrisColeTech
+sh0wie
+taronaeo
+lopi999
+bleysg
+dark-side-of-the-code
+WaveCut
+vumichien
+lrzjason
+YuYu1015
+wikeeyang
+XiaomiMiMo
+l3cube-pune
+PramaLLC
+bond005
+gberton
+rapatsky
+avsolatorio
+ZawShiShawn
+arkohut
+huggyllama
+IsValorum
+SoAIHQ
+AlperKTS
+efederici
+ZhengmingYu
+abhilash88
+codeparrot
+ATH-MaaS
+MemTensor
+syvai
+mflux-community
+BlinkDL
+playgroundai
+01-ai
+mlabonne
+codefuse-ai
+espnet
+rhymes-ai
+openmmlab
+hpcai-tech
+off-grid-ai
+kakaobrain
+vladmandic
+2Noise
+supertone-oss-archive
+ali-vilab
+hyp1231
+sapientinc
+refuelai
+declare-lab
+cocktailpeanut
+ddalcu
+r3gm
+commaai
+edbeeching
+leggedrobotics
+Intelligent-Internet
+GanjinZero
+showlab
+frgfm
+ise-uiuc
+browser-use
+Acly
+tugstugi
+bghira
+TheLastBen
+Purfview
+Goekdeniz-Guelmez
+Dexmal
+PKU-Alignment
+miromind-ai
+fixie-ai
+AntResearch
+SeanLee97
+rail-berkeley
+IDEA-CCNL
+metavoiceio
+EverMind-AI
+thu-coai
+sanchit-gandhi
+ICTNLP
+OpenDCAI
+PSRben
+ddz16
+CarperAI
+yibie
+rsxdalv
+looplj
+EvanZhouDev
+FoundationVision
+ParisNeo
+RUCAIBox
+LMD0311
+antgroup
+yorko
+roboterax
+hyperonym
+afx-team
+GitMylo
+neonwatty
+jjyaoao
+ayoolaolafenwa
+araffin
+Voxel51
+SWE-agent
+alan-turing-institute
+Shanghai AI Lab
+Allen Institute for AI
+Alibaba Tongyi
+SK Telecom
+KT Midm
+TII Falcon
+Sber GigaChat
+MobileLLM
+Qwen Small
+Microsoft Phi
+Samsung Exynos
+MiniCPM
+Arm Ethos
+Syntiant
+Meta AudioCraft
+E5 Microsoft
+Kuaishou
+Replicate Serving
+TensorRT-LLM
+Lamini
+PEFT
+FSDP
+RouteLLM
+Tabnine
+OpenPipe Train
+Predibase Train
+Lamini Train
+NeMo Guardrails
+Groq Hardware
+UK AISI
+Cambricon
+HCL AI
+TCS AI.Cloud
+Canva Magic
+Bloomberg GPT
+Ambience
+Tome
+Air Street Capital
+Y Combinator AI
+Aethir
+tensorflow
+Significant-Gravitas
+Squirrel AI
+DietrichGebert
+farion1231
+Snailclimb
+Graphify-Labs
+x1xhlol
+stablyai
+langchain-ai
+Leonxlnx
+thedotmack
+Panniantong

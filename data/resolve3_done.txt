@@ -212,3 +212,8 @@ florence-community
 Kujira
 MCG-NJU
 AnkitAI
+stepfun-ai
+roneneldan
+BoldingBuilds
+dragonkue
+stefan-it

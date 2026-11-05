@@ -593,3 +593,20 @@
 {"name": "Cloudflare AI Gateway", "site": "", "status": "UNRESOLVED", "hits": []}
 {"name": "Martian", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
 {"name": "RouteLLM", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Lamini", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "PEFT", "site": "https://scale.com", "status": "UNVERIFIED", "hits": []}
+{"name": "FSDP", "site": "https://sbert.net", "status": "RESOLVED", "hits": []}
+{"name": "Ray Train", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Predibase Train", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "OpenPipe Train", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Lamini Train", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Adept Train", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Databricks Mosaic AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "NeMo Guardrails", "site": "https://developer.nvidia.com", "status": "UNVERIFIED", "hits": []}
+{"name": "TruLens", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Cerebras Hardware", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "SambaNova Hardware", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Groq Hardware", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Cambricon", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Google Cloud", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Oracle Cloud", "site": "https://oracle.com", "status": "RESOLVED", "hits": []}

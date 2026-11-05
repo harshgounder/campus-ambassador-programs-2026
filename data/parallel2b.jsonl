@@ -144,3 +144,220 @@
 {"name": "BoldingBuilds", "site": "https://openmodelstats.com", "status": "UNVERIFIED", "hits": []}
 {"name": "roneneldan", "site": "https://modeldatabase.com", "status": "UNVERIFIED", "hits": []}
 {"name": "stefan-it", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "pszemraj", "site": "https://savrn.com", "status": "UNVERIFIED", "hits": []}
+{"name": "giacomoarienti", "site": "https://savrn.com", "status": "UNVERIFIED", "hits": []}
+{"name": "larryvrh", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "ChristianAzinn", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "LiheYoung", "site": "https://liheyoung.github.io", "status": "RESOLVED", "hits": []}
+{"name": "xbgoose", "site": "https://openmodelstats.com", "status": "UNVERIFIED", "hits": []}
+{"name": "OFA-Sys", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "eustlb", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "gabor-hosu", "site": "https://hgabor.com", "status": "UNVERIFIED", "hits": []}
+{"name": "GnLOLot", "site": "https://llm-explorer.com", "status": "UNVERIFIED", "hits": []}
+{"name": "ilintar", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "trmteb", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Rostlab", "site": "https://protifer.app", "status": "UNREACHABLE", "hits": []}
+{"name": "KyleHessling1", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "cjvt", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "omlab", "site": "https://omilab.org", "status": "UNVERIFIED", "hits": []}
+{"name": "John6666", "site": "https://openmodelstats.com", "status": "UNVERIFIED", "hits": []}
+{"name": "ISxOdin", "site": "https://savrn.com", "status": "UNVERIFIED", "hits": []}
+{"name": "ifrz", "site": "https://openmodelstats.com", "status": "UNVERIFIED", "hits": []}
+{"name": "TahaDouaji", "site": "https://syncdev.com", "status": "UNVERIFIED", "hits": []}
+{"name": "aari1995", "site": "https://ai.azure.com", "status": "UNVERIFIED", "hits": []}
+{"name": "nreimers", "site": "https://nils-reimers.de", "status": "UNVERIFIED", "hits": []}
+{"name": "NAMAA-Space", "site": "https://namaa.space", "status": "RESOLVED", "hits": []}
+{"name": "nijatzeynalov", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "peft-internal-testing", "site": "https://hf.qhduan.com", "status": "UNREACHABLE", "hits": []}
+{"name": "lokeshe09", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "CaptainArni", "site": "https://openmodelstats.com", "status": "UNVERIFIED", "hits": []}
+{"name": "bullerwins", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "SimianLuo", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "HuggingFaceM4", "site": "https://modelscope.cn", "status": "UNVERIFIED", "hits": []}
+{"name": "ihanif", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "stelterlab", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "neroued", "site": "https://contextstudios.ai", "status": "UNVERIFIED", "hits": []}
+{"name": "abhishekchohan", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "fla-hub", "site": "https://modelscope.cn", "status": "UNVERIFIED", "hits": []}
+{"name": "gmunkhtur", "site": "https://ai.azure.com", "status": "UNVERIFIED", "hits": []}
+{"name": "azukivc", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "MaxJeblick", "site": "https://kaggle.com", "status": "UNVERIFIED", "hits": []}
+{"name": "hfl", "site": "https://moark.com", "status": "UNREACHABLE", "hits": []}
+{"name": "yuxinlu1", "site": "https://openmodelstats.com", "status": "UNVERIFIED", "hits": []}
+{"name": "leliuga", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "shalev396", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "latent-consistency", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "llmfan46", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "keremberke", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "AngelSlim", "site": "https://modelscope.cn", "status": "UNVERIFIED", "hits": []}
+{"name": "OS-Software", "site": "https://hf.qhduan.com", "status": "UNREACHABLE", "hits": []}
+{"name": "vasista22", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "HuggingFaceH4", "site": "https://baseten.co", "status": "UNVERIFIED", "hits": []}
+{"name": "dima806", "site": "https://modelscope.cn", "status": "UNVERIFIED", "hits": []}
+{"name": "Mungert", "site": "https://modelscope.cn", "status": "UNVERIFIED", "hits": []}
+{"name": "istupakov", "site": "https://istupakov.github.io", "status": "UNVERIFIED", "hits": []}
+{"name": "tiiuae", "site": "https://tii.ae", "status": "UNVERIFIED", "hits": []}
+{"name": "alibiserikbay", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "joe32140", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "christopherthompson81", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Orion-zhen", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "ChrisColeTech", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "sh0wie", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "taronaeo", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "lopi999", "site": "https://openmodelstats.com", "status": "UNVERIFIED", "hits": []}
+{"name": "bleysg", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "dark-side-of-the-code", "site": "https://cdn-avatars.qwak.ai", "status": "UNVERIFIED", "hits": []}
+{"name": "WaveCut", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "vumichien", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "lrzjason", "site": "https://lrzjason.github.io", "status": "UNVERIFIED", "hits": []}
+{"name": "YuYu1015", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "wikeeyang", "site": "https://pass.io", "status": "UNVERIFIED", "hits": []}
+{"name": "XiaomiMiMo", "site": "https://mimo.mi.com", "status": "RESOLVED", "hits": []}
+{"name": "l3cube-pune", "site": "https://aipotluck.org", "status": "UNVERIFIED", "hits": []}
+{"name": "PramaLLC", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "bond005", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "gberton", "site": "https://openmodelstats.com", "status": "UNVERIFIED", "hits": []}
+{"name": "rapatsky", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "avsolatorio", "site": "https://202.60.232.154:8889", "status": "UNREACHABLE", "hits": []}
+{"name": "ZawShiShawn", "site": "https://free2aitools.com", "status": "UNVERIFIED", "hits": []}
+{"name": "arkohut", "site": "https://ollama.com", "status": "UNVERIFIED", "hits": []}
+{"name": "huggyllama", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "IsValorum", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "SoAIHQ", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "AlperKTS", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "efederici", "site": "https://banda-larga.github.io", "status": "UNVERIFIED", "hits": []}
+{"name": "ZhengmingYu", "site": "https://yzmblog.github.io", "status": "RESOLVED", "hits": []}
+{"name": "abhilash88", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "codeparrot", "site": "https://codeparrot.ai", "status": "UNVERIFIED", "hits": []}
+{"name": "ATH-MaaS", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "MemTensor", "site": "https://memtensor.cn", "status": "UNREACHABLE", "hits": []}
+{"name": "syvai", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "mflux-community", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "BlinkDL", "site": "https://rwkv.com", "status": "UNVERIFIED", "hits": []}
+{"name": "playgroundai", "site": "https://playgroundai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "01-ai", "site": "https://01.ai", "status": "UNREACHABLE", "hits": []}
+{"name": "mlabonne", "site": "https://lmstudio.ai", "status": "UNVERIFIED", "hits": []}
+{"name": "codefuse-ai", "site": "https://developer.aliyun.com", "status": "UNVERIFIED", "hits": []}
+{"name": "espnet", "site": "https://espnet.github.io", "status": "UNVERIFIED", "hits": []}
+{"name": "rhymes-ai", "site": "https://platform-pre.rhymes.ai", "status": "RESOLVED", "hits": []}
+{"name": "openmmlab", "site": "https://openmmlab.com", "status": "UNREACHABLE", "hits": []}
+{"name": "hpcai-tech", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "off-grid-ai", "site": "https://exploreds.xyz", "status": "UNVERIFIED", "hits": []}
+{"name": "kakaobrain", "site": "https://kakaobrain.com", "status": "UNREACHABLE", "hits": []}
+{"name": "vladmandic", "site": "https://vladmandic.github.io", "status": "UNVERIFIED", "hits": []}
+{"name": "2Noise", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "supertone-oss-archive", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "ali-vilab", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "hyp1231", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "sapientinc", "site": "https://sapient.inc", "status": "RESOLVED", "hits": []}
+{"name": "refuelai", "site": "https://docs.refuel.ai", "status": "RESOLVED", "hits": []}
+{"name": "declare-lab", "site": "https://declare-lab.github.io", "status": "RESOLVED", "hits": []}
+{"name": "cocktailpeanut", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "ddalcu", "site": "https://dalcu.com", "status": "UNVERIFIED", "hits": []}
+{"name": "r3gm", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "commaai", "site": "https://git.io", "status": "UNVERIFIED", "hits": []}
+{"name": "edbeeching", "site": "https://edbeeching.github.io", "status": "UNVERIFIED", "hits": []}
+{"name": "leggedrobotics", "site": "https://sy.cr1000.cn", "status": "UNVERIFIED", "hits": []}
+{"name": "Intelligent-Internet", "site": "https://github.itlym.cn", "status": "UNREACHABLE", "hits": []}
+{"name": "GanjinZero", "site": "https://exploreds.xyz", "status": "UNVERIFIED", "hits": []}
+{"name": "showlab", "site": "https://showlab.ai", "status": "RESOLVED", "hits": []}
+{"name": "frgfm", "site": "https://168.138.51.227:8088", "status": "UNREACHABLE", "hits": []}
+{"name": "ise-uiuc", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "browser-use", "site": "https://app.dealroom.co", "status": "UNVERIFIED", "hits": []}
+{"name": "Acly", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "tugstugi", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "bghira", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "TheLastBen", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Purfview", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Goekdeniz-Guelmez", "site": "https://goekdeniz-guelmez.github.io", "status": "UNVERIFIED", "hits": []}
+{"name": "Dexmal", "site": "https://dexmal.com", "status": "UNREACHABLE", "hits": []}
+{"name": "PKU-Alignment", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "miromind-ai", "site": "https://prnewswire.com", "status": "UNVERIFIED", "hits": []}
+{"name": "fixie-ai", "site": "https://welcome.ai", "status": "UNVERIFIED", "hits": []}
+{"name": "AntResearch", "site": "https://download.plaud.ai", "status": "UNREACHABLE", "hits": []}
+{"name": "SeanLee97", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "rail-berkeley", "site": "https://168.138.51.227:8088", "status": "UNREACHABLE", "hits": []}
+{"name": "IDEA-CCNL", "site": "https://idea.edu.cn", "status": "RESOLVED", "hits": []}
+{"name": "metavoiceio", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "EverMind-AI", "site": "https://gh.p.csz.net", "status": "UNVERIFIED", "hits": []}
+{"name": "thu-coai", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "sanchit-gandhi", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "ICTNLP", "site": "https://168.138.51.227:8088", "status": "UNREACHABLE", "hits": []}
+{"name": "OpenDCAI", "site": "https://gh.p.csz.net", "status": "UNVERIFIED", "hits": []}
+{"name": "PSRben", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "ddz16", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "CarperAI", "site": "https://carper.ai", "status": "UNREACHABLE", "hits": []}
+{"name": "yibie", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "rsxdalv", "site": "https://rsxdalv.github.io", "status": "UNVERIFIED", "hits": []}
+{"name": "looplj", "site": "https://gstars.dev", "status": "UNVERIFIED", "hits": []}
+{"name": "EvanZhouDev", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "FoundationVision", "site": "https://github.itlym.cn", "status": "UNREACHABLE", "hits": []}
+{"name": "ParisNeo", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "RUCAIBox", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "LMD0311", "site": "https://lmd0311.github.io", "status": "UNVERIFIED", "hits": []}
+{"name": "antgroup", "site": "https://antgroup.com", "status": "UNVERIFIED", "hits": []}
+{"name": "yorko", "site": "https://glittr.org", "status": "RESOLVED", "hits": []}
+{"name": "roboterax", "site": "https://112.cachefly.net", "status": "UNVERIFIED", "hits": []}
+{"name": "hyperonym", "site": "https://hub.docker.com", "status": "UNVERIFIED", "hits": []}
+{"name": "afx-team", "site": "https://aifasthub.com", "status": "UNVERIFIED", "hits": []}
+{"name": "GitMylo", "site": "https://gitmylo.github.io", "status": "UNVERIFIED", "hits": []}
+{"name": "neonwatty", "site": "https://neonwatty.com", "status": "RESOLVED", "hits": []}
+{"name": "jjyaoao", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "ayoolaolafenwa", "site": "https://theblackwomenintech.com", "status": "UNREACHABLE", "hits": []}
+{"name": "araffin", "site": "https://araffin.github.io", "status": "UNVERIFIED", "hits": []}
+{"name": "Voxel51", "site": "https://voxel51.com", "status": "RESOLVED", "hits": []}
+{"name": "SWE-agent", "site": "https://pypi.org", "status": "UNVERIFIED", "hits": []}
+{"name": "alan-turing-institute", "site": "https://ukri.org", "status": "UNVERIFIED", "hits": []}
+{"name": "Shanghai AI Lab", "site": "https://shlab.org.cn", "status": "UNREACHABLE", "hits": []}
+{"name": "Allen Institute for AI", "site": "https://allenai.org", "status": "RESOLVED", "hits": []}
+{"name": "Alibaba Tongyi", "site": "https://alibabacloud.com", "status": "RESOLVED", "hits": []}
+{"name": "SK Telecom", "site": "https://eng.sk.com", "status": "UNVERIFIED", "hits": []}
+{"name": "KT Midm", "site": "https://corp.kt.com", "status": "UNREACHABLE", "hits": []}
+{"name": "TII Falcon", "site": "https://falconllm.tii.ae", "status": "UNVERIFIED", "hits": []}
+{"name": "Sber GigaChat", "site": "https://gigachatsber.ru", "status": "UNVERIFIED", "hits": []}
+{"name": "MobileLLM", "site": "https://arxiv.org", "status": "UNVERIFIED", "hits": []}
+{"name": "Qwen Small", "site": "https://qwen.readthedocs.io", "status": "UNVERIFIED", "hits": []}
+{"name": "Microsoft Phi", "site": "https://azure.microsoft.com", "status": "UNREACHABLE", "hits": []}
+{"name": "Samsung Exynos", "site": "https://soc-developer.semiconductor.samsung.com", "status": "UNVERIFIED", "hits": []}
+{"name": "MiniCPM", "site": "https://openbmb.cn", "status": "UNREACHABLE", "hits": []}
+{"name": "Arm Ethos", "site": "https://arm.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Syntiant", "site": "https://syntiant.com", "status": "UNREACHABLE", "hits": []}
+{"name": "Meta AudioCraft", "site": "https://21medien.de", "status": "UNVERIFIED", "hits": []}
+{"name": "E5 Microsoft", "site": "https://microsoft.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Kuaishou", "site": "https://kuaishou.com", "status": "UNREACHABLE", "hits": []}
+{"name": "Replicate Serving", "site": "https://blog.cloudflare.com", "status": "UNVERIFIED", "hits": []}
+{"name": "TensorRT-LLM", "site": "https://docs.nvidia.com", "status": "RESOLVED", "hits": []}
+{"name": "Lamini", "site": "https://lamini.ai", "status": "UNREACHABLE", "hits": []}
+{"name": "PEFT", "site": "https://modeldatabase.com", "status": "UNVERIFIED", "hits": []}
+{"name": "FSDP", "site": "https://engineering.fb.com", "status": "UNVERIFIED", "hits": []}
+{"name": "RouteLLM", "site": "https://sky.cs.berkeley.edu", "status": "UNVERIFIED", "hits": []}
+{"name": "Tabnine", "site": "https://docs.tabnine.com", "status": "RESOLVED", "hits": []}
+{"name": "OpenPipe Train", "site": "https://ai.engineer", "status": "UNVERIFIED", "hits": []}
+{"name": "Predibase Train", "site": "https://predibase.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Lamini Train", "site": "https://databricks.com", "status": "UNVERIFIED", "hits": []}
+{"name": "NeMo Guardrails", "site": "https://developer.nvidia.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Groq Hardware", "site": "https://groq.com", "status": "RESOLVED", "hits": []}
+{"name": "UK AISI", "site": "https://aisi.gov.uk", "status": "UNVERIFIED", "hits": []}
+{"name": "Cambricon", "site": "https://botsgenius.com", "status": "UNVERIFIED", "hits": []}
+{"name": "HCL AI", "site": "https://hcl-software.com", "status": "UNVERIFIED", "hits": []}
+{"name": "TCS AI.Cloud", "site": "https://tcs.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Canva Magic", "site": "https://canva.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Bloomberg GPT", "site": "https://theworldofai.org", "status": "UNVERIFIED", "hits": []}
+{"name": "Ambience", "site": "https://ambienceai.com", "status": "RESOLVED", "hits": []}
+{"name": "Tome", "site": "https://tome.com", "status": "UNREACHABLE", "hits": []}
+{"name": "Air Street Capital", "site": "https://economy.ac", "status": "UNVERIFIED", "hits": []}
+{"name": "Y Combinator AI", "site": "https://ai.engineer", "status": "UNVERIFIED", "hits": []}
+{"name": "Aethir", "site": "https://aethir.com", "status": "UNREACHABLE", "hits": []}
+{"name": "tensorflow", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Significant-Gravitas", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Squirrel AI", "site": "https://squirrelai.com", "status": "UNREACHABLE", "hits": []}
+{"name": "DietrichGebert", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "farion1231", "site": "https://git.jl-k.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Snailclimb", "site": "https://clawdbase.ai", "status": "UNVERIFIED", "hits": []}
+{"name": "Graphify-Labs", "site": "https://app.dealroom.co", "status": "UNVERIFIED", "hits": []}
+{"name": "x1xhlol", "site": "https://stackblitz.com", "status": "UNVERIFIED", "hits": []}
+{"name": "stablyai", "site": "https://github.itlym.cn", "status": "UNREACHABLE", "hits": []}
+{"name": "langchain-ai", "site": "https://langchain.com", "status": "RESOLVED", "hits": []}
+{"name": "Leonxlnx", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "thedotmack", "site": "https://supercode.sh", "status": "UNVERIFIED", "hits": []}
+{"name": "Panniantong", "site": "", "status": "UNRESOLVED", "hits": []}
