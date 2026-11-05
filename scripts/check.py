@@ -19,6 +19,7 @@ chk("at least 20 countries represented",len({x["country"] for x in m})>=20,f"{le
 r=rows("data/registry.csv")
 chk("program registry exists",len(r)>0,"data/registry.csv")
 chk("registry has 150+ programs",len(r)>=150,f"{len(r)} rows")
+chk("every registry row has last_checked",all(x.get("last_checked","").strip() for x in r),"missing last_checked")
 chk("registry has OPEN rows",any(x["status"]=="OPEN" for x in r),f"{sum(1 for x in r if x['status']=='OPEN')} open")
 chk("registry has India-eligible rows",any("India" in x["region"] or x["region"]=="global" for x in r),"")
 chk("report exists",os.path.exists("REPORT.md"),"REPORT.md")

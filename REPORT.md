@@ -440,3 +440,26 @@ ecosystems like India, China and Africa, not in the labs themselves.
 
 No India-eligible programme came out of LATAM. The Google country programmes are regional by
 design.
+
+---
+
+# Wave 7: recheck at one timestamp, 5 Nov 2026
+
+All 199 apply URLs fetched again, every row stamped `last_checked = 2026-11-05`.
+
+Six corrections, and one of them matters:
+
+| Program | Was | Now | Why |
+|---|---|---|---|
+| **Unstop Campus Champions** | OPEN | **CLOSED** | Unstop page says "Application Closed", deadline was 16 Sep 2026. The marketing page saying "applications open now" is stale. |
+| **IncuXai Campus AI Ambassador** | OPEN | **UNKNOWN** | `campusambassador.incuxai.com` does not resolve on 5 Nov, main site is up. Do not count it until the page returns. |
+| **Sarvam Next** | RESTRICTED | **DEAD** | 404, page removed. |
+| **E-Cell IIT Kanpur CA** | OPEN | **UNKNOWN** | domain does not resolve. |
+| **E-Summit MNIT Jaipur CA** | OPEN | **UNKNOWN** | domain does not resolve. |
+| **Tryst IIT Delhi CA** | STALE | **UNKNOWN** | domain does not resolve. |
+
+Confirmed still live and open: SmartBridge (closes 8 Nov), Sarvam Captain, Folester,
+Qwen, Kimi, MLflow, Cerebras, AWS, IBM Z, Arduino + Qualcomm.
+
+Lesson: the Unstop row was the one I put in your apply list. Marketing pages lie by staying
+up. Only the application page counts.
