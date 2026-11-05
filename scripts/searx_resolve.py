@@ -1,7 +1,7 @@
 import csv,json,re,os,sys,time,urllib.parse
 import requests
 UA={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) Chrome/131.0 Safari/537.36"}
-SKIP=("facebook","linkedin","x.com","twitter","youtube","crunchbase","pitchbook","wikipedia","github.com","huggingface","reddit","medium.com","glassdoor","indeed","ycombinator","instagram","tiktok","discord","t.me","g2.com","capterra","producthunt","stackshare","similarweb")
+SKIP=("aifasthub.com","hf-mirror.com","foundr.ai","topai.tools","opentools.ai","skillsmp.com","exploreds.xyz","savrn.com","kizunaai.com","hermes-ai.net","gitdiscover.org","facebook","linkedin","x.com","twitter","youtube","crunchbase","pitchbook","wikipedia","github.com","huggingface","reddit","medium.com","glassdoor","indeed","ycombinator","instagram","tiktok","discord","t.me","g2.com","capterra","producthunt","stackshare","similarweb")
 census=[r for r in csv.DictReader(open("data/ai-orgs-census.csv")) if r["tier"] in ("curated","org")]
 def load(f):
     if not os.path.exists(f): return {}

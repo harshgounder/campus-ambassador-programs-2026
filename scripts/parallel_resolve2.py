@@ -6,7 +6,7 @@ if not KEY:
     for line in open(os.path.expanduser("~/.hermes/.env")):
         if line.startswith("MCP_PARALLEL_SEARCH_API_KEY="): KEY=line.split("=",1)[1].strip()
 UA={"User-Agent":"Mozilla/5.0 Chrome/131.0 Safari/537.36"}
-SKIP=("facebook","linkedin","x.com","twitter","youtube","crunchbase","pitchbook","wikipedia","github.com","huggingface","reddit","medium.com","glassdoor","indeed","ycombinator","instagram","tiktok","discord","t.me","g2.com","capterra","producthunt","stackshare","similarweb","sacra.com","pitchgrade","cbinsights","tracxn")
+SKIP=("aifasthub.com","hf-mirror.com","foundr.ai","topai.tools","opentools.ai","skillsmp.com","exploreds.xyz","savrn.com","kizunaai.com","hermes-ai.net","gitdiscover.org","facebook","linkedin","x.com","twitter","youtube","crunchbase","pitchbook","wikipedia","github.com","huggingface","reddit","medium.com","glassdoor","indeed","ycombinator","instagram","tiktok","discord","t.me","g2.com","capterra","producthunt","stackshare","similarweb","sacra.com","pitchgrade","cbinsights","tracxn")
 census=[r for r in csv.DictReader(open("data/ai-orgs-census.csv")) if r["tier"] in ("curated","org")]
 def load(f):
     if not os.path.exists(f): return {}
