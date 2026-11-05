@@ -20,3 +20,7 @@ Passes: initial scan, resolver v1, v2, DuckDuckGo, SearXNG, Parallel AI, browser
 ## Depth correction
 
 Breadth: 3,965 covered. Depth: **738 substantive and domain-verified**. See COVERED-AUDIT.md.
+
+## Corrected for wrong domains, 5 Nov
+
+240 rows were mapped to unrelated sites and are now UNVERIFIED. Corrected breadth is in DOMAIN-ERRORS.md. Depth remains the number to quote.

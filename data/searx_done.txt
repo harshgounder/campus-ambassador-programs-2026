@@ -610,3 +610,124 @@ Groq Hardware
 Cambricon
 Google Cloud
 Oracle Cloud
+CoreWeave Cloud
+Lambda Cloud
+Nebius Cloud
+RunPod Cloud
+Modal Cloud
+Baseten Cloud
+METR
+UK AISI
+NIST
+Stanford HAI
+MIT CSAIL
+Berkeley AI Research
+CMU AI
+EleutherAI Safety
+Anthropic Safety
+DeepMind Safety
+Infosys Topaz
+TCS AI.Cloud
+HCL AI
+Mad Street Den
+Qure.ai
+Absentia
+NeuroPixels
+Reflection AI
+You.com
+Ambience
+Mem
+Tana
+v0
+Miro AI
+Asana AI
+Slack AI
+Google Workspace AI
+Microsoft 365 Copilot
+Canva Magic
+Tome
+Brave Search
+Ecosia AI
+Mistral Defense
+Ironclad AI
+Bloomberg GPT
+Hebbia Finance
+Zest AI
+Duolingo Max
+Coursera Coach
+Chegg AI
+Squirrel AI
+PhysicsWallah AI
+Akash Network
+Aethir
+a16z AI
+Sequoia AI
+Air Street Capital
+Y Combinator AI
+openclaw
+obra
+affaan-m
+tensorflow
+Significant-Gravitas
+DietrichGebert
+f
+langgenius
+Snailclimb
+open-webui
+langflow-ai
+farion1231
+langchain-ai
+github
+nextlevelbuilder
+x1xhlol
+Graphify-Labs
+shadcn-ui
+TauricResearch
+JuliusBrussee
+stablyai
+thedotmack
+Leonxlnx
+Panniantong
+rasbt
+pbakaus
+debpalash
+hacksider
+punkpeye
+D4Vinci
+tt-a1i
+koala73
+datawhalechina
+rtk-ai
+cheaper-inference
+666ghj
+lobehub
+shareAI-lab
+dair-ai
+heygen-com
+headroomlabs-ai
+tesseract-ocr
+rohitg00
+calesthio
+openbq-org
+daytonaio
+FoundationAgents
+asgeirtj
+code-yeongyu
+ai-job-search-dev
+scikit-learn
+labmlai
+ZhuLinsen
+xtekky
+mvanhorn
+blader
+RVC-Boss
+keras-team
+upstash
+sansan0
+tw93
+BerriAI
+Ebony-Vinyl
+MemPalace
+CorentinJ
+jamiepine
+pathwaycom

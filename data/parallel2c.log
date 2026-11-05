@@ -2,3 +2,17 @@ targets 2593 key True
 done 100 last UNVERIFIED
 done 200 last UNVERIFIED
 done 300 last UNVERIFIED
+done 400 last UNREACHABLE
+done 500 last RESOLVED
+done 600 last UNVERIFIED
+done 700 last UNRESOLVED
+done 800 last UNRESOLVED
+done 900 last UNVERIFIED
+done 1000 last UNVERIFIED
+done 1100 last UNVERIFIED
+done 1200 last UNVERIFIED
+done 1300 last UNVERIFIED
+done 1400 last UNVERIFIED
+done 1500 last UNREACHABLE
+done 1600 last UNREACHABLE
+done 1700 last UNVERIFIED

@@ -610,3 +610,124 @@
 {"name": "Cambricon", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
 {"name": "Google Cloud", "site": "", "status": "UNRESOLVED", "hits": []}
 {"name": "Oracle Cloud", "site": "https://oracle.com", "status": "RESOLVED", "hits": []}
+{"name": "CoreWeave Cloud", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Lambda Cloud", "site": "https://lambda.ai", "status": "RESOLVED", "hits": []}
+{"name": "Nebius Cloud", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "RunPod Cloud", "site": "https://runpod.io", "status": "RESOLVED", "hits": []}
+{"name": "Modal Cloud", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Baseten Cloud", "site": "https://baseten.co", "status": "RESOLVED", "hits": []}
+{"name": "METR", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "UK AISI", "site": "https://aisi.gov.uk", "status": "UNVERIFIED", "hits": []}
+{"name": "NIST", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Stanford HAI", "site": "https://hai.stanford.edu", "status": "FOUND", "hits": [{"url": "https://hai.stanford.edu/ambassador", "title": "404"}, {"url": "https://hai.stanford.edu/ambassadors", "title": "404"}]}
+{"name": "MIT CSAIL", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Berkeley AI Research", "site": "https://duesberg.com", "status": "RESOLVED", "hits": []}
+{"name": "CMU AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "EleutherAI Safety", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Anthropic Safety", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "DeepMind Safety", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Infosys Topaz", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "TCS AI.Cloud", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "HCL AI", "site": "https://hcltech.com", "status": "RESOLVED", "hits": []}
+{"name": "Mad Street Den", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Qure.ai", "site": "https://qure.ai", "status": "RESOLVED", "hits": []}
+{"name": "Absentia", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "NeuroPixels", "site": "https://wellcome.org", "status": "UNVERIFIED", "hits": []}
+{"name": "Reflection AI", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "You.com", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Ambience", "site": "https://ambiencehealthcare.com", "status": "RESOLVED", "hits": []}
+{"name": "Mem", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Tana", "site": "https://tana.inc", "status": "FOUND", "hits": [{"url": "https://outliner.tana.inc/students", "title": "Tana Outliner for students"}]}
+{"name": "v0", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Miro AI", "site": "https://miro.com", "status": "RESOLVED", "hits": []}
+{"name": "Asana AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Slack AI", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Google Workspace AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Microsoft 365 Copilot", "site": "https://microsoft.com", "status": "FOUND", "hits": [{"url": "https://www.microsoft.com/en-us/education/students", "title": "Free Technology &amp; Software for Students (Microsoft Office, Microsoft 365, Word, Excel) | Microso"}]}
+{"name": "Canva Magic", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Tome", "site": "https://tomeapp.ai", "status": "RESOLVED", "hits": []}
+{"name": "Brave Search", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Ecosia AI", "site": "https://ecosia.org", "status": "RESOLVED", "hits": []}
+{"name": "Mistral Defense", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Ironclad AI", "site": "https://ironcladapp.com", "status": "RESOLVED", "hits": []}
+{"name": "Bloomberg GPT", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Hebbia Finance", "site": "https://hebbia.com", "status": "RESOLVED", "hits": []}
+{"name": "Zest AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Duolingo Max", "site": "https://maxaibuilder.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Coursera Coach", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Chegg AI", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Squirrel AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "PhysicsWallah AI", "site": "https://pw.live", "status": "RESOLVED", "hits": []}
+{"name": "Akash Network", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Aethir", "site": "https://aethir.com", "status": "UNREACHABLE", "hits": []}
+{"name": "a16z AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Sequoia AI", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Air Street Capital", "site": "https://airstreet.com", "status": "RESOLVED", "hits": []}
+{"name": "Y Combinator AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "openclaw", "site": "https://openclaw.ai", "status": "RESOLVED", "hits": []}
+{"name": "obra", "site": "https://egreenway.com", "status": "UNVERIFIED", "hits": []}
+{"name": "affaan-m", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "tensorflow", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Significant-Gravitas", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "DietrichGebert", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "f", "site": "https://grumpy.website", "status": "RESOLVED", "hits": []}
+{"name": "langgenius", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Snailclimb", "site": "https://deepwiki.com", "status": "RESOLVED", "hits": []}
+{"name": "open-webui", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "langflow-ai", "site": "https://langflow.org", "status": "RESOLVED", "hits": []}
+{"name": "farion1231", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "langchain-ai", "site": "https://langchain.com", "status": "RESOLVED", "hits": []}
+{"name": "github", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "nextlevelbuilder", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "x1xhlol", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Graphify-Labs", "site": "https://graphify.com", "status": "RESOLVED", "hits": []}
+{"name": "shadcn-ui", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "TauricResearch", "site": "https://iroz.sutherlandglobal.com", "status": "UNVERIFIED", "hits": []}
+{"name": "JuliusBrussee", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "stablyai", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "thedotmack", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Leonxlnx", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "Panniantong", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "rasbt", "site": "https://zinc.docking.org", "status": "UNVERIFIED", "hits": []}
+{"name": "pbakaus", "site": "https://impeccable.style", "status": "RESOLVED", "hits": []}
+{"name": "debpalash", "site": "https://voicestudio.sh", "status": "RESOLVED", "hits": []}
+{"name": "hacksider", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "punkpeye", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "D4Vinci", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "tt-a1i", "site": "https://mypal-browser.org", "status": "UNVERIFIED", "hits": []}
+{"name": "koala73", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "datawhalechina", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "rtk-ai", "site": "https://rtk.ai", "status": "UNREACHABLE", "hits": []}
+{"name": "cheaper-inference", "site": "https://apimaster.ai", "status": "RESOLVED", "hits": []}
+{"name": "666ghj", "site": "https://ietf.org", "status": "UNVERIFIED", "hits": []}
+{"name": "lobehub", "site": "https://lobehub.com", "status": "RESOLVED", "hits": []}
+{"name": "shareAI-lab", "site": "https://skillsmp.com", "status": "RESOLVED", "hits": []}
+{"name": "dair-ai", "site": "https://promptingguide.ai", "status": "RESOLVED", "hits": []}
+{"name": "heygen-com", "site": "https://heygen.com", "status": "RESOLVED", "hits": []}
+{"name": "headroomlabs-ai", "site": "https://headroomlabs.ai", "status": "RESOLVED", "hits": []}
+{"name": "tesseract-ocr", "site": "https://tesseractocr.org", "status": "RESOLVED", "hits": []}
+{"name": "rohitg00", "site": "https://aiengineeringfromscratch.com", "status": "RESOLVED", "hits": []}
+{"name": "calesthio", "site": "https://claudeskills.info", "status": "UNVERIFIED", "hits": []}
+{"name": "openbq-org", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "daytonaio", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "FoundationAgents", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "asgeirtj", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "code-yeongyu", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "ai-job-search-dev", "site": "https://mypal-browser.org", "status": "UNVERIFIED", "hits": []}
+{"name": "scikit-learn", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "labmlai", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "ZhuLinsen", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "xtekky", "site": "https://hey.pi.ai", "status": "UNVERIFIED", "hits": []}
+{"name": "mvanhorn", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "blader", "site": "https://azure.microsoft.com", "status": "UNREACHABLE", "hits": []}
+{"name": "RVC-Boss", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "keras-team", "site": "https://keras.io", "status": "RESOLVED", "hits": []}
+{"name": "upstash", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "sansan0", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "tw93", "site": "https://mindnode.com", "status": "UNVERIFIED", "hits": []}
+{"name": "BerriAI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Ebony-Vinyl", "site": "https://stackoverflow.com", "status": "UNVERIFIED", "hits": []}
+{"name": "MemPalace", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "CorentinJ", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "jamiepine", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "pathwaycom", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}

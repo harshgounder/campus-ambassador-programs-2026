@@ -11,3 +11,5 @@ done 450 last RESOLVED
 done 500 last UNRESOLVED
 done 550 last UNRESOLVED
 done 600 last UNVERIFIED
+done 650 last RESOLVED
+done 700 last UNREACHABLE
