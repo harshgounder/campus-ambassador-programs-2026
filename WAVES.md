@@ -19,3 +19,5 @@ Each wave has a definition of done. The checker reads the artifacts, not my word
 - Wave 5 is done when 1,097 of 1,097 have been scanned and every hit has a verified status.
 - Wave 6 is done when every country with 5+ orgs in the master list has had its orgs checked for a program.
 - Wave 9 is done when every OPEN row has a tracker line with deadline, link and applied yes/no.
+
+| 10 | Check all 4,252 org-tier names one by one | data/scan3758.jsonl | FAILED COVERAGE 5 Nov: 192 of 4,252 reachable and checked, 2,412 no website, 1,359 unreachable, 289 missing |
