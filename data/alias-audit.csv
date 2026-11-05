@@ -1,0 +1,540 @@
+name,site,verdict,title
+CMU AI,https://ai.cmu.edu,FAIL_NO_NAME,AI at CMU - Carnegie Mellon University
+gvs,https://globalvision.solutions,FAIL_NO_NAME,home
+MLC LLM,https://llm.mlc.ai,FAIL_NO_NAME,MLC LLM | Home
+HCL AI,https://hcltech.com,FAIL_NO_NAME,"HCLTech: Supercharging Progress | AI, Cloud and Engineering"
+tt-a1i,https://archify.si,FAIL_NO_NAME,Archify — AI Agent Skill for Interactive Diagrams and One-Page Answers
+f,https://grumpy.website,FAIL_NO_NAME,Grumpy Website
+p-e-w,https://pinterest.com,FAIL_NO_NAME,Pinterest
+HIT-TMG,https://systemonemodels.ai,FAIL_NO_NAME,"System One Models: find, compare and fine-tune AI decision models"
+MCP-UI-Org,https://mcpui.dev,FAIL_NO_NAME,MCP-UI
+v0,https://vercel.com,FAIL_NO_NAME,Agentic Infrastructure - Vercel
+sb-ai-lab,https://t.me/sb_ai_lab,FAIL_NO_NAME,Telegram: View @sb_ai_lab
+nyu-mll,https://wp.nyu.edu,FAIL_NO_NAME,"Web Publishing &#8211; Build WordPress websites for courses, departments and pro"
+src-d,https://sourced.tech,FAIL_NO_NAME,source{d} - Machine Learning for Large Scale Code Analysis
+DLR-RM,https://rm.dlr.de,FAIL_NO_NAME,Institut für Robotik und Mechatronik
+0hq,https://depue.design,FAIL_NO_NAME,Notion
+tum-pbs,https://ge.in.tum.de,FAIL_NO_NAME,Thuerey Group &#8211; Computer Science I15
+iwe-org,https://iwe.md,FAIL_NO_NAME,IWE: Markdown knowledge base you and your AI agent work on together
+79E,https://sourcepulse.org,FAIL_NO_NAME,SourcePulse
+AWS Kiro,https://kiro.dev,OK,Kiro: Move beyond AI coding to agentic engineering
+Google Dreamer,https://kizunaai.com,OK,"Kizuna AI official website | official website of Kizuna AI, a virtual being and "
+Google Veo,https://kizunaai.com,OK,"Kizuna AI official website | official website of Kizuna AI, a virtual being and "
+FSDP,https://sbert.net,OK,SentenceTransformers Documentation &mdash; Sentence Transformers  documentation
+iFlytek Spark,https://global.xfyun.cn,OK,iFLYTEK Open AI Platform | Computer &amp; Machine Intelligence Platform
+sentence-transformers,https://sbert.net,OK,SentenceTransformers Documentation &mdash; Sentence Transformers  documentation
+Hugging Face SmolLM,https://osai-index.eu,OK,European Open Source AI Index
+Apple OpenELM,https://machinelearning.apple.com,OK,Overview - Apple Machine Learning Research
+Ai2 OLMo,https://allenai.org,OK,Ai2: Truly open breakthrough AI
+Scale AI,https://scale.com,OK,Scale: Reliable AI Systems for Critical Decisions
+Luma AI,https://lumalabs.ai,OK,Luma | AI Agents for Creative Work
+fireworks-ai,https://socials.fru.dev,OK,"Official company social media links, verified | Socials"
+Shengshu,https://vidu.com,OK,"AI Video Generator for Text, Image &amp; Reference Videos | Vidu AI"
+LangGraph,https://langchain.com,OK,LangChain: the open agent platform to own your intelligence
+LG AI Research,https://lgresearch.ai,OK,LG AI Research - LG AI연구원
+Berkeley AI Research,https://duesberg.com,OK,Peter Duesberg on AIDS - Duesberg.com - HIV / AIDS research website for Peter H.
+llama.cpp,https://llama.app,OK,"Llama · Your AI, on your computer"
+Sweep,https://theacc.com,OK,Atlantic Coast Conference
+google-bert,https://aifasthub.com,OK,Hugging Face – The AI community building the future.
+SG161222,https://realvisxl.com,OK,RealVisXL â Photorealistic SDXL images with RealVisXL
+MetaGPT,https://atoms.dev,OK,"Atoms: Build websites &amp; apps with AI, no code needed"
+text-generation-webui,https://lablab.ai,OK,LabLab - The #1 Ecosystem for AI Builders
+answerdotai,https://llmstxt.org,OK,"The /llms.txt file, v2 – llms-txt"
+jhgan,https://korea-ai-map.github.io,OK,Korea AI Map — 한국 AI 모델·기업·데이터셋 오픈 데이터베이스
+Ray Serve,https://docs.ray.io,OK,Welcome to Ray! &#8212; Ray 2.60.0
+Ray Train,https://docs.ray.io,OK,Welcome to Ray! &#8212; Ray 2.60.0
+sentence-transformers-testing,https://sbert.net,OK,SentenceTransformers Documentation &mdash; Sentence Transformers  documentation
+hugging-quants,https://mistral.ai,OK,Mistral | #1 in Sovereign AI: Frontier Open Models You Own
+ggml-org,https://ggml.ai,OK,ggml.ai
+llava-hf,https://llava-vl.github.io,OK,LLaVA
+LuffyTheFox,https://darkgpt.org,OK,DarkGPT.org – Open Source Uncensored LLMs Leaderboard
+Llama Small,https://dev.meta.ai,OK,Products &amp; Solutions for AI Developers | Meta
+Modal Serving,https://modal.com,OK,Modal: The platform for production AI
+dragonkue,https://korea-ai-map.github.io,OK,Korea AI Map — 한국 AI 모델·기업·데이터셋 오픈 데이터베이스
+nlpai-lab,https://nlpai.in,OK,Natural Language Processing Association of India
+stable-diffusion-v1-5,https://stability.ai,OK,Stability AI
+janhq,https://jan.ai,OK,Jan - Open-Source ChatGPT Replacement
+XLabs-AI,https://xlabs.io,OK,"xlabs — AI by trial and error, especially error"
+Alissonerdx,https://ltx-ai.com,OK,Free LTX 2.5 AI Video Generator - 4K HDR Video AI
+Jzuluaga,https://juanpzuluaga.github.io,OK,Juan Pablo Zuluaga
+mattmdjaga,https://nesa.ai,OK,Nesa
+vllm-project,https://vllm.ai,OK,vLLM
+yyfz233,https://yyfz.github.io,OK,Yifan Wang
+Baidu ERNIE,https://ernie.baidu.com,OK,Baidu ERNIE
+SupraLabs,https://supra.com,OK,"Supra: A Faster, Better Web3 Experience for Everyone"
+MIT CSAIL,https://csail.mit.edu,OK,Home Page | MIT CSAIL
+optimum-intel-internal-testing,https://aifasthub.com,OK,Hugging Face – The AI community building the future.
+thewh1teagle,https://vibetranscribe.org,OK,Vibe Transcribe — Free Offline Audio &amp; Video Transcription
+XHToken,https://hype.replicate.dev,OK,Hype - ML/AI News
+scenario-labs,https://aifasthub.com,OK,Hugging Face – The AI community building the future.
+ddalcu,https://mlxserve.com,OK,mlx-serve — Run any LLM on your Mac · MLX + GGUF · faster than LM Studio · OpenA
+Jundot,https://omlx.ai,OK,"oMLX â LLM inference, optimized for your Mac"
+cocktailpeanut,https://pinokio.co,OK,Pinokio
+khoj-ai,https://khoj.dev,OK,Khoj - AI for Humans
+google-t5,https://foundr.ai,OK,Discover The Best AI Tools at Your Fingertips – Foundr
+Significant-Gravitas,https://agpt.co,OK,AutoGPT — Your team of AI Experts
+lightx2v,https://x2v.light-ai.top,OK,LightX2V Studio｜AI数字人与多模态内容生产平台
+showlab,https://sites.google.com/view/showlab,OK,Show Lab @ NUS
+CompVis,https://ommer-lab.com,OK,Home - Computer Vision &amp; Learning Group
+rohitg00,https://aiengineeringfromscratch.com,OK,AI Engineering from Scratch | Free AI Engineering Course
+morluto,https://x.com/morluto,OK,morluto (@morluto) / X
+aaif-goose,https://goose-docs.ai/,OK,goose | Your open source AI agent
+webAI-Official,https://webai.com,OK,Collaborative Intelligence | webAI
+unclecode,http://kidocode.com,OK,"Kidocode, Malaysia&#x27;s AI School for Kids 5-18 in KL and Penang"
+hiyouga,https://x.com/code_hiyouga,OK,Yaowei Zheng | LlamaFactory (@code_hiyouga) / X
+netease-youdao,https://tongdao.youdao.com,OK,åéè®¡å
+Shubhamsaboo,https://www.theunwindai.com/,OK,unwind ai
+GokuMohandas,https://madewithml.com,OK,Home - Made With ML by Anyscale
+ray-project,https://docs.ray.io,OK,Welcome to Ray! &#8212; Ray 2.60.0
+BerriAI,https://docs.litellm.ai/docs/,OK,Getting Started | liteLLM
+dair-ai,https://promptingguide.ai,OK,Prompt Engineering Guide | Prompt Engineering Guide<!-- -->
+Snailclimb,https://deepwiki.com,OK,"DeepWiki | AI documentation you can talk to, for every repo"
+Naver HyperCLOVA,https://clova.ai,OK,클로바 | CLOVA
+cheaper-inference,https://apimaster.ai,OK,"Buy GPT, Claude, Nano Banana &amp; Seedance API | APIMaster.AI"
+HKUDS,https://sites.google.com/view/chaoh,OK,Data Intelligence Lab@HKU
+wshobson,https://major7apps.com,OK,AI Product Studio &amp; Developer Tools — Major 7 Apps
+rasbt,https://sebastianraschka.com,OK,"Sebastian Raschka, LLM Research Engineer | Sebastian Raschka, PhD"
+ICTNLP,https://nlp.ict.ac.cn,OK,ä¸­ç§é¢è®¡ç®ææ¯ç ç©¶æ--èªç¶è¯­è¨å¤çç ç©¶ç»ç½ç«
+VectifyAI,https://pageindex.ai,OK,PageIndex
+sickn33,https://aaskills.tech,OK,Agentic Awesome Skills | AI Skills &amp; AAS Core
+run-llama,https://llamaindex.ai,OK,LlamaIndex | AI Agents for Document OCR + Workflows
+classla,https://clarin.si,OK,About - CLARIN Slovenia
+labring,https://sealos.io,OK,Sealos | The AI-Native Cloud Platform - Deploy Anything with a Prompt
+arize-ai,https://arize.com,OK,"Agent Observability, Evaluation &amp; Improvement Platform | Arize AI"
+sgl-project,https://docs.sglang.io,OK,Welcome to SGLang - SGLang Documentation
+coreyhaines31,https://corey.co,OK,"Corey Haines — Marketer, Builder, Writer"
+punkpeye,https://glama.ai,OK,"The MCP Server Registry, Inspector & Gateway | Glama"
+elder-plinius,https://pliny.gg,OK,pliny.gg â Pliny the Prompter
+github,https://lablab.ai,OK,LabLab - The #1 Ecosystem for AI Builders
+fosrl,https://pangolin.net,OK,Pangolin | Open Source Networking and Security Platform
+agno-agi,https://agno.com,OK,Agno: The Agent Platform That Builds Itself
+letta-ai,https://docs.letta.com,OK,Letta Documentation | Letta Docs
+AlexsJones,https://axjns.dev,OK,Alex Jones — finds signal in the noise
+mukul975,https://Mahipal.engineer,OK,Mahipal | Security Research for Agentic AI Systems
+1jehuang,https://Jcode.sh,OK,jcode | Open-source AI coding agent for your terminal
+ahujasid,http://whimsy.is/,OK,Whimsy — Creative Tools for the AI age
+coze-dev,https://www.coze.com,OK,Coze-AI Agent Intelligent Office Platform-Coze Redefines Productivity and Effici
+MODSetter,https://www.surfsense.com/,OK,"Air-Gapped, Open Source NotebookLM Alternative | SurfSense"
+leon-ai,https://leon.co,OK,"LEON, Naturally Fast Food"
+miuuyy,https://vechenkov.info,OK,Aleksandr Vechenkov â AI Engineer &amp; Founder
+QwenLM,https://qwen.ai/,OK,Qwen
+TheR1D,https://sadykov.dev,OK,Farkhod Sadykov
+mrexodia,https://ogilvie.pl,OK,Ogilvie Labs
+aden-hive,https://adenhq.com/,OK,The Native Cloud for AI Agents - Aden
+TykTechnologies,https://tyk.io,OK,API Management Platform &amp; API Gateway | Tyk.io
+nexu-io,https://open-design.ai,OK,OpenDesign — Best Open Source Claude Design Alternative
+ag-ui-protocol,https://docs.ag-ui.com,OK,AG-UI Overview - Agent User Interaction Protocol
+comet-ml,https://www.comet.com/site/,OK,Comet - The AI Developer Platform
+Donchitos,https://mdskills.ai,OK,"Free AI Skills for Claude Code, Cursor &amp; More"
+onyx-dot-app,https://www.onyx.app/,OK,AWS
+rehan-remade,https://universal-modder.dev,OK,Universal Modder: Mod Almost Any PC Game With Your AI Agent
+RUCAIBox,https://aibox.ruc.edu.cn,OK,æ¬¢è¿è®¿é®AI Boxå°ç»
+usekaneo,https://kaneo.app,OK,Kaneo: Project management that doesn&#x27;t become the project
+Future-House,https://news.mit.edu,OK,MIT News | Massachusetts Institute of Technology
+elie222,https://elie.tech,OK,Elie Steinbock
+Unstructured-IO,https://ibm.com,OK,IBM
+lance-format,https://lance.org,OK,Lance — The open lakehouse format for multimodal AI
+IDEA-CCNL,https://idea.edu.cn,OK,粤港澳大湾区数字经济研究院（IDEA研究院）
+oomol-lab,https://oomol.com,OK,"OOMOL Â· 20,000+ tools for your AI. Pay as you go."
+luhengshiwo,https://www.learnllm.ai,OK,LearnLLM.AI - AI Agent / RAG / 大模型应用实战课程平台
+xpzouying,https://haha.ai,OK,
+promptslab,https://discord.gg/m88xfYMbK6,OK,PromptsLab
+daytonaio,https://standarddb.com,OK,Offers for AI builders | StandardDB
+ashishps1,https://algomaster.io,OK,AlgoMaster.io — Master Software Engineering Interviews
+YaoApp,https://yaoagents.com/,OK,Yao Agents - Turn your idea into an Agent
+siyuan-note,https://b3log.org/siyuan,OK,ææºç¬è®° - å¼æºãæ¬å°ä¼åãéç§ä¼åçä¸ªäººç¥è¯ç®¡çè½¯ä»¶
+vespa-engine,https://vespa.ai,OK,Vespa.ai: AI Search Platform
+abus-aikorea,https://www.wctokyoseoul.com,OK,WeConnect - 글로벌 채팅 &amp; 밋
+Louis-CFM,https://louisraille.fr,OK,Louis Raillé — Creative Developer
+breferrari,https://brennoferrari.com,OK,Brenno Ferrari — Senior iOS Engineer | Berlin
+junhoyeo,https://junho.io/about,OK,Works — Junho Yeo
+macro-inc,https://macro.com,OK,Macro â The unified workspace for your company.
+eugeniughelbur,https://theaioperator.io,OK,The AI Operator | Eugeniu Ghelbur | Substack
+jeecgboot,https://www.jeecg.com,OK,JEECGå®æ¹ç½ç« - ä¼ä¸çº§AIä½ä»£ç å¼åå¹³å°
+wuyoscar,https://aisafetyhot.com,OK,AISafetyHotï¼AI Safety HOTï¼å®ç½ â AI å®å¨æ°é»ãè®ºæä¸æ¥æ¥
+mahseema,https://linktr.ee/mahseema,OK,mahseema Official: X | Linktree
+SkalskiP,https://huggingface.co/SkalskiP,OK,SkalskiP (Piotr Skalski)
+Dicklesworthstone,https://www.jeffreyemanuel.com/,OK,"Jeffrey Emanuel: Agentic Coding Tooling, AI Infrastructure &amp; Markets"
+kajisho5,https://seventh-well.com/,OK,SEVENTHWELL
+aipotheosis-labs,https://www.aci.dev/,OK,ACI.dev — Applied AI Lab
+vitali87,https://docs.code-graph-rag.com,OK,Home - Code-Graph-RAG
+exa-labs,https://exa.ai,OK,Exa | Search API for AI Agents — Real-Time Web Data
+bostrot,https://erictrenkel.com,OK,Eric Trenkel — Senior Software Engineer &amp; IT Consultant
+neo4j-labs,https://neo4j.com,OK,Neo4j Graph Intelligence Platform
+dagucloud,https://docs.dagu.sh,OK,Local-first orchestration that just works | Dagu
+crmne,https://paolino.me,OK,"Carmine Paolino | Software, Open Source &amp; Music"
+kyegomez,https://x.com/KyeGomezB,OK,Kye Gomez (swarms) (@KyeGomezB) / X
+coqui-ai,https://coqui.co,OK,Coquí — Vertical operations agency
+amitshekhariitbhu,https://outcomeschool.com,OK,Outcome School | Get a High-Paying Tech Job
+hemansnation,https://himanshuramchandani.substack.com/,OK,HIM | Himanshu Ramchandani | Substack
+andreas128,https://diffusion.kymatalabs.com,OK,"The Diffusion Index — AI image &amp; video generation tools, ranked by momentum"
+Hunyuan-PromptEnhancer,https://ai-tldr.dev,OK,"New AI Releases Daily â Models, Tools &amp; Papers | AI/TLDR"
+timescale,https://www.tigerdata.com,OK,Time-Series PostgreSQL at Petabyte Scale
+siddsachar,https://row-bot.ai,OK,Row-Bot | Your AI. Your machine. Your rules.
+any4ai,https://AnyCrawl.dev,OK,AnyCrawl - Turn Web into AI | AI Web Crawler/Scraping API
+0xNyk,https://nyk.dev,OK,Reliability Audit for production coding agents · nyk
+kirodotdev,https://kiro.dev,OK,Kiro: Move beyond AI coding to agentic engineering
+Sumanth077,https://linktr.ee/sumanth_07,OK,@sumanth Official: Twitter | Linktree
+zvec-ai,https://zvec.org,OK,"Zvec — An open-source, in-process vector database by Alibaba"
+DEEIX-AI,https://deeix.com,OK,DEEIX AI | AI research and product organization
+LazyAGI,https://docs.lazyllm.ai,OK,Getting Started - LazyLLM
+liyupi,https://www.codefather.cn,OK,编程导航 - 程序员一站式编程学习交流社区 | 零基础编程学习路线+企业级项目实战+学习交流
+ahkarami,https://leanpub.com/convolutions-for-deep-learning,OK,Deep Dive into Different Types of Convolutions… [PDF/iPad/Kindle]
+dillionverma,https://portfolio-magicui.vercel.app,OK,Dillion Verma
+NPC-Worldwide,https://enpisi.com,OK,npcww
+data-infra,https://translab.io,OK,translab.io
+pezzolabs,https://docs.pezzo.ai,OK,What is Pezzo? - Pezzo
+liliu-z,https://stashbase.ai,OK,StashBase - Local knowledge base for writing with AI agents
+cuga-project,https://docs.cuga.dev,OK,CUGA AGENT
+thuml,http://ise.thss.tsinghua.edu.cn/~mlong,OK,Mingsheng Long - Tsinghua University
+aiming-lab,https://huaxiuyao.io,OK,Huaxiu Yao's Personal Website
+m1guelpf,https://miguel.build,OK,Miguel Piedrafita
+akto-api-security,https://akto.io,OK,Akto: #1 AI Agent Security Solution for Modern AI Security Teams
+Zen4-bit,https://proximamcp.in,OK,Proxima - Unified Multi-AI MCP Server & Local Agent
+dalinvip,https://www.dalinaip.com/about,OK,About Me - 大林 - 大林的技术博客
+huawei-noah,https://noahlab.com.hk,OK,华为诺亚方舟实验室官网 - Huawei Noah&#x27;s Ark Lab
+Asana AI,https://asana.com,OK,Work &amp; Project Management for Human-Agent Teams • Asana
+Brave Search,https://brave.com,OK,The browser that puts you first | Brave
+ianarawjo,https://twitter.com/IanArawjo,OK,Ian Arawjo (@IanArawjo) / X
+frgfm,https://fgfm.dev,OK,F-G Fernandez Â· ML Engineer &amp; Founder
+Azure-Samples,https://learn.microsoft.com,OK,Microsoft Learn: Build with answers in reach
+Intelligent-Internet,https://ii.inc,OK,Intelligent Internet | Infrastructure for the Intelligence Age
+adobe-research,https://adobe.io,OK,The most memorable digital experiences are unleashed by developer creativity
+a16z AI,https://a16z.com,OK,Andreessen Horowitz | Software Is Eating the World
+IAHispano,https://applio.org,OK,"Applio — Open source, free AI voice conversion tool"
+fudan-generative-vision,https://sites.google.com/site/zhusiyucs,OK,Siyu Zhu - Fudan University
+dangkhoasdc,https://ltdk.me/,OK,LTDK | LTDK's Homepage
+tugstugi,https://www.kaggle.com/tugstugi,OK,tugstugi | Kaggle
+PhysicsWallah AI,https://pw.live,OK,"Physics wallah Live Courses for JEE, NEET &amp; Class 6,7,8,9,10,11,12 | NCERT S"
+Byju's AI,https://byjus.com,OK,"BYJU'S Online learning Programs For K3, K10, K12, NEET, JEE, UPSC & Bank Exams"
+HIT-SCIR,http://ir.hit.edu.cn,OK,åå°æ»¨å·¥ä¸å¤§å­¦-ç¤¾ä¼è®¡ç®ä¸ä¿¡æ¯æ£ç´¢ç ç©¶ä¸­å¿
+leggedrobotics,https://rsl.ethz.ch,OK,Homepage – Robotic Systems Lab | ETH Zurich
+openbq-org,https://openbb.co,OK,OpenBB - Build your own financial workspace
+pbakaus,https://impeccable.style,OK,Impeccable: The missing design vocabulary for agents
+calesthio,https://openmontage.video,OK,"OpenMontage Studio — your creative workspace, powered by AI agents"
+fixie-ai,https://ultravox.ai,OK,"Ultravox.ai â Real-time, speech native voice AI"
+nesaorg,https://nesa.ai,OK,Nesa
+Figma AI,https://figma.com,OK,"Figma: The collaborative canvas for design, code, and AI"
+Aider-AI,https://aider.chat,OK,Aider - AI Pair Programming in Your Terminal
+freestylefly,https://canghe.ai,OK,首页 | 苍何之旅
+ParisNeo,https://lollms.com,OK,LoLLMs &#8211; One tool to rule them all
+SJTU-ViSYS,https://drone.sjtu.edu.cn,OK,SJTU-VISYS
+bmad-code-org,https://docs.bmad-method.org,OK,Build Software with BMad | BMad Method
+aishwaryanr,https://aishreganti.com,OK,Aishwarya Naresh Reganti â AI Practitioner &amp; Researcher
+debpalash,https://voicestudio.sh,OK,Free Open-Source AI Voice Cloning &amp; Dubbing | VoiceStudio
+yzfly,http://feishu.langgpt.ai/,OK,Docs
+fengdu78,http://www.ai-start.com,OK,index
+keras-team,https://keras.io/,OK,Keras: The multi-backend deep learning library
+x1xhlol,https://lucasvalbuena.com,OK,Lucas Valbuena
+HCPLab-SYSU,https://sysu-hcp.net,OK,Human Cyber Physical Intelligence Integration Lab
+charmbracelet,https://charm.land/,OK,Charm
+k4yt3x,https://docs.video2x.org,OK,Introduction - Video2X Documentation
+Miro AI,https://miro.com,OK,AI Innovation Workspace | Miro
+nndl,https://xpqiu.github.io,OK,首页 · 邱锡鹏
+reactive-resume,https://docs.rxresu.me,OK,Introduction - Reactive Resume
+eyaltoledano,http://microangel.so,OK,MicroAngel | Eyal Toledano | Substack
+Kilo-Org,https://kilo.ai,OK,"Kilo – Open Source AI Coding Agent in IDE, CLI and Cloud"
+NandhaKishorM,https://nandakishorm.com,OK,Nandakishor M
+aymericdamien,https://twitter.com/AymericDamien,OK,Aymeric Damien (@AymericDamien) / X
+cube-js,https://cube.dev,OK,Cube — The agentic analytics platform built on a semantic layer
+ZuzooVn,https://twitter.com/zuzoovn,OK,Nam Vu (@zuzoovn) / X
+ageron,https://twitter.com/aureliengeron,OK,Aurélien Geron (@aureliengeron) / X
+dzhng,https://duet.so,OK,"Bento: Every Kind of AI in One Subscription, No Setup"
+T8RIN,https://t.me/t8rin,OK,Telegram: Contact @t8rin
+steven-tey,https://dub.co,OK,Dub - The Modern Link Attribution Platform
+Janishar,https://afteracademy.com,OK,AfterAcademy — Accelerated Career Growth For Tech Professionals
+ccfos,https://skills.rest,OK,Agent Skills Library — ChatGPT &amp; Claude Skills | skills.rest
+RasaHQ,https://rasa.ai,OK,Rasa: AI Agent Platform for Product Teams | Build Faster
+emilwallner,https://linktr.ee/emilwallner,OK,emilwallner Official: Twitter | Linktree
+visenger,https://ml-ops.org,OK,ML Ops: Machine Learning Operations
+MorvanZhou,https://mofanx.com,OK,莫烦无限 MofanX — 教学 · 创造 · 思考
+serengil,https://sefiks.com,OK,Sefik Ilkin Serengil - Code wins arguments
+yihui-dev,https://happyaicoding.com/,OK,零基础AI编程实战教程 - 用Cursor + Claude轻松开发应用
+agent0ai,https://agent-zero.ai,OK,Agent Zero AI: Open Source Agentic Framework &amp; Computer Assistant
+carla-simulator,http://carla.org,OK,CARLA Simulator
+gojue,https://ecapture.cc,OK,eCapture 旁观者 - Kernel-level TLS plaintext capture with eBPF
+Mail-0,https://orchid.ai,OK,"Orchid, your personal assistant"
+Unity-Technologies,http://unity.com,OK,"Unity: Develop, Deploy, and Grow | The World&#x27;s Leading Game Engine"
+ritchieng,https://deeplearningwizard.com,OK,Deep Learning Wizard - Deep Learning Wizard
+lengstrom,http://loganengstrom.com/,OK,Logan Engstrom
+wangrongding,https://fedtop.com,OK,荣顶 | 荣顶 - 个人博客
+LouisShark,http://ilouis.me/,OK,LouisShark
+vwxyzjn,https://costa.sh,OK,Costa Huang's Website
+graphdeco-inria,https://team.inria.fr/graphdeco/,OK,GraphDeco &#8211; GRAPHics and DEsign with hEterogeneous COntent
+yc-software,https://positronick.com,OK,Positronick â what your agent should install
+Fractal-Compute-Orchestrations,https://play.google.com/store/apps/details?id=org.fractal.app&hl=en,OK,Fractal - Apps on Google Play
+rwaldron,https://navarinoservices.com,OK,Home - Navarino
+justlovemaki,https://hex2077.dev/,OK,AI资讯、实用工具与深度周报 | 何夕2077
+pyro-ppl,https://pyro.ai,OK,Pyro
+junyanz,https://www.cs.cmu.edu/~junyanz/,OK,Jun-Yan Zhu's Homepage
+lexfridman,https://lex.mit.edu,OK,Lex Fridman Research &amp; Publications | MIT
+chiphuyen,https://huyenchip.com,OK,Chip Huyen
+triton-inference-server,https://developer.nvidia.com,OK,NVIDIA Developer
+amusi,https://mp.weixin.qq.com/s/EGiZz-Mt-8pHG7Sq_OA_UA,OK,
+nasa-jpl,https://www.jpl.nasa.gov,OK,NASA Jet Propulsion Laboratory (JPL) | NASA Jet Propulsion Laboratory (JPL)
+intitni,https://intii.com,OK,@intitni's Home Page
+greyhatguy007,https://ritvik-blog.vercel.app/,OK,Ritvik&#x27;s Blog
+Jack-Cherish,https://cuijiahua.com/,OK,Jack Cui | 关注人工智能及互联网的个人网站
+rcourtman,https://pulserelay.pro,OK,"Pulse: Lightweight self-hosted monitoring for Proxmox, Docker and more"
+ztjhz,https://linktr.ee/jinghua2418,OK,Jing Hua | Linktree
+deepdoctection,https://drjanismeyer.de,OK,Artificial Intelligence | Hamburg &#8211; Datenschätze heben mit Künstlicher Int
+crownpku,https://machinelearning.sg,OK,Machine Learning SG
+CarterPerez-dev,https://certgames.com,OK,Zero to Hired in Cybersecurity | CertGames
+logancyang,https://loganyang.com,OK,loganyang.com
+crynta,https://zephium.app,OK,Zephium: a browser and work environment for you and your agents
+fendouai,http://www.panchuang.net/,OK,开放猫智能助手、范文喵写作助手：智能客服，聊天机器人，TensorFlow，PyTorch，Keras，深度学习，机器学习，自然语言处理，计算机视觉。
+jev-chat,https://chatjevs.com,OK,Jev 聊天助手 — 开源 AI 聊天辅助工具｜Android / Windows / macOS
+vahidk,https://twitter.com/VahidK,OK,Vahid Kazemi (@VahidK) / X
+yizhiyanhua-ai,https://bradzhang.dev/en,OK,Working Notes on Agent Systems
+faridrashidi,https://farid.one,OK,Farid Rashidi
+1adrianb,https://www.adrianbulat.com,OK,Adrian Bulat
+ClemensElflein,https://x-tech.online/,OK,"x-tech UG â Embedded Systems, PCB Design & Robotics Engineering"
+aladdinpersson,https://youtube.com/c/AladdinPersson,OK,Aladdin Persson - YouTube
+pixie-io,https://px.dev,OK,"Kubernetes Monitoring, Application Debug Platform | Pixie"
+fr0gger,https://securitybreak.io,OK,SecurityBreak · Threat Intelligence for AI Systems
+The-Swarm-Corporation,https://swarms.ai,OK,Swarms AI — Multi-Agent Framework &amp; Agent Marketplace
+buxuku,https://smartsub.linxiaodong.com,OK,视频转字幕、字幕翻译、AI 配音一站式工具 | 妙幕 SmartSub
+codertimo,https://bittersweet.ai,OK,BitterSweet
+areal-project,https://areal-ai.io/,OK,AReaL
+jeffheaton,https://www.youtube.com/user/HeatonResearch,OK,Jeff Heaton - YouTube
+ZeroLu,https://cyberbara.com,OK,"Cyberbara | AI Image &amp; Video Generator, Free Credits"
+rhiever,https://randalolson.com,OK,Dr. Randal S. Olson | AI Researcher &amp; Builder
+yi1108,https://openmicrodrama.com,OK,"OpenMicroDrama: open-source AI micro drama tools, ranked daily"
+ros-navigation,https://nav2.org/,OK,Nav2 Navigation System
+mangiucugna,https://www.stefanobaccianella.com/,OK,"Meditations on Life, Technology, Leadership, and Everything | Stefano Baccianell"
+pbek,https://bekerle.com,OK,Patrizio Bekerle
+palxiao,https://m.palxp.cn,OK,茶无味de一天
+OAID,https://openagentid.org,OK,Open Agent ID â Verified Identity for AI Agents
+fspecii,https://valineagu.com/,OK,Vali Neagu — Open-source AI music &amp; product
+wzpan,http://hahack.com,OK,HaHack
+wzhe06,https://wzhe.me,OK,"王喆的主页 | Engineering Director @ Disney Ad Platform, 广告算法、机器学习、AI方向负责人"
+zotroneneis,https://alpopkes.com,OK,Anna-Lena Popkes
+deep-learning-with-pytorch,https://www.manning.com/books/deep-learning-with-pytorch,OK,"Deep Learning with PyTorch - Eli Stevens, Luca Antiga, and Thomas Viehmann | Man"
+aadi1011,https://www.aadithsukumar.com,OK,Aadith Sukumar
+rawandahmad698,https://rawa.dev,OK,بلۆگی ڕەوەند ئەحمەد شاشوار
+PRML,https://pr.gachon.ac.kr,OK,PRML
+KoljaB,https://www.youtube.com/@Linguflex,OK,Linguflex - YouTube
+CCOSTAN,https://www.vcloudinfo.com/Click-Here,OK,Carlo Costanzo &#8211; vCloudInfo
+vicky002,https://vikeshtiwari.com,OK,"Vikesh Tiwari, founder of RichAPI and TexAu"
+MrNeRF,https://lichtfeld.io,OK,Open-Source 3D Gaussian Splatting (3DGS) Software | LichtFeld Studio
+matt1398,https://mattkim.dev,OK,Matt Kim
+simonlin1212,https://phoenixtree.ai/,OK,Phoenix Tree AI Â· Financial research tools built for your agent
+xviniette,https://smooth.video/,OK,"smooth.video · The super simple animation maker, free online"
+openMVG,http://imagine.enpc.fr/~moulonp/openMVG/,OK,"openMVG: ""open Multiple View Geometry"""
+kodu-ai,https://kodu.co,OK,Kodu.co
+limix-ldm-ai,https://www.stable-ai.cn,OK,ç¨³åæºè½
+iree-org,https://iree.dev,OK,IREE
+nfmcclure,http://fromdata.org,OK,FromData
+MLNLP-World,https://space.bilibili.com/168887299,OK,MLNLP-World的个人空间-MLNLP-World个人主页-哔哩哔哩视频
+robinebers,https://itsbyrob.in/0nfaWk6,OK,Join the Newsletter | Robin Ebers | AI Content for Online Coaches
+benfred,https://awesome-python.com,OK,Awesome Python
+skydoves,https://doveletter.dev,OK,Dove Letter
+samber,https://samuelberthe.substack.com/,OK,Samuel Berthe | Substack
+Nanako0129,https://nyanako.com,OK,Nyanako
+EwingYangs,https://blog.notionedu.com,OK,自律小嘉同学-个人博客 | 一个NotionNext搭建的博客
+dotdc,https://dottdc.com,OK,الرئيسية | حلول رقمية مبتكرة - dottdc.com
+ginobefun,http://ginonotes.com,OK,Gino Notes
+miso-belica,https://dev.to/misobelica,OK,Mišo - DEV Community
+lakehq,https://lakesail.com,OK,LakeSail | The Rust-Native Data and AI Platform
+waylaidwanderer,https://jcz.dev,OK,Joel Zhang
+edison7009,https://x.com/Edison7009,OK,Edison (@Edison7009) / X
+edtechre,https://www.pybroker.com,OK,Algorithmic Trading in Python with Machine Learning &mdash; PyBroker
+cbamls,https://www.6aiq.com,OK,AIQ — 探索人工智能技术前沿与实践
+tkarim45,https://taimour-a-karim.vercel.app,OK,Taimour Abdul Karim · Data Scientist &amp; AI Engineer
+JusticeRage,https://infosec.exchange/@justicerage/,OK,Ivan Kwiatkowski (@justicerage@infosec.exchange) - Infosec Exchange
+gcui-art,https://suno.gcui.ai,OK,suno api
+okfn-brasil,http://ok.org.br,OK,"Open Knowledge Brasil (OKBR) | Dados abertos, transparência e conhecimento livre"
+codeaashu,https://aashuu.me,OK,aashuu | Ashutosh Kumar
+smartloli,https://www.kafka-eagle.org/,OK,EFAK
+KhazP,https://alpyalay.org,OK,"Alp Yalay | Products, Websites, and Experiments"
+root-project,https://root.cern,OK,"ROOT: Analyzing petabytes of data, scientifically. - ROOT"
+jslee02,https://jeongseok.dev,OK,Jeongseok Lee
+neka-nat,https://x.com/neka_nat,OK,Kenta Tanaka | WillRobotics | Physical AI (@neka_nat) / X
+waymo-research,https://waymo.com,OK,Waymo - Self-Driving Cars - Autonomous Vehicles - Ride-Hail
+libffcv,https://docs.ffcv.io,OK,Welcome to FFCV’s documentation! &mdash; FFCV  documentation
+zcaceres,https://zach.dev,OK,Software &amp; Adventure | zach.dev
+ysh329,http://yuenshome.space,OK,Peripateticism | Yuens’ blog
+ARM-software,https://www.arm.com,OK,Where intelligence goes next – Arm®
+heavyai,https://docs.nvidia.com/heavyai/,OK,Welcome to HEAVY.AI Documentation | HEAVY.AI Documentation
+Helvesec,https://rmux.io,OK,RMUX - The Multiplexer Engine for Agents
+huangwb8,https://blognas.hwb0307.com,OK,Bensz - 苯苯
+refraction-ray,https://re-ra.xyz,OK,Home &#8211; refraction-ray
+liyown,https://liuyaowen.cn,OK,刘耀文
+Conchylicultor,https://rationalstuff.com,OK,RationalStuff
+Jpisnice,https://mdskills.ai,OK,"Free AI Skills for Claude Code, Cursor &amp; More"
+InkTimeRecord,https://ttime.timerecord.cn,OK,TTimeå®ç½ - æªå¾ç¿»è¯ãåè¯ç¿»è¯åæå­è¯å«è½¯ä»¶
+x4nth055,https://madeinalgeria.dev,OK,"Made in Algeria, open source by Algerian developers"
+nolangz,https://www.nolanlai.com,OK,Nolanlaiâs Creative Tools
+thisandagain,http://andrewsliwinski.com,OK,Andrew Sliwinski | Vice President of Product Experience at LEGO Education
+QIN2DIM,https://nav.echosec.top,OK,QIN2DIM の 个人导航
+mdeff,https://deff.ch,OK,MichaÃ«l Defferrard (mdeff)
+TNT-Likely,https://www.youths.cc,OK,孙笑 · likely — 开源作品与独立产品
+asteroid-team,https://aifasthub.com,OK,Hugging Face – The AI community building the future.
+zzh8829,https://zihao.me,OK,Zihao Zhang
+mito-ds,https://trymito.io,OK,AI Jupyter Notebook for Database and Excel Automations | Mito
+FudanNLP,http://nlp.fudan.edu.cn/,OK,å¤æ¦å¤§å­¦èªç¶è¯­è¨å¤çå®éªå®¤
+yacuo,https://tokenplan.vip,OK,Token Plan ä»·æ ¼å¯¹æ¯ 2026ï½AI Token PlanãCoding Plan ä¸ API ä»·æ ¼
+chihming,https://cmchen.3fai-app.com/,OK,Chih-Ming Chen â Embedding ALL the World
+BrikerMan,https://eliyar.biz,OK,Eliyar's Blog
+0xMassi,https://webclaw.io,OK,webclaw: Web Scraping API for LLMs and AI Agents
+eon01,https://aymenelamri.com,OK,"Aymen El Amri - Author, Software Engineer, Entrepreneur - Turning Ideas Into Cod"
+nitrocloudofficial,https://nitrostack.ai,OK,"NitroStack — Full-Stack MCP Platform | Build MCP Servers, MCP Apps &amp; Agentic"
+TrustAGI-Lab,https://shiruipan.github.io/#people,OK,Shirui Pan
+ypwhs,https://dl.ypw.io,OK,é¦é¡µ - æ·±åº¦å­¦ä¹ å·¥ç¨å¸çå­æå
+jackmpcollins,https://jackcollins.ie,OK,
+spring-ai-alibaba,https://sca.aliyun.com,OK,Spring Cloud Alibaba官网_基于Springboot的微服务教程-阿里云
+crbnos,https://carbon.ms,OK,"Carbon â Manufacturing ERP, MRP, MES &amp; QMS"
+ginlix-ai,https://langalpha.ai,OK,LangAlpha · AI financial research agent
+opensolon,https://solon.noear.org,OK,无耳 Solon (OpenSolon) | 官网
+MarkPDFdown,https://markdown.fit,OK,"MarkPDFDown - Transform PDFs, Office docs, and images into clean, structured Mar"
+georgia-tech-db,https://db.cc.gatech.edu,OK,Georgia Tech Database Group
+zjukg,https://zjunlp.github.io,OK,ZJUKG
+ViTAE-Transformer,https://mililab.github.io/,OK,Jing Zhang — Professor at Wuhan University
+can4hou6joeng4,https://bobochang.cn,OK,Bobochang
+botuniverse,https://onebot.dev,OK,OneBot | 统一的聊天机器人应用接口标准
+777genius,https://agentteams.live,OK,Agent Teams - You&#x27;re the boss. Agents are your team.
+iniwap,http://aiwritex.voidai.cc,OK,AIWriteX - 全网最强AI自媒体矩阵运营系统 | 公众号/小红书/抖音/百家号全自动写作 | 去AI味防检测 | 热搜聚合爆款选题 | 一键多平台分发
+A9T9,https://ui.vision,OK,"Ui.Vision V10 - AI Browser Automation, Desktop App &amp; MCP"
+anywhere-labs,https://www.dshdesktop.cn/,OK,DSH Desktop｜开源桌面客户端，桌面本身也是插件
+ompl,https://wikidata.org,OK,Wikidata
+feigeCode,https://navop.dev,OK,Navop：AI时代的开发和运维工作台
+win4r,https://www.aivi.fyi/,OK,AI超元域的博客
+qodo-ai,https://qodo.com,OK,AI Code Review – Qodo: Deploy with confidence
+czl9707,https://zane-portfolio.kiyo-n-zane.com/,OK,Zane Chen
+mattt,https://nshipster.com,OK,NSHipster
+cbailes,https://craigbailes.com,OK,Craig Bailes
+asavinov,http://conceptoriented.org,OK,Alexandr Savinov | Alexandr Savinov
+samjabrahams,https://samabrahams.com,OK,Sam Abrahams
+yyjeqhc,https://www.cnblogs.com/dayq,OK,念秋 - 博客园
+simbody,https://simtk.org/home/simbody,OK,SimTK: Simbody: Multibody Physics API: Project Home
+Paca-AI,https://paca.co,OK,Paca.co
+OkGoDoIt,https://rogerpincombe.com,OK,Roger Pincombe
+evloghq,https://evlog.dev,OK,evlog — TypeScript logger for wide events &amp; structured logs
+HITsz-TMG,https://huggingface.co/HIT-TMG,OK,HIT-TMG (Lychee Team)
+isair,http://linktr.ee/baris.sencan,OK,"baris.sencan Official: Instagram, Twitter | Linktree"
+haitongli,https://engineering.purdue.edu/~haitongl/,OK,Haitong Li
+MrNothing,https://www.youtube.com/user/smilefr21,OK,MrNothing - YouTube
+leepokai,https://www.pokai.dev/,OK,Lee Po Kai - Indie Developer
+Jiakui,https://jkhu29.github.io,OK,JiaKui Hu - Homepage
+minecraft-dev,https://mcdev.io/,OK,Minecraft Dev for IntelliJ
+sammcj,https://smcleod.net,OK,smcleod.net
+unicodeveloper,https://dev.to/unicodeveloper,OK,Prosper Otemuyiwa - DEV Community
+blmoistawinde,https://blog.csdn.net/blmoistawinde,OK,blmoistawinde-CSDN博客
+PRIME-RL,https://docs.primeintellect.ai,OK,Introduction - Prime Intellect Docs
+veedstudio,https://veed.io,OK,VEED – AI Video Creation Platform | Idea to Video Workflow
+miscusi-peek,https://www.youtube.com/@miscusi-peek/,OK,Miscusi Peek - YouTube
+Besty0728,https://www.micostar.cc,OK,Betsy Blog - 分享网络技术、服务器部署、Unity开发、AI技术应用与原理
+tsurumeso,https://www.kaggle.com/tsurumeso,OK,tsurumeso | Kaggle
+kubb-labs,https://kubb.dev,OK,Kubb · Turn your API spec into type-safe code
+geek-ai,https://geek.com,OK,Geek Media
+time-series-foundation-models,https://aimultiple.com,OK,AIMultiple: Enterprise AI &amp; Software Benchmarking Lab
+tjboudreaux,http://travisboudreaux.com,OK,Travis Boudreaux | Founder. CTO. Startup Advisor.
+easychen,http://ftqq.com,OK,方糖气球🎈
+ethz-asl,https://projects.asl.ethz.ch,OK,Autonomous Systems Lab — Datasets &amp; Open Source | ETHZ ASL
+karpathy,https://twitter.com/karpathy,OK,Andrej Karpathy (@karpathy) / X
+jo-duchan,https://dev.to/joduchan,OK,Duchan - DEV Community
+dyoshikawa,https://zenn.dev,OK,Zenn｜エンジニアのための情報共有コミュニティ
+universal-tool-calling-protocol,https://utcp.io,OK,Introduction | Universal Tool Calling Protocol (UTCP)
+juand-r,https://www.juandiego-rodriguez.com/,OK,Juan Diego Rodriguez | The University of Texas at Austin
+zhitongblog,https://solomd.app,OK,"SoloMD — Free &amp; open-source Markdown editor · a Typora alternative for Mac, "
+davialabs,https://davia.ai,OK,Davia: Character-first Sandbox RPG
+sail-sg,https://sail.sea.com,OK,Sea AI Lab | Home
+mbailey,https://harnyard.com,OK,Harnyard - A unified launcher for AI coding agent harnesses
+pierpaolo28,https://ppiconsulting.dev/,OK,Home | Pier Paolo Ippolito
+WeThinkIn,https://mp.weixin.qq.com/s/ssEJjHBoJDB4y5CfQIWYvw,OK,
+six2dez,https://www.pentest-book.com/,OK,/home/six2dez/.pentest-book | Pentest Book
+Agent-RL,https://arxiv.org,OK,arXiv.org e-Print archive
+qdhenry,https://quintinhenry.com,OK,Quintin Henry â Agentic Engineer &amp; Software Architect
+mixelpixx,https://Orchis.ai,OK,"orchis.ai â Konnect-EDA, Nimrod and developer tools"
+ridafkih,https://rida.dev,OK,Rida F&#x27;kih — Developer &amp; Designer
+michaelshimeles,https://www.rasmic.xyz,OK,Ras Mic â Michael Shimeles
+elirantutia,https://vibeyard.app,OK,Vibeyard — The IDE built for AI coding agents
+ksimback,https://hermesatlas.com,OK,Hermes Atlas — get the most out of Hermes Agent (280+ tools)
+laugh12321,https://www.cnblogs.com/laugh12321,OK,laugh12321 - 博客园
+jishengpeng,https://novateurjsp.github.io,OK,Shengpeng Ji - Homepage
+loco-3d,https://pfernbach.github.io,OK,Homepage of Pierre Fernbach
+piddnad,https://replicate.com,OK,Replicate - Run AI with an API
+WSTxda,https://linktr.ee/wstxda,OK,"WSTxda Official: Instagram, Twitter | Linktree"
+bug0inc,https://ai.bug0.com,OK,Bug0 QA Agent: The open-source Playwright library for AI regression testing
+HyperGAN,https://255labs.xyz,OK,"255labs | AI agents, pipelines and MVPs for startups"
+WongSaang,https://www.buymeacoffee.com/WongSaang,OK,Wong Saang
+Auriti-Labs,https://geoready.dev,OK,GeoReady | AI Visibility Audit &amp; Monitoring
+undefined-ui,https://typingmind.com,OK,TypingMind — Advanced chat UI for AI models
+obot-platform,https://docs.obot.ai,OK,What is Obot? | Obot Docs
+wh200720041,https://wanghan.pro,OK,Wang Han Home Page NTU
+7836246,https://www.xukangr.com,OK,å¾åº· | Xu Kang - Full Stack Developer
+datasets,https://research.google,OK,Google Research - Explore Our Latest Research in Science and AI
+kaqijiang,https://nhrvt0kw31.feishu.cn/wiki/TjZuwJtnfisaqwkRtI4cDQyVngb,OK,Docs
+mlmed,https://njrockwood.com,OK,"Nicholas J. Rockwood, Ph.D."
+LuwuDynamics,https://xgorobot.com,OK,陆吾智能官网 - XGO 与 RIG 桌面机器人
+generative-computing,https://mellea.ai,OK,"Mellea — Reliable, Testable LLM Output for Python"
+trendy-design,https://allshadcn.com,OK,"All ShadCN - 300+ Shadcn Templates, Components, Blocks &amp; Tools"
+ref-tools,https://futuretools.io,OK,Future Tools - The Pulse of AI
+shanliuling,https://dsh.so,OK,DSH Plugin Registry — Scanned &amp; Install-Tested
+childrentime,https://reactuse.com,OK,ReactUse - 110+ Essential React Hooks Library for TypeScript | ReactUse
+spotify,https://aimusic.events,OK,AI Music Events
+Minima-AI-Inc,https://mnma.ai,OK,Minima AI â Four Nodes Become One
+wuji-labs,https://wuji.com,OK,äºå­£å»å­¦ | Five Seasons Medical
+marqo-ai,https://marqo.co,OK,Marqo — Does Your Marketing
+ros-controls,https://openrobotics.org,OK,Open Robotics
+agi-brain,https://pkailabs.io,OK,"PKAILabs â AI Employees for WhatsApp, Voice and Construction"
+AGenUI,https://genui.amap.com,OK,AGenUI
+gigwegbe,https://georgeigwegbe.com,OK,George Igwegbe
+snavely,http://www.cs.cornell.edu/~snavely/,OK,"Noah Snavely&#x2014;Cornell Computer Science, Cornell Tech"
+code-kern-ai,https://www.kern.ai,OK,AI as a Service - accompio IT-Services
+axa-group,https://axa.com,OK,AXA&#x27;s Corporate Website | AXA
+Cohere For AI,https://aisecurityandsafety.org,SUSPECT_AGGREGATOR,The Directory of AI Security &amp; Safety
+audio-cpp,https://voiceaispace.com,SUSPECT_AGGREGATOR,Voice AI Space - Your Hub for Voice Technology
+cl-nagoya,https://artifactshub.ai,SUSPECT_AGGREGATOR,Artifacts Hub
+gitleaks,https://everylocalai.com,SUSPECT_AGGREGATOR,Every Local AI  -  The Directory for Self-Hosted Intelligence
+rikkahub,https://rikka-ai.com/,SUSPECT_AGGREGATOR,RikkaHub
+ModelEngine-Group,https://exploreds.xyz,SUSPECT_AGGREGATOR,GitHub · Change is constant. GitHub keeps you ahead. · GitHub · GitHub
+nanbingxyz,https://5ire.app,SUSPECT_AGGREGATOR,5ire - A Sleek Desktop AI Assistant and MCP (Model Context Protocol) Client
+CVHub520,https://github.com/CVHub520,SUSPECT_AGGREGATOR,CVHub520 (CVHub) · GitHub
+Coding-Solo,https://mcp.directory,SUSPECT_AGGREGATOR,"MCP.Directory — 3,000+ MCP Servers &amp; Skills"
+jianchang512,https://pyvideotrans.com,SUSPECT_AGGREGATOR,pyVideoTrans官网-开源免费视频翻译配音软件 pyvideotrans.com pyvideotrans github github.com/jian
+xlite-dev,https://github.com/xlite-dev,SUSPECT_AGGREGATOR,xlite-dev · GitHub
+kubernetes-sigs,https://gitdiscover.org,SUSPECT_AGGREGATOR,GitDiscover — Discover Trending GitHub Projects &amp; Developers
+astaxie,https://githublb.vercel.app,SUSPECT_AGGREGATOR,GitHub Stars Leaderboard
+Slack AI,https://slack.dev,SUSPECT_AGGREGATOR,Developer Hub | Slack Developers
+open-edge-platform,https://exploreds.xyz,SUSPECT_AGGREGATOR,GitHub · Change is constant. GitHub keeps you ahead. · GitHub · GitHub
+hacksider,https://githublb.vercel.app,SUSPECT_AGGREGATOR,GitHub Stars Leaderboard
+beir-cellar,https://beir.ai,SUSPECT_AGGREGATOR,GitHub - beir-cellar/beir: A Heterogeneous Benchmark for Information Retrieval. 
+labmlai,https://githublb.vercel.app,SUSPECT_AGGREGATOR,GitHub Stars Leaderboard
+rsxdalv,https://github.com/rsxdalv/TTS-WebUI,SUSPECT_AGGREGATOR,GitHub - rsxdalv/TTS-WebUI: A single Gradio + React WebUI with extensions for AC
+AgriciDaniel,https://skool.com/ai-marketing-hub-pro,SUSPECT_AGGREGATOR,AI Marketing Hub Pro
+conwnet,https://github.com/conwnet,SUSPECT_AGGREGATOR,conwnet (netcon) · GitHub
+jackzhenguo,https://github.com/jackzhenguo,SUSPECT_AGGREGATOR,jackzhenguo (jackzhenguo) · GitHub
+kubernetes,https://git.k8s.io,SUSPECT_AGGREGATOR,Kubernetes · GitHub
+openai-php,https://github.com/openai-php/client?sponsor=1,SUSPECT_AGGREGATOR,GitHub - openai-php/client: ⚡️ OpenAI PHP is a supercharged community-maintained
+zvtvz,https://github.com/zvtvz,SUSPECT_AGGREGATOR,zvtvz · GitHub
+open-spaced-repetition,https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-Algorithm,SUSPECT_AGGREGATOR,The Algorithm · open-spaced-repetition/fsrs4anki Wiki · GitHub
+kane50613,https://kane.tw,SUSPECT_AGGREGATOR,kane50613 (Kane Wang) · GitHub
+skills,https://learn.github.com/skills,SUSPECT_AGGREGATOR,GitHub Learn
+DenisSergeevitch,https://fly-brain-hub.vercel.app,SUSPECT_AGGREGATOR,"Fly Brain Hub — Every fruit-fly brain project on Earth, sorted."
+ZHZisZZ,https://github.com/ZHZisZZ,SUSPECT_AGGREGATOR,ZHZisZZ (Zhanhui Zhou) · GitHub
+Cartucho,https://github.com/Cartucho/curriculum/blob/master/joao_cartucho_cv.pdf,SUSPECT_AGGREGATOR,portfolio/joao_cartucho_cv.pdf at master · Cartucho/portfolio · GitHub
+Future-Scholars,https://exploreds.xyz,SUSPECT_AGGREGATOR,GitHub · Change is constant. GitHub keeps you ahead. · GitHub · GitHub
+qybaihe,https://github.com/qybaihe/mu,SUSPECT_AGGREGATOR,GitHub - qybaihe/mu: mu (μ): most of what a coding agent decides isn&#39;t code.
+phronesis-io,https://zdoc.app,SUSPECT_AGGREGATOR,zdoc | A free tool to translate GitHub READMEs into multiple languages and keep 
+xiufengsun,https://agentfilter.com,SUSPECT_AGGREGATOR,"AI Agents Directory — Discover, Compare &amp; Filter AI Agents | AgentFilter"
+pchalasani,https://github.com/langroid/langroid,SUSPECT_AGGREGATOR,GitHub - langroid/langroid: Harness LLMs with Multi-Agent Programming · GitHub
+D3voz,https://repoalerts.com,SUSPECT_AGGREGATOR,"RepoAlerts: rising GitHub repos, before they trend"
+johannfaouzi,https://github.com/johannfaouzi,SUSPECT_AGGREGATOR,johannfaouzi (Johann Faouzi) · GitHub
+JuliaAI,https://github.com/JuliaAI/MLJ.jl,SUSPECT_AGGREGATOR,GitHub - JuliaAI/MLJ.jl: A Julia machine learning framework · GitHub
+meta-llama,https://ai.meta.com,UNREACHABLE,
+Tesla Optimus,https://tesla.com,UNREACHABLE,
+Adept Train,https://adept.ai,UNREACHABLE,
+Adobe Firefly,https://adobe.com,UNREACHABLE,
+JackKozmo29,https://systemonemodels.ai,UNREACHABLE,
+Chegg AI,https://chegg.com,UNREACHABLE,
+ty4z2008,http://weibo.com/ty4z2008,UNREACHABLE,
+alirezamika,https://medium.com/@alirezamika,UNREACHABLE,
+haifengl,https://medium.com/@haifengl,UNREACHABLE,
+bfortuner,https://medium.com/@bfortuner,UNREACHABLE,
+mayneyao,https://gine.me,UNREACHABLE,
+hydropix,https://www.artstation.com/hydropix,UNREACHABLE,
+Tanu-N-Prabhu,https://medium.com/@tanunprabhu95,UNREACHABLE,
+juanmc2005,https://medium.com/@juanmc2005,UNREACHABLE,
+patoles,https://codepen.io/patoles/pen/NvmJyN,UNREACHABLE,
+wenge-research,https://www.wenge.com,UNREACHABLE,

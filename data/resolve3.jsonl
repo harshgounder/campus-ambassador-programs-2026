@@ -431,3 +431,170 @@
 {"name": "AdapterHub", "site": "", "status": "UNRESOLVED", "hits": []}
 {"name": "thu-coai", "site": "", "status": "UNRESOLVED", "hits": []}
 {"name": "enactic", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "torchgeo", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "OpenDCAI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "IAHispano", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "sanchit-gandhi", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "ICTNLP", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "PSRben", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "sambanovasystems", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "RLinf", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "ddz16", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "mosaicml", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "kornia", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "SakanaAI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "CarperAI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "3DTopia", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "deepdoctection", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "mozilla-ai", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "mrdbourke", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "minimaxir", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "yibie", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "rsxdalv", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "khoj-ai", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "looplj", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "rhasspy", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "ModelTC", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "FoundationVision", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "EvanZhouDev", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "ParisNeo", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "RUCAIBox", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "yorko", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "snap-research", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "antgroup", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "LMD0311", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "deepklarity", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "arize-ai", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "roboterax", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "toloka", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "carsonkatri", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "hyperonym", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Voxel51", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "AmazonScience", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "afx-team", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "krasserm", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "alphacep", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "fastai", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Xnhyacinth", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "jingyaogong", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "neonwatty", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "GitMylo", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "X-D-Lab", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "EmbeddedLLM", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "bethgelab", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "ayoolaolafenwa", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "jjyaoao", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "araffin", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "yurijmikhalevich", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "fireworks-ai", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "ollama", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "langfuse", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "continuedev", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "SWE-agent", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "google-deepmind", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "bentoml", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "lancedb", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "humanloop", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "kserve", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "deepgram", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "prompt-security", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "ContextualAI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "alan-turing-institute", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "deepinfra", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Amazon AGI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Microsoft AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Allen Institute for AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Alibaba Tongyi", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "StepFun", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Shanghai AI Lab", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Baidu ERNIE", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "iFlytek Spark", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Huawei Pangu", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "LG AI Research", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "EXAONE", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Naver HyperCLOVA", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Krutrim", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Project Indus", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "NVIDIA Nemotron", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Microsoft Phi", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Apple OpenELM", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Samsung Gauss", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "SK Telecom", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "KT Midm", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Sber GigaChat", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "TII Falcon", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Cohere For AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Ai2 OLMo", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Google Gemma", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Qwen Small", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Llama Small", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Hugging Face SmolLM", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Stability StableLM", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "MobileLLM", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "MiniCPM", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Apple On-Device", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Qualcomm AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Samsung Exynos", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Arm Ethos", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Google Coral", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Qualcomm AI Hub", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Axelera AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "GreenWaves", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Syntiant", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Midjourney", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Adobe Firefly", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "NightCafe", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Getty Images", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Shutterstock AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Luma AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Kuaishou", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Shengshu", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "OpenAI Sora", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Google Veo", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Google Genie", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Google Dreamer", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Wayve", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Tesla Optimus", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Sanctuary AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Waymo", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Cruise", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "OpenAI Whisper", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Meta AudioCraft", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Stability Audio", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Boomy", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Kits.AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Codeium", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Cognition Devin", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Sourcegraph Cody", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Tabnine", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Amazon Q Developer", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Google Gemini Code Assist", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Sweep", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "AWS Kiro", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Cohere Embed", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "E5 Microsoft", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "MongoDB Atlas", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "LangGraph", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "OpenHands Agent", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "SWE-agent Harness", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "MetaGPT", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Zapier Agents", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Beam AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "TensorRT-LLM", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "llama.cpp", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "text-generation-webui", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "MLC LLM", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Ray Serve", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Modal Serving", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Replicate Serving", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Fireworks Serving", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Together Serving", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "DeepInfra Serving", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Cloudflare AI Gateway", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Martian", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "RouteLLM", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Lamini", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "PEFT", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "FSDP", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Ray Train", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Predibase Train", "site": "", "status": "UNRESOLVED", "hits": []}

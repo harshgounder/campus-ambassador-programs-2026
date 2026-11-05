@@ -431,3 +431,170 @@ gorse-io
 AdapterHub
 thu-coai
 enactic
+torchgeo
+OpenDCAI
+IAHispano
+sanchit-gandhi
+ICTNLP
+PSRben
+sambanovasystems
+RLinf
+ddz16
+mosaicml
+kornia
+SakanaAI
+CarperAI
+3DTopia
+deepdoctection
+mozilla-ai
+mrdbourke
+minimaxir
+yibie
+rsxdalv
+khoj-ai
+looplj
+rhasspy
+ModelTC
+FoundationVision
+EvanZhouDev
+ParisNeo
+RUCAIBox
+yorko
+snap-research
+antgroup
+LMD0311
+deepklarity
+arize-ai
+roboterax
+toloka
+carsonkatri
+hyperonym
+Voxel51
+AmazonScience
+afx-team
+krasserm
+alphacep
+fastai
+Xnhyacinth
+jingyaogong
+neonwatty
+GitMylo
+X-D-Lab
+EmbeddedLLM
+bethgelab
+ayoolaolafenwa
+jjyaoao
+araffin
+yurijmikhalevich
+fireworks-ai
+ollama
+langfuse
+continuedev
+SWE-agent
+google-deepmind
+bentoml
+lancedb
+humanloop
+kserve
+deepgram
+prompt-security
+ContextualAI
+alan-turing-institute
+deepinfra
+Amazon AGI
+Microsoft AI
+Allen Institute for AI
+Alibaba Tongyi
+StepFun
+Shanghai AI Lab
+Baidu ERNIE
+iFlytek Spark
+Huawei Pangu
+LG AI Research
+EXAONE
+Naver HyperCLOVA
+Krutrim
+Project Indus
+NVIDIA Nemotron
+Microsoft Phi
+Apple OpenELM
+Samsung Gauss
+SK Telecom
+KT Midm
+Sber GigaChat
+TII Falcon
+Cohere For AI
+Ai2 OLMo
+Google Gemma
+Qwen Small
+Llama Small
+Hugging Face SmolLM
+Stability StableLM
+MobileLLM
+MiniCPM
+Apple On-Device
+Qualcomm AI
+Samsung Exynos
+Arm Ethos
+Google Coral
+Qualcomm AI Hub
+Axelera AI
+GreenWaves
+Syntiant
+Midjourney
+Adobe Firefly
+NightCafe
+Getty Images
+Shutterstock AI
+Luma AI
+Kuaishou
+Shengshu
+OpenAI Sora
+Google Veo
+Google Genie
+Google Dreamer
+Wayve
+Tesla Optimus
+Sanctuary AI
+Waymo
+Cruise
+OpenAI Whisper
+Meta AudioCraft
+Stability Audio
+Boomy
+Kits.AI
+Codeium
+Cognition Devin
+Sourcegraph Cody
+Tabnine
+Amazon Q Developer
+Google Gemini Code Assist
+Sweep
+AWS Kiro
+Cohere Embed
+E5 Microsoft
+MongoDB Atlas
+LangGraph
+OpenHands Agent
+SWE-agent Harness
+MetaGPT
+Zapier Agents
+Beam AI
+TensorRT-LLM
+llama.cpp
+text-generation-webui
+MLC LLM
+Ray Serve
+Modal Serving
+Replicate Serving
+Fireworks Serving
+Together Serving
+DeepInfra Serving
+Cloudflare AI Gateway
+Martian
+RouteLLM
+Lamini
+PEFT
+FSDP
+Ray Train
+Predibase Train
