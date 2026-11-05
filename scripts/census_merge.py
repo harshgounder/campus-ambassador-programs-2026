@@ -24,13 +24,13 @@ def add(name,source,tags,dl,stars,tier):
 if os.path.exists("data/census-hf.csv"):
     for r in csv.DictReader(open("data/census-hf.csv")):
         dl=int(r["downloads"] or 0)
-        tier="org" if dl>=50000 else ("small" if dl>=5000 else "individual")
+        tier="org" if dl>=100000 else ("small" if dl>=5000 else "individual")
         add(r["name"],"huggingface",r["tags"],dl,0,tier)
 for fp in ["data/ai-gh.csv","data/census-gh.csv"]:
     if os.path.exists(fp):
         for r in csv.DictReader(open(fp)):
             st=int(r.get("stars") or r.get("metric") or 0)
-            tier="org" if st>=100 else ("small" if st>=10 else "individual")
+            tier="org" if st>=1000 else ("small" if st>=100 else "individual")
             add(r["name"],"github",r.get("topics",r.get("cats","")),0,st,tier)
 for r in csv.DictReader(open("data/ai-curated.csv")):
     add(r["name"],"curated",r["category"],0,0,"curated")

@@ -4250,3 +4250,214 @@ BeRo1985
 Qredence
 garyqlin
 deepmemteam
+prompt-security
+Phind
+humanloop
+guardrails-ai
+playht
+voyage-ai
+continuedev
+replicate
+Safe Superintelligence
+Thinking Machines Lab
+Reflection AI
+Imbue
+You.com
+Glean
+Harvey
+Sierra
+Decagon
+Abridge
+Ambience
+OpenEvidence
+Hebbia
+EvenUp
+Jasper
+Copy.ai
+Otter.ai
+Fireflies.ai
+Fathom
+Granola
+Mem
+Reflect
+Tana
+Exa
+Tavily
+GMI Cloud
+Cactus Labs
+opencode
+Cognition
+Bolt
+v0
+Lovable
+Base44
+Rocket
+DhiWise
+Notion AI
+Coda AI
+Airtable AI
+Miro AI
+ClickUp AI
+Asana AI
+Monday AI
+Slack AI
+Zoom AI
+Google Workspace AI
+Microsoft 365 Copilot
+Canva Magic
+Figma AI
+CapCut
+InVideo
+Pictory
+Lumen5
+Gamma
+Tome
+Beautiful.ai
+Pitch
+Decktopus
+Kagi
+Brave Search
+Ecosia AI
+Andi
+Consensus
+Semantic Scholar
+Isomorphic Labs
+Insitro
+Recursion
+Generate Biomedicines
+EvolutionaryScale
+Chai Discovery
+Schrodinger
+Benchling
+Tempus
+PathAI
+Paige
+Viz.ai
+Aidoc
+Zebra Medical
+Anduril
+Shield AI
+Palantir
+Rebellion Defense
+Helsing
+Mistral Defense
+LexisNexis AI
+Thomson Reuters CoCounsel
+Robin AI
+Luminance
+Spellbook
+Ironclad AI
+Clio AI
+Bloomberg GPT
+AlphaSense
+Hebbia Finance
+Upstart
+Zest AI
+Feedzai
+Featurespace
+Sardine
+Unit21
+Khanmigo
+Duolingo Max
+Coursera Coach
+Chegg AI
+Photomath
+Gauth
+Squirrel AI
+Byju's AI
+PhysicsWallah AI
+Unacademy AI
+Vedantu AI
+Fluidstack
+Voltage Park
+TensorWave
+SF Compute
+Gensyn
+Akash Network
+Render Network
+io.net
+Aethir
+Nosana
+a16z AI
+Sequoia AI
+Lightspeed AI
+Index Ventures AI
+Air Street Capital
+AI Grant
+Y Combinator AI
+Entrepreneur First AI
+Antler AI
+Techstars AI
+sourcegraph
+determined-ai
+tenstorrent
+elevenlabs
+elicit
+alan-turing-institute
+scite
+deepinfra
+whylabs
+Hyper-AI
+dmatrix
+kakaobrain
+lightseekorg
+VAST-AI
+primer-ai
+grammarly
+vectara
+huanngzh
+supertone-oss-archive
+speechmatics
+altic-dev
+kensho
+Uminosachi
+aws
+Ultralytics
+r3gm
+galilai-group
+refuelai
+hyp1231
+pipecat-ai
+philz1337x
+sapientinc
+BlinkDL
+mflux-community
+pytorch
+Acly
+ise-uiuc
+nari-labs
+commaai
+OpenNMT
+TheLastBen
+InvokeAI
+edbeeching
+Dexmal
+GanjinZero
+Intelligent-Internet
+AntResearch
+frgfm
+leggedrobotics
+vladmandic
+tugstugi
+Sanster
+voidful
+Goekdeniz-Guelmez
+gorse-io
+SoMarkAI
+fixie-ai
+AdapterHub
+metavoiceio
+latentcat
+clips
+rail-berkeley
+enactic
+arcee-ai
+RLinf
+IAHispano
+CAMB-AI
+torchgeo
+webbrain-one
+Edresson
+deepdoctection
+tensorblock
+CarperAI

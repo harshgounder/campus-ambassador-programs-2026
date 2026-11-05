@@ -47,3 +47,5 @@ gh nlp 1000 26661
 gh ai-tools 1000 27242
 fail ai-assistant Command '['gh', 'search', 'repos', '--topic', 'ai-assistant', '--limit', '1000', '--json', 'owner,stargazersCount']' timed out after 120 seconds
 gh openai 1000 27534
+gh claude 1000 27873
+GH OWNERS 27873

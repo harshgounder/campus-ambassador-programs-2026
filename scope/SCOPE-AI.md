@@ -63,3 +63,23 @@ Status vocabulary is in `scope/SCOPE.md`.
 - Tier 2: every publisher in the top 1,000 models of 28 Hugging Face pipeline tags, 9,195 names.
 - Tier 3: every owner in 22 GitHub AI topics, 4,567 names.
 The long tail is in `data/ai-universe.csv` and is a denominator, not a claim of quality.
+
+## Added 5 Nov 2026: the closed-source and non-model layer
+
+Hugging Face only sees open weights. These categories cover the rest.
+
+| code | category | definition | examples |
+|---|---|---|---|
+| CLOSED | Closed-model labs | trains models but does not publish weights, or ships AI as the product | SSI, Thinking Machines, Reflection, Magic, Poolside, Glean, Harvey |
+| APP | AI-native applications | the model is the product surface, not the company's only asset | Notion AI, Otter, Gamma, Descript |
+| SRCH | AI search and research | search, answer engines, literature tools | Perplexity, Exa, Tavily, Elicit, Consensus |
+| BIO | AI biotech | drug discovery, protein design, medical imaging | Isomorphic, Insitro, Recursion, EvolutionaryScale |
+| DEF | AI defense | autonomy, defense data, dual-use | Anduril, Shield AI, Helsing, Palantir |
+| LEGAL | AI legal | contracts, research, practice | Harvey, Robin AI, Luminance, Spellbook |
+| FIN | AI finance | credit, fraud, market research | Upstart, Feedzai, AlphaSense, Kensho |
+| EDU | AI education | tutors, learning platforms | Khanmigo, Duolingo Max, Squirrel AI |
+| INFRA2 | AI compute services | neoclouds, GPU marketplaces, decentralized compute | Vast.ai, Fluidstack, Prime Intellect, io.net |
+| VC | AI investors and accelerators | funds and programs that create AI companies | a16z, YC, AI Grant, Entrepreneur First |
+
+Inclusion rule for these: AI is the product or the core infrastructure, not a feature bolted onto
+a non-AI business.

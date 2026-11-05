@@ -3961,3 +3961,214 @@
 {"name": "Qredence", "site": "https://qredence.ai", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
 {"name": "garyqlin", "site": "https://opprimeworld.com", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
 {"name": "deepmemteam", "site": "https://deepmem.dev", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "prompt-security", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Phind", "site": "https://phind.com", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "humanloop", "site": "https://humanloop.com", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "guardrails-ai", "site": "https://guardrailsai.com", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "playht", "site": "https://play.ht", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "voyage-ai", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "continuedev", "site": "https://continue.dev", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "replicate", "site": "https://replicate.com", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "Safe Superintelligence", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Thinking Machines Lab", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Reflection AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Imbue", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "You.com", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Glean", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Harvey", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Sierra", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Decagon", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Abridge", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Ambience", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "OpenEvidence", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Hebbia", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "EvenUp", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Jasper", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Copy.ai", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Otter.ai", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Fireflies.ai", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Fathom", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Granola", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Mem", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Reflect", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Tana", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Exa", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Tavily", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "GMI Cloud", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Cactus Labs", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "opencode", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Cognition", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Bolt", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "v0", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Lovable", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Base44", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Rocket", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "DhiWise", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Notion AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Coda AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Airtable AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Miro AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "ClickUp AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Asana AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Monday AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Slack AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Zoom AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Google Workspace AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Microsoft 365 Copilot", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Canva Magic", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Figma AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "CapCut", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "InVideo", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Pictory", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Lumen5", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Gamma", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Tome", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Beautiful.ai", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Pitch", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Decktopus", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Kagi", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Brave Search", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Ecosia AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Andi", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Consensus", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Semantic Scholar", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Isomorphic Labs", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Insitro", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Recursion", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Generate Biomedicines", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "EvolutionaryScale", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Chai Discovery", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Schrodinger", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Benchling", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Tempus", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "PathAI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Paige", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Viz.ai", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Aidoc", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Zebra Medical", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Anduril", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Shield AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Palantir", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Rebellion Defense", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Helsing", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Mistral Defense", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "LexisNexis AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Thomson Reuters CoCounsel", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Robin AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Luminance", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Spellbook", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Ironclad AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Clio AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Bloomberg GPT", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "AlphaSense", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Hebbia Finance", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Upstart", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Zest AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Feedzai", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Featurespace", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Sardine", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Unit21", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Khanmigo", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Duolingo Max", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Coursera Coach", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Chegg AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Photomath", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Gauth", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Squirrel AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Byju's AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "PhysicsWallah AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Unacademy AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Vedantu AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Fluidstack", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Voltage Park", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "TensorWave", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "SF Compute", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Gensyn", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Akash Network", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Render Network", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "io.net", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Aethir", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Nosana", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "a16z AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Sequoia AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Lightspeed AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Index Ventures AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Air Street Capital", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "AI Grant", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Y Combinator AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Entrepreneur First AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Antler AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "Techstars AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "sourcegraph", "site": "https://sourcegraph.com", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "determined-ai", "site": "https://determined.ai", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "tenstorrent", "site": "https://www.tenstorrent.com", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "elevenlabs", "site": "https://elevenlabs.io", "how": "gh", "reachable": true, "hits": [{"url": "https://elevenlabs.io/ambassador", "title": "Host events, create content with the ElevenLabs Ambassador Program"}, {"url": "https://elevenlabs.io/students", "title": "ElevenLabs for Students"}], "status": "FOUND"}
+{"name": "elicit", "site": "https://elicit.com/", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "alan-turing-institute", "site": "https://turing.ac.uk", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "scite", "site": "https://scite.ai", "how": "hf", "reachable": true, "hits": [{"url": "https://scite.ai/ambassador", "title": "AI for Research | Scite"}, {"url": "https://scite.ai/ambassadors", "title": "AI for Research | Scite"}, {"url": "https://scite.ai/ambassador-program", "title": "AI for Research | Scite"}, {"url": "https://scite.ai/campus", "title": "AI for Research | Scite"}, {"url": "https://scite.ai/campus-ambassador", "title": "AI for Research | Scite"}, {"url": "https://scite.ai/students", "title": "AI for Research | Scite"}, {"url": "https://scite.ai/student-ambassador", "title": "AI for Research | Scite"}], "status": "FOUND"}
+{"name": "deepinfra", "site": "https://deepinfra.com", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "whylabs", "site": "http://www.whylabs.ai/", "how": "gh", "reachable": true, "hits": [], "status": "NONE"}
+{"name": "Hyper-AI", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "dmatrix", "site": "http://mazungumzo.wordpress.com", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "kakaobrain", "site": "https://kakaobrain.com", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "lightseekorg", "site": "https://lightseek.org", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "VAST-AI", "site": "https://tripo3d.ai", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "primer-ai", "site": "https://primer.ai", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "grammarly", "site": "http://www.grammarly.com/team", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "vectara", "site": "https://vectara.com", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "huanngzh", "site": "https://huanngzh.github.io/", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "supertone-oss-archive", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "speechmatics", "site": "https://www.speechmatics.com", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "altic-dev", "site": "https://altic.dev", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "kensho", "site": "https://kensho.com", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "Uminosachi", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "aws", "site": "https://amazon.com/aws", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "Ultralytics", "site": "https://ultralytics.com", "how": "hf", "reachable": true, "hits": [{"url": "https://www.ultralytics.com/ambassadors", "title": "Ultralytics Ambassadors"}], "status": "FOUND"}
+{"name": "r3gm", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "galilai-group", "site": "https://galilai-group.github.io", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "refuelai", "site": "https://refuel.ai", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "hyp1231", "site": "https://yupenghou.com", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "pipecat-ai", "site": "https://pipecat.ai", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "philz1337x", "site": "https://clarityai.co", "how": "hf", "reachable": true, "hits": [{"url": "https://clarityai.co/ambassador", "title": "Clarity AI | #1 AI Image Upscaler & Enhancer"}, {"url": "https://clarityai.co/ambassadors", "title": "Clarity AI | #1 AI Image Upscaler & Enhancer"}, {"url": "https://clarityai.co/ambassador-program", "title": "Clarity AI | #1 AI Image Upscaler & Enhancer"}, {"url": "https://clarityai.co/campus", "title": "Clarity AI | #1 AI Image Upscaler & Enhancer"}, {"url": "https://clarityai.co/campus-ambassador", "title": "Clarity AI | #1 AI Image Upscaler & Enhancer"}, {"url": "https://clarityai.co/students", "title": "Clarity AI | #1 AI Image Upscaler & Enhancer"}, {"url": "https://clarityai.co/student-ambassador", "title": "Clarity AI | #1 AI Image Upscaler & Enhancer"}], "status": "FOUND"}
+{"name": "sapientinc", "site": "https://sapient.inc", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "BlinkDL", "site": "https://rwkv.com", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "mflux-community", "site": "https://raw.githubusercontent.com", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "pytorch", "site": "https://pytorch.org", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "Acly", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "ise-uiuc", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "nari-labs", "site": "https://nari-labs.com", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "commaai", "site": "https://comma.ai", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "OpenNMT", "site": "https://forum.opennmt.net", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "TheLastBen", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "InvokeAI", "site": "https://invoke.ai", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "edbeeching", "site": "https://edbeeching.github.io", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "Dexmal", "site": "https://dexmal.com", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "GanjinZero", "site": "https://ganjinzero.github.io", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "Intelligent-Internet", "site": "https://ii.inc", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "AntResearch", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "frgfm", "site": "https://fgfm.dev", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "leggedrobotics", "site": "https://rsl.ethz.ch", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "vladmandic", "site": "https://www.linkedin.com/in/cyan051/", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "tugstugi", "site": "https://www.kaggle.com/tugstugi", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "Sanster", "site": "https://www.panicbyte.xyz/", "how": "gh", "reachable": true, "hits": [{"url": "https://www.panicbyte.xyz/ambassador", "title": ""}, {"url": "https://www.panicbyte.xyz/ambassadors", "title": ""}, {"url": "https://www.panicbyte.xyz/ambassador-program", "title": ""}, {"url": "https://www.panicbyte.xyz/campus", "title": ""}, {"url": "https://www.panicbyte.xyz/campus-ambassador", "title": ""}, {"url": "https://www.panicbyte.xyz/students", "title": ""}, {"url": "https://www.panicbyte.xyz/student-ambassador", "title": ""}], "status": "FOUND"}
+{"name": "voidful", "site": "https://eric-lam.com", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "Goekdeniz-Guelmez", "site": "https://goekdeniz-guelmez.github.io", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "gorse-io", "site": "https://gorse.io", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "SoMarkAI", "site": "https://somark.ai", "how": "hf", "reachable": true, "hits": [{"url": "https://somark.ai/ambassador", "title": "SoMark: Document Intelligence Infrastructure for Agents"}, {"url": "https://somark.ai/ambassadors", "title": "SoMark: Document Intelligence Infrastructure for Agents"}, {"url": "https://somark.ai/ambassador-program", "title": "SoMark: Document Intelligence Infrastructure for Agents"}, {"url": "https://somark.ai/campus", "title": "SoMark: Document Intelligence Infrastructure for Agents"}, {"url": "https://somark.ai/campus-ambassador", "title": "SoMark: Document Intelligence Infrastructure for Agents"}, {"url": "https://somark.ai/students", "title": "SoMark: Document Intelligence Infrastructure for Agents"}, {"url": "https://somark.ai/student-ambassador", "title": "SoMark: Document Intelligence Infrastructure for Agents"}], "status": "FOUND"}
+{"name": "fixie-ai", "site": "https://ultravox.ai", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "AdapterHub", "site": "https://adapterhub.ml", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "metavoiceio", "site": "https://themetavoice.xyz", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "latentcat", "site": "https://latentcat.com", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "clips", "site": "https://uantwerpen.be", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "rail-berkeley", "site": "https://rail.eecs.berkeley.edu", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "enactic", "site": "https://enactic.ai", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "arcee-ai", "site": "https://arcee.ai", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "RLinf", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "IAHispano", "site": "https://applio.org", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "CAMB-AI", "site": "https://camb.ai", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "torchgeo", "site": "https://torchgeo.org", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "webbrain-one", "site": "https://webbrain.one", "how": "hf", "reachable": true, "hits": [{"url": "https://www.webbrain.one/ambassador", "title": "WebBrain \u2014 Free Open-Source AI Browser Agent for Chrome, Firefox &amp; Edge"}, {"url": "https://www.webbrain.one/ambassadors", "title": "WebBrain \u2014 Free Open-Source AI Browser Agent for Chrome, Firefox &amp; Edge"}, {"url": "https://www.webbrain.one/ambassador-program", "title": "WebBrain \u2014 Free Open-Source AI Browser Agent for Chrome, Firefox &amp; Edge"}, {"url": "https://www.webbrain.one/campus", "title": "WebBrain \u2014 Free Open-Source AI Browser Agent for Chrome, Firefox &amp; Edge"}, {"url": "https://www.webbrain.one/campus-ambassador", "title": "WebBrain \u2014 Free Open-Source AI Browser Agent for Chrome, Firefox &amp; Edge"}, {"url": "https://www.webbrain.one/students", "title": "WebBrain \u2014 Free Open-Source AI Browser Agent for Chrome, Firefox &amp; Edge"}, {"url": "https://www.webbrain.one/student-ambassador", "title": "WebBrain \u2014 Free Open-Source AI Browser Agent for Chrome, Firefox &amp; Edge"}], "status": "FOUND"}
+{"name": "Edresson", "site": "https://www.linkedin.com/in/edresson/", "how": "gh", "reachable": false, "hits": [], "status": "UNREACHABLE"}
+{"name": "deepdoctection", "site": "", "how": "none", "reachable": false, "hits": [], "status": "NO_SITE"}
+{"name": "tensorblock", "site": "https://tensorblock.co", "how": "hf", "reachable": true, "hits": [{"url": "https://www.tensorblock.co/ambassador", "title": "TensorBlock | Runtime stack for intelligent systems"}, {"url": "https://www.tensorblock.co/ambassadors", "title": "TensorBlock | Runtime stack for intelligent systems"}, {"url": "https://www.tensorblock.co/ambassador-program", "title": "TensorBlock | Runtime stack for intelligent systems"}, {"url": "https://www.tensorblock.co/campus", "title": "TensorBlock | Runtime stack for intelligent systems"}, {"url": "https://www.tensorblock.co/campus-ambassador", "title": "TensorBlock | Runtime stack for intelligent systems"}, {"url": "https://www.tensorblock.co/students", "title": "TensorBlock | Runtime stack for intelligent systems"}, {"url": "https://www.tensorblock.co/student-ambassador", "title": "TensorBlock | Runtime stack for intelligent systems"}], "status": "FOUND"}
+{"name": "CarperAI", "site": "https://carper.ai", "how": "hf", "reachable": false, "hits": [], "status": "UNREACHABLE"}
