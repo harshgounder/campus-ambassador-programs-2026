@@ -568,3 +568,28 @@ Cognition Devin
 Sourcegraph Cody
 Tabnine
 Amazon Q Developer
+Google Gemini Code Assist
+Sweep
+AWS Kiro
+Cohere Embed
+E5 Microsoft
+MongoDB Atlas
+LangGraph
+OpenHands Agent
+SWE-agent Harness
+MetaGPT
+Zapier Agents
+Beam AI
+TensorRT-LLM
+llama.cpp
+text-generation-webui
+MLC LLM
+Ray Serve
+Modal Serving
+Replicate Serving
+Fireworks Serving
+Together Serving
+DeepInfra Serving
+Cloudflare AI Gateway
+Martian
+RouteLLM

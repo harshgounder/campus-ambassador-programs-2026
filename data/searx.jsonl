@@ -568,3 +568,28 @@
 {"name": "Sourcegraph Cody", "site": "https://sourcegraph.com", "status": "RESOLVED", "hits": []}
 {"name": "Tabnine", "site": "", "status": "UNRESOLVED", "hits": []}
 {"name": "Amazon Q Developer", "site": "https://aws.amazon.com", "status": "RESOLVED", "hits": []}
+{"name": "Google Gemini Code Assist", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Sweep", "site": "https://theacc.com", "status": "RESOLVED", "hits": []}
+{"name": "AWS Kiro", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Cohere Embed", "site": "https://cohere.com", "status": "RESOLVED", "hits": []}
+{"name": "E5 Microsoft", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "MongoDB Atlas", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "LangGraph", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "OpenHands Agent", "site": "https://openhands.dev", "status": "RESOLVED", "hits": []}
+{"name": "SWE-agent Harness", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "MetaGPT", "site": "https://unite.ai", "status": "UNVERIFIED", "hits": []}
+{"name": "Zapier Agents", "site": "https://zapier.com", "status": "RESOLVED", "hits": []}
+{"name": "Beam AI", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "TensorRT-LLM", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "llama.cpp", "site": "https://llama.app", "status": "RESOLVED", "hits": []}
+{"name": "text-generation-webui", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "MLC LLM", "site": "https://llm.mlc.ai", "status": "RESOLVED", "hits": []}
+{"name": "Ray Serve", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Modal Serving", "site": "https://modal.com", "status": "RESOLVED", "hits": []}
+{"name": "Replicate Serving", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Fireworks Serving", "site": "https://fireworks.ai", "status": "RESOLVED", "hits": []}
+{"name": "Together Serving", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "DeepInfra Serving", "site": "https://deepinfra.com", "status": "RESOLVED", "hits": []}
+{"name": "Cloudflare AI Gateway", "site": "", "status": "UNRESOLVED", "hits": []}
+{"name": "Martian", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
+{"name": "RouteLLM", "site": "https://kizunaai.com", "status": "UNVERIFIED", "hits": []}
