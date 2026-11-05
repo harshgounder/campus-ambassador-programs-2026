@@ -29,6 +29,8 @@ chk("census has 5000+ org-tier names",sum(1 for x in rows("data/ai-orgs-census.c
 chk("closed-source layer exists",len(rows("data/ai-adjacent.csv"))>=150,f"{len(rows('data/ai-adjacent.csv'))} rows")
 chk("universe csv exists",len(rows("data/ai-universe.csv"))>10000,f"{len(rows('data/ai-universe.csv'))} rows")
 chk("waves tracker exists",os.path.exists("WAVES.md"),"WAVES.md")
+chk("official coverage file exists",os.path.exists("data/coverage.json"),"data/coverage.json")
+chk("domain corrections applied",os.path.exists("data/domain_corrections.csv") and len(rows("data/domain_corrections.csv"))>=200,f"{len(rows('data/domain_corrections.csv'))} corrections")
 chk("tracker exists with 50+ open rows",len(rows("data/tracker.csv"))>=50,f"{len(rows('data/tracker.csv'))} rows")
 import os as _os
 chk("notable scan processed 1000+",_os.path.exists("data/scan_processed.txt") and len(open("data/scan_processed.txt").read().split("\n"))>=1000,f"{len(open('data/scan_processed.txt').read().split(chr(10)))-1 if _os.path.exists('data/scan_processed.txt') else 0} processed")
