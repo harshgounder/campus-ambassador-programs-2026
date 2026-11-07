@@ -1,0 +1,610 @@
+[
+ {
+  "name": "Irys Datapunk",
+  "old": "LEAD",
+  "url": "https://irys.xyz/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Hugsy Campus Ambassador",
+  "old": "LEAD",
+  "url": "https://www.reddit.com/r/ChandigarhUniversiti/comments/1w62o54/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "v0 Ambassadors",
+  "old": "CLOSED",
+  "url": "https://v0ambassadorform.vercel.app/",
+  "http": 404,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Cyfrin Ambassador",
+  "old": "LEAD",
+  "url": "https://www.cyfrin.io/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Cursor for Students",
+  "old": "LEAD",
+  "url": "https://cursor.com/students",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Mantle Squad",
+  "old": "LEAD",
+  "url": "https://www.mantle.xyz/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Cursor Campus Leads",
+  "old": "CLOSED",
+  "url": "https://cursor.com/campus-leads",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Canvassador",
+  "old": "CLOSED",
+  "url": "https://www.canva.com/help/canva-affiliate-marketing-program/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Midas Ambassador",
+  "old": "LEAD",
+  "url": "https://midas.app/",
+  "http": 403,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Action Model Ambassador",
+  "old": "LEAD",
+  "url": "https://actionmodel.ai/",
+  "http": "ERR",
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Ryfinite Ambassador",
+  "old": "LEAD",
+  "url": "https://ryfinite.com/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "AXIOM Ambassador",
+  "old": "LEAD",
+  "url": "https://axiom.org/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Swaymark Creator Campaign",
+  "old": "LEAD",
+  "url": "https://swaymark.xyz/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Canborsa Ambassador",
+  "old": "LEAD",
+  "url": "https://canborsa.com/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "PlaySolana Ambassador",
+  "old": "LEAD",
+  "url": "https://playsolana.com/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "TeQoin Ambassador",
+  "old": "LEAD",
+  "url": "https://teqoin.com/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Quip Creator Network",
+  "old": "LEAD",
+  "url": "https://quip.network/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Reddit Campus Ambassador India",
+  "old": "CLOSED",
+  "url": "https://job-boards.greenhouse.io/reddit/jobs/7090049",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Vanta Ambassador",
+  "old": "LEAD",
+  "url": "https://vanta.xyz/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "MongoDB Community Creators",
+  "old": "LEAD",
+  "url": "https://www.mongodb.com/community/creators",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "FBYTio Ambassador",
+  "old": "LEAD",
+  "url": "https://fbyt.io/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Burnt Xion Ambassadors",
+  "old": "LEAD",
+  "url": "https://burnt.com/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "OpenAI Student Collective",
+  "old": "CLOSED",
+  "url": "https://openai.com/student-collective/",
+  "http": 403,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "KindLabs Ambassador",
+  "old": "LEAD",
+  "url": "https://kindlabs.xyz/",
+  "http": "ERR",
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Intel Software Innovator",
+  "old": "LEAD",
+  "url": "https://www.intel.com/content/www/us/en/developer/community/software-innovators.html",
+  "http": 403,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "OpenAI Codex Ambassadors",
+  "old": "CLOSED",
+  "url": "https://developers.openai.com/community/codex-ambassadors",
+  "http": 200,
+  "open": true,
+  "closed": true
+ },
+ {
+  "name": "Claude Campus Ambassadors",
+  "old": "CLOSED",
+  "url": "https://claude.com/programs/campus",
+  "http": 200,
+  "open": true,
+  "closed": false
+ },
+ {
+  "name": "Notion Ambassadors",
+  "old": "PAUSED",
+  "url": "https://notion.notion.site/notion-ambassador-program?pvs=18",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Notion Campus Leaders",
+  "old": "CLOSED",
+  "url": "https://notion.notion.site/Notion-Campus-Leaders-Program-5817b00cbaa244bca9e0e498804cbab4",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Canon Campus Commandos",
+  "old": "LEAD",
+  "url": "https://www.usa.canon.com/",
+  "http": 403,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Valeria Ambassador",
+  "old": "LEAD",
+  "url": "https://valeria.health/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "IEEE YP Ambassadors",
+  "old": "LEAD",
+  "url": "https://ieee.org/",
+  "http": 202,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Black Python Devs",
+  "old": "LEAD",
+  "url": "https://blackpythondevs.com/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "SolAcc Campus Ambassador",
+  "old": "LEAD",
+  "url": "https://solacc.xyz/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Unstop Campus Champions",
+  "old": "CLOSED",
+  "url": "https://unstop.com/internships/unstop-campus-champions-unstop-1715499",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "JourneyToCareer Campus Ambassador",
+  "old": "LEAD",
+  "url": "https://community.oneshopai.com/opportunities/",
+  "http": 200,
+  "open": true,
+  "closed": false
+ },
+ {
+  "name": "PyTorch Ambassador",
+  "old": "CLOSED",
+  "url": "https://pytorch.org/programs/ambassadors/application-process/",
+  "http": 200,
+  "open": true,
+  "closed": false
+ },
+ {
+  "name": "Rendezvous IIT Delhi CA",
+  "old": "CLOSED",
+  "url": "https://unstop.com/internships/campus-ambassador-program-rendezvous-26-iit-delhi-1723680",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Internshala Student Partner",
+  "old": "CLOSED",
+  "url": "https://isp.internshala.com/",
+  "http": 200,
+  "open": true,
+  "closed": true
+ },
+ {
+  "name": "Women Techmakers Ambassadors",
+  "old": "CLOSED",
+  "url": "https://developers.google.com/womentechmakers",
+  "http": 200,
+  "open": false,
+  "closed": true
+ },
+ {
+  "name": "GeeksforGeeks Campus Mantri",
+  "old": "CLOSED",
+  "url": "https://www.geeksforgeeks.org/gfg-campus-mantri-program",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "IEEE ComSoc Student Ambassador",
+  "old": "CLOSED",
+  "url": "https://www.comsoc.org/engagement-community/students/ieee-comsoc-student-ambassador",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "GitHub Campus Experts",
+  "old": "CLOSED",
+  "url": "https://education.github.com/campus_experts",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "E-Cell IIT BHU CA",
+  "old": "OPENS SOON",
+  "url": "https://www.ecelliitbhu.in/cd",
+  "http": 200,
+  "open": true,
+  "closed": false
+ },
+ {
+  "name": "Arm Ambassador",
+  "old": "CLOSED",
+  "url": "https://developer.arm.com/arm-developer-program/ambassadors",
+  "http": 403,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Campus Unite Campus Ambassador",
+  "old": "CLOSED",
+  "url": "https://campusunite.in/ambassador",
+  "http": 200,
+  "open": false,
+  "closed": true
+ },
+ {
+  "name": "Be The Face of Nykaa",
+  "old": "CLOSED",
+  "url": "https://www.nykaa.com/be-the-face-of-nykaa/lp",
+  "http": 403,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Nykaa College Ambassador",
+  "old": "LEAD",
+  "url": "https://www.nykaa.com/",
+  "http": 403,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Zomato Campus Ambassador",
+  "old": "LEAD",
+  "url": "https://internshala.com/internships/campus-ambassador-internship/",
+  "http": 200,
+  "open": true,
+  "closed": false
+ },
+ {
+  "name": "KodeKloud Ambassador",
+  "old": "CLOSED",
+  "url": "https://kodekloud.com/pages/ambassador-program",
+  "http": 200,
+  "open": true,
+  "closed": false
+ },
+ {
+  "name": "Solana University Ambassador",
+  "old": "CLOSED",
+  "url": "https://solana.com/university",
+  "http": 200,
+  "open": true,
+  "closed": false
+ },
+ {
+  "name": "Swiggy Campus Ambassador",
+  "old": "LEAD",
+  "url": "https://internshala.com/internships/campus-ambassador-internship/",
+  "http": 200,
+  "open": true,
+  "closed": false
+ },
+ {
+  "name": "LangChain Ambassador",
+  "old": "INVITE ONLY",
+  "url": "https://www.langchain.com/community",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Tryst IIT Delhi CA",
+  "old": "UNKNOWN",
+  "url": "https://cap.tryst-iitdelhi.org/",
+  "http": "ERR",
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Myntra StyleCast Campus Ambassador",
+  "old": "STALE",
+  "url": "https://www.prnewswire.com/in/news-releases/myntra-stylecast-rolls-out-campus-ambassador-program-kick-starting-the-journey-for-500-aspiring-young-creators-from-leading-colleges-809096689.html",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Replit Community Ambassador",
+  "old": "LEAD",
+  "url": "https://replit.com/community",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "E-Summit MNIT Jaipur Campus Ambassador",
+  "old": "UNKNOWN",
+  "url": "https://www.ecellmnit.org/esummit/campus-ambassador",
+  "http": "ERR",
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Toronet Ambassador",
+  "old": "CLOSED",
+  "url": "https://x.com/moc_tx89/status/2114700147259232396",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "HackerEarth Campus Ambassador",
+  "old": "LEAD",
+  "url": "https://www.hackerearth.com/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Binance Student Ambassador",
+  "old": "LEAD",
+  "url": "https://www.binance.com/en/academy",
+  "http": 202,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Fractal iqigai Campus Ambassador",
+  "old": "LEAD",
+  "url": "https://iqigai.ai/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Cline Ambassador",
+  "old": "CLOSED",
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLScvyVZ2Sj0Igja_nS9oV9utHaSVwm3Is9wU06dJVqevZrwg_A/viewform",
+  "http": 200,
+  "open": false,
+  "closed": true
+ },
+ {
+  "name": "Krutrim Insights Campus Ambassador",
+  "old": "CLOSED",
+  "url": "https://unstop.com/internships/campus-ambassador-internship-krutrim-insights-1668189",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "E-Cell IIT Kanpur Campus Ambassador",
+  "old": "UNKNOWN",
+  "url": "https://www.ecellitk.org/ca/",
+  "http": "ERR",
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "IncuXai Campus AI Ambassador 2026-27",
+  "old": "UNKNOWN",
+  "url": "https://campusambassador.incuxai.com/",
+  "http": 200,
+  "open": true,
+  "closed": false
+ },
+ {
+  "name": "Texas Instruments Campus Ambassador (BYTE)",
+  "old": "LEAD",
+  "url": "https://www.ti.com/careers/university-programs.html",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "HackerRank Student Ambassador",
+  "old": "LEAD",
+  "url": "https://www.hackerrank.com/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Code for GovTech Campus Ambassador",
+  "old": "LEAD",
+  "url": "https://www.codeforgovtech.in/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Lovable Ambassadors",
+  "old": "CLOSED",
+  "url": "https://community.lovable.app/ambassadors",
+  "http": 200,
+  "open": false,
+  "closed": true
+ },
+ {
+  "name": "Lovable Campus Leader",
+  "old": "WAITLIST",
+  "url": "https://lovable.dev/programs",
+  "http": 200,
+  "open": false,
+  "closed": true
+ },
+ {
+  "name": "Baidu 2026 Global Campus Ambassador",
+  "old": "LEAD",
+  "url": "https://www.eoffcn.com/kszx/detail/1942441.html",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Google Student Ambassadors Brazil",
+  "old": "CLOSED",
+  "url": "https://jcconcursos.com.br/amp/noticia/empregos/google-busca-universitarios-para-programa-de-embaixadores-estudantis-2026-veja-como-participar-144285",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "EDAD AI Global Campus Ambassador",
+  "old": "CLOSED",
+  "url": "https://opportunitydesk.org/2026/09/08/edad-ai-global-campus-ambassador-program-2026",
+  "http": 200,
+  "open": true,
+  "closed": false
+ },
+ {
+  "name": "AMLD Africa Ambassador",
+  "old": "CLOSED",
+  "url": "https://mlafrica.org/ambassador-program",
+  "http": 200,
+  "open": true,
+  "closed": false
+ },
+ {
+  "name": "Google Gemini Student Ambassadors Mexico",
+  "old": "LEAD",
+  "url": "https://rafaecheve.com/liderazgo-juventud-se-el-proximo-embajador-de-google-gemini/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ },
+ {
+  "name": "Hyperledger Ambassador",
+  "old": "LEAD",
+  "url": "https://www.hyperledger.org/",
+  "http": 200,
+  "open": false,
+  "closed": false
+ }
+]

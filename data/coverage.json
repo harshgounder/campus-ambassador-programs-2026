@@ -1,16 +1,16 @@
 {
  "census": 5745,
- "covered": 3636,
- "covered_pct": 63.3,
+ "covered": 3670,
+ "covered_pct": 63.9,
  "substantive": 819,
  "substantive_verified": 745,
  "status": {
-  "UNVERIFIED": 1645,
-  "RESOLVED": 3334,
+  "UNVERIFIED": 1843,
+  "RESOLVED": 3366,
   "NONE": 242,
-  "UNREACHABLE": 174,
-  "FOUND": 60,
-  "UNRESOLVED": 290
+  "UNREACHABLE": 107,
+  "FOUND": 62,
+  "UNRESOLVED": 125
  },
  "corrections": 363
 }
