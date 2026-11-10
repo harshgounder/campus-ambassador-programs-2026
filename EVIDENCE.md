@@ -3,6 +3,8 @@
 Verbatim quotes from the official pages, fetched 2 to 4 November 2026. Grade V1 means the
 program's own page. V2 means a directory or the organiser's social post.
 
+> Historical evidence notebook. The quoted words are preserved as captured; application status may have changed and some claims were later corrected. Use the dated follow-up checks in [the apply-now sheet](research/2026-11-09/outputs/APPLY-NOW-2026-11-10.md) and [worldwide form review](research/2026-11-09/outputs/WORLDWIDE-APPLICATIONS-BRAVE-CHECKED.md) before acting.
+
 ## Open, India eligible
 
 **Google Gemini Student Ambassador 2026**, https://geministudentambassador.com/ , V1

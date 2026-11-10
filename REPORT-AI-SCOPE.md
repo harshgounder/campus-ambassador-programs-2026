@@ -2,6 +2,8 @@
 
 Written 5 November 2026. Taxonomy first, then the list. 24 categories, 486 organisations, 34 countries and regions.
 
+> Historical scope snapshot. The current `scope/SCOPE-AI.md` contains 32 scope codes and `data/master-ai.csv` contains 607 rows. Use [the latest AI coverage map](research/2026-11-09/outputs/AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md) for the current field map and counts. This report preserves the earlier taxonomy and list.
+
 Full list: `data/master-ai.csv`. Long tail of 13,981 publishers: `data/ai-universe.csv`.
 
 ## Categories

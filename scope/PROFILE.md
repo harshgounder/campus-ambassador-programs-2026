@@ -1,38 +1,18 @@
-# Applicant profile and eligibility filter
+# Applicant profile for eligibility checks
 
-- Manipal University Jaipur, B.Tech Electrical and Computer Engineering
-- Second year, graduating end of 2029
-- India, can travel within India, can work remotely
+Use only the facts below as the applicant profile. Program status and eligibility belong in dated opportunity records, not in this file.
 
-## What this unlocks
+| Field | Applicant detail |
+|---|---|
+| University | Manipal University Jaipur, India |
+| Degree | B.Tech in Electrical and Computer Engineering |
+| Current year | Second year |
+| Expected graduation | 2029 |
+| Age gate | 18 or older; exact age is not recorded here |
+| Location and participation | Based in India; remote work and travel within India are possible |
 
-| Gate | Requirement | Verdict |
-|---|---|---|
-| Google Gemini Student Ambassador | Indian citizen 18 to 25, graduating after 31 Dec 2026 | PASS, but the page also says "D3/D4/S1". Confirm the year code in the form before spending time. The form itself only excludes graduation before March 2027. |
-| AWS Student Builder Campus Leader | 18+, at least one year left | PASS |
-| GitHub Campus Experts | 18+, more than one year left, 6 months on GitHub | PASS if the GitHub account is old enough |
-| OpenAI Student Collective | 18+, graduate after Dec 2027 | PASS on eligibility, but India is closed for Fall 2026 |
-| Solana University Ambassador | undergrad, graduating after Dec 2026 | PASS on eligibility, closed 1 Sep 2026 |
-| Anthropic Claude Campus | undergrad track, any country | PASS on eligibility, closed 12 Sep 2026 |
-| Microsoft Copilot Ambassador | affiliated US four-year universities | FAIL, US only |
-| Adobe Student Ambassador | US, UK, Australia | FAIL, geography |
-| Canva Campus Canvassador | US universities | FAIL, geography |
-| PowerLabs, TMO, Bybit campus | Nigeria or Africa | FAIL, geography |
-| Qualcomm invite-only Student Ambassador | prior Qualcomm program | FAIL until you do a Qualcomm hackathon |
+## Checks that still require applicant input
 
-## Best fits for an electrical and computer engineer
+The project does not assume the applicant has a public portfolio, a particular amount of campus or club experience, a specific audience size, any named AI or developer-tool experience, or a fixed number of hours available each week. Check those requirements against the exact application before marking a program as a fit.
 
-1. Arduino and Qualcomm Ambassador: hardware, edge AI, explicitly wants student campus leaders. Open worldwide, 18+.
-2. Qualcomm Ambassador Program: open worldwide, student track named on the page.
-3. Siemens Student Ambassador: industrial software, 18+, enrolled, open.
-4. AWS Student Builder Campus Leader: paid, India active.
-5. Google Gemini Student Ambassador: brand weight, India only.
-6. IBM Z Student Ambassador: mainframe, India eligible, low competition.
-7. Arm Ambassador: waitlist now, opens twice a year, strong for embedded.
-8. Texas Instruments BYTE campus ambassador: no public form, comes through campus recruitment, so ask the MUJ placement cell.
-
-## How to stack without conflicts
-
-- OpenAI, Anthropic, Cursor and Solana all restrict holding another ambassador role at the same time. Pick one AI or chain flagship.
-- AWS, IBM, Siemens, Arduino, Qualcomm and the Indian platforms do not publish that restriction.
-- Recommended stack: one AI flagship (SpaceXAI or Gemini) plus AWS plus IBM Z plus Unstop or MyGov plus one fest (SPHINX or Techfest).
+For a current list of applications, see the [10 November 2026 action sheet](../research/2026-11-09/outputs/APPLY-NOW-2026-11-10.md). Historical eligibility claims in earlier reports are not current recommendations.

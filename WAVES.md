@@ -1,5 +1,7 @@
 # Waves, so nothing gets skipped
 
+> Historical plan for the initial project phase. The current worldwide follow-up queue and its exact resume point are in [CURRENT-STATE.md](research/2026-11-09/CURRENT-STATE.md). The completed labels below refer to those original waves, not to completion of the worldwide research objective.
+
 Each wave has a definition of done. The checker reads the artifacts, not my word.
 
 | wave | scope | artifacts | status |

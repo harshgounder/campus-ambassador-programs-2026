@@ -1,5 +1,7 @@
 # Research continuity and audit, status cutoff 9 November 2026
 
+> **Historical append-only log.** Use [`../CURRENT-STATE.md`](../CURRENT-STATE.md) for the one current resume point and [`AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md`](AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md) for the detailed census state. Checkpoints below preserve the sequence of work; earlier numbers and “still packaging” notes are superseded.
+
 ## Latest checkpoint, 10 November 2026
 
 - The original repository contains 207 program rows and is being kept distinct from this dated research archive. The working research outputs have not yet been merged into the canonical `data/registry.csv`.

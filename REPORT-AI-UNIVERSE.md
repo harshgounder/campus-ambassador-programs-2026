@@ -2,6 +2,8 @@
 
 Built 4 November 2026. 13981 unique names, deduplicated across three sources.
 
+> Historical source snapshot. The 13,981-name universe remains a discovery input, but its source counts and overlap have changed. The later 51,372-name census and its unfinished audit queue are summarized in [the current project state](research/2026-11-09/CURRENT-STATE.md) and [AI coverage map](research/2026-11-09/outputs/AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md).
+
 | source | rows | what it is |
 |---|---|---|
 | Hugging Face | 9199 | every publisher with a model in the top 1,000 of 28 pipeline tags |

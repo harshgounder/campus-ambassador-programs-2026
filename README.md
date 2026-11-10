@@ -1,6 +1,7 @@
 # Campus Ambassador Programs 2026
 
 [![Research status](https://img.shields.io/badge/research-in%20progress-2f855a)](research/2026-11-09/README.md)
+[![Quality checks](https://github.com/harshgounder/campus-ambassador-programs-2026/actions/workflows/quality.yml/badge.svg?branch=master)](https://github.com/harshgounder/campus-ambassador-programs-2026/actions/workflows/quality.yml)
 [![Scope](https://img.shields.io/badge/scope-worldwide-2455a4)](scope/SCOPE-AI.md)
 [![Status cutoff](https://img.shields.io/badge/status%20cutoff-09%20Nov%202026-6f42c1)](research/2026-11-09/README.md)
 [![GitHub stars](https://img.shields.io/github/stars/harshgounder/campus-ambassador-programs-2026?style=social)](https://github.com/harshgounder/campus-ambassador-programs-2026/stargazers)
@@ -21,7 +22,9 @@ A source-backed, worldwide search for student, campus, developer, and community 
 - [Data guide](#data-guide)
 - [AI and machine learning coverage](#ai-and-machine-learning-coverage)
 - [Repository layout](#repository-layout)
-- [Validation and limitations](#validation-and-limitations)
+- [Development and validation](#development-and-validation)
+- [Research limitations](#research-limitations)
+- [Contributing and security](#contributing-and-security)
 - [Reuse](#reuse)
 
 ## Current research status
@@ -46,16 +49,19 @@ The AI organization census and the program ledgers answer different questions. T
 
 | File | Purpose |
 |---|---|
+| [Current project state](research/2026-11-09/CURRENT-STATE.md) | One current continuation point, current census rank, and the order of unfinished work. |
+| [Apply-now action sheet](research/2026-11-09/outputs/APPLY-NOW-2026-11-10.md) | Current routes checked on 10 November, profile fit, deadlines, costs, and unresolved eligibility. |
+| [Repository gap audit](research/2026-11-09/REPO-GAP-AUDIT-2026-11-10.md) | Research coverage gaps, stale records, and improvements based on the supplied quality rubric. |
 | [Research archive guide](research/2026-11-09/README.md) | Current checkpoint, archive layout, counts, and resume order. |
 | [Current AI research queue](research/2026-11-09/outputs/AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md) | AI field map, completed census ranges, remaining work, and the next research queue. |
-| [Research continuity and audit](research/2026-11-09/outputs/RESUME-STATE-AND-AUDIT.md) | Reconstructed project intent, latest findings, corrections, and historical checkpoints. |
+| [Historical continuation log](research/2026-11-09/outputs/RESUME-STATE-AND-AUDIT.md) | Append-only intent reconstruction and checkpoints. Use `CURRENT-STATE.md` for today's resume point. |
 | [Worldwide application checks](research/2026-11-09/outputs/WORLDWIDE-APPLICATIONS-BRAVE-CHECKED.md) | Direct page and form observations, with dates and unresolved conditions. |
 | [AI priority ledger](research/2026-11-09/outputs/ai-ml-priority-verification-delta-2026-11-09.csv) | Mixed-status AI and adjacent technology records. Read each row's evidence and limitation fields. |
 | [Small-tier AI audit queue](research/2026-11-09/outputs/ai-orgs-small-tier-search-ledger-2026-11-10.csv) | Source-aligned queue of 9,304 small-tier names and audit ranks. |
 | [Output file index](research/2026-11-09/outputs/FILE-INDEX.md) | Searchable links to the saved output files. |
 | [Full file manifest](research/2026-11-09/FILE-MANIFEST.csv) | File sizes and SHA-256 checksums for the dated archive. |
 
-The earlier [REPORT.md](REPORT.md), [START-HERE.md](START-HERE.md), and [ALL-PROGRAMS.md](ALL-PROGRAMS.md) remain available as dated baseline material. They are not the current application shortlist. Each has a note explaining its snapshot date.
+The earlier [REPORT.md](REPORT.md), [START-HERE.md](START-HERE.md), and [ALL-PROGRAMS.md](ALL-PROGRAMS.md) remain available as dated baseline material. They are not the current application shortlist. Each file now has a note explaining its snapshot date and current replacement.
 
 ## Scope and applicant profile
 
@@ -143,22 +149,41 @@ After the AI work has been substantially reviewed, the planned search broadens a
 - scripts/ contains the original collection, checking, coverage, and correction tools.
 - scope/ records the original project scope, AI taxonomy, and applicant profile.
 - research/2026-11-09/ contains the dated worldwide follow-up archive, including its outputs, raw work files, indexes, and manifest.
+- research/2026-11-09/CURRENT-STATE.md is the only current resume point; the resume log under outputs/ is historical.
 - REPORT.md and related root documents are earlier snapshots and method notes.
 - evidence/ is retained from the early project structure; the saved evidence pages are documented in EVIDENCE.md and the dated archive.
 
 This layout keeps the original baseline data recognizable while giving the follow-up a clear date and its own index.
 
-## Validation and limitations
+## Development and validation
 
-The original project checker can be run from the repository root with:
+Python 3.11 or newer is supported. Install the pinned runtime and development tools, then run the local checks from the repository root:
 
-    python3 scripts/check.py
+```sh
+python -m pip install -r requirements.lock
+ruff check scripts tests
+python -m unittest discover -s tests -v
+python scripts/check.py
+python scripts/validate_archive.py
+python scripts/archive_manifest.py --check
+pip-audit --no-deps --timeout 5 --progress-spinner off -r requirements.lock
+```
 
-That checker enforces structural floors for the original project artifacts. It does not verify current program status, prove worldwide completeness, or validate every row in the 9 November archive. The dated archive records its own CSV structure and source-alignment checks in the checkpoint documents.
+GitHub Actions runs the same checks for pushes and pull requests. Dependency and workflow updates are checked weekly. The default checks are local and read-only. They do not open websites, fill forms, or contact program organizers.
 
-Search coverage cannot prove that every program has been discovered. Private groups, closed messaging channels, changing pages, local terminology, and unindexed forms can hide opportunities. Search results can be stale, duplicated, or about a different organization. Status may change after observation. For these reasons, recheck the organizer source before applying and treat unknown conditions as unknown.
+The 24-check baseline gate in `scripts/check.py` enforces structural floors for the original project artifacts. `scripts/validate_archive.py` checks CSV syntax and consistent row widths throughout the repository. `scripts/archive_manifest.py --check` verifies the dated archive's file sizes and SHA-256 values. `ruff` checks Python style and common errors; the unit tests cover the CSV and archive validation tools and key dataset contracts. `pip-audit` checks the pinned Python dependencies against its vulnerability sources.
+
+These checks do not verify current program status, prove worldwide completeness, validate every semantic field, or decide whether two differently named records are the same program. A successful check is not proof that every research claim is correct.
+
+## Research limitations
+
+Search coverage cannot prove that every program has been discovered. Private groups, closed messaging channels, changing pages, local terminology, and unindexed forms can hide opportunities. Search results can be stale, duplicated, or about a different organization. Status may change after observation. Recheck the organizer source before applying and treat unknown conditions as unknown.
 
 No application forms have been submitted as part of this research. Inspection of a public form does not mean that data was entered or an application was sent.
+
+## Contributing and security
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the evidence and status rules, local workflow, and validation commands. Read [SECURITY.md](SECURITY.md) before running network scripts or reporting a suspected exposure. Repository maintenance changes are summarized in [CHANGELOG.md](CHANGELOG.md).
 
 ## Reuse
 

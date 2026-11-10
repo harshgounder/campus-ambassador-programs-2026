@@ -4,6 +4,13 @@ This archive contains the follow-up research for ambassador and related student 
 
 Research remains in progress. The files do not establish that every program worldwide has been found.
 
+## Start here
+
+1. [Current project state](CURRENT-STATE.md) is the one current continuation checkpoint.
+2. [Apply-now action sheet](outputs/APPLY-NOW-2026-11-10.md) lists current routes, profile fit, and unresolved conditions.
+3. [Repository gap audit](REPO-GAP-AUDIT-2026-11-10.md) records the remaining process and repository weaknesses.
+4. [AI research coverage and queue](outputs/AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md) gives the detailed AI census state and next rank.
+
 ## Snapshot
 
 - The central AI and ML priority ledger contains 275 mixed-status records. It includes closed, future, restricted, uncertain, and adjacent routes as well as open or rolling cases.
@@ -13,15 +20,12 @@ Research remains in progress. The files do not establish that every program worl
 - AI remains the first research priority across the field. Broader CS, software, open source, cloud, cybersecurity, startups, hardware, and other technology follow substantial AI coverage.
 - The original project registry remains the baseline. Follow-up work is archived here and has not been consolidated into data/registry.csv.
 
-## Read in this order
+## Research evidence
 
-1. [Output workspace guide](outputs/READ-ME-FIRST.md)
-2. [AI coverage map and queue](outputs/AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md)
-3. [Continuity and research audit](outputs/RESUME-STATE-AND-AUDIT.md)
-4. [Worldwide page and form checks](outputs/WORLDWIDE-APPLICATIONS-BRAVE-CHECKED.md)
-5. [Complete output index](outputs/FILE-INDEX.md)
-6. [Raw work file index](work/README.md)
-7. [Checksum manifest](FILE-MANIFEST.csv)
+- [Worldwide page and form checks](outputs/WORLDWIDE-APPLICATIONS-BRAVE-CHECKED.md)
+- [Complete output index](outputs/FILE-INDEX.md)
+- [Raw work file index](work/README.md)
+- [Checksum manifest](FILE-MANIFEST.csv)
 
 ## Folder contents
 

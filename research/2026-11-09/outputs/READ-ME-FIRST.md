@@ -15,11 +15,13 @@ The dated archive now lives in the project repository under research/2026-11-09.
 
 ## Resume in this order
 
-1. Read AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md for the current field map, completed ranges, and queue.
-2. Read RESUME-STATE-AND-AUDIT.md for the complete continuity record, corrections, and earlier checkpoints. The older sections are explicitly historical.
-3. Read WORLDWIDE-APPLICATIONS-BRAVE-CHECKED.md for direct page and application-form observations.
-4. Use FILE-INDEX.md to locate the full set of outputs. Use FILE-MANIFEST.csv in the archive root to check archived file sizes and SHA-256 values.
-5. Continue the small-tier screen at rank 3,551 in source-aligned blocks, follow positive leads to organizer evidence, and continue broad AI discovery across regional and specialist ecosystems.
+1. Use [CURRENT-STATE.md](../CURRENT-STATE.md) as the only current resume checkpoint.
+2. Use [APPLY-NOW-2026-11-10.md](APPLY-NOW-2026-11-10.md) for current application routes and [REPO-GAP-AUDIT-2026-11-10.md](../REPO-GAP-AUDIT-2026-11-10.md) for known coverage and process gaps.
+3. Read [AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md](AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md) for the AI field map, completed ranges, and remaining queue.
+4. Read [WORLDWIDE-APPLICATIONS-BRAVE-CHECKED.md](WORLDWIDE-APPLICATIONS-BRAVE-CHECKED.md) for direct page and application-form observations.
+5. [RESUME-STATE-AND-AUDIT.md](RESUME-STATE-AND-AUDIT.md) is an append-only history only. Its intermediate counts are not the current state.
+6. Use [FILE-INDEX.md](FILE-INDEX.md) to locate the outputs and the archive-level [FILE-MANIFEST.csv](../FILE-MANIFEST.csv) to check file sizes and SHA-256 values.
+7. Continue the small-tier screen at rank 3,551 in source-aligned blocks, follow positive leads to organizer evidence, and continue broad AI discovery across regional and specialist ecosystems.
 
 ## Applicant and status rules
 

@@ -1,11 +1,12 @@
 # Output archive index
 
-This directory contains the dated follow-up research outputs. Begin with [READ-ME-FIRST.md](READ-ME-FIRST.md), then consult the [coverage and queue](AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md) and the [continuity audit](RESUME-STATE-AND-AUDIT.md).
+This directory contains the dated follow-up research outputs. Begin with the archive-level [current state](../CURRENT-STATE.md), then use [READ-ME-FIRST.md](READ-ME-FIRST.md), the [apply-now action sheet](APPLY-NOW-2026-11-10.md), the [coverage and queue](AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md), and the [repository gap audit](../REPO-GAP-AUDIT-2026-11-10.md). The append-only [continuity log](RESUME-STATE-AND-AUDIT.md) is historical; it is not the current resume instruction.
 
 ## Main records
 
 | File | Use |
 |---|---|
+| [APPLY-NOW-2026-11-10.md](APPLY-NOW-2026-11-10.md) | Current application and registration routes checked on 10 November, with profile fit, limits, and source-file pointers. |
 | [AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md](AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md) | AI field coverage, source counts, audited rank ranges, and remaining work. |
 | [RESUME-STATE-AND-AUDIT.md](RESUME-STATE-AND-AUDIT.md) | Project intent, latest corrections, browser evidence, and historical checkpoints. |
 | [WORLDWIDE-APPLICATIONS-BRAVE-CHECKED.md](WORLDWIDE-APPLICATIONS-BRAVE-CHECKED.md) | Direct inspection of public application pages and forms. |

@@ -2,6 +2,8 @@
 
 5 November 2026. 486 curated organisations, 42 of them with a program check. The 13,981-name long tail is separate and is not individually checked.
 
+> Historical snapshot. The current `data/master-ai.csv` has 607 curated organization rows and the AI taxonomy has since expanded. Use [the current project state](research/2026-11-09/CURRENT-STATE.md) and [the latest AI coverage map](research/2026-11-09/outputs/AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md) for current counts and remaining work. This list is retained for its original review trail.
+
 ## Coverage by category
 
 | code | category | orgs | checked |

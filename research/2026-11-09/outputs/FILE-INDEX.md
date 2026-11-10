@@ -7,8 +7,9 @@ Files are grouped by research function for navigation. Source filenames and loca
 - [README.md](README.md)
 - [FILE-INDEX.md](FILE-INDEX.md)
 
-## Guides and continuity records (4 files)
+## Guides and continuity records (5 files)
 
+- [APPLY-NOW-2026-11-10.md](<APPLY-NOW-2026-11-10.md>)
 - [AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md](<AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md>)
 - [READ-ME-FIRST.md](<READ-ME-FIRST.md>)
 - [RESUME-STATE-AND-AUDIT.md](<RESUME-STATE-AND-AUDIT.md>)
