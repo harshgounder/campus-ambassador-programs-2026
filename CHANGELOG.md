@@ -15,3 +15,4 @@ Changes to the repository are recorded here. Historical research results retain 
 
 - Current navigation now points readers to the action sheet and continuation checkpoint before historical snapshots.
 - Baseline documentation now identifies stale counts and clarifies that structural checks do not establish live status or worldwide completeness.
+- The quality workflow uses pinned Node 24 compatible actions on Ubuntu 24.04.
