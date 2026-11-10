@@ -1,8 +1,14 @@
-import re, json, sys
-import requests
+import json
+import re
 from concurrent.futures import ThreadPoolExecutor
-from urllib.parse import urljoin, urlparse
-UA={"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36","Accept-Language":"en-US,en;q=0.9"}
+from urllib.parse import urljoin
+
+import requests
+
+UA = {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36",
+    "Accept-Language": "en-US,en;q=0.9",
+}
 ORGS = """
 openai openai.com
 anthropic anthropic.com
@@ -174,30 +180,51 @@ tryst tryst-iitdelhi.org
 rendezvous rendezvous-iitd.org
 saarang saarang.org
 """
-rows=[(lambda p:(" ".join(p[:-1]),p[-1]))(l.split()) for l in ORGS.strip().splitlines() if l.strip()]
-PATH=re.compile(r"(ambassador|ambassador|ambassador|campus|student|community|advocate|champion|expert|hero)",re.I)
+rows = [
+    (lambda p: (" ".join(p[:-1]), p[-1]))(line.split())
+    for line in ORGS.strip().splitlines()
+    if line.strip()
+]
+PATH = re.compile(
+    r"(ambassador|ambassador|ambassador|campus|student|community|advocate|champion|expert|hero)",
+    re.I,
+)
+
+
 def probe(pair):
-    name,dom=pair
-    out={"name":name,"domain":dom,"hits":[],"http":None}
-    for scheme in ("https://","http://"):
+    name, dom = pair
+    out = {"name": name, "domain": dom, "hits": [], "http": None}
+    for scheme in ("https://", "http://"):
         try:
-            r=requests.get(scheme+dom,headers=UA,timeout=14,allow_redirects=True)
-            out["http"]=r.status_code; out["final"]=r.url
-            html=r.text
-            links=set()
-            for m in re.finditer(r'href=["\']([^"\'#]+)["\']',html,re.I):
-                h=m.group(1)
+            r = requests.get(scheme + dom, headers=UA, timeout=14, allow_redirects=True)
+            out["http"] = r.status_code
+            out["final"] = r.url
+            html = r.text
+            links = set()
+            for m in re.finditer(r'href=["\']([^"\'#]+)["\']', html, re.I):
+                h = m.group(1)
                 if PATH.search(h):
-                    links.add(urljoin(r.url,h))
+                    links.add(urljoin(r.url, h))
             # also probe common paths
-            for p in ("/ambassadors","/ambassador","/ambassador-program","/campus","/campus-ambassador","/students","/student-ambassador","/community/ambassadors"):
-                links.add("https://"+dom+p)
-            out["hits"]=sorted(links)[:25]
+            for p in (
+                "/ambassadors",
+                "/ambassador",
+                "/ambassador-program",
+                "/campus",
+                "/campus-ambassador",
+                "/students",
+                "/student-ambassador",
+                "/community/ambassadors",
+            ):
+                links.add("https://" + dom + p)
+            out["hits"] = sorted(links)[:25]
             break
         except Exception as e:
-            out["err"]=str(e)[:80]
+            out["err"] = str(e)[:80]
     return out
+
+
 with ThreadPoolExecutor(max_workers=16) as ex:
-    res=list(ex.map(probe,rows))
-json.dump(res,open("data/probe/probe.json","w"),indent=1)
-print("done",len(res),"with hits",sum(1 for r in res if r["hits"]))
+    res = list(ex.map(probe, rows))
+json.dump(res, open("data/probe/probe.json", "w"), indent=1)
+print("done", len(res), "with hits", sum(1 for r in res if r["hits"]))

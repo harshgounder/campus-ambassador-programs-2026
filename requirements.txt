@@ -1,0 +1,2 @@
+# Runtime dependency for the collection and verification scripts.
+requests==2.34.2
