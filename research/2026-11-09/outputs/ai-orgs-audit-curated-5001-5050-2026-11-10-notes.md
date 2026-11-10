@@ -1,0 +1,9 @@
+# Audit notes: census rows 5001–5050
+
+- Coverage: 50 consecutive rows from `census-search-ledger-2026-11-09.csv`. Exact row number, name, tier and category retained in the 13-column output.
+- Method: screened exact census names and supplied result URLs for organizer-owned student/campus/community ambassador, advocate, champion, fellow, chapter, representative, and creator routes. Third-party pages were discovery only; similar program titles or handle spellings do not prove entity ownership.
+- `wikieden` (5019): supplied leads included official WikiEducator ambassador pages. Those pages are for WikiEducator, but no evidence connects the exact census name `wikieden` to WikiEducator; excluded from attribution. The pages are old and do not establish an open 2026 intake in any case.
+- `nvidia-cosmos` (5032): NVIDIA's official Omniverse community page includes student ambassador profiles and separately references NVIDIA Student Network. It does not establish a student ambassador intake owned by the Cosmos product/project or a current application route for this exact census entity; excluded as an unlinked broader-company lead.
+- Other supplied leads included Microsoft student ambassadors, Arduino ambassadors, X student ambassadors, GUVI campus ambassadors, CodePath, and assorted campus programs. No exact relationship from these organizers to the corresponding census handles/projects was verified, so none was counted or assigned India eligibility.
+- Date/geography: no qualifying exact-entity route had dated official evidence establishing open status on 2026-11-09. Nov 10 source visibility is not backdated. India eligibility is not inferred from global wording or a participant's location.
+- No X MCP, forms, applications, or external contact used. Bounded screening does not prove absence or overall completeness.

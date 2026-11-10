@@ -1,0 +1,9 @@
+# AI small-tier audit — ranks 1951–2000 — 10 Nov 2026
+
+- Scope: exact census ranks 1951–2000 (50 rows), tier `small`; names, census row IDs, tiers and categories copied from the provided queue.
+- Cutoff: opportunity status as of 9 Nov 2026. Research date: 10 Nov 2026. Current page observations do not establish prior-day status.
+- Method: exact-name web searches using Exa, anchored to exact GitHub namespace/profile URLs. Searched student/campus ambassador, advocate/champion, community representative, organizer, fellowship and creator routes; checked official pages where a plausible entity route surfaced.
+- Outcomes: no confirmed exact-entity ambassador/champion application program verified. Notable non-equivalent routes are Mila's institute-internal elected Lab Representatives; PearAI's student-welcoming OSS contributor benefit; eunomia-bpf contribution/GSoC/OSPP guidance; Chaos Genius Slack support community; and PseudoLab organizer/founder evidence on seriousran's profile. These are not counted as confirmed open student representative programs.
+- Search limitations: small-tier records are predominantly handles/profiles, and exact namespace identity does not establish a distinct organization or parent program. Exa returned HTTP 429 on supplemental targeted official-domain queries for Fluxions and GD4AI; the attempted Parallel batch did not return attributable official pages for those names. Those failures are stated row by row. Other searches were bounded and may miss aliases, private/local channels, non-indexed sources, archives, and differently named parent communities.
+- Dedupe: exact entity names checked against prior small/curated audit slices and the central AI priority ledger organization values; no exact-name duplicate identified in this slice.
+- No form opened or submitted; no outreach, application, joins, or central ledger edits. No completeness claim.

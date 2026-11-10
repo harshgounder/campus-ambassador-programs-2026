@@ -1,0 +1,1897 @@
+{
+  "slice": {
+    "start": 3201,
+    "end": 3250,
+    "census_rows": [
+      24929,
+      24978
+    ],
+    "cutoff": "2026-11-09",
+    "researched": "2026-11-10",
+    "validation": "50 source rows exact; 0 mismatch"
+  },
+  "method": "Three exact-name targeted search variations per entity; follow credible leads to official pages. Bounded pass, no global-absence claims.",
+  "x_mcp_used": false,
+  "entities": [
+    {
+      "small_rank": "3201",
+      "census_row": "24929",
+      "name": "philferriere",
+      "queries": [
+        "\"philferriere\" student ambassador",
+        "\"philferriere\" campus ambassador advocate",
+        "\"philferriere\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "philferriere student ambassador",
+        "philferriere campus advocate community",
+        "philferriere fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "title": "Developer ambassador programs list",
+          "excerpts": [
+            "Generic third party ambassador list; not specific to entity."
+          ]
+        },
+        {
+          "url": "https://githubcampus.expert/vinzvinci",
+          "title": "GitHub Campus Expert profile",
+          "excerpts": [
+            "Unrelated profile."
+          ]
+        },
+        {
+          "url": "https://github.com/GrowInCommunity/programs",
+          "title": "GrowInCommunity programs",
+          "excerpts": [
+            "Generic collection; not specific to entity."
+          ]
+        }
+      ],
+      "outcome": "Searched 3 exact-name variations; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3202",
+      "census_row": "24930",
+      "name": "zc-alexfan",
+      "queries": [
+        "\"zc-alexfan\" student ambassador",
+        "\"zc-alexfan\" campus ambassador advocate",
+        "\"zc-alexfan\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "zc-alexfan student ambassador",
+        "zc-alexfan campus advocate community",
+        "zc-alexfan fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/zc-alexfan",
+          "title": "zc-alexfan GitHub",
+          "excerpts": [
+            "Zicong Fan (@zc-alexfan); company ETH Zurich; location Zurich; website zc-alexfan.github.io."
+          ]
+        },
+        {
+          "url": "https://zc-alexfan.github.io/assets/cv.pdf",
+          "title": "Zicong Fan CV",
+          "excerpts": [
+            "Zicong Fan; Zürich Switzerland; research in computer vision."
+          ]
+        },
+        {
+          "url": "https://zc-alexfan.github.io/",
+          "title": "Zicong Fan | Epic Games",
+          "excerpts": [
+            "Research centers on hands in action and generative synthesis."
+          ]
+        }
+      ],
+      "outcome": "Searched 3 exact-name variations; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3203",
+      "census_row": "24931",
+      "name": "synyi",
+      "queries": [
+        "\"synyi\" student ambassador",
+        "\"synyi\" campus ambassador advocate",
+        "\"synyi\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "synyi student ambassador",
+        "synyi campus advocate community",
+        "synyi fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/synyi",
+          "title": "synyi GitHub",
+          "excerpts": [
+            "Organization synyi; website synyi.com."
+          ]
+        },
+        {
+          "url": "http://www.zs.gov.cn/ywb/economy/latestnews/content/post_2460859.html",
+          "title": "ZhongShan official site",
+          "excerpts": [
+            "Investment promotion ambassadors; unrelated to student program."
+          ]
+        },
+        {
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "title": "Developer ambassador list",
+          "excerpts": [
+            "Generic third party list; not exact-entity evidence."
+          ]
+        }
+      ],
+      "outcome": "Searched 3 exact-name variations; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3204",
+      "census_row": "24932",
+      "name": "chrisdoc",
+      "queries": [
+        "chrisdoc student ambassador",
+        "chrisdoc campus advocate community",
+        "chrisdoc fellowship organizer student"
+      ],
+      "searched_queries": [
+        "chrisdoc student ambassador",
+        "chrisdoc campus advocate community",
+        "chrisdoc fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.udc.edu/students/student-ambassador-program",
+          "title": "Student Ambassador Program | University of the District of Columbia | University of the District of Columbia ",
+          "excerpts": [
+            "Skip To Translation Selection Skip To Top Navigation Skip To Content Skip To Footer\n\nStudent Ambassador Program\n\n1. Home\n2. Student Development and Success\n3. Student Ambassador Pr"
+          ]
+        },
+        {
+          "url": "https://www.chi.ac.uk/collaborate/schools-and-teachers/outreach-and-student-recruitment/student-ambassadors/",
+          "title": "Student Ambassadors - University of Chichester",
+          "excerpts": [
+            "* Order a Prospectus\nI’m looking for\nCourses Something else\nSearch\nAll courses Undergraduate Postgraduate PGCE Apprenticeship Foundation Options CPD and Short Courses\nSearch\n\nStude"
+          ]
+        },
+        {
+          "url": "https://www.clarku.edu/campus-ambassadors/",
+          "title": "Campus Ambassadors | Clark University",
+          "excerpts": [
+            "Clark University\nClark University logo\nMenu Search\n× Close Search clarku.edu\nClark University × Close\n* Academics\n* Degree programs\n* The Clark Experience\n* Undergraduate curriculu"
+          ]
+        },
+        {
+          "url": "https://www.csuchico.edu/osrr/ambassador-program.shtml",
+          "title": "Student Ambassador Program  – Student Rights and Responsibilities – Chico State",
+          "excerpts": [
+            "\"Unrecognized\" Organizations\n* Unity Through Respect, Not Hazing!\n* Unity Through Respect, Not Hazing!\n* Campus Hazing Transparency Report\n* Academic Integrity Resources\nOur Office"
+          ]
+        }
+      ],
+      "outcome": "Three exact-name variations searched; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3205",
+      "census_row": "24933",
+      "name": "Cay-Zhang",
+      "queries": [
+        "Cay-Zhang student ambassador",
+        "Cay-Zhang campus advocate community",
+        "Cay-Zhang fellowship organizer student"
+      ],
+      "searched_queries": [
+        "Cay-Zhang student ambassador",
+        "Cay-Zhang campus advocate community",
+        "Cay-Zhang fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/Cay-Zhang",
+          "title": "Cay-Zhang (Cay) · GitHub",
+          "excerpts": [
+            "User: Cay (@Cay-Zhang); Company: Uber; Location: Chicago"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/cay-zhang",
+          "title": "Cay Zhang professional profile",
+          "excerpts": [
+            "It was inspiring to see so much talent, collaboration, and creativity in one place."
+          ]
+        },
+        {
+          "url": "https://download.plaud.ai/orgs/uber/people",
+          "title": "Members · People · uber · GitHub",
+          "excerpts": [
+            "Uber Open Source; People; Members"
+          ]
+        },
+        {
+          "url": "https://www.jjay.cuny.edu/about/senior-leadership/office-external-affairs/student-engagement",
+          "title": "Student Engagement | John Jay College",
+          "excerpts": [
+            "John Jay Office of External Affairs Ambassador Program"
+          ]
+        }
+      ],
+      "outcome": "Three exact-name variations searched; results unrelated or identity-only; no qualifying route verified."
+    },
+    {
+      "small_rank": "3206",
+      "census_row": "24934",
+      "name": "agencyenterprise",
+      "queries": [
+        "agencyenterprise student ambassador",
+        "agencyenterprise campus advocate community",
+        "agencyenterprise fellowship organizer student"
+      ],
+      "searched_queries": [
+        "agencyenterprise student ambassador",
+        "agencyenterprise campus advocate community",
+        "agencyenterprise fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://studentbridgesagency.org/programs.html",
+          "title": "Campus and Community Programs",
+          "excerpts": [
+            "Ambassadors program is a group independent study/practicum for undergraduate students."
+          ]
+        },
+        {
+          "url": "https://education.utexas.edu/students/current-students/student-ambassador-program",
+          "title": "Student Ambassador Program - UT Austin",
+          "excerpts": [
+            "Student Ambassadors are an important part of the College of Education community."
+          ]
+        },
+        {
+          "url": "https://studentambassadors.com/",
+          "title": "Microsoft Student Ambassadors",
+          "excerpts": [
+            "Join our global community of student ambassadors."
+          ]
+        }
+      ],
+      "outcome": "Three exact-name variations searched; results unrelated or identity-only; no qualifying route verified."
+    },
+    {
+      "small_rank": "3207",
+      "census_row": "24935",
+      "name": "Psychic-DL",
+      "queries": [
+        "\"Psychic-DL\" student ambassador",
+        "\"Psychic-DL\" campus ambassador advocate",
+        "\"Psychic-DL\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "Psychic-DL student ambassador",
+        "Psychic-DL campus advocate community",
+        "Psychic-DL fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/Psychic-DL",
+          "title": "Psychic-DL (Psychic) · GitHub",
+          "excerpts": [
+            "User: Psychic (@Psychic-DL)\n\n* Page: GitHub user profile\n* URL: https://github.com/Psychic-DL\n* Company: Lanzhou Jiaotong University\n* Location: Lanzhou, Gansu Province\n* Website: "
+          ]
+        },
+        {
+          "url": "https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/README.md",
+          "title": "Awesome-Traffic-Agent-Trajectory-Prediction/README.md at main · Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction · GitHub",
+          "excerpts": [
+            "Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction — README.md\n\n* Page: GitHub code file\n* URL: https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/m"
+          ]
+        },
+        {
+          "url": "https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction",
+          "title": "GitHub - Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction: This is a list of papers related to traffic agent trajectory prediction. · GitHub",
+          "excerpts": [
+            "Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction\n\n* Page: GitHub repository\n* URL: https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction\n* Description: Th"
+          ]
+        },
+        {
+          "url": "https://github.com/Psychic-DL/DiffTAD",
+          "title": "GitHub - Psychic-DL/DiffTAD: DiffTAD: Denoising Diffusion Probabilistic Models for Vehicle Trajectory Anomaly Detection · GitHub",
+          "excerpts": [
+            "Psychic-DL/DiffTAD\n\n* Page: GitHub repository\n* URL: https://github.com/Psychic-DL/DiffTAD\n* Description: DiffTAD: Denoising Diffusion Probabilistic Models for Vehicle Trajectory A"
+          ]
+        }
+      ],
+      "outcome": "Three exact-name variations searched; no qualifying route verified in bounded pass."
+    },
+    {
+      "small_rank": "3208",
+      "census_row": "24936",
+      "name": "AlexandreSajus",
+      "queries": [
+        "\"AlexandreSajus\" student ambassador",
+        "\"AlexandreSajus\" campus ambassador advocate",
+        "\"AlexandreSajus\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"AlexandreSajus\" student ambassador",
+        "\"AlexandreSajus\" campus ambassador advocate",
+        "\"AlexandreSajus\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://hwb.swansea.ac.uk/employability-enterprise/student-ambassador-scheme/",
+          "title": "Student Ambassador Scheme - Swansea University",
+          "excerpts": [
+            " Search:\n* Accessibility Tools\n* Cymraeg\nLogin\n1. The home of current students\n2. Careers and Enterprise\n3. Student Ambassador Scheme\n\nStudent Ambassa"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        },
+        {
+          "url": "https://www.ccri.edu/onestop/admissions/studentambassadors.html",
+          "title": "Student Ambassador Program – CCRI",
+          "excerpts": [
+            "CCRI provides a vibrant and dynamic campus life full of opportunities for students to expand their current interests, explore new interests, and exper"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity organizer route verified in this batch."
+    },
+    {
+      "small_rank": "3209",
+      "census_row": "24937",
+      "name": "Kevin-Liu-01",
+      "queries": [
+        "\"Kevin-Liu-01\" student ambassador",
+        "\"Kevin-Liu-01\" campus ambassador advocate",
+        "\"Kevin-Liu-01\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"Kevin-Liu-01\" student ambassador",
+        "\"Kevin-Liu-01\" campus ambassador advocate",
+        "\"Kevin-Liu-01\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/Kevin-Liu-01",
+          "title": "Kevin-Liu-01 (Kevin Liu) · GitHub",
+          "excerpts": [
+            "# User: Kevin Liu (@Kevin-Liu-01)\n\n- Page: GitHub user profile\n- URL: https://github.com/Kevin-Liu-01\n- Location: San Francisco\n- Website: https://kev"
+          ]
+        },
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "https://visit.berkeley.edu/campus-ambassadors/current-campus-ambassadors",
+          "title": "Current Campus Ambassadors | Visitor Services",
+          "excerpts": [
+            "Campus Ambassadors are current students that lead tours and guide the Berkeley experience for our 135,000 annual campus guests. As representatives and"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity organizer route verified in this batch."
+    },
+    {
+      "small_rank": "3210",
+      "census_row": "24938",
+      "name": "bshall",
+      "queries": [
+        "\"bshall\" student ambassador",
+        "\"bshall\" campus ambassador advocate",
+        "\"bshall\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"bshall\" student ambassador",
+        "\"bshall\" campus ambassador advocate",
+        "\"bshall\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://cunyba.cuny.edu/news/campus-ambassador",
+          "title": "Become a CUNY BA Student Ambassador – CUNY BA",
+          "excerpts": [
+            "\nBecome a CUNY BA Student Ambassador\n\nPosted on: January 29, 2024 Last updated on: January 29, 2024 Written by: Analie Categorized in: News Tagged as:"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        },
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity organizer route verified in this batch."
+    },
+    {
+      "small_rank": "3211",
+      "census_row": "24939",
+      "name": "multigroupco",
+      "queries": [
+        "\"multigroupco\" student ambassador",
+        "\"multigroupco\" campus ambassador advocate",
+        "\"multigroupco\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"multigroupco\" student ambassador",
+        "\"multigroupco\" campus ambassador advocate",
+        "\"multigroupco\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.richland.edu/student-ambassador-program/",
+          "title": "Student Ambassador Program - Richland Community College",
+          "excerpts": [
+            "\nStudent Ambassador Program\n\nThe Richland Student Ambassador Program is a leadership opportunity for students interested in representing Richland Comm"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        },
+        {
+          "url": "https://www.mclennan.edu/student-ambassador/position-description.html",
+          "title": "Student Ambassador Position | MCC Student Ambassador Program",
+          "excerpts": [
+            "McLennan Community College 1400 College Drive, Waco, Texas 76708 254-299-8622\n1. Home\n2. Student Ambassador Program\n3. Student Ambassador Description\n"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity organizer route verified in this batch."
+    },
+    {
+      "small_rank": "3212",
+      "census_row": "24940",
+      "name": "theamrzaki",
+      "queries": [
+        "\"theamrzaki\" student ambassador",
+        "\"theamrzaki\" campus ambassador advocate",
+        "\"theamrzaki\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"theamrzaki\" student ambassador",
+        "\"theamrzaki\" campus ambassador advocate",
+        "\"theamrzaki\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://hwb.swansea.ac.uk/employability-enterprise/student-ambassador-scheme/",
+          "title": "Student Ambassador Scheme - Swansea University",
+          "excerpts": [
+            " Search:\n* Accessibility Tools\n* Cymraeg\nLogin\n1. The home of current students\n2. Careers and Enterprise\n3. Student Ambassador Scheme\n\nStudent Ambassa"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        },
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity organizer route verified in this batch."
+    },
+    {
+      "small_rank": "3213",
+      "census_row": "24941",
+      "name": "rgeirhos",
+      "queries": [
+        "\"rgeirhos\" student ambassador",
+        "\"rgeirhos\" campus ambassador advocate",
+        "\"rgeirhos\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"rgeirhos\" student ambassador",
+        "\"rgeirhos\" campus ambassador advocate",
+        "\"rgeirhos\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.richland.edu/student-ambassador-program/",
+          "title": "Student Ambassador Program - Richland Community College",
+          "excerpts": [
+            "\nStudent Ambassador Program\n\nThe Richland Student Ambassador Program is a leadership opportunity for students interested in representing Richland Comm"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        },
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity organizer route verified in this batch."
+    },
+    {
+      "small_rank": "3214",
+      "census_row": "24942",
+      "name": "JunweiLiang",
+      "queries": [
+        "\"JunweiLiang\" student ambassador",
+        "\"JunweiLiang\" campus ambassador advocate",
+        "\"JunweiLiang\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"JunweiLiang\" student ambassador",
+        "\"JunweiLiang\" campus ambassador advocate",
+        "\"JunweiLiang\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        },
+        {
+          "url": "https://www.polyu.edu.hk/greencampus/get-involved/student-ambassadors",
+          "title": "Student Ambassadors | Campus Carbon Neutrality",
+          "excerpts": [
+            "Skip to main content Start main content\n* PolyU Green Concepts\n* Get Involved\n* Student Ambassadors\n\nStudent Ambassadors\n\nStudent Ambassadors Recruitm"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity organizer route verified in this batch."
+    },
+    {
+      "small_rank": "3215",
+      "census_row": "24943",
+      "name": "bcmi",
+      "queries": [
+        "\"bcmi\" student ambassador",
+        "\"bcmi\" campus ambassador advocate",
+        "\"bcmi\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"bcmi\" student ambassador",
+        "\"bcmi\" campus ambassador advocate",
+        "\"bcmi\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.mclennan.edu/student-ambassador/position-description.html",
+          "title": "Student Ambassador Position | MCC Student Ambassador Program",
+          "excerpts": [
+            "McLennan Community College 1400 College Drive, Waco, Texas 76708 254-299-8622\n1. Home\n2. Student Ambassador Program\n3. Student Ambassador Description\n"
+          ]
+        },
+        {
+          "url": "https://bc.edu/bc-web/campus-life/student-organizations.html",
+          "title": "Student Organizations - Campus Life - Boston College",
+          "excerpts": [
+            "With more than 300 student organizations to choose from, focused on everything from arts and culture to politics and socioeconomics to civics, service"
+          ]
+        },
+        {
+          "url": "https://www.richland.edu/student-ambassador-program/",
+          "title": "Student Ambassador Program - Richland Community College",
+          "excerpts": [
+            "\nStudent Ambassador Program\n\nThe Richland Student Ambassador Program is a leadership opportunity for students interested in representing Richland Comm"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity organizer route verified in this batch."
+    },
+    {
+      "small_rank": "3216",
+      "census_row": "24944",
+      "name": "zolotukhin",
+      "queries": [
+        "\"zolotukhin\" student ambassador",
+        "\"zolotukhin\" campus ambassador advocate",
+        "\"zolotukhin\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"zolotukhin\" student ambassador",
+        "\"zolotukhin\" campus ambassador advocate",
+        "\"zolotukhin\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "https://huc.edu/schools-programs/hebrew-union-college-fellowships/student-ambassadors-program",
+          "title": "Become a Student Ambassador for HUC",
+          "excerpts": [
+            "Hebrew Union College Press Link Out Icon\n \nSchools & Programs / Fellowships / Student Ambassadors Program\n\nStudent Ambassadors Program\n\nTwo HUC Studen"
+          ]
+        },
+        {
+          "url": "https://cisa.asu.edu/ambassadors",
+          "title": "Student Ambassadors | College of Integrative Sciences and Arts",
+          "excerpts": [
+            "group\nStudent life\n\nStudent ambassadors\n\nRead about the range of experiences and interests our CISA ambassadors bring to their mentoring role.\n Learn "
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity organizer route verified in this batch."
+    },
+    {
+      "small_rank": "3217",
+      "census_row": "24945",
+      "name": "PhiloLabs",
+      "queries": [
+        "\"PhiloLabs\" student ambassador",
+        "\"PhiloLabs\" campus ambassador advocate",
+        "\"PhiloLabs\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"PhiloLabs\" student ambassador",
+        "\"PhiloLabs\" campus ambassador advocate",
+        "\"PhiloLabs\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://philolabs.ai/",
+          "title": "Philo Labs - The RSI Loop for Visual Intelligence",
+          "excerpts": [
+            "[Philo Labs](https://philolabs.ai/)\n\n[Blog](https://philolabs.ai/blog) [Careers](https://philolabs.ai/careers) Light Dark [Talk to us](mailto:team@phi"
+          ]
+        },
+        {
+          "url": "https://www.facebook.com/PhiloLabs",
+          "title": "Philolabs",
+          "excerpts": [
+            "Philolabs\nPhilolabs. 139 followers. Philolabs (@PhiloLabs) • Follow (713) 632-4030 prof.philo@philolabs.com Contact info Photos … working on-site at t"
+          ]
+        },
+        {
+          "url": "https://github.com/PhiloLabs/awesome-video-agents",
+          "title": "GitHub - PhiloLabs/awesome-video-agents: A curated list of AI agents and agentic frameworks for video editing, video production, and video understanding-for-production. · GitHub",
+          "excerpts": [
+            "# PhiloLabs/awesome-video-agents\n\n- Page: GitHub repository\n- URL: https://github.com/PhiloLabs/awesome-video-agents\n- Description: A curated list of "
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity organizer route verified in this batch."
+    },
+    {
+      "small_rank": "3218",
+      "census_row": "24946",
+      "name": "concierge-hq",
+      "queries": [
+        "\"concierge-hq\" student ambassador",
+        "\"concierge-hq\" campus ambassador advocate",
+        "\"concierge-hq\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"concierge-hq\" student ambassador",
+        "\"concierge-hq\" campus ambassador advocate",
+        "\"concierge-hq\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "https://www.worwic.edu/services-support/academic-support/student-success/student-ambassador-program",
+          "title": "Student Ambassador Program > Wor-Wic Community College",
+          "excerpts": [
+            "\nStudent Ambassador Program\n\nMain Content\n\nStudent leaders who provide service to Wor-Wic and the community while gaining leadership experience.\n\nPrim"
+          ]
+        },
+        {
+          "url": "https://fremont.edu/current-students/student-ambassadors",
+          "title": "Student Ambassadors - Peer Tutor, Coach, Concierge | Fremont University",
+          "excerpts": [
+            "Our Student Ambassadors are peer guides for the college journey. They’ve made the transition to the college lifestyle, are familiar with our PAL teach"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3219",
+      "census_row": "24947",
+      "name": "jofpin",
+      "queries": [
+        "\"jofpin\" student ambassador",
+        "\"jofpin\" campus ambassador advocate",
+        "\"jofpin\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"jofpin\" student ambassador",
+        "\"jofpin\" campus ambassador advocate",
+        "\"jofpin\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.myccp.online/get-involved/student-ambassadors",
+          "title": "Student Ambassadors | Community College of Philadelphia",
+          "excerpts": [
+            "Community College of Philadelphia\n\nCommunity College of Philadelphia\n\nMyCCP\n* CCP.edu\n* Canvas\n* Faculty/Staff\n* Login\n☰ ▸ ▸ ▸\n\nStudent Ambassadors\n\nA"
+          ]
+        },
+        {
+          "url": "https://www.middlebury.edu/middcore/impact/student-ambassador-program",
+          "title": "Student Ambassador Program | Middlebury",
+          "excerpts": [
+            "We use cookies and other technologies to better understand a visitor's experience and to help improve our websites. By continuing to use the website, "
+          ]
+        },
+        {
+          "url": "https://www.richland.edu/student-ambassador-program/",
+          "title": "Student Ambassador Program - Richland Community College",
+          "excerpts": [
+            "\nStudent Ambassador Program\n\nThe Richland Student Ambassador Program is a leadership opportunity for students interested in representing Richland Comm"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3220",
+      "census_row": "24948",
+      "name": "ancoleman",
+      "queries": [
+        "\"ancoleman\" student ambassador",
+        "\"ancoleman\" campus ambassador advocate",
+        "\"ancoleman\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"ancoleman\" student ambassador",
+        "\"ancoleman\" campus ambassador advocate",
+        "\"ancoleman\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.cgs.pitt.edu/cgssg-student-ambassadors",
+          "title": "CGSSG Student Ambassadors | College of General Studies | University of Pittsburgh",
+          "excerpts": [
+            "\nCGSSG Student Ambassadors\n\nAre you looking for a paid leadership position?\nDo you want to help advocate for students in your CGS major?\nWe understand"
+          ]
+        },
+        {
+          "url": "https://www.aacc.edu/campus-life/become-a-leader/student-ambassador",
+          "title": "Student Ambassador - Anne Arundel Community College ",
+          "excerpts": [
+            "Students walk across the quad in autumn.\n\nStudent Ambassador\n\n* Home\n* Campus Life & Activities\n* Become a Leader\n* Student Ambassador\n\nWhat is the Am"
+          ]
+        },
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3221",
+      "census_row": "24949",
+      "name": "brontoguana",
+      "queries": [
+        "\"brontoguana\" student ambassador",
+        "\"brontoguana\" campus ambassador advocate",
+        "\"brontoguana\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"brontoguana\" student ambassador",
+        "\"brontoguana\" campus ambassador advocate",
+        "\"brontoguana\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        },
+        {
+          "url": "https://www.jjay.cuny.edu/about/senior-leadership/office-external-affairs/student-engagement",
+          "title": "Student Engagement | John Jay College of Criminal Justice",
+          "excerpts": [
+            "\nStudent Engagement\n\n1. Home\n2. About\n3. Senior Leadership\n4. Office of External Affairs\n5. Student Engagement\n\nJohn Jay Office of External Affairs Am"
+          ]
+        },
+        {
+          "url": "https://universitylife.columbia.edu/university-life-ambassadors",
+          "title": "University Life Ambassadors  | University Life",
+          "excerpts": [
+            "University Life Ambassadors\n\nApply to become a University Life Ambassador! In this role, you'll help foster a welcoming and inclusive environment for "
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3222",
+      "census_row": "24950",
+      "name": "himovo",
+      "queries": [
+        "\"himovo\" student ambassador",
+        "\"himovo\" campus ambassador advocate",
+        "\"himovo\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"himovo\" student ambassador",
+        "\"himovo\" campus ambassador advocate",
+        "\"himovo\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://cisa.asu.edu/ambassadors",
+          "title": "Student Ambassadors | College of Integrative Sciences and Arts",
+          "excerpts": [
+            "group\nStudent life\n\nStudent ambassadors\n\nRead about the range of experiences and interests our CISA ambassadors bring to their mentoring role.\n Learn "
+          ]
+        },
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "https://silc.asu.edu/student-leadership-ambassador-program",
+          "title": "SILC Student Leadership Ambassador Program | School of International Letters and Cultures",
+          "excerpts": [
+            "SILC Student Leadership Ambassador Program\n\nApplications for the spring 2027 cohort are open !\n\nThe deadline to apply is November 15, 2026 at 11:59 p."
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3223",
+      "census_row": "24951",
+      "name": "netboxlabs",
+      "queries": [
+        "\"netboxlabs\" student ambassador",
+        "\"netboxlabs\" campus ambassador advocate",
+        "\"netboxlabs\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"netboxlabs\" student ambassador",
+        "\"netboxlabs\" campus ambassador advocate",
+        "\"netboxlabs\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/netboxlabs",
+          "title": "NetBox Labs · GitHub",
+          "excerpts": [
+            "# Organization: NetBox Labs (@netboxlabs)\n\n- Page: GitHub organization profile\n- URL: https://github.com/netboxlabs\n- Website: https://netboxlabs.com\n"
+          ]
+        },
+        {
+          "url": "https://netboxlabs.com/careers",
+          "title": "NetBox Labs | Careers – Join Us in Building the Future of Networks",
+          "excerpts": [
+            "Discover NetBox Labs Discover NetBox Labs\nWhat We Do Illo\nOrange glow background\nWho we are\nWe tackle challenges with creativity and precision, consta"
+          ]
+        },
+        {
+          "url": "https://jobs.ashbyhq.com/netboxlabs/31b6c3d6-7bad-44fe-be4d-aba1465e502c?workplaceType=Remote",
+          "title": "Contract Recruiter @ NetBox Labs",
+          "excerpts": [
+            "* [NetBox Labs](https://www.netboxlabs.com/)\n* [](https://jobs.ashbyhq.com/netboxlabs?workplaceType=Remote)\n\n# Contract Recruiter\n\n## Location\n\nUS Eas"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3224",
+      "census_row": "24952",
+      "name": "baidut",
+      "queries": [
+        "\"baidut\" student ambassador",
+        "\"baidut\" campus ambassador advocate",
+        "\"baidut\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"baidut\" student ambassador",
+        "\"baidut\" campus ambassador advocate",
+        "\"baidut\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://cunyba.cuny.edu/news/campus-ambassador",
+          "title": "Become a CUNY BA Student Ambassador – CUNY BA",
+          "excerpts": [
+            "\nBecome a CUNY BA Student Ambassador\n\nPosted on: January 29, 2024 Last updated on: January 29, 2024 Written by: Analie Categorized in: News Tagged as:"
+          ]
+        },
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "https://mamentis.com/student-ambassador",
+          "title": "Student Ambassador Program | Mamentis",
+          "excerpts": [
+            "## Shaping the Future of AI Education ​\n\nJoin our Student Ambassador Program and help bring cutting-edge AI education to universities and colleges wor"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3225",
+      "census_row": "24953",
+      "name": "HAKORADev",
+      "queries": [
+        "\"HAKORADev\" student ambassador",
+        "\"HAKORADev\" campus ambassador advocate",
+        "\"HAKORADev\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"HAKORADev\" student ambassador",
+        "\"HAKORADev\" campus ambassador advocate",
+        "\"HAKORADev\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/HAKORADev",
+          "title": "HAKORADev (HAKORA) · GitHub",
+          "excerpts": [
+            "# User: HAKORA (@HAKORADev)\n\n- Page: GitHub user profile\n- URL: https://github.com/HAKORADev\n- Followers: 34\n- Following: 0\n- Links: https://x.com/HAK"
+          ]
+        },
+        {
+          "url": "https://github.com/HAKORADev/VODER",
+          "title": "GitHub - HAKORADev/VODER: Voice Operation and Design Engine with Reproduction capabilities · GitHub",
+          "excerpts": [
+            "# HAKORADev/VODER\n\n- Page: GitHub repository\n- URL: https://github.com/HAKORADev/VODER\n- Description: Voice Operation and Design Engine with Reproduct"
+          ]
+        },
+        {
+          "url": "https://tool.lu/en_US/library/4Fo",
+          "title": "HAKORADev/VODER - Online Tools",
+          "excerpts": [
+            "* [Online Tools](https://tool.lu/)\n\n[Online Tools](https://tool.lu/en_US/)\n\n# HAKORADev/VODER\n\nSearch\n\n[格式化](https://tool.lu/en_US/library/?q=%E6%A0%B"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3226",
+      "census_row": "24954",
+      "name": "Thiagohgl",
+      "queries": [
+        "\"Thiagohgl\" student ambassador",
+        "\"Thiagohgl\" campus ambassador advocate",
+        "\"Thiagohgl\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"Thiagohgl\" student ambassador",
+        "\"Thiagohgl\" campus ambassador advocate",
+        "\"Thiagohgl\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        },
+        {
+          "url": "https://www.sjsu.edu/getinvolved/leadership/student-assistants.php",
+          "title": "Student Leadership Ambassadors  | Student Involvement",
+          "excerpts": [
+            "\nStudent Leadership Ambassadors\n\nRecruitment & Application Timeline\n\nOur recruitment cycle for the 2026-2027 academic year is over. Please check back "
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3227",
+      "census_row": "24955",
+      "name": "DonTizi",
+      "queries": [
+        "\"DonTizi\" student ambassador",
+        "\"DonTizi\" campus ambassador advocate",
+        "\"DonTizi\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"DonTizi\" student ambassador",
+        "\"DonTizi\" campus ambassador advocate",
+        "\"DonTizi\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.blackconnect.org/internships/campus-ambassadors",
+          "title": "Campus Ambassadors — Blackconnect.org",
+          "excerpts": [
+            "Sign In My Account\n\nCampus Ambassadors\n\nThe Campus Ambassador is a volunteer student leader who represents Black Connect on their college or universit"
+          ]
+        },
+        {
+          "url": "https://www-2023.tourismstrategy.lettere.uniroma2.it/student-ambassadors-program-call",
+          "title": "Student Ambassadors Program - Call - Tourism Strategy, Cultural Heritage & Made in Italy",
+          "excerpts": [
+            "Student Ambassadors Program – Call\n\nTiziano Gasbarro News 13 Ottobre 2025 14 Ottobre 2025\nDear Students,\nWe are glad to confirm the return of a succes"
+          ]
+        },
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3228",
+      "census_row": "24956",
+      "name": "Mohitkr95",
+      "queries": [
+        "\"Mohitkr95\" student ambassador",
+        "\"Mohitkr95\" campus ambassador advocate",
+        "\"Mohitkr95\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"Mohitkr95\" student ambassador",
+        "\"Mohitkr95\" campus ambassador advocate",
+        "\"Mohitkr95\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.blackconnect.org/internships/campus-ambassadors",
+          "title": "Campus Ambassadors — Blackconnect.org",
+          "excerpts": [
+            "Sign In My Account\n\nCampus Ambassadors\n\nThe Campus Ambassador is a volunteer student leader who represents Black Connect on their college or universit"
+          ]
+        },
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3229",
+      "census_row": "24957",
+      "name": "zoph-io",
+      "queries": [
+        "\"zoph-io\" student ambassador",
+        "\"zoph-io\" campus ambassador advocate",
+        "\"zoph-io\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"zoph-io\" student ambassador",
+        "\"zoph-io\" campus ambassador advocate",
+        "\"zoph-io\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://techinvent-campus-ambassador.vercel.app/",
+          "title": "Become a Campus Ambassador",
+          "excerpts": [
+            "Our mission is to inspire and empower individuals to explore and embrace the limitless possibilities that technology offers.\nvector\nvector\nHere for th"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        },
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3230",
+      "census_row": "24958",
+      "name": "dcaribou",
+      "queries": [
+        "\"dcaribou\" student ambassador",
+        "\"dcaribou\" campus ambassador advocate",
+        "\"dcaribou\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"dcaribou\" student ambassador",
+        "\"dcaribou\" campus ambassador advocate",
+        "\"dcaribou\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.rmcad.edu/life-rmcad/student-resources/student-involvement/student-ambassadors/",
+          "title": "Student Ambassadors - RMCAD",
+          "excerpts": [
+            "Student Ambassadors\n\nYOUR PEER MENTORS\n\nStudent Ambassadors promote the RMCAD mission through ongoing, positive leadership, civic awareness, and engag"
+          ]
+        },
+        {
+          "url": "https://www.colorado.edu/cmdi/ambassadors",
+          "title": "CMDI Student Ambassadors | College of Communication, Media, Design and Information | University of Colorado Boulder",
+          "excerpts": [
+            "University of Colorado Boulder\nSearch\nCollege of Communication, Media, Design and Information\n\nCMDI Student Ambassadors\n\nCMDI Student Ambassadors\nCMDI"
+          ]
+        },
+        {
+          "url": "https://www.blackconnect.org/internships/campus-ambassadors",
+          "title": "Campus Ambassadors — Blackconnect.org",
+          "excerpts": [
+            "Sign In My Account\n\nCampus Ambassadors\n\nThe Campus Ambassador is a volunteer student leader who represents Black Connect on their college or universit"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3231",
+      "census_row": "24959",
+      "name": "colliery-io",
+      "queries": [
+        "\"colliery-io\" student ambassador",
+        "\"colliery-io\" campus ambassador advocate",
+        "\"colliery-io\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"colliery-io\" student ambassador",
+        "\"colliery-io\" campus ambassador advocate",
+        "\"colliery-io\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "excerpts": [
+            "Earn verified certificates, XP, and badges.\n\nLeadership Building\n\nBuild leadership experience as a Campus Ambassador.\nFeatures Hub\n\nWhy Students Choos"
+          ]
+        },
+        {
+          "url": "https://silc.asu.edu/student-leadership-ambassador-program",
+          "title": "SILC Student Leadership Ambassador Program | School of International Letters and Cultures",
+          "excerpts": [
+            "SILC Student Leadership Ambassador Program\n\nApplications for the spring 2027 cohort are open !\n\nThe deadline to apply is November 15, 2026 at 11:59 p."
+          ]
+        },
+        {
+          "url": "https://www.cgs.pitt.edu/cgssg-student-ambassadors",
+          "title": "CGSSG Student Ambassadors | College of General Studies | University of Pittsburgh",
+          "excerpts": [
+            "\nCGSSG Student Ambassadors\n\nAre you looking for a paid leadership position?\nDo you want to help advocate for students in your CGS major?\nWe understand"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3232",
+      "census_row": "24960",
+      "name": "vanzan01",
+      "queries": [
+        "\"vanzan01\" student ambassador",
+        "\"vanzan01\" campus ambassador advocate",
+        "\"vanzan01\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"vanzan01\" student ambassador",
+        "\"vanzan01\" campus ambassador advocate",
+        "\"vanzan01\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/vanzan01",
+          "title": "vanzan01 · GitHub",
+          "excerpts": [
+            "# User: vanzan01 (@vanzan01)\n\n- Page: GitHub user profile\n- URL: https://github.com/vanzan01\n- Location: Perth\n- Website: https://blog.vanzan01.org\n- "
+          ]
+        },
+        {
+          "url": "https://www.vgcc.edu/student-activities-athletics/ambassadors",
+          "title": "Student Ambassador Leadership Program – Vance Granville Community College",
+          "excerpts": [
+            "* + [Current Student](https://www.vgcc.edu/student-portal/)\n      * + [Future Student](https://www.vgcc.edu/future-students/)\n\n...\n\n[Student Activitie"
+          ]
+        },
+        {
+          "url": "https://www.slideshare.net/vanzan01",
+          "title": "Vanzan01 presentations",
+          "excerpts": [
+            "[](https://www.slideshare.net/ \"Return to the homepage\")\n\nEN\n\n* [Upload](https://www.slideshare.net/upload)\n* Download free for 30 days\n* \n\n# vanzan01"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3233",
+      "census_row": "24961",
+      "name": "unbody-io",
+      "queries": [
+        "\"unbody-io\" student ambassador",
+        "\"unbody-io\" campus ambassador advocate",
+        "\"unbody-io\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"unbody-io\" student ambassador",
+        "\"unbody-io\" campus ambassador advocate",
+        "\"unbody-io\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/unbody-io/unbody",
+          "title": "GitHub - unbody-io/unbody: The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data. · GitHub",
+          "excerpts": [
+            "# unbody-io/unbody\n\n- Page: GitHub repository\n- URL: https://github.com/unbody-io/unbody\n- Description: The Supabase of AI era. A modular, open-source"
+          ]
+        },
+        {
+          "url": "https://unbody.io/",
+          "title": "Unbody",
+          "excerpts": [
+            "Ú\n\nHome\n\nManifesto\n\nWork\n\nBlog\n\nUnbody R&D Lab.\n\n# We build products with a brain.\n\n[See what we work on](https://unbody.io/projects) [Read the latest"
+          ]
+        },
+        {
+          "url": "https://thesequence.substack.com/p/the-sequence-engineering-536-unbody",
+          "title": "The Sequence Engineering #536: Unbody is the All-In Framework for Building AI Applications",
+          "excerpts": [
+            "[](https://thesequence.substack.com/)\n\n# [TheSequence](https://thesequence.substack.com/)\n\nSubscribe Sign in\n\n# The Sequence Engineering #536: Unbody "
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3234",
+      "census_row": "24962",
+      "name": "Justin0504",
+      "queries": [
+        "\"Justin0504\" student ambassador",
+        "\"Justin0504\" campus ambassador advocate",
+        "\"Justin0504\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"Justin0504\" student ambassador",
+        "\"Justin0504\" campus ambassador advocate",
+        "\"Justin0504\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "https://www.cgs.pitt.edu/cgssg-student-ambassadors",
+          "title": "CGSSG Student Ambassadors | College of General Studies | University of Pittsburgh",
+          "excerpts": [
+            "\nCGSSG Student Ambassadors\n\nAre you looking for a paid leadership position?\nDo you want to help advocate for students in your CGS major?\nWe understand"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3235",
+      "census_row": "24963",
+      "name": "kubecube-io",
+      "queries": [
+        "\"kubecube-io\" student ambassador",
+        "\"kubecube-io\" campus ambassador advocate",
+        "\"kubecube-io\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"kubecube-io\" student ambassador",
+        "\"kubecube-io\" campus ambassador advocate",
+        "\"kubecube-io\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://biz.korea.ac.kr/kube/community/notice_view.html?no=26",
+          "title": "고려대학교 경영대학 학생 홍보대사 KUBE",
+          "excerpts": [
+            "KUBE 소개 투어 신청 커뮤니티 입학안내\n위로 올리기\n* 큐브(KUBE)란?\n* KUBE 활동 현황\n* KUBE 연혁\n* 홍보대사 프로필\n* 정기 캠퍼스 투어\n* 청소년 멘토링데이\n* 공지사항\n* 문의하기\n* 투어후기\n* 캠퍼스 안내\n* SNS 바로가기\n* 입학안내\n"
+          ]
+        },
+        {
+          "url": "https://biz.korea.ac.kr/kube/community/notice_view.html?no=26&page=1",
+          "title": "고려대학교 경영대학 학생 홍보대사 KUBE",
+          "excerpts": [
+            "KUBE 소개 투어 신청 커뮤니티 입학안내\nTOP\n\n공지사항\n\n고려대학교 경영대학 학생 홍보대사 ‘KUBE’ 24기 모집 안내 (~3월 5일 (목) 12:00(정오)까지)\n2026.02.23 Views 409\n고려대학교 경영대학이 2026학년도 1학기를 맞이해 학생 홍"
+          ]
+        },
+        {
+          "url": "https://biz.korea.ac.kr/news/notice_view.html?cate&key&keyfield&kind&no=7147&page=1",
+          "title": "[고려대학교 경영대학] 고려대학교 경영대학 학생 홍보대사 ‘KUBE’ 24기 모집 안내 (~3월 5일 (목) 12:00까지)",
+          "excerpts": [
+            "TOP\n\n공지사항\n\n고려대학교 경영대학 학생 홍보대사 ‘KUBE’ 24기 모집 안내 (~3월 5일 (목) 12:00까지)\n2026.03.05 Views 331 홍보팀\n고려대학교 경영대학이 2026학년도 1학기를 맞이해 학생 홍보대사 KUBE(큐브) 24기를 모집합니다."
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3236",
+      "census_row": "24964",
+      "name": "gogojjh",
+      "queries": [
+        "\"gogojjh\" student ambassador",
+        "\"gogojjh\" campus ambassador advocate",
+        "\"gogojjh\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"gogojjh\" student ambassador",
+        "\"gogojjh\" campus ambassador advocate",
+        "\"gogojjh\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "http://googlestudentambassador.id/googlestudentambassador",
+          "title": "Google Student Ambassador",
+          "excerpts": [
+            "---\ntitle: Google Student Ambassador\ndescription: Bentuk masa depan teknologi dan komunitas di kampus Anda, diberdayakan oleh Google.\npublished: \"Oct "
+          ]
+        },
+        {
+          "url": "https://goguecenter.auburn.edu/gogue-center-ambassadors",
+          "title": "Gogue Center Ambassadors | Jay and Susie Gogue Performing Arts Center",
+          "excerpts": [
+            "Center. Ambassadors work across campus, within the Auburn community and beyond, acting as hosts and volunteers for Gogue Center-sponsored performances"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3237",
+      "census_row": "24965",
+      "name": "ome-projects",
+      "queries": [
+        "\"ome-projects\" student ambassador",
+        "\"ome-projects\" campus ambassador advocate",
+        "\"ome-projects\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "\"ome-projects\" student ambassador",
+        "\"ome-projects\" campus ambassador advocate",
+        "\"ome-projects\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "empathy, intercultural communication competence, technical skills, professional development and more. Candidates should be interested in being a resou"
+          ]
+        },
+        {
+          "url": "https://planetaryhealthalliance.org/campus-ambassador-program/",
+          "title": "Campus Ambassador Program - Planetary Health Alliance",
+          "excerpts": [
+            "Merline Feero (2026 PHCA) and a survey participant check a tick drag in a field near University of Warwick student housing.\n\n...\n\nHealth Regional Hubs"
+          ]
+        },
+        {
+          "url": "https://www.onlinemeded.com/partners",
+          "title": "Partners in Advancing Medical Education | OnlineMedEd",
+          "excerpts": [
+            "ome-icon-clipboard@2x\nClinical\nBecome a master in clinical reasoning and patient care with best-in-class content for rotations, exams, and real-world "
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3238",
+      "census_row": "24966",
+      "name": "pals-ttic",
+      "queries": [
+        "\"pals-ttic\" student ambassador",
+        "\"pals-ttic\" campus ambassador advocate",
+        "\"pals-ttic\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "pals-ttic student ambassador",
+        "pals-ttic campus ambassador advocate",
+        "pals-ttic fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/pals-ttic",
+          "title": "Perception and Learning Systems Lab, TTI-Chicago · GitHub",
+          "excerpts": [
+            "Organization: Perception and Learning Systems Lab, TTI-Chicago (@pals-ttic)\n\n* Page: GitHub organization profile\n* URL: https://github.com/p"
+          ]
+        },
+        {
+          "url": "https://pals.ttic.edu/",
+          "title": "Perception and Learning Systems, PALS @ TTIC",
+          "excerpts": [
+            "PALS\nPEOPLE RESEARCH GITHUB\n\nAbout\n\nHi! We are the Perception and Learning Systems Lab (PALS) at TTI-Chicago. PALS work mostly on computer v"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3239",
+      "census_row": "24967",
+      "name": "Code-Amadeus",
+      "queries": [
+        "\"Code-Amadeus\" student ambassador",
+        "\"Code-Amadeus\" campus ambassador advocate",
+        "\"Code-Amadeus\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "Code-Amadeus student ambassador",
+        "Code-Amadeus campus ambassador advocate",
+        "Code-Amadeus fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.cod.edu/admission/student-ambassador",
+          "title": "Student Ambassadors | College of DuPage",
+          "excerpts": [
+            "* Student Services\n* Costs, Scholarships & Aid\n* Student Life & Resources\n* About Us\ncampus photo with Chaparral statue\nHome Admissions Stud"
+          ]
+        },
+        {
+          "url": "https://www.collegeofthedesert.edu/students/student-life/ambassadors/default.php",
+          "title": "COD Student Ambassadors - College of the Desert",
+          "excerpts": [
+            "President Kinammon with Student Ambassadors\nStudent Ambassadors\n* Meet the Ambassadors\n* Ambassador Application\n* Return to Student Life\nStu"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3240",
+      "census_row": "24968",
+      "name": "prod-forge",
+      "queries": [
+        "\"prod-forge\" student ambassador",
+        "\"prod-forge\" campus ambassador advocate",
+        "\"prod-forge\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "prod-forge student ambassador",
+        "prod-forge campus ambassador advocate",
+        "prod-forge fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/prod-forge/backend",
+          "title": "GitHub - prod-forge/backend: Prod Forge is an open-source reference that shows how to build and operate a production-ready system: AI-assisted development, quality gates, CI/CD, infrastructure, observability, migrations, and rollback. · GitHub",
+          "excerpts": [
+            "prod-forge/backend\n\n* Page: GitHub repository\n* URL: https://github.com/prod-forge/backend\n* Description: Prod Forge is an open-source refer"
+          ]
+        },
+        {
+          "url": "https://unstop.com/workshops-webinars/product-forge-techweek-23-bits-pilani-hyderabad-campus-663795",
+          "title": "Product Forge - 2023",
+          "excerpts": [
+            "Go to Unstop Home page\n* Stages & Timeline\n* Details\n* Prizes\n* Reviews\n* FAQs & Discussions\nLogin\ncolored_location Online\nTechWeek 23 Festi"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3241",
+      "census_row": "24969",
+      "name": "AThevon",
+      "queries": [
+        "\"AThevon\" student ambassador",
+        "\"AThevon\" campus ambassador advocate",
+        "\"AThevon\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "AThevon student ambassador",
+        "AThevon campus ambassador advocate",
+        "AThevon fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/AThevon",
+          "title": "AThevon (adri1) · GitHub",
+          "excerpts": [
+            "# User: adri1 (@AThevon)\n\n- Page: GitHub user profile\n- URL: https://github.com/AThevon\n- Location: Toulouse, France\n- Website: https://athe"
+          ]
+        },
+        {
+          "url": "https://www.atu.ie/study/undergraduate/student-ambassador-programme",
+          "title": "Student Ambassador Programme - Atlantic Technological University",
+          "excerpts": [
+            "* Home / Study at ATU / Undergraduate / Current: Student Ambassador Programme\n\nStudent Ambassadors\n\nInterested in joining our Student Ambass"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3242",
+      "census_row": "24970",
+      "name": "wataru-maeda",
+      "queries": [
+        "\"wataru-maeda\" student ambassador",
+        "\"wataru-maeda\" campus ambassador advocate",
+        "\"wataru-maeda\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "wataru-maeda student ambassador",
+        "wataru-maeda campus ambassador advocate",
+        "wataru-maeda fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/wataru-maeda",
+          "title": "wataru-maeda (Wataru Maeda) · GitHub",
+          "excerpts": [
+            "User: Wataru Maeda (@wataru-maeda)\n\n* Page: GitHub user profile\n* URL: https://github.com/wataru-maeda\n* Company: DVER Technologies Inc.\n* L"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/wataru-maeda-914165bb",
+          "title": "Wataru Maeda - Canada | Professional Profile | LinkedIn",
+          "excerpts": [
+            "LinkedIn\nSign in Join now\n\nWataru Maeda\n\nSign in to view Wataru’s full profile\n\nEmail or phone\nPassword\nShow\nForgot password? Sign in Sign i"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3243",
+      "census_row": "24971",
+      "name": "labteral",
+      "queries": [
+        "\"labteral\" student ambassador",
+        "\"labteral\" campus ambassador advocate",
+        "\"labteral\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "labteral student ambassador",
+        "labteral campus ambassador advocate",
+        "labteral fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "http://www.labette.edu/studentlife/assets/Student-Ambassador-Application.pdf",
+          "title": "Labette Community College Student Ambassador Program General Description The Labette Community College Student Ambassador Program is a group of students",
+          "excerpts": [
+            "Labette Community College Student Ambassador Program\n\nGeneral Description The Labette Community College Student Ambassador Program is a grou"
+          ]
+        },
+        {
+          "url": "https://hwb.swansea.ac.uk/employability-enterprise/student-ambassador-scheme/",
+          "title": "Student Ambassador Scheme - Swansea University",
+          "excerpts": [
+            " Search:\n* Accessibility Tools\n* Cymraeg\nLogin\n1. The home of current students\n2. Careers and Enterprise\n3. Student Ambassador Scheme\n\nStude"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3244",
+      "census_row": "24972",
+      "name": "Tswoen",
+      "queries": [
+        "\"Tswoen\" student ambassador",
+        "\"Tswoen\" campus ambassador advocate",
+        "\"Tswoen\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "Tswoen student ambassador",
+        "Tswoen campus ambassador advocate",
+        "Tswoen fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "excerpts": [
+            "Campus Unite Leadership Program • Batch of 2026-27\n\nBecome a Campus Unite\n\nCampus Ambassador\nRepresent Campus Unite at your college, build a"
+          ]
+        },
+        {
+          "url": "https://www.geneseo.edu/cil/student_ambassadorships",
+          "title": "Student Ambassador Program - SUNY Geneseo",
+          "excerpts": [
+            "* Home\n* Center for Integrative Learning\n* Student Ambassador Program\nCenter for Integrative Learning\n* What is Integrative Learning?\n* Expl"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3245",
+      "census_row": "24973",
+      "name": "liunian-Jay",
+      "queries": [
+        "\"liunian-Jay\" student ambassador",
+        "\"liunian-Jay\" campus ambassador advocate",
+        "\"liunian-Jay\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "liunian-Jay student ambassador",
+        "liunian-Jay campus ambassador advocate",
+        "liunian-Jay fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://112.cachefly.net/liunian-Jay/CoCoA",
+          "title": "GitHub - liunian-Jay/CoCoA: [ACL 2026] CoCoA: Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy · GitHub",
+          "excerpts": [
+            "Skip to content ## Navigation Menu\nliunian-Jay / CoCoA Public\n* Notifications You must be signed in to change notification settings\n* Fork 1"
+          ]
+        },
+        {
+          "url": "https://github.com/liunian-Jay/CoCoA/blob/master/README.md",
+          "title": "CoCoA/README.md at master · liunian-Jay/CoCoA · GitHub",
+          "excerpts": [
+            "## \n\nCoCoA/README.md at master · liunian-Jay/CoCoA · GitHub\nThe official code of “Collaborative Chain-of-Agents for Parametric-Retrieved Kno"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3246",
+      "census_row": "24974",
+      "name": "gensx-inc",
+      "queries": [
+        "\"gensx-inc\" student ambassador",
+        "\"gensx-inc\" campus ambassador advocate",
+        "\"gensx-inc\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "gensx-inc student ambassador",
+        "gensx-inc campus ambassador advocate",
+        "gensx-inc fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.geneseo.edu/news_events/center-inquiry-discovery-and-development-seeks-student-ambassadors/",
+          "title": "Center for Inquiry, Discovery and Development Seeks Student Ambassadors - SUNY Geneseo",
+          "excerpts": [
+            "* Meet Our Faculty\n* Academics\n* Academics\n* Schools and Departments\n* Majors, Minors, and Academic Programs\n* Research\n* Study Abroad\n* Car"
+          ]
+        },
+        {
+          "url": "https://knightscholar.geneseo.edu/sap-student-ambassador",
+          "title": "\nSUNY Geneseo Student Ambassador Program | SUNY Geneseo Research | KnightScholar\n",
+          "excerpts": [
+            "KnightScholar SUNY Geneseo\n* Home\n* About\n* My Account\n1. Home\n2. Programs\n3. SAP-STUDENT-AMBASSADOR\nGeneseo Student Ambassador Program\n\nGen"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3247",
+      "census_row": "24975",
+      "name": "muellerberndt",
+      "queries": [
+        "\"muellerberndt\" student ambassador",
+        "\"muellerberndt\" campus ambassador advocate",
+        "\"muellerberndt\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "muellerberndt student ambassador",
+        "muellerberndt campus ambassador advocate",
+        "muellerberndt fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://getinvolved.missouri.edu/involvement-ambassadors/",
+          "title": "Involvement Ambassadors - Get Involved",
+          "excerpts": [
+            "University of Missouri Homepage University of Missouri Homepage\n* Student Employment\n* Involvement Ambassadors\n* Student Organization Resour"
+          ]
+        },
+        {
+          "url": "https://involvement.und.edu/organization/studentambassadors",
+          "title": "Student Ambassadors - involvement@UND ",
+          "excerpts": [
+            "Student Ambassadors\n\nStudent Ambassadors\n\nAbout\n\nUND Student Ambassadors are official representatives of the University of North Dakota. The"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3248",
+      "census_row": "24976",
+      "name": "AndrejOrsula",
+      "queries": [
+        "\"AndrejOrsula\" student ambassador",
+        "\"AndrejOrsula\" campus ambassador advocate",
+        "\"AndrejOrsula\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "AndrejOrsula student ambassador",
+        "AndrejOrsula campus ambassador advocate",
+        "AndrejOrsula fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/AndrejOrsula",
+          "title": "AndrejOrsula (Andrej Orsula) · GitHub",
+          "excerpts": [
+            "# User: Andrej Orsula (@AndrejOrsula)\n\n- Page: GitHub user profile\n- URL: https://github.com/AndrejOrsula\n- Location: Luxembourg\n- Website: "
+          ]
+        },
+        {
+          "url": "https://gitlab.com/users/AndrejOrsula/snippets",
+          "title": "Andrej Orsula · GitLab",
+          "excerpts": [
+            "1. Andrej Orsula\nMore actions\n* Copy user ID: 4198568\n* Subscribe \nUser profile picture\n\nAndrej Orsula\n\n@AndrejOrsula\n* \n\nNo snippets found\n"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3249",
+      "census_row": "24977",
+      "name": "AdolfVonKleist",
+      "queries": [
+        "\"AdolfVonKleist\" student ambassador",
+        "\"AdolfVonKleist\" campus ambassador advocate",
+        "\"AdolfVonKleist\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "AdolfVonKleist student ambassador",
+        "AdolfVonKleist campus ambassador advocate",
+        "AdolfVonKleist fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.cuny.edu/about/administration/offices/student-success-initiatives/asap/about/opportunities/student-ambassador-program/",
+          "title": "Student Ambassador Program  –  The City University of New York",
+          "excerpts": [
+            "About the Student Ambassador Program The CUNY ASAP Student Ambassador Program is an enriching leadership opportunity designed to equip parti"
+          ]
+        },
+        {
+          "url": "https://www.ed.gov/about/ed-offices/oese/oese-programs/school-ambassador-fellowship-program/program-overview",
+          "title": "Program Overview | U.S. Department of Education",
+          "excerpts": [
+            "Create a community of teachers, administrators, counselors, psychologists, social workers and other school staff members who share expertise"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    },
+    {
+      "small_rank": "3250",
+      "census_row": "24978",
+      "name": "ilyautov",
+      "queries": [
+        "\"ilyautov\" student ambassador",
+        "\"ilyautov\" campus ambassador advocate",
+        "\"ilyautov\" fellowship organizer student"
+      ],
+      "searched_queries": [
+        "ilyautov student ambassador",
+        "ilyautov campus ambassador advocate",
+        "ilyautov fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://explore.illinois.edu/ambassador-program/",
+          "title": "Ambassador Program – Division of Exploratory Studies",
+          "excerpts": [
+            "* Previous Illinois Students\n* Admitted Students\n* New Student Registration\n* Academic Advising\n\nMeet with an Academic Advisor\n\nIn-Person an"
+          ]
+        },
+        {
+          "url": "https://education.utexas.edu/students/current-students/student-ambassador-program",
+          "title": "Student Ambassador Program - College of Education - UT Austin",
+          "excerpts": [
+            "# **Student Ambassador Program**\n\n**Get Involved**\n\nStudent Ambassadors are an important part of the fabric of the College of Education comm"
+          ]
+        }
+      ],
+      "outcome": "Three targeted queries completed; no qualifying exact-entity route verified in bounded pass."
+    }
+  ]
+}

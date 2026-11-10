@@ -1,0 +1,1817 @@
+{
+  "slice": {
+    "start": 3351,
+    "end": 3400,
+    "census_rows": [
+      "25079",
+      "25128"
+    ],
+    "cutoff": "2026-11-09",
+    "researched": "2026-11-10",
+    "validation": "50 source rows exact; 0 mismatch"
+  },
+  "method": "Three varied exact-entity targeted identity/ambassador searches; bounded search; no global-absence claims.",
+  "search_status": "50 of 50 searched in 3-query batches (150 total); all further review; no official student route established.",
+  "entities": [
+    {
+      "census_row": "25079",
+      "small_rank": "3351",
+      "name": "wellflat",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "wellflat github profile computer vision",
+        "wellflat student ambassador AI",
+        "wellflat campus ambassador AI"
+      ],
+      "searched_queries": [
+        "wellflat github profile computer vision",
+        "wellflat student ambassador AI",
+        "wellflat campus ambassador AI"
+      ],
+      "search_id": "search_a7fc87e4bc17640d1f3f85566bf462fc",
+      "results": [
+        {
+          "url": "https://github.com/wellflat",
+          "title": "ryohei tanaka wellflat",
+          "excerpts": [
+            "## \n\nryohei tanaka wellflat\nwellflat has 30 repositories available. Follow their code on GitHub. cat ryohei tanaka wellf"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective ne"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25080",
+      "small_rank": "3352",
+      "name": "voidcraft-dev",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "voidcraft-dev github profile AI tools",
+        "voidcraft-dev student ambassador AI",
+        "voidcraft-dev campus ambassador AI"
+      ],
+      "searched_queries": [
+        "voidcraft-dev github profile AI tools",
+        "voidcraft-dev student ambassador AI",
+        "voidcraft-dev campus ambassador AI"
+      ],
+      "search_id": "search_a5ee3fab641231fd3f852fe34ae1b5ca",
+      "results": [
+        {
+          "url": "https://github.com/voidcraft-dev/memory-forge-rs",
+          "title": "GitHub - voidcraft-dev/memory-forge-rs: Stop resetting satisfying AI chats — edit the memory instead. Local session manager for Claude Code, Codex & OpenCode & Gemini CLI &  Kiro CLI & pi &Cursor . Tauri + Rust, 100% offline - 记忆操控，可视化随意改写AI记忆 · GitHub",
+          "excerpts": [
+            "* Manually re-explain everything\n* Give up and work around the error\nWith Memory Forge:\n* Open the conversation, find th"
+          ]
+        },
+        {
+          "url": "https://112.cachefly.net/voidcraft-dev",
+          "title": "voidcraft-dev (VoidCraft) · GitHub",
+          "excerpts": [
+            "Skip to content ## Navigation Menu\n@voidcraft-dev voidcraft-dev Follow\nOverview Repositories 5 Projects Packages Stars 2"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25081",
+      "small_rank": "3353",
+      "name": "GTAI-1",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "GTAI-1 github profile Claude",
+        "GTAI-1 student ambassador AI",
+        "GTAI-1 campus ambassador AI"
+      ],
+      "searched_queries": [
+        "GTAI-1 github profile Claude",
+        "GTAI-1 student ambassador AI",
+        "GTAI-1 campus ambassador AI"
+      ],
+      "search_id": "search_cac97f52836e2c5ef14464af7060833c",
+      "results": [
+        {
+          "url": "https://www.anthropic.com/contact-sales/claude-campus-ambassadors",
+          "title": "Claude Campus Program | Claude by Anthropic",
+          "excerpts": [
+            "* Try Claude\nTry Claude Try Claude\n* Contact sales\nContact sales Contact sales\n* Try Claude\nTry Claude Try Claude\n* Cont"
+          ]
+        },
+        {
+          "url": "https://scai.sorbonne-universite.fr/news/claude-program?r=0",
+          "title": "Claude Campus Ambassadors Program — applications open until September 12 — SCAI",
+          "excerpts": [
+            "Back to news\n07 Sept 2026\n\nClaude Campus Ambassadors Program — applications open until September 12\n\nLead student-driven"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25082",
+      "small_rank": "3354",
+      "name": "yuanzhi-zhu",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "yuanzhi-zhu github profile diffusion models",
+        "yuanzhi-zhu student ambassador AI",
+        "yuanzhi-zhu campus ambassador AI"
+      ],
+      "searched_queries": [
+        "yuanzhi-zhu github profile diffusion models",
+        "yuanzhi-zhu student ambassador AI",
+        "yuanzhi-zhu campus ambassador AI"
+      ],
+      "search_id": "search_257dc5f85c1a1ec86cab1d1877250353",
+      "results": [
+        {
+          "url": "https://github.com/yuanzhi-zhu",
+          "title": "yuanzhi-zhu (Yuanzhi Zhu) · GitHub",
+          "excerpts": [
+            "User: Yuanzhi Zhu (@yuanzhi-zhu)\n\n* Page: GitHub user profile\n* URL: https://github.com/yuanzhi-zhu\n* Company: Ecole Pol"
+          ]
+        },
+        {
+          "url": "https://yuanzhi-zhu.github.io/about",
+          "title": "About — Yuanzhi Zhu",
+          "excerpts": [
+            "Yuanzhi Zhu\n\nBlog About\n\nAbout\n\nAbout Me\nThe person *NOT* wearing a blue cravat is me\nI'm Yuanzhi Zhu and I'm a PhD stud"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25083",
+      "small_rank": "3355",
+      "name": "SeokjuLee",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "SeokjuLee github profile autonomous vehicles dataset",
+        "SeokjuLee student ambassador AI",
+        "SeokjuLee campus ambassador AI"
+      ],
+      "searched_queries": [
+        "SeokjuLee github profile autonomous vehicles dataset",
+        "SeokjuLee student ambassador AI",
+        "SeokjuLee campus ambassador AI"
+      ],
+      "search_id": "search_72c4bc8778f011e8501f951a7c7d0ab7",
+      "results": [
+        {
+          "url": "https://github.com/SeokjuLee",
+          "title": "SeokjuLee (Seokju Lee) · GitHub",
+          "excerpts": [
+            "User: Seokju Lee (@SeokjuLee)\n\n* Page: GitHub user profile\n* URL: https://github.com/SeokjuLee\n* Company: KENTECH\n* Loca"
+          ]
+        },
+        {
+          "url": "https://awesomepapers.io/computer-vision/papers/2102.02629",
+          "title": "Learning Monocular Depth in Dynamic Scenes via Instance-Aware Projection\n  Consistency — Computer Vision · Code & Paper",
+          "excerpts": [
+            "← all papers · overview\n\nLearning Monocular Depth in Dynamic Scenes via Instance-Aware Projection\n\nConsistency\nSeokju Le"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25084",
+      "small_rank": "3356",
+      "name": "notandreaferri",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "notandreaferri github profile dataset",
+        "notandreaferri student ambassador AI",
+        "notandreaferri campus ambassador AI"
+      ],
+      "searched_queries": [
+        "notandreaferri github profile dataset",
+        "notandreaferri student ambassador AI",
+        "notandreaferri campus ambassador AI"
+      ],
+      "search_id": "search_d402e4d8fdb322a331505c85eb16a82d",
+      "results": [
+        {
+          "url": "https://tamids.tamu.edu/student-opportunities/data-science-student-ambassadors",
+          "title": "Data Science Student Ambassadors - TAMIDS",
+          "excerpts": [
+            "[Texas A&M University](https://tamu.edu/)\n\n* \n\nQuicklinks & Search\n\nclose\n\nQuicklinks & Search\n\nSearch Search\n\nQuicklink"
+          ]
+        },
+        {
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "excerpts": [
+            "Campus Ambassador Program\n\nLead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to buil"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25085",
+      "small_rank": "3357",
+      "name": "giacomo-b",
+      "tier": "small",
+      "category": "robotics",
+      "queries": [
+        "giacomo-b github profile robotics autonomous vehicles",
+        "giacomo-b student ambassador AI",
+        "giacomo-b campus ambassador AI"
+      ],
+      "searched_queries": [
+        "giacomo-b github profile robotics autonomous vehicles",
+        "giacomo-b student ambassador AI",
+        "giacomo-b campus ambassador AI"
+      ],
+      "search_id": "search_441cecb24571afd038ee3b59379e9007",
+      "results": [
+        {
+          "url": "https://github.com/giacomo-b",
+          "title": "giacomo-b · GitHub",
+          "excerpts": [
+            "User: giacomo-b (@giacomo-b)\n\n* Page: GitHub user profile\n* URL: https://github.com/giacomo-b\n* Location: Stuttgart, Ger"
+          ]
+        },
+        {
+          "url": "https://github.com/giacomo-b/giacomo-b",
+          "title": "GitHub - giacomo-b/giacomo-b · GitHub",
+          "excerpts": [
+            "giacomo-b/giacomo-b\n\n* Page: GitHub repository\n* URL: https://github.com/giacomo-b/giacomo-b\n* Default branch: master\n* "
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25086",
+      "small_rank": "3358",
+      "name": "pawurb",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "pawurb github profile speech synthesis",
+        "pawurb student ambassador AI",
+        "pawurb campus ambassador AI"
+      ],
+      "searched_queries": [
+        "pawurb github profile speech synthesis",
+        "pawurb student ambassador AI",
+        "pawurb campus ambassador AI"
+      ],
+      "search_id": "search_901d299b4c7bfef04109461b5c861a95",
+      "results": [
+        {
+          "url": "https://github.com/pawurb/termit",
+          "title": "GitHub - pawurb/termit: Translations with speech synthesis in your terminal as a ruby gem · GitHub",
+          "excerpts": [
+            "pawurb/termit\n\n* Page: GitHub repository\n* URL: https://github.com/pawurb/termit\n* Description: Translations with speech"
+          ]
+        },
+        {
+          "url": "https://github.com/pawurb/normit",
+          "title": "GitHub - pawurb/normit: Translations with speech synthesis in your terminal as a node package · GitHub",
+          "excerpts": [
+            "pawurb/normit\n\n* Page: GitHub repository\n* URL: https://github.com/pawurb/normit\n* Description: Translations with speech"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25087",
+      "small_rank": "3359",
+      "name": "MarcoForte",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "MarcoForte github profile computer vision",
+        "MarcoForte student ambassador AI",
+        "MarcoForte campus ambassador AI"
+      ],
+      "searched_queries": [
+        "MarcoForte github profile computer vision",
+        "MarcoForte student ambassador AI",
+        "MarcoForte campus ambassador AI"
+      ],
+      "search_id": "search_09599d446f2b64c128b817a8d38e5065",
+      "results": [
+        {
+          "url": "https://github.com/MarcoForte",
+          "title": "MarcoForte (Marco Forte) · GitHub",
+          "excerpts": [
+            "User: Marco Forte (@MarcoForte)\n\n* Page: GitHub user profile\n* URL: https://github.com/MarcoForte\n* Company: @Photoroom\n"
+          ]
+        },
+        {
+          "url": "https://gist.github.com/MarcoForte",
+          "title": "MarcoForte’s gists · GitHub",
+          "excerpts": [
+            "Search Gists Search Gists\nAll gists Back to GitHub Sign in Sign up\nSign in Sign up\nInstantly share code, notes, and snip"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25088",
+      "small_rank": "3360",
+      "name": "HendrikStrobelt",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "HendrikStrobelt github profile NLP",
+        "HendrikStrobelt student ambassador AI",
+        "HendrikStrobelt campus ambassador AI"
+      ],
+      "searched_queries": [
+        "HendrikStrobelt github profile NLP",
+        "HendrikStrobelt student ambassador AI",
+        "HendrikStrobelt campus ambassador AI"
+      ],
+      "search_id": "search_550bdb44032788abd4912ce1b4438053",
+      "results": [
+        {
+          "url": "https://github.com/HendrikStrobelt",
+          "title": "HendrikStrobelt (Hendrik Strobelt) · GitHub",
+          "excerpts": [
+            "User: Hendrik Strobelt (@HendrikStrobelt)\n\n* Page: GitHub user profile\n* URL: https://github.com/HendrikStrobelt\n* Compa"
+          ]
+        },
+        {
+          "url": "https://mitibm.mit.edu/people/hendrik-strobelt/",
+          "title": " » Hendrik Strobelt",
+          "excerpts": [
+            "Toggle Menu\n* MIT-IBM Computing Research Lab\n* Research\n* News\n* Inside the lab\n* MIT-IBM Computing Research Lab\n* Resea"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25089",
+      "small_rank": "3361",
+      "name": "intelligencedev",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "intelligencedev github profile AI tools",
+        "intelligencedev student ambassador AI",
+        "intelligencedev campus ambassador AI"
+      ],
+      "searched_queries": [
+        "intelligencedev github profile AI tools",
+        "intelligencedev student ambassador AI",
+        "intelligencedev campus ambassador AI"
+      ],
+      "search_id": "search_7d2c8f95158cb33818316042e3b746e3",
+      "results": [
+        {
+          "url": "https://github.com/intelligencedev",
+          "title": "intelligence.dev · GitHub",
+          "excerpts": [
+            "Organization: intelligence.dev (@intelligencedev)\n\n* Page: GitHub organization profile\n* URL: https://github.com/intelli"
+          ]
+        },
+        {
+          "url": "https://github.com/intelligencedev/manifold",
+          "title": "GitHub - intelligencedev/manifold: Manifold is an experimental platform for enabling long horizon workflow automation using teams of AI assistants. · GitHub",
+          "excerpts": [
+            "* Description: Manifold is an experimental platform for enabling long horizon workflow automation using teams of AI assi"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25090",
+      "small_rank": "3362",
+      "name": "mantisfury",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "mantisfury github profile local LLM RAG",
+        "mantisfury student ambassador AI",
+        "mantisfury campus ambassador AI"
+      ],
+      "searched_queries": [
+        "mantisfury github profile local LLM RAG",
+        "mantisfury student ambassador AI",
+        "mantisfury campus ambassador AI"
+      ],
+      "search_id": "search_6de5e9dac5fa3a8b2052b1d8fb662440",
+      "results": [
+        {
+          "url": "https://github.com/mantisfury/ArkhamMirror",
+          "title": "GitHub - mantisfury/ArkhamMirror: Local-first AI-powered document intelligence platform for investigative journalism · GitHub",
+          "excerpts": [
+            "Philosophy | Architecture | Features | Quick Start | Security | Production | Shards | Documentation\nScreenshots (click t"
+          ]
+        },
+        {
+          "url": "https://githubhelp.com/mantisfury/ArkhamMirror",
+          "title": "mantisfury/ArkhamMirror - GitHubHelp",
+          "excerpts": [
+            "Articles\nGitHubHelp Journal Search\nSearch Users PK Repos PK\n\nmantisfury /ArkhamMirror\n\nLocal-first AI-powered document i"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25091",
+      "small_rank": "3363",
+      "name": "ziqihuangg",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "ziqihuangg github profile image video generation",
+        "ziqihuangg student ambassador AI",
+        "ziqihuangg campus ambassador AI"
+      ],
+      "searched_queries": [
+        "ziqihuangg github profile image video generation",
+        "ziqihuangg student ambassador AI",
+        "ziqihuangg campus ambassador AI"
+      ],
+      "search_id": "search_ee8e5ab574c6adc5d218f7574c74bde2",
+      "results": [
+        {
+          "url": "https://github.com/ziqihuangg",
+          "title": "ziqihuangg (Ziqi Huang) · GitHub",
+          "excerpts": [
+            "User: Ziqi Huang (@ziqihuangg)\n\n* Page: GitHub user profile\n* URL: https://github.com/ziqihuangg\n* Company: Nanyang Tech"
+          ]
+        },
+        {
+          "url": "https://ziqihuangg.github.io/",
+          "title": "Ziqi Huang - Ziqi Huang",
+          "excerpts": [
+            "degree from MMLab@NTU , advised by Prof. Ziwei Liu . She has internships and collaborations with Meta Superintelligence "
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25092",
+      "small_rank": "3364",
+      "name": "mantasu",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "mantasu github profile computer vision transformers",
+        "mantasu student ambassador AI",
+        "mantasu campus ambassador AI"
+      ],
+      "searched_queries": [
+        "mantasu github profile computer vision transformers",
+        "mantasu student ambassador AI",
+        "mantasu campus ambassador AI"
+      ],
+      "search_id": "search_e2419525f03d368a972b70a0ad369ee5",
+      "results": [
+        {
+          "url": "https://github.com/mantasu",
+          "title": "mantasu (Mantas) · GitHub",
+          "excerpts": [
+            "User: Mantas (@mantasu)\n\n* Page: GitHub user profile\n* URL: https://github.com/mantasu\n* Company: Expedia Group\n* Locati"
+          ]
+        },
+        {
+          "url": "https://github.com/mantasu/cs224n",
+          "title": "GitHub - mantasu/cs224n: Solutions for CS224n (2022) · GitHub",
+          "excerpts": [
+            "mantasu/cs224n\n\n* Page: GitHub repository\n* URL: https://github.com/mantasu/cs224n\n* Description: Solutions for CS224n ("
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25093",
+      "small_rank": "3365",
+      "name": "mehmetkahya0",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "mehmetkahya0 github profile chatbot Claude OpenAI",
+        "mehmetkahya0 student ambassador AI",
+        "mehmetkahya0 campus ambassador AI"
+      ],
+      "searched_queries": [
+        "mehmetkahya0 github profile chatbot Claude OpenAI",
+        "mehmetkahya0 student ambassador AI",
+        "mehmetkahya0 campus ambassador AI"
+      ],
+      "search_id": "search_adfc6d4be24e038f8410bc5aba04ab0e",
+      "results": [
+        {
+          "url": "https://github.com/mehmetkahya0",
+          "title": "mehmetkahya0 (Mehmet Kahya) · GitHub",
+          "excerpts": [
+            "User: Mehmet Kahya (@mehmetkahya0)\n\n* Page: GitHub user profile\n* URL: https://github.com/mehmetkahya0\n* Location: Izmir"
+          ]
+        },
+        {
+          "url": "https://mehmetkahya0.github.io/",
+          "title": "Mehmet Kahya | Software Developer & Engineering Student",
+          "excerpts": [
+            "Mehmet Kahya\n* About\n* Experience\n* Projects\n* Skills\n* Contact\nGitHub\n🚀 Open to Opportunities\n\nI turn ideas into\n\nreal"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25094",
+      "small_rank": "3366",
+      "name": "shannon112",
+      "tier": "small",
+      "category": "robotics",
+      "queries": [
+        "shannon112 github profile robotics",
+        "shannon112 student ambassador AI",
+        "shannon112 campus ambassador AI"
+      ],
+      "searched_queries": [
+        "shannon112 github profile robotics",
+        "shannon112 student ambassador AI",
+        "shannon112 campus ambassador AI"
+      ],
+      "search_id": "search_b562774672358d0ed19505f551bc9376",
+      "results": [
+        {
+          "url": "https://shannon112.blogspot.com/p/projects.html",
+          "title": "Projects for fun ~ shannon112",
+          "excerpts": [
+            "r (Self-Balanced Robot) , uses IMU data to compute the pose of the robot and PID control to keep itself balance. Updated"
+          ]
+        },
+        {
+          "url": "https://github.com/shannon112/awesome-ros-mobile-robot",
+          "title": "GitHub - shannon112/awesome-ros-mobile-robot: 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation) · GitHub",
+          "excerpts": [
+            "# shannon112/awesome-ros-mobile-robot\n\n- Page: GitHub repository\n- URL: https://github.com/shannon112/awesome-ros-mobile"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25095",
+      "small_rank": "3367",
+      "name": "KavrakiLab",
+      "tier": "small",
+      "category": "robotics",
+      "queries": [
+        "KavrakiLab github profile robotics lab",
+        "KavrakiLab student ambassador AI",
+        "KavrakiLab campus ambassador AI"
+      ],
+      "searched_queries": [
+        "KavrakiLab github profile robotics lab",
+        "KavrakiLab student ambassador AI",
+        "KavrakiLab campus ambassador AI"
+      ],
+      "search_id": "search_72e2f98555f3ad366f696c5fd7823107",
+      "results": [
+        {
+          "url": "https://github.com/kavrakilab",
+          "title": "Kavraki Lab · GitHub",
+          "excerpts": [
+            "Organization: Kavraki Lab (@kavrakilab)\n\n* Page: GitHub organization profile\n* URL: https://github.com/kavrakilab\n* Loca"
+          ]
+        },
+        {
+          "url": "https://www.kavrakilab.rice.edu/about.html",
+          "title": " Kavraki Lab | About the Kavraki Lab",
+          "excerpts": [
+            "Kavraki Lab Physical AI, Robotics & Biomedicine Lab\n* About\n* Research\n* Publications\n* Software\n* People\n* Join\n\nAbout "
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25096",
+      "small_rank": "3368",
+      "name": "duy-phamduc68",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "duy-phamduc68 github profile autonomous vehicles vision",
+        "duy-phamduc68 student ambassador AI",
+        "duy-phamduc68 campus ambassador AI"
+      ],
+      "searched_queries": [
+        "duy-phamduc68 github profile autonomous vehicles vision",
+        "duy-phamduc68 student ambassador AI",
+        "duy-phamduc68 campus ambassador AI"
+      ],
+      "search_id": "search_10b4976af722699c4e23aeb4e1f3b4aa",
+      "results": [
+        {
+          "url": "https://github.com/duy-phamduc68",
+          "title": "duy-phamduc68 (Yuk) · GitHub",
+          "excerpts": [
+            "User: Yuk (@duy-phamduc68)\n\n* Page: GitHub user profile\n* URL: https://github.com/duy-phamduc68\n* Website: https://yuk06"
+          ]
+        },
+        {
+          "url": "https://github.com/topics/traffic-analysis?l=python",
+          "title": "traffic-analysis · GitHub Topics · GitHub",
+          "excerpts": [
+            "* HaxL0p4/L0p4Map: Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with "
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25097",
+      "small_rank": "3369",
+      "name": "weinman",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "weinman github profile OCR",
+        "weinman student ambassador AI",
+        "weinman campus ambassador AI"
+      ],
+      "searched_queries": [
+        "weinman github profile OCR",
+        "weinman student ambassador AI",
+        "weinman campus ambassador AI"
+      ],
+      "search_id": "search_af5010c515ca1f91b97ed756d077d25d",
+      "results": [
+        {
+          "url": "https://github.com/weinman",
+          "title": "weinman (Jerod Weinman) · GitHub",
+          "excerpts": [
+            "User: Jerod Weinman (@weinman)\n\n* Page: GitHub user profile\n* URL: https://github.com/weinman\n* Company: Grinnell Colleg"
+          ]
+        },
+        {
+          "url": "https://weinman.cs.grinnell.edu/index.shtml",
+          "title": "Jerod Weinman",
+          "excerpts": [
+            "nings\n\n* Paper \"T i CLS: Tightly Coupled Language Text Spotter\" accepted to the IEEE/CVF Winter Conference on Applicatio"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25098",
+      "small_rank": "3370",
+      "name": "GengDavid",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "GengDavid github profile computer vision",
+        "GengDavid student ambassador AI",
+        "GengDavid campus ambassador AI"
+      ],
+      "searched_queries": [
+        "GengDavid github profile computer vision",
+        "GengDavid student ambassador AI",
+        "GengDavid campus ambassador AI"
+      ],
+      "search_id": "search_01e46344a2ff8f872e775a34f65e9a0b",
+      "results": [
+        {
+          "url": "https://github.com/GengDavid/SLCA",
+          "title": "GitHub - GengDavid/SLCA: SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model @ ICCV 2023 **AND** SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training · GitHub",
+          "excerpts": [
+            "GengDavid/SLCA\n\n* Page: GitHub repository\n* URL: https://github.com/GengDavid/SLCA\n* Description: SLCA: Slow Learner wit"
+          ]
+        },
+        {
+          "url": "https://gengdavid.github.io/",
+          "title": "Gengwei Zhang · Multimodal Learning & Computer Vision",
+          "excerpts": [
+            "GZ Gengwei Zhang\nAbout Research Publications Contact\nMultimodal learning & computer vision\n\nGengwei Zhang\n\n张耕维 / David\nP"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25099",
+      "small_rank": "3371",
+      "name": "ankanbhunia",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "ankanbhunia github profile diffusion generative AI",
+        "ankanbhunia student ambassador AI",
+        "ankanbhunia campus ambassador AI"
+      ],
+      "searched_queries": [
+        "ankanbhunia github profile diffusion generative AI",
+        "ankanbhunia student ambassador AI",
+        "ankanbhunia campus ambassador AI"
+      ],
+      "search_id": "search_8e4bda36827eb44fae2e7c4bf77a6d11",
+      "results": [
+        {
+          "url": "https://github.com/Feynben/UniMIE",
+          "title": "GitHub - Feynben/UniMIE: Communications Medicine 2025",
+          "excerpts": [
+            "GitHub - Feynben/UniMIE: Communications Medicine 2025\nHere, we introduce a pioneering Patch-based Diffusion Model for Me"
+          ]
+        },
+        {
+          "url": "https://diffuselabs.ai/",
+          "title": "Diffuse Labs",
+          "excerpts": [
+            "auto light dark\n\n# Diffuse Labs\n\nis solving the data bottleneck  \nbehind self-improving AI.\n\n[Contact →](mailto:team@dif"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25100",
+      "small_rank": "3372",
+      "name": "0aicoder0",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "0aicoder0 github profile prompt engineering",
+        "0aicoder0 student ambassador AI",
+        "0aicoder0 campus ambassador AI"
+      ],
+      "searched_queries": [
+        "0aicoder0 github profile prompt engineering",
+        "0aicoder0 student ambassador AI",
+        "0aicoder0 campus ambassador AI"
+      ],
+      "search_id": "search_60b8ef7362ec1bd002cd25d7d80d3ed0",
+      "results": [
+        {
+          "url": "https://scholarshipsandaid.org/2026/09/03/claude-campus-ambassador-programme-2026/",
+          "title": "Claude Campus Ambassador Programme 2026. – SCHOLARSHIPS AND AID",
+          "excerpts": [
+            "The programme supports student-led AI initiatives at universities and invites undergraduate students, graduate students,"
+          ]
+        },
+        {
+          "url": "https://openai.com/form/openai-campus-leaders-interest-form",
+          "title": "OpenAI campus leaders interest form",
+          "excerpts": [
+            "Help students gain confidence using ChatGPT and Codex while building projects together.\nApply or register your interest "
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25101",
+      "small_rank": "3373",
+      "name": "duckbugio",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "duckbugio github profile chatbot Claude",
+        "duckbugio student ambassador AI",
+        "duckbugio campus ambassador AI"
+      ],
+      "searched_queries": [
+        "duckbugio github profile chatbot Claude",
+        "duckbugio student ambassador AI",
+        "duckbugio campus ambassador AI"
+      ],
+      "search_id": "search_d65fb253a99a5170a27cf6b17674ca1e",
+      "results": [
+        {
+          "url": "https://github.com/duckbugio/flock",
+          "title": "GitHub - duckbugio/flock: Autonomous AI dev-team bot · GitHub",
+          "excerpts": [
+            "duckbugio/flock\n\n* Page: GitHub repository\n* URL: https://github.com/duckbugio/flock\n* Description: Autonomous AI dev-te"
+          ]
+        },
+        {
+          "url": "https://ambassador.directory/programs/claude-campus-program",
+          "title": "Claude Campus Program by Anthropic | Ambassador Directory",
+          "excerpts": [
+            "1. Home /\n2. AI & Machine Learning /\n3. Claude Campus Program\nAI & Machine Learning Students\nClaude Campus Program — Ant"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25102",
+      "small_rank": "3374",
+      "name": "filyp",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "filyp github profile NLP OCR",
+        "filyp student ambassador AI",
+        "filyp campus ambassador AI"
+      ],
+      "searched_queries": [
+        "filyp github profile NLP OCR",
+        "filyp student ambassador AI",
+        "filyp campus ambassador AI"
+      ],
+      "search_id": "search_6c3974f6d9abdb3be2bcf93dd4f22299",
+      "results": [
+        {
+          "url": "https://github.com/filyp",
+          "title": "filyp (Filip Sondej) · GitHub",
+          "excerpts": [
+            "User: Filip Sondej (@filyp)\n\n* Page: GitHub user profile\n* URL: https://github.com/filyp\n* Location: Krakow\n* Followers:"
+          ]
+        },
+        {
+          "url": "https://tamids.tamu.edu/student-opportunities/data-science-student-ambassadors",
+          "title": "Data Science Student Ambassadors - TAMIDS",
+          "excerpts": [
+            "[Texas A&M University](https://tamu.edu/)\n\n* \n\nQuicklinks & Search\n\nclose\n\nQuicklinks & Search\n\nSearch Search\n\nQuicklink"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25103",
+      "small_rank": "3375",
+      "name": "fei-aiart",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "fei-aiart github profile computer vision",
+        "fei-aiart student ambassador AI",
+        "fei-aiart campus ambassador AI"
+      ],
+      "searched_queries": [
+        "fei-aiart github profile computer vision",
+        "fei-aiart student ambassador AI",
+        "fei-aiart campus ambassador AI"
+      ],
+      "search_id": "search_fc2c0d50a65930593c5f0af6775d2061",
+      "results": [
+        {
+          "url": "https://github.com/fei-aiart/fei-aiart.github.io",
+          "title": "GitHub - fei-aiart/fei-aiart.github.io · GitHub",
+          "excerpts": [
+            "fei-aiart/fei-aiart.github.io\n\n* Page: GitHub repository\n* URL: https://github.com/fei-aiart/fei-aiart.github.io\n* Defau"
+          ]
+        },
+        {
+          "url": "https://github.com/fei-aiart/fei-aiart.github.io/blob/master/README.md",
+          "title": "fei-aiart.github.io/README.md at master · fei-aiart/fei-aiart.github.io · GitHub",
+          "excerpts": [
+            "fei-aiart/fei-aiart.github.io — README.md\n\n* Page: GitHub code file\n* URL: https://github.com/fei-aiart/fei-aiart.github"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25104",
+      "small_rank": "3376",
+      "name": "PhantomInsights",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "PhantomInsights github profile NLP",
+        "PhantomInsights student ambassador AI",
+        "PhantomInsights campus ambassador AI"
+      ],
+      "searched_queries": [
+        "PhantomInsights github profile NLP",
+        "PhantomInsights student ambassador AI",
+        "PhantomInsights campus ambassador AI"
+      ],
+      "search_id": "search_17dcd519e2398c0c9c0aaec0d58b2fc8",
+      "results": [
+        {
+          "url": "https://github.com/agentphantom",
+          "title": "agentphantom (Mr. Phantom) · GitHub",
+          "excerpts": [
+            "User: Mr. Phantom (@agentphantom)\n\n* Page: GitHub user profile\n* URL: https://github.com/agentphantom\n* Company: @Phanto"
+          ]
+        },
+        {
+          "url": "https://github.com/PhantomInsights/summarizer",
+          "title": "GitHub - PhantomInsights/summarizer: A Reddit bot that summarizes news articles written in Spanish or English. It uses a custom built algorithm to rank words and sentences.",
+          "excerpts": [
+            "\nNavigation Menu\n\nToggle navigation\nSign in\nAppearance settings\nSearch or jump to...\n\nSearch code, repositories, users, "
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25105",
+      "small_rank": "3377",
+      "name": "caserec",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "caserec github profile recommendation systems",
+        "caserec student ambassador AI",
+        "caserec campus ambassador AI"
+      ],
+      "searched_queries": [
+        "caserec github profile recommendation systems",
+        "caserec student ambassador AI",
+        "caserec campus ambassador AI"
+      ],
+      "search_id": "search_9d9032221a55ff635928f38abc127280",
+      "results": [
+        {
+          "url": "https://github.com/caserec",
+          "title": "CaseRec · GitHub",
+          "excerpts": [
+            "Organization: CaseRec (@caserec)\n\n* Page: GitHub organization profile\n* URL: https://github.com/caserec\n* Location: São "
+          ]
+        },
+        {
+          "url": "https://github.com/caserec/CaseRecommender",
+          "title": "GitHub - caserec/CaseRecommender: Case Recommender: A Flexible and Extensible Python Framework for Recommender Systems · GitHub",
+          "excerpts": [
+            "caserec/CaseRecommender\n\n* Page: GitHub repository\n* URL: https://github.com/caserec/CaseRecommender\n* Description: Case"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25106",
+      "small_rank": "3378",
+      "name": "PJLab-ADG",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "PJLab-ADG github profile vision language robotics",
+        "PJLab-ADG student ambassador AI",
+        "PJLab-ADG campus ambassador AI"
+      ],
+      "searched_queries": [
+        "PJLab-ADG github profile vision language robotics",
+        "PJLab-ADG student ambassador AI",
+        "PJLab-ADG campus ambassador AI"
+      ],
+      "search_id": "search_5917e90ecf93da1e59908be306324792",
+      "results": [
+        {
+          "url": "https://github.com/PJLab-ADG",
+          "title": "ADG@PJLab · GitHub",
+          "excerpts": [
+            "Organization: ADG@PJLab (@PJLab-ADG)\n\n* Page: GitHub organization profile\n* URL: https://github.com/PJLab-ADG\n* Location"
+          ]
+        },
+        {
+          "url": "https://github.com/PJLab-ADG/GPT4V-AD-Exploration",
+          "title": "GitHub - PJLab-ADG/GPT4V-AD-Exploration: On the Road with GPT-4V(ision): Explorations of Utilizing Visual-Language Model as Autonomous Driving Agent · GitHub",
+          "excerpts": [
+            "PJLab-ADG/GPT4V-AD-Exploration\n\n* Page: GitHub repository\n* URL: https://github.com/PJLab-ADG/GPT4V-AD-Exploration\n* Des"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25107",
+      "small_rank": "3379",
+      "name": "toddrjones",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "toddrjones github profile dataset",
+        "toddrjones student ambassador AI",
+        "toddrjones campus ambassador AI"
+      ],
+      "searched_queries": [
+        "toddrjones github profile dataset",
+        "toddrjones student ambassador AI",
+        "toddrjones campus ambassador AI"
+      ],
+      "search_id": "search_6e9fa65773cb4f05f286da7c987efb88",
+      "results": [
+        {
+          "url": "https://github.com/toddrjones/datasets",
+          "title": "GitHub - toddrjones/datasets: A collection of free datasets useful for use in applied microeconomics, data visualization, etc. · GitHub",
+          "excerpts": [
+            "toddrjones/datasets\n\n* Page: GitHub repository\n* URL: https://github.com/toddrjones/datasets\n* Description: A collection"
+          ]
+        },
+        {
+          "url": "https://www.toddrjones.com/",
+          "title": " Todd Jones ",
+          "excerpts": [
+            "# Todd Jones\n* Research\n* CV\n* Quick Stata Tips Book\n* Datasets\n* Data Visualization\n* Blog\n* Personal\nI am an Associate"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25108",
+      "small_rank": "3380",
+      "name": "onion-liu",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "onion-liu github profile image generation",
+        "onion-liu student ambassador AI",
+        "onion-liu campus ambassador AI"
+      ],
+      "searched_queries": [
+        "onion-liu github profile image generation",
+        "onion-liu student ambassador AI",
+        "onion-liu campus ambassador AI"
+      ],
+      "search_id": "search_5a31b5ef4440b45f49299191369c351d",
+      "results": [
+        {
+          "url": "https://github.com/onion-liu",
+          "title": "onion-liu (onion) · GitHub",
+          "excerpts": [
+            "User: onion (@onion-liu)\n\n* Page: GitHub user profile\n* URL: https://github.com/onion-liu\n* Company: ByteDance\n* Locatio"
+          ]
+        },
+        {
+          "url": "https://github.com/onion-liu/arxiv_daily_aigc",
+          "title": "GitHub - onion-liu/arxiv_daily_aigc: An AI-driven daily arXiv paper crawler, analyzer, and organizer tool, focusing on AIGC · GitHub",
+          "excerpts": [
+            "onion-liu/arxiv_daily_aigc\n\n* Page: GitHub repository\n* URL: https://github.com/onion-liu/arxiv_daily_aigc\n* Description"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25109",
+      "small_rank": "3381",
+      "name": "alxschwrz",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "alxschwrz github profile image generation OpenAI",
+        "alxschwrz student ambassador AI",
+        "alxschwrz campus ambassador AI"
+      ],
+      "searched_queries": [
+        "alxschwrz github profile image generation OpenAI",
+        "alxschwrz student ambassador AI",
+        "alxschwrz campus ambassador AI"
+      ],
+      "search_id": "search_47efc7c8ab72089706912762caff6053",
+      "results": [
+        {
+          "url": "https://github.com/alxschwrz",
+          "title": "alxschwrz (Alexander) · GitHub",
+          "excerpts": [
+            "User: Alexander (@alxschwrz)\n\n* Page: GitHub user profile\n* URL: https://github.com/alxschwrz\n* Company: NVIDIA\n* Locati"
+          ]
+        },
+        {
+          "url": "https://github.com/alxschwrz/codex_english2python",
+          "title": "GitHub - alxschwrz/codex_english2python: Converts plain english to python code snippets by using OpenAI CODEX.",
+          "excerpts": [
+            "\nNavigation Menu\n\nToggle navigation\nSign in\nAppearance settings\nSearch or jump to...\n\nSearch code, repositories, users, "
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25110",
+      "small_rank": "3382",
+      "name": "andyhuo520",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "andyhuo520 github profile video generation",
+        "andyhuo520 student ambassador AI",
+        "andyhuo520 campus ambassador AI"
+      ],
+      "searched_queries": [
+        "andyhuo520 github profile video generation",
+        "andyhuo520 student ambassador AI",
+        "andyhuo520 campus ambassador AI"
+      ],
+      "search_id": "search_7cdf7124df77c217c0dbdcb5b08107cc",
+      "results": [
+        {
+          "url": "https://github.com/andyhuo520",
+          "title": "andyhuo520 · GitHub",
+          "excerpts": [
+            "User: andyhuo520 (@andyhuo520)\n\n* Page: GitHub user profile\n* URL: https://github.com/andyhuo520\n* Followers: 97\n* Follo"
+          ]
+        },
+        {
+          "url": "https://github.com/andyhuo520/vibe-knowledge/releases",
+          "title": "Releases · andyhuo520/vibe-knowledge · GitHub",
+          "excerpts": [
+            "1. andyhuo520\n2. vibe-knowledge\n\nRepository navigation\n\n* Code\n* Issues\n* Pull requests\n* Actions\n* Projects\n* Security "
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25111",
+      "small_rank": "3383",
+      "name": "OpenLegged",
+      "tier": "small",
+      "category": "robotics",
+      "queries": [
+        "OpenLegged github profile robotics",
+        "OpenLegged student ambassador AI",
+        "OpenLegged campus ambassador AI"
+      ],
+      "searched_queries": [
+        "OpenLegged github profile robotics",
+        "OpenLegged student ambassador AI",
+        "OpenLegged campus ambassador AI"
+      ],
+      "search_id": "search_12331406d80dcee60d5ff4c7975b6c5e",
+      "results": [
+        {
+          "url": "https://github.com/OpenLegged",
+          "title": "OpenLegged · GitHub",
+          "excerpts": [
+            "Organization: OpenLegged (@OpenLegged)\n\n* Page: GitHub organization profile\n* URL: https://github.com/OpenLegged\n* Top l"
+          ]
+        },
+        {
+          "url": "https://github.com/OpenLegged/URDF-Studio",
+          "title": "GitHub - OpenLegged/URDF-Studio: URDF-Studio is a web-based visual URDF robot modeler with 3D workspace, structured skeleton/detail/hardware workflows, motor library integration, MuJoCo export, and AI assistance. · GitHub",
+          "excerpts": [
+            "* AI Assistant : AI-powered robot generation, inspection, and review with PDF/CSV report export\n* Worker-assisted Pipeli"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25112",
+      "small_rank": "3384",
+      "name": "marcuswang6",
+      "tier": "small",
+      "category": "rl",
+      "queries": [
+        "marcuswang6 github profile reinforcement learning",
+        "marcuswang6 student ambassador AI",
+        "marcuswang6 campus ambassador AI"
+      ],
+      "searched_queries": [
+        "marcuswang6 github profile reinforcement learning",
+        "marcuswang6 student ambassador AI",
+        "marcuswang6 campus ambassador AI"
+      ],
+      "search_id": "search_121024493e2a8566b9069249f5ebbef8",
+      "results": [
+        {
+          "url": "https://github.com/marcuswang6",
+          "title": "marcuswang6 (Marcus Wang) · GitHub",
+          "excerpts": [
+            "User: Marcus Wang (@marcuswang6)\n\n* Page: GitHub user profile\n* URL: https://github.com/marcuswang6\n* Location: China\n* "
+          ]
+        },
+        {
+          "url": "https://github.com/marcuswang6/stock-top-papers",
+          "title": "GitHub - marcuswang6/stock-top-papers: Top paper collection for stock price prediction, quantitative trading. Covering top conferences and journals like KDD, WWW, CIKM, AAAI, IJCAI, ACL, EMNLP. · GitHub",
+          "excerpts": [
+            "marcuswang6/stock-top-papers\n\n* Page: GitHub repository\n* URL: https://github.com/marcuswang6/stock-top-papers\n* Descrip"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25113",
+      "small_rank": "3385",
+      "name": "chengxuxin",
+      "tier": "small",
+      "category": "rl",
+      "queries": [
+        "chengxuxin github profile reinforcement learning",
+        "chengxuxin student ambassador AI",
+        "chengxuxin campus ambassador AI"
+      ],
+      "searched_queries": [
+        "chengxuxin github profile reinforcement learning",
+        "chengxuxin student ambassador AI",
+        "chengxuxin campus ambassador AI"
+      ],
+      "search_id": "search_6a063379f77cfdd363deb0269527014f",
+      "results": [
+        {
+          "url": "https://github.com/chengxuxin",
+          "title": "chengxuxin (Xuxin Cheng) · GitHub",
+          "excerpts": [
+            "User: Xuxin Cheng (@chengxuxin)\n\n* Page: GitHub user profile\n* URL: https://github.com/chengxuxin\n* Website: https://che"
+          ]
+        },
+        {
+          "url": "https://github.com/chengxuxin?tab=repositories",
+          "title": "chengxuxin (chengxuxin) / Repositories · GitHub",
+          "excerpts": [
+            "User: Xuxin Cheng (@chengxuxin)\n\n* Page: GitHub user profile\n* URL: https://github.com/chengxuxin\n* Website: http://chen"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25114",
+      "small_rank": "3386",
+      "name": "boshyxd",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "boshyxd github profile AI tools",
+        "boshyxd student ambassador AI",
+        "boshyxd campus ambassador AI"
+      ],
+      "searched_queries": [
+        "boshyxd github profile AI tools",
+        "boshyxd student ambassador AI",
+        "boshyxd campus ambassador AI"
+      ],
+      "search_id": "search_79b4486903dc8e2bf03900c7077df118",
+      "results": [
+        {
+          "url": "https://github.com/boshyxd",
+          "title": "boshyxd (Angus) · GitHub",
+          "excerpts": [
+            "User: Angus (@boshyxd)\n\n* Page: GitHub user profile\n* URL: https://github.com/boshyxd\n* Location: Ottawa, Canada\n* Websi"
+          ]
+        },
+        {
+          "url": "https://github.com/boshyxd/robloxstudio-mcp",
+          "title": "GitHub - boshyxd/robloxstudio-mcp: Create agentic AI workflows in ROBLOX Studio · GitHub",
+          "excerpts": [
+            "boshyxd/robloxstudio-mcp\n\n* Page: GitHub repository\n* URL: https://github.com/boshyxd/robloxstudio-mcp\n* Description: Cr"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25115",
+      "small_rank": "3387",
+      "name": "linxidnju",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "linxidnju github profile Claude",
+        "linxidnju student ambassador AI",
+        "linxidnju campus ambassador AI"
+      ],
+      "searched_queries": [
+        "linxidnju github profile Claude",
+        "linxidnju student ambassador AI",
+        "linxidnju campus ambassador AI"
+      ],
+      "search_id": "search_529c176698f60ba260bd25e914e7d744",
+      "results": [
+        {
+          "url": "https://unibuddy.com/blog/what-is-a-student-ambassador",
+          "title": "What is a Student Ambassador? | Higher Education",
+          "excerpts": [
+            "What is a Student Ambassador? | Higher Education\nA student ambassador is your on-campus advocate who can share their exp"
+          ]
+        },
+        {
+          "url": "https://tamids.tamu.edu/student-opportunities/data-science-student-ambassadors",
+          "title": "Data Science Student Ambassadors - TAMIDS",
+          "excerpts": [
+            "Data Science Student Ambassadors - TAMIDS\nGAI Ambassadors offer drop-in sessions on generative AI tools and connect stud"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25116",
+      "small_rank": "3388",
+      "name": "vectorch-ai",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "vectorch-ai github profile LLM inference",
+        "vectorch-ai student ambassador AI",
+        "vectorch-ai campus ambassador AI"
+      ],
+      "searched_queries": [
+        "vectorch-ai github profile LLM inference",
+        "vectorch-ai student ambassador AI",
+        "vectorch-ai campus ambassador AI"
+      ],
+      "search_id": "search_5a0bfc4e1d8b625e1304a7fda709e277",
+      "results": [
+        {
+          "url": "https://github.com/vectorch-ai",
+          "title": "Vectorch AI · GitHub",
+          "excerpts": [
+            "Organization: Vectorch AI (@vectorch-ai)\n\n* Page: GitHub organization profile\n* URL: https://github.com/vectorch-ai\n* Lo"
+          ]
+        },
+        {
+          "url": "https://github.com/vectorch-ai/ScaleLLM",
+          "title": "GitHub - vectorch-ai/ScaleLLM: A high-performance inference system for large language models, designed for production environments. · GitHub",
+          "excerpts": [
+            "# vectorch-ai/ScaleLLM\n\n- Page: GitHub repository\n- URL: https://github.com/vectorch-ai/ScaleLLM\n- Description: A high-p"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25117",
+      "small_rank": "3389",
+      "name": "dataflint",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "dataflint github profile AI observability",
+        "dataflint student ambassador AI",
+        "dataflint campus ambassador AI"
+      ],
+      "searched_queries": [
+        "dataflint github profile AI observability",
+        "dataflint student ambassador AI",
+        "dataflint campus ambassador AI"
+      ],
+      "search_id": "search_fe3a8a378054520c079c51a605a0d7ac",
+      "results": [
+        {
+          "url": "https://www.dataflint.io/about",
+          "title": "About DataFlint | Production-Aware Apache Spark Intelligence | Our Story",
+          "excerpts": [
+            "* [Product](https://www.dataflint.io/product)\n* [Resources](https://www.dataflint.io/resources)\n* [Community](https://ww"
+          ]
+        },
+        {
+          "url": "https://www.dataflint.io/",
+          "title": "DataFlint - Production-Aware AI Agents for Apache Spark",
+          "excerpts": [
+            "Upcoming Events:\n\n• [Meet DataFlint at Data + AI World Tour Munich, Nov 4, 2026](https://dataaisummit.databricks.com/flo"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25118",
+      "small_rank": "3390",
+      "name": "Pierrad",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "Pierrad github profile chatbot Claude",
+        "Pierrad student ambassador AI",
+        "Pierrad campus ambassador AI"
+      ],
+      "searched_queries": [
+        "Pierrad github profile chatbot Claude",
+        "Pierrad student ambassador AI",
+        "Pierrad campus ambassador AI"
+      ],
+      "search_id": "search_f2c728144a78a4f9339d18812f6ce123",
+      "results": [
+        {
+          "url": "https://www.icanstudent.com/claude-campus-ambassadors-programme-2026-apply",
+          "title": "Claude Campus Ambassadors Programme 2026: Apply for $3,600 Stipend",
+          "excerpts": [
+            "\nClaude Campus Ambassadors Programme 2026: Apply for $3,600 Stipend\n\nApplications are now open for the Claude Campus Amb"
+          ]
+        },
+        {
+          "url": "https://claude.com/programs/campus?fcdaa149_sort_date=desc&lang=de",
+          "title": "Claude Campus program | Claude by Anthropic",
+          "excerpts": [
+            "If you're a STEM or humanities master’s student passionate about ensuring AI has a positive impact on education and soci"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25119",
+      "small_rank": "3391",
+      "name": "keenon",
+      "tier": "small",
+      "category": "robotics",
+      "queries": [
+        "keenon github profile robotics",
+        "keenon student ambassador AI",
+        "keenon campus ambassador AI"
+      ],
+      "searched_queries": [
+        "keenon github profile robotics",
+        "keenon student ambassador AI",
+        "keenon campus ambassador AI"
+      ],
+      "search_id": "search_c2305a07274ea4919059003dc639416a",
+      "results": [
+        {
+          "url": "https://github.com/keenon",
+          "title": "keenon (Keenon Werling) · GitHub",
+          "excerpts": [
+            "User: Keenon Werling (@keenon)\n\n* Page: GitHub user profile\n* URL: https://github.com/keenon\n* Location: Stanford\n* Webs"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/company/keenonrobotics",
+          "title": "KEENON Robotics | LinkedIn",
+          "excerpts": [
+            "* Learning\n* Jobs\n* Games\n* Get the app\nSign in Join now \nKEENON Robotics’ cover photo\n\nKEENON Robotics\n\nAutomation Mach"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25120",
+      "small_rank": "3392",
+      "name": "MAPIRlab",
+      "tier": "small",
+      "category": "robotics",
+      "queries": [
+        "MAPIRlab github profile robotics lab",
+        "MAPIRlab student ambassador AI",
+        "MAPIRlab campus ambassador AI"
+      ],
+      "searched_queries": [
+        "MAPIRlab github profile robotics lab",
+        "MAPIRlab student ambassador AI",
+        "MAPIRlab campus ambassador AI"
+      ],
+      "search_id": "search_a02d0e36a7f4c1ebef50008946488d48",
+      "results": [
+        {
+          "url": "https://github.com/MAPIRlab",
+          "title": "MAchine Perception and Intelligent Robotics (MAPIR) research group. · GitHub",
+          "excerpts": [
+            "Organization: MAchine Perception and Intelligent Robotics (MAPIR) research group. (@MAPIRlab)\n\n* Page: GitHub organizati"
+          ]
+        },
+        {
+          "url": "https://github.com/MAPIRlab/rlrobot",
+          "title": "GitHub - MAPIRlab/rlrobot: Reinforcement learning framework for robotics · GitHub",
+          "excerpts": [
+            "MAPIRlab/rlrobot\n\n* Page: GitHub repository\n* URL: https://github.com/MAPIRlab/rlrobot\n* Description: Reinforcement lear"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25121",
+      "small_rank": "3393",
+      "name": "ClementPerroud",
+      "tier": "small",
+      "category": "rl",
+      "queries": [
+        "ClementPerroud github profile reinforcement learning",
+        "ClementPerroud student ambassador AI",
+        "ClementPerroud campus ambassador AI"
+      ],
+      "searched_queries": [
+        "ClementPerroud github profile reinforcement learning",
+        "ClementPerroud student ambassador AI",
+        "ClementPerroud campus ambassador AI"
+      ],
+      "search_id": "search_1f762fcfeb8bc2f518a9c8942898c7db",
+      "results": [
+        {
+          "url": "https://github.com/ClementPerroud",
+          "title": "ClementPerroud (Clément Perroud) · GitHub",
+          "excerpts": [
+            "User: Clément Perroud (@ClementPerroud)\n\n* Page: GitHub user profile\n* URL: https://github.com/ClementPerroud\n* Follower"
+          ]
+        },
+        {
+          "url": "https://github.com/ClementPerroud/Gym-Trading-Env",
+          "title": "GitHub - ClementPerroud/Gym-Trading-Env: A  simple, easy, customizable Gymnasium environment for trading. · GitHub",
+          "excerpts": [
+            "ClementPerroud/Gym-Trading-Env\n\n* Page: GitHub repository\n* URL: https://github.com/ClementPerroud/Gym-Trading-Env\n* Des"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25122",
+      "small_rank": "3394",
+      "name": "Gladiator07",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "Gladiator07 github profile computer vision",
+        "Gladiator07 student ambassador AI",
+        "Gladiator07 campus ambassador AI"
+      ],
+      "searched_queries": [
+        "Gladiator07 github profile computer vision",
+        "Gladiator07 student ambassador AI",
+        "Gladiator07 campus ambassador AI"
+      ],
+      "search_id": "search_d0a091540c9960c24bd4f58fc91df0b9",
+      "results": [
+        {
+          "url": "https://github.com/Gladiator07",
+          "title": "Gladiator07 (Atharva Ingle) · GitHub",
+          "excerpts": [
+            "User: Atharva Ingle (@Gladiator07)\n\n* Page: GitHub user profile\n* URL: https://github.com/Gladiator07\n* Company: E2E Net"
+          ]
+        },
+        {
+          "url": "https://gist.github.com/Gladiator07?direction=asc&sort=created",
+          "title": "Gladiator07’s gists · GitHub",
+          "excerpts": [
+            "Search Gists Search Gists\nAll gists Back to GitHub Sign in Sign up\nSign in Sign up\nInstantly share code, notes, and snip"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25123",
+      "small_rank": "3395",
+      "name": "aerovato",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "aerovato github profile Claude OpenAI",
+        "aerovato student ambassador AI",
+        "aerovato campus ambassador AI"
+      ],
+      "searched_queries": [
+        "aerovato github profile Claude OpenAI",
+        "aerovato student ambassador AI",
+        "aerovato campus ambassador AI"
+      ],
+      "search_id": "search_6825e9634a08b2c0926f65b0c9a14769",
+      "results": [
+        {
+          "url": "https://github.com/aerovato",
+          "title": "Aerovato Research · GitHub",
+          "excerpts": [
+            "Organization: Aerovato Research (@aerovato)\n\n* Page: GitHub organization profile\n* URL: https://github.com/aerovato\n* Li"
+          ]
+        },
+        {
+          "url": "https://api.github.com/repos/aerovato/magic-compact",
+          "title": "https://api.github.com/repos/aerovato/magic-compact",
+          "excerpts": [
+            "\"followers_url\": \"https://api.github.com/users/aerovato/followers\", \"following_url\": \"https://api.github.com/users/aerov"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25124",
+      "small_rank": "3396",
+      "name": "FirasGit",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "FirasGit github profile diffusion models",
+        "FirasGit student ambassador AI",
+        "FirasGit campus ambassador AI"
+      ],
+      "searched_queries": [
+        "FirasGit github profile diffusion models",
+        "FirasGit student ambassador AI",
+        "FirasGit campus ambassador AI"
+      ],
+      "search_id": "search_7e34e53b9700d5a005a9b32ceda0834d",
+      "results": [
+        {
+          "url": "https://github.com/FirasGit",
+          "title": "FirasGit (Firas) · GitHub",
+          "excerpts": [
+            "User: Firas (@FirasGit)\n\n* Page: GitHub user profile\n* URL: https://github.com/FirasGit\n* Company: RWTH Aachen Universit"
+          ]
+        },
+        {
+          "url": "https://github.com/FirasGit/medicaldiffusion",
+          "title": "GitHub - FirasGit/medicaldiffusion: Medical Diffusion: This repository contains the code to our paper Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Synthesis · GitHub",
+          "excerpts": [
+            "FirasGit/medicaldiffusion\n\n* Page: GitHub repository\n* URL: https://github.com/FirasGit/medicaldiffusion\n* Description: "
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25125",
+      "small_rank": "3397",
+      "name": "diffusion-classifier",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "diffusion-classifier github profile computer vision diffusion",
+        "diffusion-classifier student ambassador AI",
+        "diffusion-classifier campus ambassador AI"
+      ],
+      "searched_queries": [
+        "diffusion-classifier github profile computer vision diffusion",
+        "diffusion-classifier student ambassador AI",
+        "diffusion-classifier campus ambassador AI"
+      ],
+      "search_id": "search_641aaced9ed255e737210a7015fff743",
+      "results": [
+        {
+          "url": "https://github.com/diffusion-classifier/diffusion-classifier",
+          "title": "GitHub - diffusion-classifier/diffusion-classifier: Diffusion Classifier leverages pretrained diffusion models to perform zero-shot classification without additional training · GitHub",
+          "excerpts": [
+            "diffusion-classifier/diffusion-classifier\n\n* Page: GitHub repository\n* URL: https://github.com/diffusion-classifier/diff"
+          ]
+        },
+        {
+          "url": "https://tamids.tamu.edu/student-opportunities/data-science-student-ambassadors",
+          "title": "Data Science Student Ambassadors - TAMIDS",
+          "excerpts": [
+            "[Texas A&M University](https://tamu.edu/)\n\n* \n\nQuicklinks & Search\n\nclose\n\nQuicklinks & Search\n\nSearch Search\n\nQuicklink"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25126",
+      "small_rank": "3398",
+      "name": "ximinng",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "ximinng github profile diffusion chatbot",
+        "ximinng student ambassador AI",
+        "ximinng campus ambassador AI"
+      ],
+      "searched_queries": [
+        "ximinng github profile diffusion chatbot",
+        "ximinng student ambassador AI",
+        "ximinng campus ambassador AI"
+      ],
+      "search_id": "search_b355d861adb85f139ff6b14f27c56151",
+      "results": [
+        {
+          "url": "https://github.com/ximinng",
+          "title": "ximinng (Ximing Xing) · GitHub",
+          "excerpts": [
+            "User: Ximing Xing (@ximinng)\n\n* Page: GitHub user profile\n* URL: https://github.com/ximinng\n* Location: Beijing, China\n*"
+          ]
+        },
+        {
+          "url": "https://github.com/ximinng/SVGFusion",
+          "title": "GitHub - ximinng/SVGFusion: Official implementation for \"SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion\" https://arxiv.org/abs/2412.10437 · GitHub",
+          "excerpts": [
+            "ximinng/SVGFusion\n\n* Page: GitHub repository\n* URL: https://github.com/ximinng/SVGFusion\n* Description: Official impleme"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25127",
+      "small_rank": "3399",
+      "name": "GlitterKill",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "GlitterKill github profile vector database",
+        "GlitterKill student ambassador AI",
+        "GlitterKill campus ambassador AI"
+      ],
+      "searched_queries": [
+        "GlitterKill github profile vector database",
+        "GlitterKill student ambassador AI",
+        "GlitterKill campus ambassador AI"
+      ],
+      "search_id": "search_8240fcf7caaad41736818bbe59d6f5ef",
+      "results": [
+        {
+          "url": "https://github.com/GlitterKill",
+          "title": "Gary Mullins GlitterKill - GitHub",
+          "excerpts": [
+            "User: GlitterKill (@GlitterKill)\n\n* Page: GitHub user profile\n* URL: https://github.com/GlitterKill\n* Followers: 4\n* Fol"
+          ]
+        },
+        {
+          "url": "http://github.itlym.cn/GlitterKill/sdl-mcp",
+          "title": "GitHub - GlitterKill/sdl-mcp: Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence combined with precision tools.  It turns sprawling codebases into compact, high-signal context that saves tokens, speeds up workflows, and improves agent output. · GitHub",
+          "excerpts": [
+            "semantic-analysis token-savings tree-sitter vector-database vibe-coding\n\nResources\n\nReadme\nLicense\nActivity\n\nStars\n\n497 "
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    },
+    {
+      "census_row": "25128",
+      "small_rank": "3400",
+      "name": "THU-SI",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "THU-SI github profile multimodal video generation",
+        "THU-SI student ambassador AI",
+        "THU-SI campus ambassador AI"
+      ],
+      "searched_queries": [
+        "THU-SI github profile multimodal video generation",
+        "THU-SI student ambassador AI",
+        "THU-SI campus ambassador AI"
+      ],
+      "search_id": "search_f9535c9189b201f930018c2a8349c2b3",
+      "results": [
+        {
+          "url": "https://github.com/THUSI-Lab",
+          "title": "Tsinghua Spatial Intelligence Lab (THUSI Lab) · GitHub",
+          "excerpts": [
+            "Organization: Tsinghua Spatial Intelligence Lab (THUSI Lab) (@THUSI-Lab)\n\n* Page: GitHub organization profile\n* URL: htt"
+          ]
+        },
+        {
+          "url": "https://github.com/thu-ml",
+          "title": "TSAIL group · GitHub",
+          "excerpts": [
+            "Organization: TSAIL group (@thu-ml)\n\n* Page: GitHub organization profile\n* URL: https://github.com/thu-ml\n* Location: FI"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Bounded search results are leads only; no official student-leader route established."
+    }
+  ]
+}

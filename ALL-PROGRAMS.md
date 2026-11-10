@@ -1,5 +1,8 @@
 # All programs discovered
 
+
+> Historical snapshot: This program list is an earlier 5 November snapshot. Its counts and status labels do not describe the current follow-up archive. The current worldwide follow-up research is indexed in [README.md](README.md) and [research/2026-11-09/README.md](research/2026-11-09/README.md). Recheck organizer sources before applying.
+
 206 rows, 5 November 2026.
 
 ## OPEN (99)

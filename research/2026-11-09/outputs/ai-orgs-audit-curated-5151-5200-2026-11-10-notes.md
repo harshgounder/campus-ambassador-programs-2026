@@ -1,0 +1,9 @@
+# Audit notes: census rows 5151–5200
+
+- Coverage: 50 consecutive source rows from `census-search-ledger-2026-11-09.csv`; row number, exact name, tier and category were retained and checked against source positions.
+- Method: bounded screen for exact-entity, organizer-owned student/campus/community ambassador, advocate, champion, fellow, chapter or representative intake. Primary-source evidence of identity/ownership was required. Third-party program directories and unlinked program references were discovery leads only.
+- No exact-entity student-leader intake was confirmed. Several programs are genuine but are separate from the census entry or have no proven link: BugV student ambassadors (`bug0inc`); RISC-V ambassadors (`logicalclocks`); Ampere ambassadors (`amElnagdy`); Claude/Claude Builder Club (`AI-Builder-Club`); Google Student Ambassador/GDG on Campus (`vietnh1009`); UNIC student ambassadors (`senlinuc`); and Edge Impulse student/campus programs (`ENTERPILOT`).
+- Qualcomm’s official program describes community and student ambassador tracks, worldwide availability subject to restricted-country and other terms, and an application/intake process. This is not attributed to census handle `anc95` absent affiliation evidence. Edge Impulse’s official 2026 cohort announcement says four ambassadors had already been selected in Jan 2026; that separate program is not attributed to `ENTERPILOT`.
+- Adjacent university student ambassador positions, access/student programs, competitions, internships and broad community/contributor routes were excluded unless they were an organizer-owned representative intake for the exact census entity.
+- Date/geography: the CSV states the 2026-11-09 cutoff assessment separately from the 2026-11-10 current check. Undated/current observations are not backdated. India/MUJ eligibility is not inferred.
+- No X MCP, contact, form, application or submission was used. Bounded screening does not prove absence.

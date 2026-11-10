@@ -1,0 +1,12 @@
+# Small-tier AI census audit: ranks 2251–2300
+
+- Research date: 2026-11-10. The requested cutoff was assessed separately as 2026-11-09.
+- Scope: exact-name screening of 50 census-listed GitHub handles for student/campus representative, advocate, chapter, community lead, fellowship, creator, educator, and related AI routes. Adjacent technical contribution routes were not treated as representative opportunities.
+- Query coverage: 50 distinct Parallel web-search calls, with 3 distinct queries per exact entity (150 query variations). All calls returned results without an error or throttle warning. Results were screened for exact entity attribution; unrelated generic AI ambassador listings and namesakes were excluded.
+- Positive exact-entity lead: Busabase's official partner page offers an affiliate program for creators, newsletter authors, community leaders, and educators/trainers; it also describes solution and technology partner tracks. The page was live in the Nov 10 observation and does not establish availability on Nov 9, 2026. It is not specifically a student program. Follow-up page: https://busabase.com/es/partners.
+- Other 49 entities: no exact-entity official qualifying student/representative/community/creator route was confirmed in this bounded screen. Search results that listed unrelated ambassador programs were excluded.
+- Cutoff: no dated official evidence establishes a qualifying route open on 2026-11-09 for any row; Busabase's current page does not establish prior-day status.
+- India eligibility: unknown unless explicitly stated by an attributable opportunity source. No eligibility is inferred from silence; no qualifying lead was confirmed as India-eligible.
+- Dedupe: scanned prior small/curated audit CSVs and priority/verification CSVs for exact-name overlap. Possible exact-name overlaps are flagged in the audit but do not establish duplicate opportunity evidence. Source census row, name, tier, category, and rank are retained from the ledger.
+- Limits: this is a bounded exact-entity public-web screen, not a global absence determination. Search excerpts were screened; only the positive Busabase page was followed up. Unindexed, private, renamed, differently named parent, local-language and changed routes may be missed. India eligibility and cutoff status remain unknown unless the source says otherwise.
+- No X MCP, forms, account creation, applications, joins, or outreach were used.

@@ -1,0 +1,1327 @@
+{
+  "scope": "AI-first small-tier census screening; ranks 2551-2600",
+  "discovery_date": "2026-11-10",
+  "cutoff_date": "2026-11-09",
+  "provider": "Parallel web_search",
+  "call_count": 50,
+  "query_count": 150,
+  "compaction": "Top two results per call; title, URL, excerpt clipped to about 180 characters, and available publish date.",
+  "calls": [
+    {
+      "small_rank": 2551,
+      "census_row": "24279",
+      "name": "ucinlp",
+      "queries": [
+        "ucinlp AI program official",
+        "ucinlp student ambassador AI",
+        "ucinlp AI fellowship community"
+      ],
+      "search_id": "search_ce3a32d18fc13f1440d341e7df9d73ad",
+      "error": null,
+      "results": [
+        {
+          "title": "UCI NLP · GitHub",
+          "url": "https://github.com/ucinlp",
+          "excerpt": "# Organization: UCI NLP (@ucinlp)\n\n- Page: GitHub organization profile\n- URL: https://github.com/ucinlp\n- Top languages: Python, Jupyter Notebook\n\n## Repositories\n\n- [ucinlp/autopr",
+          "publish_date": null
+        },
+        {
+          "title": "UCI NLP · GitHub",
+          "url": "http://github.itlym.cn/ucinlp",
+          "excerpt": "@ucinlp\n\nUCI NLP\n\n* Overview\n* Repositories\n* Projects\n* Packages\n* People\n\nPinned Loading\n\n1. autoprompt autoprompt Public\nAutoPrompt: Automatic Prompt Construction for Masked Lan",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2552,
+      "census_row": "24280",
+      "name": "Azzedde",
+      "queries": [
+        "Azzedde AI program official",
+        "Azzedde student ambassador AI",
+        "Azzedde AI fellowship community"
+      ],
+      "search_id": "search_d0b8660c2d2144801d8ef85836c2b44a",
+      "error": null,
+      "results": [
+        {
+          "title": "Azzedde (AIT SAID Azzedine Idir) · GitHub",
+          "url": "https://github.com/Azzedde",
+          "excerpt": "User: AIT SAID Azzedine Idir (@Azzedde)\n\n* Page: GitHub user profile\n* URL: https://github.com/Azzedde\n* Location: Ile-de-France\n* Followers: 163\n* Following: 16\n* Links: https://t",
+          "publish_date": null
+        },
+        {
+          "title": "Azzedde (Aitsaid Azzedine Idir) · GitHub",
+          "url": "https://github.com/azzedde",
+          "excerpt": "User: Aitsaid Azzedine Idir (@azzedde)\n\n* Page: GitHub user profile\n* URL: https://github.com/azzedde\n* Location: Ile-de-France\n* Followers: 158\n* Following: 16\n* Links: https://tw",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2553,
+      "census_row": "24281",
+      "name": "minhnv0807",
+      "queries": [
+        "minhnv0807 AI program official",
+        "minhnv0807 student ambassador AI",
+        "minhnv0807 AI fellowship community"
+      ],
+      "search_id": "search_5b99b07d016bb43ca9c7d3ab07c0e94e",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - minhnv0807/ai-business-skills: 138 bilingual AI marketing skills (69 VN + 69 Global) for Claude Code, OpenCode, Codex, VS Code. Four role SOP packs — content, design, performance, leader ops — plus strategy, personal brand, AI avatar, dropshipping, design master, knowledge library. 4 regions (US/EU/SEA/LATAM) + Vietnam 2025-2026. Companion: opa-kit. · GitHub",
+          "url": "https://github.com/minhnv0807/ai-business-skills",
+          "excerpt": "# minhnv0807/ai-business-skills\n\n- Page: GitHub repository\n- URL: https://github.com/minhnv0807/ai-business-skills\n- Description: 138 bilingual AI marketing skills (69 VN + 69 Glob",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - minhnv0807/minhnv0807: GitHub profile README · GitHub",
+          "url": "https://github.com/minhnv0807/minhnv0807",
+          "excerpt": "minhnv0807/minhnv0807\n\n* Page: GitHub repository\n* URL: https://github.com/minhnv0807/minhnv0807\n* Description: GitHub profile README\n* Default branch: main\n* Created: 2026-06-06T1",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2554,
+      "census_row": "24282",
+      "name": "AnacletoLAB",
+      "queries": [
+        "AnacletoLAB AI program official",
+        "AnacletoLAB student ambassador AI",
+        "AnacletoLAB AI fellowship community"
+      ],
+      "search_id": "search_6985c7fd939a39269bfc3b99eb67fd37",
+      "error": null,
+      "results": [
+        {
+          "title": "AnacletoLab · GitHub",
+          "url": "https://github.com/AnacletoLAB",
+          "excerpt": "Organization: AnacletoLab (@AnacletoLAB)\n\n* Page: GitHub organization profile\n* URL: https://github.com/AnacletoLAB\n* Location: Milano, Italy\n* Website: https://anacletolab.di.unim",
+          "publish_date": null
+        },
+        {
+          "title": "AnacletoLAB - projects",
+          "url": "https://anacletolab.di.unimi.it/projects",
+          "excerpt": "AnacletoLAB\n\nCollaborations\n\nAnacletoLAB collaborates with several research groups in Computational Biology, Medicine and Molecular Biology in Europe and in the United States, as w",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2555,
+      "census_row": "24283",
+      "name": "GURPREETKAURJETHRA",
+      "queries": [
+        "GURPREETKAURJETHRA AI program official",
+        "GURPREETKAURJETHRA student ambassador AI",
+        "GURPREETKAURJETHRA AI fellowship community"
+      ],
+      "search_id": "search_820e2e7cb8ac51c86ff33b563cc51bfa",
+      "error": null,
+      "results": [
+        {
+          "title": "GURPREETKAURJETHRA (Gurpreet Kaur) · GitHub",
+          "url": "https://github.com/GURPREETKAURJETHRA",
+          "excerpt": "User: Gurpreet Kaur (@GURPREETKAURJETHRA)\n\n* Page: GitHub user profile\n* URL: https://github.com/GURPREETKAURJETHRA\n* Company: IIM-A\n* Location: Ahmedabad, Gujarat\n* Followers: 413",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - GURPREETKAURJETHRA/Generative-AI-for-beginners: 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+          "url": "https://github.com/GURPREETKAURJETHRA/Generative-AI-for-beginners",
+          "excerpt": "Learn the fundamentals of building Generative AI applications with our 12-lesson comprehensive course by Microsoft Cloud Advocates. Each lesson covers a key aspect of Generative AI",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2556,
+      "census_row": "24284",
+      "name": "SaarthurR",
+      "queries": [
+        "SaarthurR AI program official",
+        "SaarthurR student ambassador AI",
+        "SaarthurR AI fellowship community"
+      ],
+      "search_id": "search_37d8673454c931348be5d7e0d7fc12e5",
+      "error": null,
+      "results": [
+        {
+          "title": "SaarthurR · GitHub",
+          "url": "https://github.com/SaarthurR",
+          "excerpt": "User: SaarthurR (@SaarthurR)\n\n* Page: GitHub user profile\n* URL: https://github.com/SaarthurR\n* Location: California\n* Website: https://saarthranka.com\n* Followers: 9\n* Following: ",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - SaarthurR/atticus-mac: Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk. · GitHub",
+          "url": "https://github.com/SaarthurR/atticus-mac",
+          "excerpt": "Needs macOS 26 and an AI client: Claude Code on a Claude plan, Devin, Pi or a local model. Full install steps\n\n## What it does\n\n* **Learns.** Ask for something new once and it work",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2557,
+      "census_row": "24285",
+      "name": "sandbaseai",
+      "queries": [
+        "sandbaseai AI program official",
+        "sandbaseai student ambassador AI",
+        "sandbaseai AI fellowship community"
+      ],
+      "search_id": "search_0f1bab9963c23cdd454ffbcdbb272631",
+      "error": null,
+      "results": [
+        {
+          "title": "SandBase · GitHub",
+          "url": "https://github.com/sandbaseai",
+          "excerpt": "Organization: SandBase (@sandbaseai)\n\n* Page: GitHub organization profile\n* URL: https://github.com/sandbaseai\n* Website: https://www.sandbase.ai\n* Links: https://twitter.com/Sandb",
+          "publish_date": null
+        },
+        {
+          "title": "Community — SandBase | The Cloudflare for Agents",
+          "url": "https://www.sandbase.ai/community",
+          "excerpt": "API Free Week Hundreds of APIs are free to call this week. Browse free APIs\nSandBase\nExplore\nAgents Sandbox\nSolutions\nLab Free Docs Pricing\n Sign in Start building\nMenu\n1. Home\n2. ",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2558,
+      "census_row": "24286",
+      "name": "GenielabsOpenSource",
+      "queries": [
+        "GenielabsOpenSource AI program official",
+        "GenielabsOpenSource student ambassador AI",
+        "GenielabsOpenSource AI fellowship community"
+      ],
+      "search_id": "search_85083c05ed79606f8190f9ad218bac10",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - GenielabsOpenSource/spine-animation-ai: AI-powered Claude skill for Spine 2D skeletal animation — auto-rig, animate, and preview characters · GitHub",
+          "url": "https://github.com/GenielabsOpenSource/spine-animation-ai",
+          "excerpt": "# GenielabsOpenSource/spine-animation-ai\n\n- Page: GitHub repository\n- URL: https://github.com/GenielabsOpenSource/spine-animation-ai\n- Description: AI-powered Claude skill for Spin",
+          "publish_date": null
+        },
+        {
+          "title": "GenielabsOpenSource · GitHub",
+          "url": "https://github.com/GenielabsOpenSource",
+          "excerpt": "Organization: GenielabsOpenSource (@GenielabsOpenSource)\n\n* Page: GitHub organization profile\n* URL: https://github.com/GenielabsOpenSource\n* Top languages: Python\n* Top topics: ai",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2559,
+      "census_row": "24287",
+      "name": "Arvincreator",
+      "queries": [
+        "Arvincreator AI program official",
+        "Arvincreator student ambassador AI",
+        "Arvincreator AI fellowship community"
+      ],
+      "search_id": "search_4fb072dbb6ee5f41327c865cc85ddec8",
+      "error": null,
+      "results": [
+        {
+          "title": "Arvincreator · GitHub",
+          "url": "https://github.com/Arvincreator",
+          "excerpt": "User: Arvincreator (@Arvincreator)\n\n* Page: GitHub user profile\n* URL: https://github.com/Arvincreator\n* Followers: 15\n* Following: 9\n* Top languages: Python, JavaScript, TypeScrip",
+          "publish_date": null
+        },
+        {
+          "title": "Issues · Arvincreator/project-golem · GitHub",
+          "url": "https://github.com/Arvincreator/project-golem/issues",
+          "excerpt": "\nNavigation Menu\n\nToggle navigation\nSign in\nAppearance settings\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n\nSign in\nSign up\nAppearance setting",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2560,
+      "census_row": "24288",
+      "name": "BotLibre",
+      "queries": [
+        "BotLibre AI program official",
+        "BotLibre student ambassador AI",
+        "BotLibre AI fellowship community"
+      ],
+      "search_id": "search_7c692dc7bda8fbf57f611bdc755cc580",
+      "error": null,
+      "results": [
+        {
+          "title": "October 2025 | Join a free hands-on ChatBot workshop to explore conversational AI, design your own bot, and reflect - University of Wolverhampton",
+          "url": "https://www.wlv.ac.uk/current-students/news/october-2025/join-a-free-hands-on-chatbot-workshop-to-explore-conversational-ai-design-your-own-bot-and-reflect.php",
+          "excerpt": "Enquiry\n* Talk to an ambassador\n* WLV Gym\n* \n\nWLV Gym\n\n    [Overview access](https://www.wlv.ac.uk/university-life/wlv-gym/ \"Overview WLV Gym\")\n* Opening Times\n* Facilities\n* Stude",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - BotLibre/BotLibre: An open platform for artificial intelligence, chat bots, virtual agents, social media automation, and live chat automation. · GitHub",
+          "url": "https://github.com/BotLibre/BotLibre",
+          "excerpt": "BotLibre/BotLibre\n\n* Page: GitHub repository\n* URL: https://github.com/BotLibre/BotLibre\n* Description: An open platform for artificial intelligence, chat bots, virtual agents, soc",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2561,
+      "census_row": "24289",
+      "name": "valkia",
+      "queries": [
+        "valkia AI program official",
+        "valkia student ambassador AI",
+        "valkia AI fellowship community"
+      ],
+      "search_id": "search_69f3bcc373bc35f31cc60769f679b041",
+      "error": null,
+      "results": [
+        {
+          "title": "valkia · GitHub",
+          "url": "https://github.com/valkia",
+          "excerpt": "User: valkia (@valkia)\n\n* Page: GitHub user profile\n* URL: https://github.com/valkia\n* Followers: 1 follower\n* Following: 0\n* Top languages: TypeScript, Go, JavaScript, Vue\n\nPinned",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2562,
+      "census_row": "24290",
+      "name": "jiangxiluning",
+      "queries": [
+        "jiangxiluning AI program official",
+        "jiangxiluning student ambassador AI",
+        "jiangxiluning AI fellowship community"
+      ],
+      "search_id": "search_6d80061d920ee9ab0ba3b0ba2664bda9",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - jiangxiluning/CER-VIR · GitHub",
+          "url": "https://github.com/jiangxiluning/CER-VIR",
+          "excerpt": "jiangxiluning/CER-VIR\n\n* Page: GitHub repository\n* URL: https://github.com/jiangxiluning/CER-VIR\n* Stars: 3\n* Forks: 0\n* Default branch: main\n* Created: 2022-10-26T09:00:55.000Z\n* ",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2563,
+      "census_row": "24291",
+      "name": "krisyangdev",
+      "queries": [
+        "krisyangdev AI program official",
+        "krisyangdev student ambassador AI",
+        "krisyangdev AI fellowship community"
+      ],
+      "search_id": "search_7ec0ee0f9c8f59587a940059d4aa4584",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        },
+        {
+          "title": "Campus Ambassador Program 2026 | KriyagniAI",
+          "url": "https://www.kriyagniai.com/campus-ambassador",
+          "excerpt": "KriyagniAI\nSolutions\nWhy Mandana How it works FAQs Pricing\nSign in\nCampus Ambassador Program 2026\n\nThink better. Lead better.\n\nJoin a network of student leaders bringing AI, creati",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2564,
+      "census_row": "24292",
+      "name": "SixHq",
+      "queries": [
+        "SixHq AI program official",
+        "SixHq student ambassador AI",
+        "SixHq AI fellowship community"
+      ],
+      "search_id": "search_c2fe74b6d1f90a3effb23766dd046122",
+      "error": null,
+      "results": [
+        {
+          "title": "SixHq (Sixth) · GitHub",
+          "url": "https://github.com/SixHq",
+          "excerpt": "User: Sixth (@SixHq)\n\n* Page: GitHub user profile\n* URL: https://github.com/SixHq\n* Website: https://trysixth.com\n* Followers: 81\n* Following: 0\n* Links: https://trysixth.com, http",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - SixHq/Claude-Opus-4.6-GPT-5.3-Gemini-3.0-ChatGPT-Copilot-Cursor-AI.... · GitHub",
+          "url": "https://github.com/SixHq/Claude-Opus-4.6-GPT-5.3-Gemini-3.0-ChatGPT-Copilot-Cursor-AI....",
+          "excerpt": "SixHq/Claude-Opus-4.6-GPT-5.3-Gemini-3.0-ChatGPT-Copilot-Cursor-AI....\n\n* Page: GitHub repository\n* URL: https://github.com/SixHq/Claude-Opus-4.6-GPT-5.3-Gemini-3.0-ChatGPT-Copilot",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2565,
+      "census_row": "24293",
+      "name": "lemma-work",
+      "queries": [
+        "lemma-work AI program official",
+        "lemma-work student ambassador AI",
+        "lemma-work AI fellowship community"
+      ],
+      "search_id": "search_ed84e910a00ee0544f1bd71f0b8d4688",
+      "error": null,
+      "results": [
+        {
+          "title": "lemma-work · GitHub",
+          "url": "https://github.com/lemma-work",
+          "excerpt": "Organization: Lemma (@lemma-work)\n\n* Page: GitHub organization profile\n* URL: https://github.com/lemma-work\n* Website: https://lemma.work\n* Top languages: Python\n\nRepositories\n\n* l",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - lemma-work/lemma-platform: Multiplayer harness that shapes around your work. Agents, apps and workflows your team shares, used from Slack, Telegram, WhatsApp, Teams, Email, Web or your own AI agent. · GitHub",
+          "url": "https://github.com/lemma-work/lemma-platform",
+          "excerpt": "lemma-work/lemma-platform\n\n* Page: GitHub repository\n* URL: https://github.com/lemma-work/lemma-platform\n* Description: Multiplayer harness that shapes around your work. Agents, ap",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2566,
+      "census_row": "24294",
+      "name": "youichi-uda",
+      "queries": [
+        "youichi-uda AI program official",
+        "youichi-uda student ambassador AI",
+        "youichi-uda AI fellowship community"
+      ],
+      "search_id": "search_d29ae94394562f18916ad21d8c817976",
+      "error": null,
+      "results": [
+        {
+          "title": "youichi-uda (youichi uda) · GitHub",
+          "url": "https://github.com/youichi-uda",
+          "excerpt": "User: youichi uda (@youichi-uda)\n\n* Page: GitHub user profile\n* URL: https://github.com/youichi-uda\n* Followers: 26\n* Following: 5\n* Top languages: GDScript, C#, Lua, Python, Go, K",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - youichi-uda/droidpilot: Stable Android device automation for AI agents. Uses Accessibility Service + MCP protocol — no ADB, no OCR, just native OS APIs over WiFi. · GitHub",
+          "url": "https://github.com/youichi-uda/droidpilot",
+          "excerpt": "# youichi-uda/droidpilot\n\n- Page: GitHub repository\n- URL: https://github.com/youichi-uda/droidpilot\n- Description: Stable Android device automation for AI agents.\n\n...\n\n**Stable A",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2567,
+      "census_row": "24295",
+      "name": "DanRuta",
+      "queries": [
+        "DanRuta AI program official",
+        "DanRuta student ambassador AI",
+        "DanRuta AI fellowship community"
+      ],
+      "search_id": "search_2a5388cc6cbeabc1795307fab66c1de7",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - DanRuta/WebSight: Aiding the visually impaired through real time augmented reality, AI object detection, WebGL shaders effects such as edge detection, and colour adjustments. · GitHub",
+          "url": "https://github.com/DanRuta/WebSight",
+          "excerpt": "# DanRuta/WebSight\n\n- Page: GitHub repository\n- URL: https://github.com/DanRuta/WebSight\n- Description: Aiding the visually impaired through real time augmented reality, AI object ",
+          "publish_date": null
+        },
+        {
+          "title": "DanRuta (Dan Ruta) · GitHub",
+          "url": "https://github.com/DanRuta",
+          "excerpt": "User: Dan Ruta (@DanRuta)\n\n* Page: GitHub user profile\n* URL: https://github.com/DanRuta\n* Company: ML Research Scientist @ Disney\n* Website: https://danruta.co.uk\n* Followers: 129",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2568,
+      "census_row": "24296",
+      "name": "vincen-github",
+      "queries": [
+        "vincen-github AI program official",
+        "vincen-github student ambassador AI",
+        "vincen-github AI fellowship community"
+      ],
+      "search_id": "search_069bde7061a3ae241a7f0fc3530008cd",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - vincen-github/DM: Official implementation of Distribution Matching for Self-Supervised Transfer Learning (DM). · GitHub",
+          "url": "https://github.com/vincen-github/DM",
+          "excerpt": "vincen-github/DM\n\n* Page: GitHub repository\n* URL: https://github.com/vincen-github/DM\n* Description: Official implementation of Distribution Matching for Self-Supervised Transfer ",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - vincen-github/mlimpl: This repository collects some codes that encapsulates commonly used algorithms in the field of machine learning. Most of them are based on Numpy, Pandas or Torch. You can deepen your understanding to related model and algorithm or revise it to get the customized code belongs yourself by referring to this repository. · GitHub",
+          "url": "https://github.com/vincen-github/mlimpl",
+          "excerpt": "vincen-github/mlimpl\n\n* Page: GitHub repository\n* URL: https://github.com/vincen-github/mlimpl\n* Description: This repository collects some codes that encapsulates commonly used al",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2569,
+      "census_row": "24297",
+      "name": "practicingman",
+      "queries": [
+        "practicingman AI program official",
+        "practicingman student ambassador AI",
+        "practicingman AI fellowship community"
+      ],
+      "search_id": "search_0046a76a8c0f7894112d242543479b11",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        },
+        {
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "url": "https://campusunite.in/",
+          "excerpt": "Join Community Explore Opportunities\nStudent avatar Student avatar Student avatar Student avatar\nLoved by 5000+ students from 2000+ colleges across India\n0\nStudents\n0\nColleges\n0\nEv",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2570,
+      "census_row": "24298",
+      "name": "evancohen",
+      "queries": [
+        "evancohen AI program official",
+        "evancohen student ambassador AI",
+        "evancohen AI fellowship community"
+      ],
+      "search_id": "search_47a72067c5194ea07e1e07b7133c0f62",
+      "error": null,
+      "results": [
+        {
+          "title": "evancohen (Evan Cohen) · GitHub",
+          "url": "https://github.com/evancohen",
+          "excerpt": "# User: Evan Cohen (@evancohen)\n\n- Page: GitHub user profile\n- URL: https://github.com/evancohen\n- Company: UiPath\n- Location: Seattle\n- Website: https://evancohen.io\n- Followers: ",
+          "publish_date": null
+        },
+        {
+          "title": "Evan Cohen - Director of Product, AI Platform",
+          "url": "https://evanbtcohen.com/",
+          "excerpt": "Currently building AI agents at Trase\n\n# Evan Cohen\n\n**Director of Product, AI Platform** at Trase\n\nProduct leader with 10+ years translating emerging AI research into transformati",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2571,
+      "census_row": "24299",
+      "name": "Fast-Editor",
+      "queries": [
+        "Fast-Editor AI program official",
+        "Fast-Editor student ambassador AI",
+        "Fast-Editor AI fellowship community"
+      ],
+      "search_id": "search_dda1fc394697210fd4ac972e7fd65b55",
+      "error": null,
+      "results": [
+        {
+          "title": "Fast-Editor · GitHub",
+          "url": "https://github.com/Fast-Editor",
+          "excerpt": "Organization: Fast-Editor (@Fast-Editor)\n\n* Page: GitHub organization profile\n* URL: https://github.com/Fast-Editor\n* Top languages: Rust, JavaScript, Ruby, Shell, TypeScript, HTML",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2572,
+      "census_row": "24300",
+      "name": "sbhooley",
+      "queries": [
+        "sbhooley AI program official",
+        "sbhooley student ambassador AI",
+        "sbhooley AI fellowship community"
+      ],
+      "search_id": "search_e6459a81ca783256ed87d98368f62732",
+      "error": null,
+      "results": [
+        {
+          "title": "sbhooley (Steven Hooley) · GitHub",
+          "url": "https://github.com/sbhooley",
+          "excerpt": "User: Steven Hooley (@sbhooley)\n\n* Page: GitHub user profile\n* URL: https://github.com/sbhooley\n* Company: StevenHooley.com\n* Website: https://stevenhooley.com\n* Followers: 20\n* Fo",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - sbhooley/ainativelang: AINL helps turn AI from \"a smart conversation\" into \"a structured worker.\"  It is designed for teams building AI workflows that need multiple steps, state and memory, tool use, repeatable execution, validation and control, and lower dependence on long prompt loops.  AINL is a compact, graph-canonical, AI-native programming system for (READ: README) · GitHub",
+          "url": "https://github.com/sbhooley/ainativelang",
+          "excerpt": "Graph-first deterministic IR AI workflow language\nAI-led co-development project, human-initiated by Steven Hooley ( x.com/sbhooley , stevenhooley.com , linkedin.com/in/sbhooley ). ",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2573,
+      "census_row": "24301",
+      "name": "RekklesNA",
+      "queries": [
+        "RekklesNA AI program official",
+        "RekklesNA student ambassador AI",
+        "RekklesNA AI fellowship community"
+      ],
+      "search_id": "search_4c5111965ea41dde05338fa5a6f6f15c",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - RekklesNA/clone-chatgpt: clone-chatgpt is an open ...",
+          "url": "https://github.com/RekklesNA/clone-chatgpt",
+          "excerpt": "## \n\nGitHub - RekklesNA/clone-chatgpt: clone-chatgpt is an open ...\nClone-ChatGPT is a simple web application that replicates the functionality of OpenAI's ChatGPT using the OpenAI",
+          "publish_date": null
+        },
+        {
+          "title": "RekklesNA (rekkles) · GitHub",
+          "url": "https://download.plaud.ai/RekklesNA",
+          "excerpt": "Skip to content ## Navigation Menu\n@RekklesNA RekklesNA Follow\nOverview Repositories 21 Projects Packages Stars 51\n@RekklesNA RekklesNA Follow\nView RekklesNA's full-sized avatar\n:s",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2574,
+      "census_row": "24302",
+      "name": "rainarch",
+      "queries": [
+        "rainarch AI program official",
+        "rainarch student ambassador AI",
+        "rainarch AI fellowship community"
+      ],
+      "search_id": "search_30428d676e4c69c8f332872ebcf621f2",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        },
+        {
+          "title": "Claude Campus Ambassador Programme 2026",
+          "url": "https://internshala.com/competitions/claude-campus-ambassador-programme-2026/",
+          "excerpt": "Brand Logo Participate now\n\n📌 About the Event\n\nClaude Campus Ambassador Programme 2026 is a student leadership initiative by Anthropic that empowers students and researchers to bu",
+          "publish_date": "2026-09-04"
+        }
+      ]
+    },
+    {
+      "small_rank": 2575,
+      "census_row": "24303",
+      "name": "NoizAI",
+      "queries": [
+        "NoizAI AI program official",
+        "NoizAI student ambassador AI",
+        "NoizAI AI fellowship community"
+      ],
+      "search_id": "search_47384f4d6cc3488bbc6009aca9b13bdf",
+      "error": null,
+      "results": [
+        {
+          "title": "NoizAI · GitHub",
+          "url": "https://github.com/NoizAI",
+          "excerpt": "Organization: NoizAI (@NoizAI)\n\n* Page: GitHub organization profile\n* URL: https://github.com/NoizAI\n* Top languages: Python, HTML\n\nRepositories\n\n* NoizAI/HelixWorld: 🪐 HelixWorld",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - NoizAI/YuE2-Turbo: Fast, concurrent inference for YuE2. Same model and recipe: 1.68× faster per song, 3.31× more songs per GPU. · GitHub",
+          "url": "https://github.com/NoizAI/YuE2-Turbo",
+          "excerpt": "# NoizAI/YuE2-Turbo\n\n- Page: GitHub repository\n- URL: https://github.com/NoizAI/YuE2-Turbo\n- Description: Fast, concurrent inference for YuE2. Same model and recipe: 1.68× faster p",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2576,
+      "census_row": "24304",
+      "name": "QmiAI",
+      "queries": [
+        "QmiAI AI program official",
+        "QmiAI student ambassador AI",
+        "QmiAI AI fellowship community"
+      ],
+      "search_id": "search_264c1138a5723b7ca1e6b0f8afdb0ad3",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - QmiAI/Qmedia: An open-source AI content search engine designed specifically for content creators. Supports extraction of text, images, and short videos. Allows full local deployment (web app, RAG server, LLM server). Supports multi-modal RAG content Q&A. · GitHub",
+          "url": "https://github.com/QmiAI/Qmedia",
+          "excerpt": "# QmiAI/Qmedia\n\n- Page: GitHub repository\n- URL: https://github.com/QmiAI/Qmedia\n- Description: An open-source AI content search engine designed specifically for content creators. ",
+          "publish_date": null
+        },
+        {
+          "title": "Qmi · GitHub",
+          "url": "https://github.com/QmiAI",
+          "excerpt": "Organization: Qmi (@QmiAI)\n\n* Page: GitHub organization profile\n* URL: https://github.com/QmiAI\n* Links: https://x.com/Lafe8088\n* Top languages: TypeScript\nMultimedia content explo",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2577,
+      "census_row": "24305",
+      "name": "AtomGraph",
+      "queries": [
+        "AtomGraph AI program official",
+        "AtomGraph student ambassador AI",
+        "AtomGraph AI fellowship community"
+      ],
+      "search_id": "search_e8788ffed16c6782f3b1cf20a7d6fb70",
+      "error": null,
+      "results": [
+        {
+          "title": "AtomGraph · GitHub",
+          "url": "https://github.com/AtomGraph",
+          "excerpt": "Organization: AtomGraph (@AtomGraph)\n\n* Page: GitHub organization profile\n* URL: https://github.com/AtomGraph\n* Location: Copenhagen, Denmark\n* Website: https://atomgraph.com\n* Lin",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - AtomGraph/LinkedDataHub: The low-code Knowledge Graph application platform. Apache license. · GitHub",
+          "url": "https://github.com/AtomGraph/LinkedDataHub",
+          "excerpt": "Under **Repository access** select **Only select repositories** and pick the repository from step 1; under **Permissions > Repository permissions** set **Contents** to **Read and w",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2578,
+      "census_row": "24306",
+      "name": "ternaus",
+      "queries": [
+        "ternaus AI program official",
+        "ternaus student ambassador AI",
+        "ternaus AI fellowship community"
+      ],
+      "search_id": "search_257e7483ea5c479de159f1e00edc88fd",
+      "error": null,
+      "results": [
+        {
+          "title": "ternaus (Vladimir Iglovikov) · GitHub",
+          "url": "https://github.com/ternaus",
+          "excerpt": "User: Vladimir Iglovikov (@ternaus)\n\n* Page: GitHub user profile\n* URL: https://github.com/ternaus\n* Company: Albumentations.AI\n* Location: San Francisco\n* Followers: 1.7k\n* Follow",
+          "publish_date": null
+        },
+        {
+          "title": "Sponsor @ternaus on GitHub Sponsors · GitHub",
+          "url": "http://github.itlym.cn/sponsors/ternaus",
+          "excerpt": "Skip to content ## Navigation Menu\nYou must be logged in to sponsor ternaus\n\nBecome a sponsor to Vladimir Iglovikov\n\n@ternaus\n\nVladimir Iglovikov\n\nternaus\nSan Francisco\nHi — I’m Vl",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2579,
+      "census_row": "24307",
+      "name": "HRuiCcc",
+      "queries": [
+        "HRuiCcc AI program official",
+        "HRuiCcc student ambassador AI",
+        "HRuiCcc AI fellowship community"
+      ],
+      "search_id": "search_350ca7483a0c564eb4531ebbde07655c",
+      "error": null,
+      "results": [
+        {
+          "title": "HRuiCcc · GitHub",
+          "url": "https://github.com/HRuiCcc",
+          "excerpt": "User: HRuiCcc (@HRuiCcc)\n\n* Page: GitHub user profile\n* URL: https://github.com/HRuiCcc\n* Followers: 22\n* Following: 0\n* Top languages: JavaScript, Python, Swift\n\nPinned repositori",
+          "publish_date": null
+        },
+        {
+          "title": "HRuiCcc/RuiC-PoseAtlas: Trilingual AI pose, costume and portrait gallery | HotRepo",
+          "url": "https://hotrepo.ai/HRuiCcc/RuiC-PoseAtlas",
+          "excerpt": "[HotRepo](https://hotrepo.ai/) Search\n\n[Trending](https://hotrepo.ai/) [Topics](https://hotrepo.ai/topics)\n\nDigest\n\n[Badges](https://hotrepo.ai/badges) [MCP](https://hotrepo.ai/mcp",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2580,
+      "census_row": "24308",
+      "name": "matiasbattocchia",
+      "queries": [
+        "matiasbattocchia AI program official",
+        "matiasbattocchia student ambassador AI",
+        "matiasbattocchia AI fellowship community"
+      ],
+      "search_id": "search_b82eb4a6797ba5469de5ac7c8911246b",
+      "error": null,
+      "results": [
+        {
+          "title": "matiasbattocchia (Matías Battocchia) · GitHub",
+          "url": "https://github.com/matiasbattocchia",
+          "excerpt": "User: Matías Battocchia (@matiasbattocchia)\n\n* Page: GitHub user profile\n* URL: https://github.com/matiasbattocchia\n* Company: turtle.xyz\n* Location: Mendoza, Argentina\n* Followers",
+          "publish_date": null
+        },
+        {
+          "title": "matiasbattocchia/open-bsp-api — heatdrop",
+          "url": "https://heatdrop.ai/repo/matiasbattocchia/open-bsp-api",
+          "excerpt": "heatdrop .ai The hottest AI & LLM repositories on GitHub — measured, ranked, and explained.\n⌕\nEditorial │ Newcomers Heavyweights │ Hottest Accelerating\n← all repositories\nmatiasbat",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2581,
+      "census_row": "24309",
+      "name": "koulanurag",
+      "queries": [
+        "koulanurag AI program official",
+        "koulanurag student ambassador AI",
+        "koulanurag AI fellowship community"
+      ],
+      "search_id": "search_7110619c2d9a20d59f6f5990a3a09d4c",
+      "error": null,
+      "results": [
+        {
+          "title": "koulanurag (Anurag Koul) · GitHub",
+          "url": "https://github.com/koulanurag",
+          "excerpt": "User: Anurag Koul (@koulanurag)\n\n* Page: GitHub user profile\n* URL: https://github.com/koulanurag\n* Location: Palo Alto, California\n* Website: https://koulanurag.dev\n* Followers: 1",
+          "publish_date": null
+        },
+        {
+          "title": "Anurag Koul — Lead Research Scientist",
+          "url": "https://koulanurag.dev/",
+          "excerpt": "This further evolved into learning from offline data, multi-agent setups, and a systematic study of goal-conditioned RL.\n\n...\n\n* Reinforcement Learning\n* Planning\n* Large Language ",
+          "publish_date": "2019-04-16"
+        }
+      ]
+    },
+    {
+      "small_rank": 2582,
+      "census_row": "24310",
+      "name": "rafellerc",
+      "queries": [
+        "rafellerc AI program official",
+        "rafellerc student ambassador AI",
+        "rafellerc AI fellowship community"
+      ],
+      "search_id": "search_36389ab71a84f3e5b98180c948ddb6eb",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - rafellerc/Pytorch-SiamFC: Pytorch implementation of \"Fully-Convolutional Siamese Networks for Object Tracking\" · GitHub",
+          "url": "https://github.com/rafellerc/Pytorch-SiamFC",
+          "excerpt": "rafellerc/Pytorch-SiamFC\n\n* Page: GitHub repository\n* URL: https://github.com/rafellerc/Pytorch-SiamFC\n* Description: Pytorch implementation of \"Fully-Convolutional Siamese Network",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2583,
+      "census_row": "24311",
+      "name": "avibe-bot",
+      "queries": [
+        "avibe-bot AI program official",
+        "avibe-bot student ambassador AI",
+        "avibe-bot AI fellowship community"
+      ],
+      "search_id": "search_f042e8495f58c0da9a6077cd615bdee4",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - avibe-bot/avibe: Make your computer a home for your AI partner. Avibe is the local-first Agent OS: Vibey, its built-in AI partner, works out of the box, and Claude Code, Codex & OpenCode run unchanged beside it — reach them from your browser, phone, or any chat app. · GitHub",
+          "url": "https://github.com/avibe-bot/avibe",
+          "excerpt": "# avibe-bot/avibe\n\n- Page: GitHub repository\n- URL: https://github.com/avibe-bot/avibe\n- Description: Make your computer a home for your AI partner. Avibe is the local-first Agent ",
+          "publish_date": null
+        },
+        {
+          "title": "Avibe · GitHub",
+          "url": "https://github.com/avibe-bot",
+          "excerpt": "Organization: Avibe (@avibe-bot)\n\n* Page: GitHub organization profile\n* URL: https://github.com/avibe-bot\n* Website: https://avibe.bot\n* Links: https://avibe.bot\n* Top languages: P",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2584,
+      "census_row": "24312",
+      "name": "handrew",
+      "queries": [
+        "handrew AI program official",
+        "handrew student ambassador AI",
+        "handrew AI fellowship community"
+      ],
+      "search_id": "search_21efadbf767286ec2cc5ce9a8c2fba41",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        },
+        {
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "url": "https://campusunite.in/",
+          "excerpt": "Opportunities Hub\n\nFind internships, hackathons, and scholarships in one place.\n\nNationwide Connection\n\nConnect with students from colleges across India.\n\nVerified Accomplishments\n",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2585,
+      "census_row": "24313",
+      "name": "HuangCongQing",
+      "queries": [
+        "HuangCongQing AI program official",
+        "HuangCongQing student ambassador AI",
+        "HuangCongQing AI fellowship community"
+      ],
+      "search_id": "search_3f46ce188b6e6f2b21f0117c0276b411",
+      "error": null,
+      "results": [
+        {
+          "title": "HuangCongQing (双愚) · GitHub",
+          "url": "https://github.com/HuangCongQing",
+          "excerpt": "User: 双愚 (@HuangCongQing)\n\n* Page: GitHub user profile\n* URL: https://github.com/HuangCongQing\n* Company: UCAS Master\n* Location: Beijing, China\n* Website: https://www.linkedin.com",
+          "publish_date": null
+        },
+        {
+          "title": "college-students · GitHub Topics · GitHub",
+          "url": "https://github.com/topics/college-students",
+          "excerpt": "Topic: college-students\n\n* Page: GitHub topic page\n* URL: https://github.com/topics/college-students\n\nRepositories\n\n* vvignesh17/List-of-all-Research-Internship-Program-for-IIT-and",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2586,
+      "census_row": "24314",
+      "name": "TimeCopilot",
+      "queries": [
+        "TimeCopilot AI program official",
+        "TimeCopilot student ambassador AI",
+        "TimeCopilot AI fellowship community"
+      ],
+      "search_id": "search_f13ef61781d127acb98e6d3ec7b52cd8",
+      "error": null,
+      "results": [
+        {
+          "title": "TimeCopilot · GitHub",
+          "url": "https://github.com/TimeCopilot",
+          "excerpt": "Organization: TimeCopilot (@TimeCopilot)\n\n* Page: GitHub organization profile\n* URL: https://github.com/TimeCopilot\n* Location: United States of America\n* Website: https://timecopi",
+          "publish_date": null
+        },
+        {
+          "title": "TimeCopilot · GitHub",
+          "url": "https://github.com/timecopilot",
+          "excerpt": "Organization: TimeCopilot (@timecopilot)\n\n* Page: GitHub organization profile\n* URL: https://github.com/timecopilot\n* Location: United States of America\n* Website: https://timecopi",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2587,
+      "census_row": "24315",
+      "name": "HowieHwong",
+      "queries": [
+        "HowieHwong AI program official",
+        "HowieHwong student ambassador AI",
+        "HowieHwong AI fellowship community"
+      ],
+      "search_id": "search_7ad2fa4f5e86c7e7f3de6ac313637691",
+      "error": null,
+      "results": [
+        {
+          "title": "HowieHwong (Yue Huang) · GitHub",
+          "url": "https://github.com/HowieHwong",
+          "excerpt": "# User: Yue Huang (@HowieHwong)\n\n- Page: GitHub user profile\n- URL: https://github.com/HowieHwong\n- Company: University of Notre Dame\n- Location: Bay Area, USA\n- Followers: 100\n- F",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - HowieHwong/Agentic-Guardian: [ICLR'26] Building a Foundational Guardrail for General Agentic Systems via Synthetic Data · GitHub",
+          "url": "https://github.com/HowieHwong/Agentic-Guardian",
+          "excerpt": "# HowieHwong/Agentic-Guardian\n\n- Page: GitHub repository\n- URL: https://github.com/HowieHwong/Agentic-Guardian\n- Description: [ICLR'26] Building a Foundational Guardrail for Genera",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2588,
+      "census_row": "24316",
+      "name": "lif314",
+      "queries": [
+        "lif314 AI program official",
+        "lif314 student ambassador AI",
+        "lif314 AI fellowship community"
+      ],
+      "search_id": "search_1b866e6fa957aeb7f7c4d3396e5dcffb",
+      "error": null,
+      "results": [
+        {
+          "title": "Linfei Li - lif314.github.io",
+          "url": "https://lif314.github.io/resume/linfeili.pdf",
+          "excerpt": "Linfei Li\n\n(+86) 18387400236 · cslinfeili@tongji.edu.cn lif314.github.io · Google Scholar\nEDUCATION\nTongji University Shanghai, China Ph.D. Student in Computer Science, GPA: 90.67/",
+          "publish_date": "2026-06-24"
+        },
+        {
+          "title": "GitHub - lif314/franka-graspnet: Franka 6-DoF Grasping with GraspNet (Modern Pytorch, FoundationStereo) · GitHub",
+          "url": "https://github.com/lif314/franka-graspnet",
+          "excerpt": "lif314/franka-graspnet\n\n* Page: GitHub repository\n* URL: https://github.com/lif314/franka-graspnet\n* Description: Franka 6-DoF Grasping with GraspNet (Modern Pytorch, FoundationSte",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2589,
+      "census_row": "24317",
+      "name": "breezewish",
+      "queries": [
+        "breezewish AI program official",
+        "breezewish student ambassador AI",
+        "breezewish AI fellowship community"
+      ],
+      "search_id": "search_3b601ce0e374263e74b647766d156674",
+      "error": null,
+      "results": [
+        {
+          "title": "breezewish (Wish) · GitHub",
+          "url": "https://download.plaud.ai/breezewish",
+          "excerpt": "Skip to content ## Navigation Menu\n@breezewish breezewish Follow\nOverview Repositories 124 Projects Packages Stars 3.5k\n@breezewish breezewish Follow\nView breezewish's full-sized a",
+          "publish_date": null
+        },
+        {
+          "title": "simplify — breezewish/skills",
+          "url": "https://www.skills.sh/breezewish/skills/simplify",
+          "excerpt": "Skills\nPacks Topics Official Audits Docs\nskills / breezewish / skills / simplify\n\nsimplify\n\nInstallation\nCommand Prompt\n$ npx skills add https://github.com/breezewish/skills --skil",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2590,
+      "census_row": "24318",
+      "name": "horizon-ui",
+      "queries": [
+        "horizon-ui AI program official",
+        "horizon-ui student ambassador AI",
+        "horizon-ui AI fellowship community"
+      ],
+      "search_id": "search_924d74d074d78c316881ae1bf58623f2",
+      "error": null,
+      "results": [
+        {
+          "title": "Horizon UI · GitHub",
+          "url": "https://github.com/horizon-ui",
+          "excerpt": "Organization: Horizon UI (@horizon-ui)\n\n* Page: GitHub organization profile\n* URL: https://github.com/horizon-ui\n* Website: https://horizon-ui.com\n* Links: https://twitter.com/hori",
+          "publish_date": null
+        },
+        {
+          "title": "horizon-ui repositories · GitHub",
+          "url": "https://github.com/orgs/horizon-ui/repositories",
+          "excerpt": "26 repositories\n\nLast pushed\n* Comfortable display density\n* Compact display density\n* \n\nshadcn-boilerplate-pro-issues\n\nPublic\nIssues & Updates of Horizon AI Boilerplate Shadcn UI ",
+          "publish_date": "2025-01-28"
+        }
+      ]
+    },
+    {
+      "small_rank": 2591,
+      "census_row": "24319",
+      "name": "oborchers",
+      "queries": [
+        "oborchers AI program official",
+        "oborchers student ambassador AI",
+        "oborchers AI fellowship community"
+      ],
+      "search_id": "search_d2f1e8dd79490ecf6a4e2abdb4e42859",
+      "error": null,
+      "results": [
+        {
+          "title": "oborchers (Dr. Oliver Borchers) · GitHub",
+          "url": "https://github.com/oborchers",
+          "excerpt": "User: Dr. Oliver Borchers (@oborchers)\n\n* Page: GitHub user profile\n* URL: https://github.com/oborchers\n* Company: IU Group\n* Location: Germany\n* Website: https://www.drborchers.co",
+          "publish_date": null
+        },
+        {
+          "title": "tobrun/rss-feeds - GitHubHelp",
+          "url": "https://githubhelp.com/tobrun/rss-feeds",
+          "excerpt": "Articles\nGitHubHelp Journal Search\nSearch Users PK Repos PK\n\ntobrun /rss-feeds\n\nGenerate RSS feeds for all the blogs that don't have one\n★ 1 Forks 0 Python GitHub ↗ Compare\nOvervie",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2592,
+      "census_row": "24320",
+      "name": "timmyy123",
+      "queries": [
+        "timmyy123 AI program official",
+        "timmyy123 student ambassador AI",
+        "timmyy123 AI fellowship community"
+      ],
+      "search_id": "search_20af5a17100bc5a1f8a6723011817a57",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - timmyy123/LLM-Hub: Local LLM, image&video&music generator, run codex with local models on your phone · GitHub",
+          "url": "https://github.com/timmyy123/LLM-Hub",
+          "excerpt": "|Vibe Coder Demo on iOS |Image Generation on Android |\n| --- | --- |\n| | |\n|Vibe Coder using Gemma 4 model on iPhone (HTML preview) |Stable Diffusion image generation on Android |\n",
+          "publish_date": null
+        },
+        {
+          "title": "timmyy123 (Timmy Qian) · GitHub",
+          "url": "https://github.com/timmyy123",
+          "excerpt": "# User: Timmy Qian (@timmyy123)\n\n- Page: GitHub user profile\n- URL: https://github.com/timmyy123\n- Location: Australia\n- Website: https://llm-hub.app\n- Followers: 41\n- Following: 1",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2593,
+      "census_row": "24321",
+      "name": "TexasBedouin",
+      "queries": [
+        "TexasBedouin AI program official",
+        "TexasBedouin student ambassador AI",
+        "TexasBedouin AI fellowship community"
+      ],
+      "search_id": "search_5753d2e731cf98a9b4c92a84ebfed46f",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - TexasBedouin/vibe-check: By a 12-year product manager who builds 0-to-1: takes a beginner from a vague idea to a buildable plan, then guides the build (GitHub basics, clean-code habits, a verify-and-iterate loop, a checkup for the mess). For Claude Code, Codex, and Antigravity. grill-me is for engineers, vibe-check is for everyone else. · GitHub",
+          "url": "https://github.com/TexasBedouin/vibe-check",
+          "excerpt": "From there it maps the whole experience, the real screens and flows, and turns the lot into a plan and a buildable blueprint your AI can follow.\n\n...\n\n> The method below is free, a",
+          "publish_date": null
+        },
+        {
+          "title": "TexasBedouin (Amer Arab) · GitHub",
+          "url": "https://github.com/TexasBedouin",
+          "excerpt": "User: Amer Arab (@TexasBedouin)\n\n* Page: GitHub user profile\n* URL: https://github.com/TexasBedouin\n* Company: https://clearlist.me/\n* Location: Austin, TX\n* Website: https://thema",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2594,
+      "census_row": "24322",
+      "name": "abdelhai",
+      "queries": [
+        "abdelhai AI program official",
+        "abdelhai student ambassador AI",
+        "abdelhai AI fellowship community"
+      ],
+      "search_id": "search_5dec2bab8290756d70b4e0c0617b647f",
+      "error": null,
+      "results": [
+        {
+          "title": "abdelhai (mustafa) / Following · GitHub",
+          "url": "https://wegamans.net/?_=%2Fabdelhai%23BaQ2cyRFYLjlNnovzyRV7wK9&tab=following",
+          "excerpt": "Skip to content ## Navigation Menu\n@abdelhai abdelhai Follow\nOverview Repositories 127 Projects Packages Stars 3.1k Sponsoring\n@abdelhai abdelhai Follow\nView abdelhai's full-sized ",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2595,
+      "census_row": "24323",
+      "name": "Nigh",
+      "queries": [
+        "Nigh AI program official",
+        "Nigh student ambassador AI",
+        "Nigh AI fellowship community"
+      ],
+      "search_id": "search_6c4b00bb61e22cfd4faa22258bd7799a",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        },
+        {
+          "title": "Playbook series: Communities of practice · GitHub",
+          "url": "https://github.com/resources/insights/enterprise-communities-of-practice",
+          "excerpt": "1. Insights\n2. Playbook series: Communities of practice\n\nPlaybook series: Communities of practice\n\nDecember 1, 2025\nYour AI knowledge is vanishing in private chats. It's time to bu",
+          "publish_date": "2025-12-01"
+        }
+      ]
+    },
+    {
+      "small_rank": 2596,
+      "census_row": "24324",
+      "name": "inulute",
+      "queries": [
+        "inulute AI program official",
+        "inulute student ambassador AI",
+        "inulute AI fellowship community"
+      ],
+      "search_id": "search_6b3876aba0d7fe81ca453c38d18894b7",
+      "error": null,
+      "results": [
+        {
+          "title": "inulute (inulute) · GitHub",
+          "url": "https://github.com/inulute",
+          "excerpt": "User: inulute (@inulute)\n\n* Page: GitHub user profile\n* URL: https://github.com/inulute\n* Followers: 272\n* Following: 0\n* Links: https://instagram.com/inulute, https://twitter.com/",
+          "publish_date": null
+        },
+        {
+          "title": "Inulute - Build Stuff That Makes Sense | Open Source Developer Tools",
+          "url": "https://inulute.com/community",
+          "excerpt": "Inulute\nProjects About Community Contact\n·\n01 Community\n\nA few thousand people use this stuff.\n\nNot a movement, not a Discord empire — just developers who found a tool useful, file",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2597,
+      "census_row": "24325",
+      "name": "ildoonet",
+      "queries": [
+        "ildoonet AI program official",
+        "ildoonet student ambassador AI",
+        "ildoonet AI fellowship community"
+      ],
+      "search_id": "search_5260dfbb85e4f5d5487ab3673e4202c8",
+      "error": null,
+      "results": [
+        {
+          "title": "ildoonet (curtis.abcd) · GitHub",
+          "url": "https://github.com/ildoonet",
+          "excerpt": "User: curtis.abcd (@ildoonet)\n\n* Page: GitHub user profile\n* URL: https://github.com/ildoonet\n* Location: Seoul\n* Website: https://www.linkedin.com/in/ildoo-kim-56962034\n* Follower",
+          "publish_date": null
+        },
+        {
+          "title": "ildoonet (curtis.abcd) · GitHub",
+          "url": "https://download.plaud.ai/ildoonet",
+          "excerpt": "Skip to content ## Navigation Menu\n@ildoonet ildoonet Follow\nOverview Repositories 34 Projects Packages Stars 510\n@ildoonet ildoonet Follow\nView ildoonet's full-sized avatar\n🎯\nFoc",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2598,
+      "census_row": "24326",
+      "name": "twhui",
+      "queries": [
+        "twhui AI program official",
+        "twhui student ambassador AI",
+        "twhui AI fellowship community"
+      ],
+      "search_id": "search_c021c11ac37118fc29232f16a0c42703",
+      "error": null,
+      "results": [
+        {
+          "title": "twhui (James TW Hui) · GitHub",
+          "url": "https://github.com/twhui",
+          "excerpt": "# User: James TW Hui (@twhui)\n\n- Page: GitHub user profile\n- URL: https://github.com/twhui\n- Followers: 130\n- Following: 0\n- Links: https://www.youtube.com/@JamesResearchChannel\n- ",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2599,
+      "census_row": "24327",
+      "name": "alejandro-ao",
+      "queries": [
+        "alejandro-ao AI program official",
+        "alejandro-ao student ambassador AI",
+        "alejandro-ao AI fellowship community"
+      ],
+      "search_id": "search_55c5eb8ca05627283b2906525f863770",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - alejandro-ao/alejandro-ao · GitHub",
+          "url": "https://github.com/alejandro-ao/alejandro-ao",
+          "excerpt": "alejandro-ao/alejandro-ao\n\n* Page: GitHub repository\n* URL: https://github.com/alejandro-ao/alejandro-ao\n* Default branch: main\n* Created: 2022-11-09T13:06:13.000Z\n* Commits: 145\n\n",
+          "publish_date": null
+        },
+        {
+          "title": "alejandro-ao (Alejandro AO) · GitHub",
+          "url": "https://github.com/alejandro-ao",
+          "excerpt": "# User: Alejandro AO (@alejandro-ao)\n\n- Page: GitHub user profile\n- URL: https://github.com/alejandro-ao\n- Company: @huggingface\n- Location: EU\n- Website: https://youtube.com/@alej",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2600,
+      "census_row": "24328",
+      "name": "EzioBy",
+      "queries": [
+        "EzioBy AI program official",
+        "EzioBy student ambassador AI",
+        "EzioBy AI fellowship community"
+      ],
+      "search_id": "search_2fffd04190e1a625d63e3eed3a91853e",
+      "error": null,
+      "results": [
+        {
+          "title": "EzioBy (Qingyan Bai) · GitHub",
+          "url": "https://github.com/EzioBy",
+          "excerpt": "User: Qingyan Bai (@EzioBy)\n\n* Page: GitHub user profile\n* URL: https://github.com/EzioBy\n* Company: HKUST\n* Website: https://bqy.info/\n* Followers: 100\n* Following: 30\n* Links: ht",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - EzioBy/Ditto: [CVPR'26 Highlight] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset · GitHub",
+          "url": "https://github.com/EzioBy/Ditto",
+          "excerpt": "sim2real setting.\n* 10/22/2025 - We finish uploading all the videos of the dataset!\n\nModel Usage\n\n1. Using with DiffSynth\n\nEnvironment Setup\n\n# Create conda environment (if you alr",
+          "publish_date": null
+        }
+      ]
+    }
+  ],
+  "official_page_reviews": [
+    {
+      "small_rank": 2557,
+      "name": "sandbaseai",
+      "url": "https://www.sandbase.ai/community",
+      "acquired_at": "2026-10-17T00:00:00Z",
+      "finding": "Official SandBase community page describes discussion, integrations, workflows, Discord, GitHub, and email. No student/campus/ambassador/fellowship/representative route or India eligibility stated."
+    },
+    {
+      "small_rank": 2596,
+      "name": "inulute",
+      "url": "https://inulute.com/community",
+      "acquired_at": "2026-10-17T00:00:00Z",
+      "finding": "Official Inulute community page describes general contributors and projects. No student/campus/ambassador/fellowship/representative route or India eligibility stated."
+    }
+  ]
+}

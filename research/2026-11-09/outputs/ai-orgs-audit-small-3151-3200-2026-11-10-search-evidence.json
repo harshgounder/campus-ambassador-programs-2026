@@ -1,0 +1,2270 @@
+{
+  "slice": {
+    "start": 3151,
+    "end": 3200,
+    "census_rows": [
+      24879,
+      24928
+    ],
+    "cutoff": "2026-11-09",
+    "researched": "2026-11-10",
+    "validation": "50 rows exact; 0 mismatch"
+  },
+  "method": "Three exact-name search variations per entity covering student ambassador, campus ambassador/advocate, and student fellow/organizer; Exa web search; bounded pass. Search response snippets compacted; excerpts <=180 characters.",
+  "x_mcp_used": false,
+  "brave_tab_used": false,
+  "entities": [
+    {
+      "small_rank": "3151",
+      "census_row": "24879",
+      "name": "jaketae",
+      "queries": [
+        "\"jaketae\" student ambassador",
+        "\"jaketae\" campus ambassador advocate",
+        "\"jaketae\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"jaketae\" student ambassador",
+          "results": [
+            {
+              "title": "Hi! - Jake Tae",
+              "url": "https://jaketae.github.io/",
+              "excerpt": "Hi! - Jake Tae # Hi! Hi, I’m Jake (Jaesung) Tae. I’m currently a Member of Technical Staff at xAI. Previously, I was a machine learning engineer at Optiver working on price predict"
+            }
+          ]
+        },
+        {
+          "query": "\"jaketae\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Hi! - Jake Tae",
+              "url": "https://jaketae.github.io/",
+              "excerpt": "Hi! - Jake Tae # Hi! Hi, I’m Jake (Jaesung) Tae. I’m currently a Member of Technical Staff at xAI. Previously, I was a machine learning engineer at Optiver working on price predict"
+            }
+          ]
+        },
+        {
+          "query": "\"jaketae\" student fellow organizer",
+          "results": [
+            {
+              "title": "Hi! - Jake Tae",
+              "url": "https://jaketae.github.io/",
+              "excerpt": "Hi! - Jake Tae # Hi! Hi, I’m Jake (Jaesung) Tae. I’m currently a Member of Technical Staff at xAI. Previously, I was a machine learning engineer at Optiver working on price predict"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3152",
+      "census_row": "24880",
+      "name": "AaronZ345",
+      "queries": [
+        "\"AaronZ345\" student ambassador",
+        "\"AaronZ345\" campus ambassador advocate",
+        "\"AaronZ345\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"AaronZ345\" student ambassador",
+          "results": [
+            {
+              "title": "Yu Zhang (张彧) - Homepage",
+              "url": "https://aaronz345.github.io/",
+              "excerpt": "Yu Zhang (张彧) - Homepage # Yu Zhang 张彧 Research Scientist at ByteDance Hangzhou, China aaron9834@icloud.com ## Research Focus Speech Spatial Audio Singing Voice ## About Me I am Yu"
+            }
+          ]
+        },
+        {
+          "query": "\"AaronZ345\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Yu Zhang (张彧) - Homepage",
+              "url": "https://aaronz345.github.io/",
+              "excerpt": "Yu Zhang (张彧) - Homepage # Yu Zhang 张彧 Research Scientist at ByteDance Hangzhou, China aaron9834@icloud.com ## Research Focus Speech Spatial Audio Singing Voice ## About Me I am Yu"
+            }
+          ]
+        },
+        {
+          "query": "\"AaronZ345\" student fellow organizer",
+          "results": [
+            {
+              "title": "AaronZ345/AaronZ345",
+              "url": "https://github.com/AaronZ345/AaronZ345",
+              "excerpt": "# AaronZ345/AaronZ345 - Stars: 2 - Forks: 0 - Watchers: 2 - Open issues: 0 - Default branch: main - Created: 2024-08-15T05:45:54Z ## Top Contributors - AaronZ345 (119 contributions"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3153",
+      "census_row": "24881",
+      "name": "pariskang",
+      "queries": [
+        "\"pariskang\" student ambassador",
+        "\"pariskang\" campus ambassador advocate",
+        "\"pariskang\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"pariskang\" student ambassador",
+          "results": [
+            {
+              "title": "pariskang",
+              "url": "https://github.com/pariskang",
+              "excerpt": "# pariskang - Login: pariskang - Public repos: 50 - Public gists: 0 - Followers: 22 - Following: 9 - Joined: 2015-08-10T09:35:22Z ## Top Repositories - pariskang/CMLM-ZhongJing - 首"
+            }
+          ]
+        },
+        {
+          "query": "\"pariskang\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "pariskang",
+              "url": "https://github.com/pariskang",
+              "excerpt": "# pariskang - Login: pariskang - Public repos: 50 - Public gists: 0 - Followers: 22 - Following: 9 - Joined: 2015-08-10T09:35:22Z ## Top Repositories - pariskang/CMLM-ZhongJing - 首"
+            }
+          ]
+        },
+        {
+          "query": "\"pariskang\" student fellow organizer",
+          "results": [
+            {
+              "title": "pariskang",
+              "url": "https://github.com/pariskang",
+              "excerpt": "# pariskang - Login: pariskang - Public repos: 50 - Public gists: 0 - Followers: 22 - Following: 9 - Joined: 2015-08-10T09:35:22Z ## Top Repositories - pariskang/CMLM-ZhongJing - 首"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3154",
+      "census_row": "24882",
+      "name": "HaoranZhuExplorer",
+      "queries": [
+        "\"HaoranZhuExplorer\" student ambassador",
+        "\"HaoranZhuExplorer\" campus ambassador advocate",
+        "\"HaoranZhuExplorer\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"HaoranZhuExplorer\" student ambassador",
+          "results": [
+            {
+              "title": "Haoran Zhu",
+              "url": "https://haoranzhuexplorer.github.io/",
+              "excerpt": "Haoran Zhu Haoran Zhu I'm a postdoctoral researcher at New York University, working on world models with Prof. Yann LeCun. My ultimate vision is to build intelligent machines for t"
+            }
+          ]
+        },
+        {
+          "query": "\"HaoranZhuExplorer\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Haoran Zhu",
+              "url": "https://haoranzhuexplorer.github.io/",
+              "excerpt": "Haoran Zhu Haoran Zhu I'm a postdoctoral researcher at New York University, working on world models with Prof. Yann LeCun. My ultimate vision is to build intelligent machines for t"
+            }
+          ]
+        },
+        {
+          "query": "\"HaoranZhuExplorer\" student fellow organizer",
+          "results": [
+            {
+              "title": "Haoran Zhu",
+              "url": "https://haoranzhuexplorer.github.io/",
+              "excerpt": "Haoran Zhu Haoran Zhu I'm a postdoctoral researcher at New York University, working on world models with Prof. Yann LeCun. My ultimate vision is to build intelligent machines for t"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3155",
+      "census_row": "24883",
+      "name": "YoavRamon",
+      "queries": [
+        "\"YoavRamon\" student ambassador",
+        "\"YoavRamon\" campus ambassador advocate",
+        "\"YoavRamon\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"YoavRamon\" student ambassador",
+          "results": [
+            {
+              "title": "About | Yoav Ramon",
+              "url": "https://yoavramon.github.io/about/",
+              "excerpt": "About | Yoav Ramon # About Hi! I’m based in Tel Aviv and currently the Co-Founder & CTO of Catch, an AI assistant that takes the administrative work off your plate. We started it i"
+            }
+          ]
+        },
+        {
+          "query": "\"YoavRamon\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "About | Yoav Ramon",
+              "url": "https://yoavramon.github.io/about/",
+              "excerpt": "About | Yoav Ramon # About Hi! I’m based in Tel Aviv and currently the Co-Founder & CTO of Catch, an AI assistant that takes the administrative work off your plate. We started it i"
+            }
+          ]
+        },
+        {
+          "query": "\"YoavRamon\" student fellow organizer",
+          "results": [
+            {
+              "title": "About | Yoav Ramon",
+              "url": "https://yoavramon.github.io/about/",
+              "excerpt": "About | Yoav Ramon # About Hi! I’m based in Tel Aviv and currently the Co-Founder & CTO of Catch, an AI assistant that takes the administrative work off your plate. We started it i"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3156",
+      "census_row": "24884",
+      "name": "LLM-Coding",
+      "queries": [
+        "\"LLM-Coding\" student ambassador",
+        "\"LLM-Coding\" campus ambassador advocate",
+        "\"LLM-Coding\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"LLM-Coding\" student ambassador",
+          "results": [
+            {
+              "title": "Context Engineering for LLM Coding Agents | Gaurav Tupe ...",
+              "url": "https://www.linkedin.com/posts/gauravtupe_aiinengineering-llmagents-contextengineering-activity-7425534659423404032-mOIK",
+              "excerpt": "**Gaurav Tupe**: Campus Mantri (Official Campus Representative) at GeeksforGeeks for 2 months with 1 year 8 months of total professional experience. Previous roles include Full Sta"
+            }
+          ]
+        },
+        {
+          "query": "\"LLM-Coding\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Shardul Marathe",
+              "url": "https://linkedin.com/in/shardulmarathe",
+              "excerpt": "# Shardul Marathe CS @ Stanford | Researcher @ Stanford AI Lab (SAIL) | Campus Ambassador @ SpaceXAI | Prev SWE @ Stanford Medicine San Francisco Bay Area (US) ... I love building "
+            }
+          ]
+        },
+        {
+          "query": "\"LLM-Coding\" student fellow organizer",
+          "results": [
+            {
+              "title": "Julisa Delfín",
+              "url": "https://linkedin.com/in/julisadelfin",
+              "excerpt": "# Julisa Delfín AI & Data Science @ DOE Scholars Program | MS Data Science | MS Artificial Intelligence Candidate Washington DC-Baltimore Area (US) ... ### Software Engineer, Hands"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3157",
+      "census_row": "24885",
+      "name": "muety",
+      "queries": [
+        "\"muety\" student ambassador",
+        "\"muety\" campus ambassador advocate",
+        "\"muety\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"muety\" student ambassador",
+          "results": [
+            {
+              "title": "muety/muety",
+              "url": "https://github.com/muety/muety",
+              "excerpt": "# muety/muety - Stars: 5 - Forks: 4 - Watchers: 5 - Open issues: 15 - Default branch: master - Created: 2020-07-10T09:23:01Z ## Top Contributors - muety (26 contributions) - github"
+            }
+          ]
+        },
+        {
+          "query": "\"muety\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "muety/muety",
+              "url": "https://github.com/muety/muety",
+              "excerpt": "# muety/muety - Stars: 5 - Forks: 4 - Watchers: 5 - Open issues: 15 - Default branch: master - Created: 2020-07-10T09:23:01Z ## Top Contributors - muety (26 contributions) - github"
+            }
+          ]
+        },
+        {
+          "query": "\"muety\" student fellow organizer",
+          "results": [
+            {
+              "title": "ferdinand mütsch",
+              "url": "https://linkedin.com/in/ferdinand-m%C3%BCtsch",
+              "excerpt": "# Ferdinand Mütsch 🌱 Never stop learning Aue, Baden-Württemberg, Germany (DE) 456 connections • 449 followers ## About Climate tech software at | Open-Source Contributor | Tech Bl"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3158",
+      "census_row": "24886",
+      "name": "DagnyT",
+      "queries": [
+        "\"DagnyT\" student ambassador",
+        "\"DagnyT\" campus ambassador advocate",
+        "\"DagnyT\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"DagnyT\" student ambassador",
+          "results": [
+            {
+              "title": "DagnyT | Nostr Profile | Spacestr",
+              "url": "https://spacestr.com/npub1amzlyj9xgeqzvq5nez89aaejpvdj9pskpq8m5gu3sfqhcnylnlcqh7qeuw",
+              "excerpt": "DagnyT | Nostr Profile | Spacestr 🔔 This profile hasn't been claimed yet. If this is your Nostr profile, you can claim it. DagnyT Member since: 2024-02-01 219 Zaps 21 Following Da"
+            }
+          ]
+        },
+        {
+          "query": "\"DagnyT\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "DagnyT - Nostr Profile",
+              "url": "https://primal.net/p/npub1amzlyj9xgeqzvq5nez89aaejpvdj9pskpq8m5gu3sfqhcnylnlcqh7qeuw",
+              "excerpt": "DagnyT - Nostr Profile Just a nerd obsessed with geometry, people, and Nature. Entrepreneur in circular systems between regen ag, economics, and social design. DagnyT followers Joi"
+            }
+          ]
+        },
+        {
+          "query": "\"DagnyT\" student fellow organizer",
+          "results": [
+            {
+              "title": "DagnyT - Nostr Profile",
+              "url": "https://primal.net/p/npub1amzlyj9xgeqzvq5nez89aaejpvdj9pskpq8m5gu3sfqhcnylnlcqh7qeuw",
+              "excerpt": "DagnyT - Nostr Profile Just a nerd obsessed with geometry, people, and Nature. Entrepreneur in circular systems between regen ag, economics, and social design. DagnyT followers Joi"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3159",
+      "census_row": "24887",
+      "name": "shanmukh05",
+      "queries": [
+        "\"shanmukh05\" student ambassador",
+        "\"shanmukh05\" campus ambassador advocate",
+        "\"shanmukh05\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"shanmukh05\" student ambassador",
+          "results": [
+            {
+              "title": "Shanmukha Sainath",
+              "url": "https://github.com/shanmukh05",
+              "excerpt": "# Shanmukha Sainath - Login: shanmukh05 - Company: Indian Institute of Technology Kharagpur - Location: IIT Kharagpur - Blog: https://www.tensorwrites.com/ - Public repos: 30 - Pub"
+            }
+          ]
+        },
+        {
+          "query": "\"shanmukh05\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "shanmukha sainath",
+              "url": "https://linkedin.com/in/shanmukha-sainath-1045b2197",
+              "excerpt": "# Shanmukha Sainath AI Engineer, KLA | IIT KGP Chennai, Tamil Nadu, India (IN) 500 connections • 3,085 followers ## About AI Engineer, KLA | IIT KGP Total Experience: 4 years and 3"
+            }
+          ]
+        },
+        {
+          "query": "\"shanmukh05\" student fellow organizer",
+          "results": [
+            {
+              "title": "Shanmukha Sainath",
+              "url": "https://github.com/shanmukh05",
+              "excerpt": "# Shanmukha Sainath - Login: shanmukh05 - Company: Indian Institute of Technology Kharagpur - Location: IIT Kharagpur - Blog: https://www.tensorwrites.com/ - Public repos: 30 - Pub"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3160",
+      "census_row": "24888",
+      "name": "ModelDepot",
+      "queries": [
+        "\"ModelDepot\" student ambassador",
+        "\"ModelDepot\" campus ambassador advocate",
+        "\"ModelDepot\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"ModelDepot\" student ambassador",
+          "results": [
+            {
+              "title": "ModelDepot",
+              "url": "https://linkedin.com/company/modeldepot",
+              "excerpt": "# ModelDepot ModelDepot is a Software Development company. Headquartered in San Francisco, California, United States. ## About Open, Transparent Machine Learning for Engineers Disc"
+            }
+          ]
+        },
+        {
+          "query": "\"ModelDepot\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "ModelDepot: Find Machine Learning models that work right | BetaList",
+              "url": "https://betalist.com/startups/modeldepot",
+              "excerpt": "ModelDepot: Find Machine Learning models that work right | BetaList # ModelDepot ## Find Machine Learning models that work right out of the box ModelDepot lets you effortlessly fin"
+            }
+          ]
+        },
+        {
+          "query": "\"ModelDepot\" student fellow organizer",
+          "results": [
+            {
+              "title": "Harsh Sikka - Founder @ Fig AI & Manifold Research",
+              "url": "https://www.linkedin.com/in/harsh-sikka",
+              "excerpt": "# Harsh Sikka Founder @ Fig AI & Manifold Research | Affiliated AI Research Scientist @ Georgia Tech San Francisco Bay Area (US) ... ### [Georgia Institute of Technology](https://w"
+            }
+          ]
+        }
+      ],
+      "outcome": "Possible same-name ModelDepot domain surfaced; exact GitHub-account relationship and student program unverified."
+    },
+    {
+      "small_rank": "3161",
+      "census_row": "24889",
+      "name": "yooper",
+      "queries": [
+        "\"yooper\" student ambassador",
+        "\"yooper\" campus ambassador advocate",
+        "\"yooper\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"yooper\" student ambassador",
+          "results": [
+            {
+              "title": "Yooper Club - University of Michigan Maize Pages",
+              "url": "https://maizepages.umich.edu/organization/yoopers",
+              "excerpt": "Yooper Club - University of Michigan Maize Pages # Yooper Club ## About We are a club designed to connect students from the Upper Peninsula of Michigan. We strive to help students "
+            }
+          ]
+        },
+        {
+          "query": "\"yooper\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "alaska peterson",
+              "url": "https://linkedin.com/in/alaska-peterson-434a95330",
+              "excerpt": "# Alaska Peterson Media Specialist Bark River, Michigan, United States (US) 303 connections • 304 followers ## About I recently graduated from the University of Michigan school of "
+            }
+          ]
+        },
+        {
+          "query": "\"yooper\" student fellow organizer",
+          "results": [
+            {
+              "title": "SLFP connects students with Yoopers United, volunteer opportunities – The North Wind",
+              "url": "https://thenorthwindonline.com/3891356/news/slfp-connects-students-with-yoopers-united-volunteer-opportunities/",
+              "excerpt": "SLFP connects students with Yoopers United, volunteer opportunities – The North Wind # The North Wind # SLFP connects students with Yoopers United, volunteer opportunities LEADERSH"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3162",
+      "census_row": "24890",
+      "name": "ZachNagengast",
+      "queries": [
+        "\"ZachNagengast\" student ambassador",
+        "\"ZachNagengast\" campus ambassador advocate",
+        "\"ZachNagengast\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"ZachNagengast\" student ambassador",
+          "results": [
+            {
+              "title": "Zach Nagengast",
+              "url": "https://www.zachnagengast.com/",
+              "excerpt": "Zach Nagengast Hi, I’m Zach! I love creating great products ## Bio ### Zach Nagengast ##### Lives in Los Angeles, California Zach has been building products and businesses since hi"
+            }
+          ]
+        },
+        {
+          "query": "\"ZachNagengast\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Zach Nagengast",
+              "url": "https://zachnagengast.com/",
+              "excerpt": "Zach Nagengast Hi, I’m Zach! I love creating great ## Bio ### Zach Nagengast ##### Lives in Los Angeles, California Zach has been building products and businesses since his early c"
+            }
+          ]
+        },
+        {
+          "query": "\"ZachNagengast\" student fellow organizer",
+          "results": [
+            {
+              "title": "Zach Nagengast",
+              "url": "https://www.zachnagengast.com/",
+              "excerpt": "Hi, I’m Zach! ... ## Bio ### Zach Nagengast ##### Lives in Los Angeles, California Zach has been building products and businesses since his early childhood. Now he is primarily a t"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3163",
+      "census_row": "24891",
+      "name": "AnkleBreaker-Studio",
+      "queries": [
+        "\"AnkleBreaker-Studio\" student ambassador",
+        "\"AnkleBreaker-Studio\" campus ambassador advocate",
+        "\"AnkleBreaker-Studio\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"AnkleBreaker-Studio\" student ambassador",
+          "results": [
+            {
+              "title": "AnkleBreaker Studio | Independent game studio near Paris",
+              "url": "https://anklebreaker-studio.com/",
+              "excerpt": "AnkleBreaker Studio | Independent game studio near Paris # Made with love & tryhard. AnkleBreaker Studio is an independent game studio near Paris. We build multiplayer worlds, and "
+            }
+          ]
+        },
+        {
+          "query": "\"AnkleBreaker-Studio\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "About the studio | AnkleBreaker Studio",
+              "url": "https://anklebreaker-studio.com/about",
+              "excerpt": "About the studio | AnkleBreaker Studio # An independent studio near Paris. AnkleBreaker Studio is an independent game studio near Paris. We build multiplayer worlds, and the tools "
+            }
+          ]
+        },
+        {
+          "query": "\"AnkleBreaker-Studio\" student fellow organizer",
+          "results": [
+            {
+              "title": "About the studio | AnkleBreaker Studio",
+              "url": "https://anklebreaker-studio.com/about",
+              "excerpt": "# An independent studio near Paris. AnkleBreaker Studio is an independent game studio near Paris. We build multiplayer worlds, and the tools to forge them. Founded 2023 Where Near "
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3164",
+      "census_row": "24892",
+      "name": "estebanpdl",
+      "queries": [
+        "\"estebanpdl\" student ambassador",
+        "\"estebanpdl\" campus ambassador advocate",
+        "\"estebanpdl\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"estebanpdl\" student ambassador",
+          "results": [
+            {
+              "title": "Esteban Ponce de León (estebanpdl.bsky.social) on Starter Packs | Starter Packs",
+              "url": "https://www.starterpacks.net/profile/estebanpdl.bsky.social",
+              "excerpt": "Esteban Ponce de León (estebanpdl.bsky.social) on Starter Packs | Starter Packs # Esteban Ponce de León @estebanpdl.bsky.social Open-source analyst & digital researcher @DFRLab. Ha"
+            }
+          ]
+        },
+        {
+          "query": "\"estebanpdl\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Shaping Open-Source Research with AI-driven tools - DFRLab",
+              "url": "https://dfrlab.org/event/shaping-open-source-research-with-ai-driven-tools/",
+              "excerpt": "Shaping Open-Source Research with AI-driven tools - DFRLab ### 12/04/2023 9:30-11:00 AM ET ### Speakers ### Esteban Ponce de León Research Associate 12/04/2023 # Shaping Open-Sourc"
+            }
+          ]
+        },
+        {
+          "query": "\"estebanpdl\" student fellow organizer",
+          "results": [
+            {
+              "title": "Esteban Ponce de Leon",
+              "url": "https://github.com/estebanpdl",
+              "excerpt": "# Esteban Ponce de Leon - Login: estebanpdl - Location: MEXICO - Public repos: 11 - Public gists: 0 - Followers: 140 - Following: 11 - Joined: 2015-06-26T02:37:49Z ## Top Repositor"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3165",
+      "census_row": "24893",
+      "name": "jxmorris12",
+      "queries": [
+        "\"jxmorris12\" student ambassador",
+        "\"jxmorris12\" campus ambassador advocate",
+        "\"jxmorris12\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"jxmorris12\" student ambassador",
+          "results": [
+            {
+              "title": "Jack Morris",
+              "url": "https://github.com/jxmorris12",
+              "excerpt": "# Jack Morris Computer Science PhD Student at Cornell University. Interested in artificial intelligence and language. - Login: jxmorris12 - Location: New York, NY - Blog: jxmo.io -"
+            }
+          ]
+        },
+        {
+          "query": "\"jxmorris12\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Jack Morris",
+              "url": "https://github.com/jxmorris12",
+              "excerpt": "# Jack Morris Computer Science PhD Student at Cornell University. Interested in artificial intelligence and language. - Login: jxmorris12 - Location: New York, NY - Blog: jxmo.io -"
+            }
+          ]
+        },
+        {
+          "query": "\"jxmorris12\" student fellow organizer",
+          "results": [
+            {
+              "title": "Jack Morris",
+              "url": "https://github.com/jxmorris12",
+              "excerpt": "# Jack Morris Computer Science PhD Student at Cornell University. Interested in artificial intelligence and language. - Login: jxmorris12 - Location: New York, NY - Blog: jxmo.io -"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3166",
+      "census_row": "24894",
+      "name": "Annyfee",
+      "queries": [
+        "\"Annyfee\" student ambassador",
+        "\"Annyfee\" campus ambassador advocate",
+        "\"Annyfee\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"Annyfee\" student ambassador",
+          "results": [
+            {
+              "title": "再会",
+              "url": "https://github.com/Annyfee",
+              "excerpt": "# 再会 多看，多学 - Login: Annyfee - Location: 深圳 - Public repos: 7 - Public gists: 0 - Followers: 13 - Following: 0 - Joined: 2023-11-14T01:19:16Z ## Top Repositories - Annyfee/agent-cra"
+            }
+          ]
+        },
+        {
+          "query": "\"Annyfee\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "再会",
+              "url": "https://github.com/Annyfee",
+              "excerpt": "# 再会 多看，多学 - Login: Annyfee - Location: 深圳 - Public repos: 7 - Public gists: 0 - Followers: 13 - Following: 0 - Joined: 2023-11-14T01:19:16Z ## Top Repositories - Annyfee/agent-cra"
+            }
+          ]
+        },
+        {
+          "query": "\"Annyfee\" student fellow organizer",
+          "results": [
+            {
+              "title": "再会",
+              "url": "https://github.com/Annyfee",
+              "excerpt": "# 再会 多看，多学 - Login: Annyfee - Location: 深圳 - Public repos: 7 - Public gists: 0 - Followers: 13 - Following: 0 - Joined: 2023-11-14T01:19:16Z ## Top Repositories - Annyfee/agent-cra"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3167",
+      "census_row": "24895",
+      "name": "EDCD",
+      "queries": [
+        "\"EDCD\" student ambassador",
+        "\"EDCD\" campus ambassador advocate",
+        "\"EDCD\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"EDCD\" student ambassador",
+          "results": [
+            {
+              "title": "Open call for Capsules for #edcd II: II Meeting of Design and Digital Culture | Medialab-Matadero Madrid",
+              "url": "https://www.medialab-matadero.es/en/news/open-call-capsules-edcd-ii-ii-meeting-design-and-digital-culture-1",
+              "excerpt": "# Open call for Capsules for #edcd II: II Meeting of Design and Digital Culture > ¿Qué es una Cápsula? > Cómo participar en Cápsulas > Criterios de selección > Comité de selección "
+            }
+          ]
+        },
+        {
+          "query": "\"EDCD\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Eating Disorder Center of Denver to Educate More Students",
+              "url": "https://www.einpresswire.com/article/82109949/eating-disorder-center-of-denver-to-educate-more-students",
+              "excerpt": "The Eating Disorder Center of Denver (EDCD), a Colorado-based eating disorder treatment facility, is thrilled to partner with the National Eating Disorder Association (NEDA) in pro"
+            }
+          ]
+        },
+        {
+          "query": "\"EDCD\" student fellow organizer",
+          "results": [
+            {
+              "title": "#edcd. Open Call for Capsules. 1st Design and Digital Culture Conference | Medialab-Matadero Madrid",
+              "url": "https://www.medialab-matadero.es/en/news/edcd-open-call-capsules-1st-design-and-digital-culture-conference-1",
+              "excerpt": "#edcd pretende crear un espacio de comunicación entre distintas entidades educativas, profesores y alumnos de diseño. Su objetivo es fomentar el intercambio de conocimientos y expe"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3168",
+      "census_row": "24896",
+      "name": "PiSugar",
+      "queries": [
+        "\"PiSugar\" student ambassador",
+        "\"PiSugar\" campus ambassador advocate",
+        "\"PiSugar\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"PiSugar\" student ambassador",
+          "results": [
+            {
+              "title": "PiSugar - Raspberry Pi Battery for 5B/4B/3B/zero(2)\n – PiSugar Kitchen",
+              "url": "https://www.pisugar.com/",
+              "excerpt": "PiSugar - Raspberry Pi Battery for 5B/4B/3B/zero(2) – PiSugar Kitchen ## Make ## Featured Products - ### Whisplay HAT for Raspberry Pi Zero / Zero 2 W / Raspberry Pi 5 – Audio + Di"
+            }
+          ]
+        },
+        {
+          "query": "\"PiSugar\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "PiSugar - Raspberry Pi Battery for 5B/4B/3B/zero(2)\n – PiSugar Kitchen",
+              "url": "https://www.pisugar.com/",
+              "excerpt": "PiSugar - Raspberry Pi Battery for 5B/4B/3B/zero(2) – PiSugar Kitchen ## Make ## Featured Products - ### Whisplay HAT for Raspberry Pi Zero / Zero 2 W / Raspberry Pi 5 – Audio + Di"
+            }
+          ]
+        },
+        {
+          "query": "\"PiSugar\" student fellow organizer",
+          "results": [
+            {
+              "title": "PiSugar",
+              "url": "https://makerdays.nl/maker/pisugar/",
+              "excerpt": "## PiSugar PiSugar is een batterijmodule die is ontworpen voor Raspberry Pi en die snelle prototyping van draagbare producten mogelijk maakt. Het heeft een compact ontwerp met cont"
+            }
+          ]
+        }
+      ],
+      "outcome": "Official product/community locator only; no student participation route verified."
+    },
+    {
+      "small_rank": "3169",
+      "census_row": "24897",
+      "name": "Justin-Tan",
+      "queries": [
+        "\"Justin-Tan\" student ambassador",
+        "\"Justin-Tan\" campus ambassador advocate",
+        "\"Justin-Tan\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"Justin-Tan\" student ambassador",
+          "results": [
+            {
+              "title": "Justin Tan",
+              "url": "https://linkedin.com/in/justin-tan-85342668",
+              "excerpt": "# Justin Tan Electrical Engineering Student at The University of Manchester Greater Manchester, England, United Kingdom (GB) 500 connections • 1,637 followers ## About Electrical E"
+            }
+          ]
+        },
+        {
+          "query": "\"Justin-Tan\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Justin Tan - School of Public Policy & Administration",
+              "url": "https://www.yorku.ca/laps/sppa/student-profile/justin-tan/",
+              "excerpt": "# Justin Tan Posted on 17 November 2020 # Justin Tan Bachelor of Public Administration (BPA) Spec. Honours Hello, Hello everyone! My name is Justin Tan, and I am currently a first "
+            }
+          ]
+        },
+        {
+          "query": "\"Justin-Tan\" student fellow organizer",
+          "results": [
+            {
+              "title": "Service Learning: Bags to Beds Initiative | Upper Canada College",
+              "url": "https://www.ucc.on.ca/Bags-to-Beds-addresses-societal-problem-of-homelessness",
+              "excerpt": "Noting a growing global crisis, Year 12 student Matthew Tong has created an innovative and compassionate initiative. ... The initiative, dubbed Bags to Beds, got a major boost when"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3170",
+      "census_row": "24898",
+      "name": "thp",
+      "queries": [
+        "\"thp\" student ambassador",
+        "\"thp\" campus ambassador advocate",
+        "\"thp\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"thp\" student ambassador",
+          "results": [
+            {
+              "title": "High School Senior Ambassador Program | Class of 2016",
+              "url": "https://www.toddhillerphotography.com/blog/2015/2/todd-hiller-photography-high-school-senior-ambassador-program-class-of-2016",
+              "excerpt": "# Todd Hiller Photography | High School Senior Ambassador Program | Class of 2016 Class of 2016, the Todd Hiller Photography Senior Portrait Ambassador search has begun. Todd Hille"
+            }
+          ]
+        },
+        {
+          "query": "\"thp\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "FeelGood – The Hunger Project",
+              "url": "https://thp.org/make-an-impact/feelgood/",
+              "excerpt": "### The Next Generation of Leaders Creating a World Without Hunger #### Program Overview FeelGood is The Hunger Project’s youth leadership program, mobilizing university students t"
+            }
+          ]
+        },
+        {
+          "query": "\"thp\" student fellow organizer",
+          "results": [
+            {
+              "title": "The Haynesville Project | THP Fellow Stacey-Ann Robinson",
+              "url": "https://www.thehaynesvilleproject.org/blogs/fellows/one-thp-fellows-student-driven-work",
+              "excerpt": "The Haynesville Project | THP Fellow Stacey-Ann Robinson # One THP Fellows' Student-Driven Work ## One THP Fellows' Student-Driven Work November 29, 2023 People at Colby have known"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3171",
+      "census_row": "24899",
+      "name": "jasoncao11",
+      "queries": [
+        "\"jasoncao11\" student ambassador",
+        "\"jasoncao11\" campus ambassador advocate",
+        "\"jasoncao11\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"jasoncao11\" student ambassador",
+          "results": [
+            {
+              "title": "jasoncao11",
+              "url": "https://github.com/jasoncao11",
+              "excerpt": "# jasoncao11 - Login: jasoncao11 - Public repos: 28 - Public gists: 0 - Followers: 22 - Following: 0 - Joined: 2016-03-01T06:36:16Z ## Top Repositories - jasoncao11/nlp-notebook - "
+            }
+          ]
+        },
+        {
+          "query": "\"jasoncao11\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "jasoncao11",
+              "url": "https://github.com/jasoncao11",
+              "excerpt": "# jasoncao11 - Login: jasoncao11 - Public repos: 28 - Public gists: 0 - Followers: 22 - Following: 0 - Joined: 2016-03-01T06:36:16Z ## Top Repositories - jasoncao11/nlp-notebook - "
+            }
+          ]
+        },
+        {
+          "query": "\"jasoncao11\" student fellow organizer",
+          "results": [
+            {
+              "title": "jasoncao11",
+              "url": "https://github.com/jasoncao11",
+              "excerpt": "# jasoncao11 - Login: jasoncao11 - Public repos: 28 - Public gists: 0 - Followers: 22 - Following: 0 - Joined: 2016-03-01T06:36:16Z ## Top Repositories - jasoncao11/nlp-notebook - "
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3172",
+      "census_row": "24900",
+      "name": "kklt92",
+      "queries": [
+        "\"kklt92\" student ambassador",
+        "\"kklt92\" campus ambassador advocate",
+        "\"kklt92\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"kklt92\" student ambassador",
+          "results": [
+            {
+              "title": "kklt92",
+              "url": "https://github.com/kklt92",
+              "excerpt": "# kklt92 - Login: kklt92 - Company: Amazon Web Services @aws - Location: Seattle, WA - Public repos: 37 - Public gists: 0 - Followers: 16 - Following: 9 - Joined: 2011-08-17T00:43:"
+            }
+          ]
+        },
+        {
+          "query": "\"kklt92\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "kklt92",
+              "url": "https://github.com/kklt92",
+              "excerpt": "# kklt92 - Login: kklt92 - Company: Amazon Web Services @aws - Location: Seattle, WA - Public repos: 37 - Public gists: 0 - Followers: 16 - Following: 9 - Joined: 2011-08-17T00:43:"
+            }
+          ]
+        },
+        {
+          "query": "\"kklt92\" student fellow organizer",
+          "results": [
+            {
+              "title": "kklt92",
+              "url": "https://github.com/kklt92",
+              "excerpt": "# kklt92 - Login: kklt92 - Company: Amazon Web Services @aws - Location: Seattle, WA - Public repos: 37 - Public gists: 0 - Followers: 16 - Following: 9 - Joined: 2011-08-17T00:43:"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3173",
+      "census_row": "24901",
+      "name": "sv-number",
+      "queries": [
+        "\"sv-number\" student ambassador",
+        "\"sv-number\" campus ambassador advocate",
+        "\"sv-number\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"sv-number\" student ambassador",
+          "results": [
+            {
+              "title": "Stokin",
+              "url": "https://github.com/sv-number",
+              "excerpt": "# Stokin - Login: sv-number - Public repos: 8 - Public gists: 3 - Followers: 2 - Following: 0 - Joined: 2026-07-04T17:38:36Z ## Top Repositories - sv-number/mcp-server - MCP server"
+            }
+          ]
+        },
+        {
+          "query": "\"sv-number\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Phone numbers for AI agents via MCP and API - SV Number",
+              "url": "https://sms-verification-number.com/en/number-for-ai-agents/",
+              "excerpt": "# Phone numbers for AI agents through MCP and API SV Number provides AI agents with temporary phone numbers for receiving SMS verification codes via its Model Context Protocol (MCP"
+            }
+          ]
+        },
+        {
+          "query": "\"sv-number\" student fellow organizer",
+          "results": [
+            {
+              "title": "Stokin",
+              "url": "https://github.com/sv-number",
+              "excerpt": "# Stokin - Login: sv-number - Public repos: 8 - Public gists: 3 - Followers: 2 - Following: 0 - Joined: 2026-07-04T17:38:36Z ## Top Repositories - sv-number/mcp-server - MCP server"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3174",
+      "census_row": "24902",
+      "name": "ttlequals0",
+      "queries": [
+        "\"ttlequals0\" student ambassador",
+        "\"ttlequals0\" campus ambassador advocate",
+        "\"ttlequals0\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"ttlequals0\" student ambassador",
+          "results": [
+            {
+              "title": "TTLequals0",
+              "url": "https://ttlequals0.com/",
+              "excerpt": "TTLequals0 # TTLequals0 MinusPod PixelProbe"
+            }
+          ]
+        },
+        {
+          "query": "\"ttlequals0\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "TTLequals0",
+              "url": "https://ttlequals0.com/",
+              "excerpt": "TTLequals0 # TTLequals0 MinusPod PixelProbe"
+            }
+          ]
+        },
+        {
+          "query": "\"ttlequals0\" student fellow organizer",
+          "results": [
+            {
+              "title": "TTLequals0",
+              "url": "https://ttlequals0.com/",
+              "excerpt": "TTLequals0 # TTLequals0 MinusPod PixelProbe"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3175",
+      "census_row": "24903",
+      "name": "Visionary-Laboratory",
+      "queries": [
+        "\"Visionary-Laboratory\" student ambassador",
+        "\"Visionary-Laboratory\" campus ambassador advocate",
+        "\"Visionary-Laboratory\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"Visionary-Laboratory\" student ambassador",
+          "results": [
+            {
+              "title": "profile/README.md",
+              "url": "https://github.com/Visionary-Laboratory/.github/blob/main/profile/README.md",
+              "excerpt": "# profile/README.md - Branch: main - Repository: Visionary-Laboratory/.github"
+            }
+          ]
+        },
+        {
+          "query": "\"Visionary-Laboratory\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "zzh-tech/zzh-tech",
+              "url": "https://github.com/zzh-tech/zzh-tech",
+              "excerpt": "## Top Contributors - zzh-tech (36 contributions) ... ## README **Hi there** 👋 - 🌱 I am an Associate Professor at the School of Artificial Intelligence, Shanghai Jiao Tong Univer"
+            }
+          ]
+        },
+        {
+          "query": "\"Visionary-Laboratory\" student fellow organizer",
+          "results": [
+            {
+              "title": "Visionary-Laboratory",
+              "url": "https://github.com/visionary-laboratory",
+              "excerpt": "# Visionary-Laboratory Visionary Laboratory (空间多媒体实验室) at Shanghai Jiao Tong University, led by Prof. Zhihang Zhong. - Login: Visionary-Laboratory - Location: China - Blog: https:/"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3176",
+      "census_row": "24904",
+      "name": "BaYue-SYJ",
+      "queries": [
+        "\"BaYue-SYJ\" student ambassador",
+        "\"BaYue-SYJ\" campus ambassador advocate",
+        "\"BaYue-SYJ\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"BaYue-SYJ\" student ambassador",
+          "results": [
+            {
+              "title": "KGOD",
+              "url": "https://github.com/BaYue-SYJ",
+              "excerpt": "# KGOD - Login: BaYue-SYJ - Public repos: 21 - Public gists: 1 - Followers: 5 - Following: 1 - Joined: 2022-11-28T07:46:24Z ## Top Repositories - BaYue-SYJ/shuixian-prompts - 水仙的AI"
+            }
+          ]
+        },
+        {
+          "query": "\"BaYue-SYJ\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "KGOD",
+              "url": "https://github.com/BaYue-SYJ",
+              "excerpt": "# KGOD - Login: BaYue-SYJ - Public repos: 21 - Public gists: 1 - Followers: 5 - Following: 1 - Joined: 2022-11-28T07:46:24Z ## Top Repositories - BaYue-SYJ/shuixian-prompts - 水仙的AI"
+            }
+          ]
+        },
+        {
+          "query": "\"BaYue-SYJ\" student fellow organizer",
+          "results": [
+            {
+              "title": "KGOD",
+              "url": "https://github.com/BaYue-SYJ",
+              "excerpt": "# KGOD - Login: BaYue-SYJ - Public repos: 21 - Public gists: 1 - Followers: 5 - Following: 1 - Joined: 2022-11-28T07:46:24Z ## Top Repositories - BaYue-SYJ/shuixian-prompts - 水仙的AI"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3177",
+      "census_row": "24905",
+      "name": "Curated-Awesome-Lists",
+      "queries": [
+        "\"Curated-Awesome-Lists\" student ambassador",
+        "\"Curated-Awesome-Lists\" campus ambassador advocate",
+        "\"Curated-Awesome-Lists\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"Curated-Awesome-Lists\" student ambassador",
+          "results": [
+            {
+              "title": "Curated-Awesome-Lists/GPT-Awesome-List-Generator",
+              "url": "https://github.com/Curated-Awesome-Lists/GPT-Awesome-List-Generator",
+              "excerpt": "# Curated-Awesome-Lists/GPT-Awesome-List-Generator A powerful and automatic awesome list generator leveraging GPT models. Enter your keyword and its description to get a comprehens"
+            }
+          ]
+        },
+        {
+          "query": "\"Curated-Awesome-Lists\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Curated-Awesome-Lists/GPT-Awesome-List-Generator",
+              "url": "https://github.com/Curated-Awesome-Lists/GPT-Awesome-List-Generator",
+              "excerpt": "# Curated-Awesome-Lists/GPT-Awesome-List-Generator A powerful and automatic awesome list generator leveraging GPT models. Enter your keyword and its description to get a comprehens"
+            }
+          ]
+        },
+        {
+          "query": "\"Curated-Awesome-Lists\" student fellow organizer",
+          "results": [
+            {
+              "title": "Curated-Awesome-Lists/GPT-Awesome-List-Generator",
+              "url": "https://github.com/Curated-Awesome-Lists/GPT-Awesome-List-Generator",
+              "excerpt": "# Curated-Awesome-Lists/GPT-Awesome-List-Generator A powerful and automatic awesome list generator leveraging GPT models. Enter your keyword and its description to get a comprehens"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3178",
+      "census_row": "24906",
+      "name": "CoWork-OS",
+      "queries": [
+        "\"CoWork-OS\" student ambassador",
+        "\"CoWork-OS\" campus ambassador advocate",
+        "\"CoWork-OS\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"CoWork-OS\" student ambassador",
+          "results": [
+            {
+              "title": "Teaching, cohorts, and “vibe coding” education | CoWork OS",
+              "url": "https://coworkosapp.com/use-cases/teaching-learning-and-cohorts/",
+              "excerpt": "Teaching, cohorts, and “vibe coding” education | CoWork OS # Teaching, cohorts, and “vibe coding” education Support students and bootcamps with structured prompts, safe sandboxes, "
+            }
+          ]
+        },
+        {
+          "query": "\"CoWork-OS\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Teaching, cohorts, and “vibe coding” education | CoWork OS",
+              "url": "https://coworkosapp.com/use-cases/teaching-learning-and-cohorts/",
+              "excerpt": "Teaching, cohorts, and “vibe coding” education | CoWork OS # Teaching, cohorts, and “vibe coding” education Support students and bootcamps with structured prompts, safe sandboxes, "
+            }
+          ]
+        },
+        {
+          "query": "\"CoWork-OS\" student fellow organizer",
+          "results": [
+            {
+              "title": "CoWork OS · FellowMakers.app",
+              "url": "https://fellowmakers.app/projects/cowork-os",
+              "excerpt": "CoWork OS · FellowMakers.app # CoWork OS A local-first agent workspace for coding, knowledge work, automation and generated artifacts. > I'm building CoWork OS for this: an open-so"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3179",
+      "census_row": "24907",
+      "name": "Calcium-Ion",
+      "queries": [
+        "\"Calcium-Ion\" student ambassador",
+        "\"Calcium-Ion\" campus ambassador advocate",
+        "\"Calcium-Ion\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"Calcium-Ion\" student ambassador",
+          "results": [
+            {
+              "title": "Calcium-Ion",
+              "url": "https://github.com/Calcium-Ion?tab=achievements",
+              "excerpt": "# Calcium-Ion 你打开一本魔法书，随便挑一个咒语，自己都不怎么知道是干嘛用的。这就是魔法！ - Login: Calcium-Ion - Public repos: 48 - Public gists: 0 - Followers: 518 - Following: 40 - Joined: 2020-02-19T18:12:48Z ## Top"
+            }
+          ]
+        },
+        {
+          "query": "\"Calcium-Ion\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "merge 428 · Pull Request #628 · QuantumNous/new-api",
+              "url": "https://github.com/Calcium-Ion/new-api/pull/628",
+              "excerpt": "# Pull Request: QuantumNous/new-api #628 - Repository: QuantumNous/new-api | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into O"
+            }
+          ]
+        },
+        {
+          "query": "\"Calcium-Ion\" student fellow organizer",
+          "results": [
+            {
+              "title": "lloydchang/Calcium-Ion-new-api",
+              "url": "https://github.com/lloydchang/Calcium-Ion-new-api",
+              "excerpt": "# lloydchang/Calcium-Ion-new-api AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。 - Stars: 1 - Forks: 0 - Watchers: 1"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3180",
+      "census_row": "24908",
+      "name": "kOlapsis",
+      "queries": [
+        "\"kOlapsis\" student ambassador",
+        "\"kOlapsis\" campus ambassador advocate",
+        "\"kOlapsis\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"kOlapsis\" student ambassador",
+          "results": [
+            {
+              "title": "Benjamin Touchard",
+              "url": "https://linkedin.com/in/benjamin-touchard",
+              "excerpt": "# Benjamin Touchard CTO Freelance · Dev et infra · Lauréat Hyper Open X - France 2030 Bordeaux, Nouvelle-Aquitaine, France (FR) 500 connections • 2,269 followers ... ### Architecte"
+            }
+          ]
+        },
+        {
+          "query": "\"kOlapsis\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Benjamin Touchard",
+              "url": "https://linkedin.com/in/benjamin-touchard",
+              "excerpt": "# Benjamin Touchard CTO Freelance · Dev et infra · Lauréat Hyper Open X - France 2030 Bordeaux, Nouvelle-Aquitaine, France (FR) 500 connections • 2,269 followers ## About Vous avez"
+            }
+          ]
+        },
+        {
+          "query": "\"kOlapsis\" student fellow organizer",
+          "results": [
+            {
+              "title": "Benjamin Touchard",
+              "url": "https://linkedin.com/in/benjamin-touchard",
+              "excerpt": "# Benjamin Touchard CTO Freelance · Dev et infra · Lauréat Hyper Open X - France 2030 Bordeaux, Nouvelle-Aquitaine, France (FR) 500 connections • 2,269 followers ## About Vous avez"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3181",
+      "census_row": "24909",
+      "name": "basveeling",
+      "queries": [
+        "\"basveeling\" student ambassador",
+        "\"basveeling\" campus ambassador advocate",
+        "\"basveeling\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"basveeling\" student ambassador",
+          "results": [
+            {
+              "title": "Bas Veeling at Microsoft Research",
+              "url": "https://www.microsoft.com/en-us/research/people/basveeling/",
+              "excerpt": "Bas Veeling at Microsoft Research # Bas Veeling Senior Research Engineer ## About I’m a Senior Research Engineer at Microsoft Research Amsterdam where I work on machine learning fo"
+            }
+          ]
+        },
+        {
+          "query": "\"basveeling\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Bas Veeling at Microsoft Research",
+              "url": "https://www.microsoft.com/en-us/research/people/basveeling/",
+              "excerpt": "Bas Veeling at Microsoft Research # Bas Veeling Senior Research Engineer ## About I’m a Senior Research Engineer at Microsoft Research Amsterdam where I work on machine learning fo"
+            }
+          ]
+        },
+        {
+          "query": "\"basveeling\" student fellow organizer",
+          "results": [
+            {
+              "title": "bastiaan s. veeling",
+              "url": "https://linkedin.com/in/bas-veeling-02737a27",
+              "excerpt": "# Bastiaan S. Veeling Senior Research Engineer at Microsoft Research Amsterdam Amsterdam, North Holland, Netherlands (NL) ... ### PhD Student Machine Learning for Health - [Univers"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3182",
+      "census_row": "24910",
+      "name": "Omegastick",
+      "queries": [
+        "\"Omegastick\" student ambassador",
+        "\"Omegastick\" campus ambassador advocate",
+        "\"Omegastick\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"Omegastick\" student ambassador",
+          "results": [
+            {
+              "title": "@omegastick on Indie Hackers",
+              "url": "https://www.indiehackers.com/omegastick",
+              "excerpt": "@omegastick on Indie Hackers ## Recent activity Feb 28, 2023 commented on a post How much time do you spend on marketing compared to building/designing/developing?"
+            }
+          ]
+        },
+        {
+          "query": "\"Omegastick\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "@omegastick on Indie Hackers",
+              "url": "https://www.indiehackers.com/omegastick",
+              "excerpt": "@omegastick on Indie Hackers ## Recent activity Feb 28, 2023 commented on a post How much time do you spend on marketing compared to building/designing/developing?"
+            }
+          ]
+        },
+        {
+          "query": "\"Omegastick\" student fellow organizer",
+          "results": [
+            {
+              "title": "Omegastick",
+              "url": "https://stackoverflow.com/users/5905951/omegastick",
+              "excerpt": "# Omegastick - Reputation: 1951 - Badges: 1 gold, 23 silver, 39 bronze - Location: Birmingham, UK - Website: - Member since: 2016-02-10 - Site: stackoverflow - Accept rate: 80%"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3183",
+      "census_row": "24911",
+      "name": "torch-uncertainty",
+      "queries": [
+        "\"torch-uncertainty\" student ambassador",
+        "\"torch-uncertainty\" campus ambassador advocate",
+        "\"torch-uncertainty\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"torch-uncertainty\" student ambassador",
+          "results": [
+            {
+              "title": "torch-uncertainty/torch-uncertainty",
+              "url": "https://github.com/torch-uncertainty/torch-uncertainty/",
+              "excerpt": "# torch-uncertainty/torch-uncertainty Open-source framework for uncertainty and deep learning models in PyTorch 🌱 - Stars: 527 - Forks: 48 - Watchers: 527 - Open issues: 25 - Lice"
+            }
+          ]
+        },
+        {
+          "query": "\"torch-uncertainty\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "torch-uncertainty/torch-uncertainty",
+              "url": "https://github.com/torch-uncertainty/torch-uncertainty",
+              "excerpt": "Open-source framework for uncertainty and deep learning models in PyTorch 🌱 ... _TorchUncertainty_ is a package designed to help leverage uncertainty quantification techniques to "
+            }
+          ]
+        },
+        {
+          "query": "\"torch-uncertainty\" student fellow organizer",
+          "results": [
+            {
+              "title": "Gianni Franchi",
+              "url": "https://giannifranchi.github.io/",
+              "excerpt": "Gianni Franchi 🚀 We are hiring! Multiple Postdoc and Permanent positions are available within my group. (Please note: Due to lab security requirements, these positions are open to"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3184",
+      "census_row": "24912",
+      "name": "IvanDrokin",
+      "queries": [
+        "\"IvanDrokin\" student ambassador",
+        "\"IvanDrokin\" campus ambassador advocate",
+        "\"IvanDrokin\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"IvanDrokin\" student ambassador",
+          "results": [
+            {
+              "title": "Пользователи - Минусинский педагогический колледж",
+              "url": "https://www.minuspk.ru/?mode=users&user=8702",
+              "excerpt": "Пользователи - Минусинский педагогический колледж # Личная страница Список всех участников ivandrokin #### Профиль | Логин | ivandrokin | | --- | --- | | ФИО | Дрокин Иван Александ"
+            }
+          ]
+        },
+        {
+          "query": "\"IvanDrokin\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "ivan drokin",
+              "url": "https://linkedin.com/in/ivandrokin",
+              "excerpt": "# Ivan Drokin Software Engineer – Telegram @ivandrokin Porto, Porto, Portugal (PT) 500 connections • 1,680 followers ## About Senior Backend Engineer with 6+ years of experience de"
+            }
+          ]
+        },
+        {
+          "query": "\"IvanDrokin\" student fellow organizer",
+          "results": [
+            {
+              "title": "Пользователи - Минусинский педагогический колледж",
+              "url": "https://www.minuspk.ru/?mode=users&user=8702",
+              "excerpt": "Пользователи - Минусинский педагогический колледж # Личная страница Список всех участников ivandrokin #### Профиль | Логин | ivandrokin | | --- | --- | | ФИО | Дрокин Иван Александ"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3185",
+      "census_row": "24913",
+      "name": "clawwork-ai",
+      "queries": [
+        "\"clawwork-ai\" student ambassador",
+        "\"clawwork-ai\" campus ambassador advocate",
+        "\"clawwork-ai\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"clawwork-ai\" student ambassador",
+          "results": [
+            {
+              "title": "ClawWork — The Task Workbench for OpenClaw - Slidev",
+              "url": "https://clawwork-ai.github.io/ClawWork/keynote/",
+              "excerpt": "ClawWork — The Task Workbench for OpenClaw - Slidev # ClawWork The Task Workbench for OpenClaw samzong· Updated 2026-03-27 Not a better chat window. A parallel task workbench. # 👋"
+            }
+          ]
+        },
+        {
+          "query": "\"clawwork-ai\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "ClawWork — The Task Workbench for OpenClaw - Slidev",
+              "url": "https://clawwork-ai.github.io/ClawWork/keynote/",
+              "excerpt": "ClawWork — The Task Workbench for OpenClaw - Slidev # ClawWork The Task Workbench for OpenClaw samzong· Updated 2026-03-27 Not a better chat window. A parallel task workbench. # 👋"
+            }
+          ]
+        },
+        {
+          "query": "\"clawwork-ai\" student fellow organizer",
+          "results": [
+            {
+              "title": "ClawWork — The Task Workbench for OpenClaw - Slidev",
+              "url": "https://clawwork-ai.github.io/ClawWork/keynote/",
+              "excerpt": "ClawWork — The Task Workbench for OpenClaw - Slidev # ClawWork The Task Workbench for OpenClaw samzong· Updated 2026-03-27 Not a better chat window. A parallel task workbench. # 👋"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3186",
+      "census_row": "24914",
+      "name": "jazzenchen",
+      "queries": [
+        "\"jazzenchen\" student ambassador",
+        "\"jazzenchen\" campus ambassador advocate",
+        "\"jazzenchen\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"jazzenchen\" student ambassador",
+          "results": [
+            {
+              "title": "Jazzen Chen",
+              "url": "https://github.com/jazzenchen",
+              "excerpt": "# Jazzen Chen Vibe Coding Practitioner · AI Native Product Builder · Technical Co-founder · Full-stack Developer · Spatial Computing Explorer · B2B Workflow Architect - Login: jazz"
+            }
+          ]
+        },
+        {
+          "query": "\"jazzenchen\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Jazzen Chen",
+              "url": "https://github.com/jazzenchen",
+              "excerpt": "# Jazzen Chen Vibe Coding Practitioner · AI Native Product Builder · Technical Co-founder · Full-stack Developer · Spatial Computing Explorer · B2B Workflow Architect - Login: jazz"
+            }
+          ]
+        },
+        {
+          "query": "\"jazzenchen\" student fellow organizer",
+          "results": [
+            {
+              "title": "Jazzen Chen",
+              "url": "https://github.com/jazzenchen",
+              "excerpt": "# Jazzen Chen Vibe Coding Practitioner · AI Native Product Builder · Technical Co-founder · Full-stack Developer · Spatial Computing Explorer · B2B Workflow Architect - Login: jazz"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3187",
+      "census_row": "24915",
+      "name": "tak-bro",
+      "queries": [
+        "\"tak-bro\" student ambassador",
+        "\"tak-bro\" campus ambassador advocate",
+        "\"tak-bro\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"tak-bro\" student ambassador",
+          "results": [
+            {
+              "title": "Tak",
+              "url": "https://github.com/tak-bro",
+              "excerpt": "# Tak - Login: tak-bro - Location: Seoul, Korea - Blog: https://env-tak.github.io - Public repos: 90 - Public gists: 8 - Followers: 68 - Following: 27 - Joined: 2014-05-18T00:26:47"
+            }
+          ]
+        },
+        {
+          "query": "\"tak-bro\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Tak",
+              "url": "https://github.com/tak-bro",
+              "excerpt": "# Tak - Login: tak-bro - Location: Seoul, Korea - Blog: https://env-tak.github.io - Public repos: 90 - Public gists: 8 - Followers: 68 - Following: 27 - Joined: 2014-05-18T00:26:47"
+            }
+          ]
+        },
+        {
+          "query": "\"tak-bro\" student fellow organizer",
+          "results": [
+            {
+              "title": "Tak",
+              "url": "https://github.com/tak-bro",
+              "excerpt": "# Tak - Login: tak-bro - Location: Seoul, Korea - Blog: https://env-tak.github.io - Public repos: 90 - Public gists: 8 - Followers: 68 - Following: 27 - Joined: 2014-05-18T00:26:47"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3188",
+      "census_row": "24916",
+      "name": "ccoreilly",
+      "queries": [
+        "\"ccoreilly\" student ambassador",
+        "\"ccoreilly\" campus ambassador advocate",
+        "\"ccoreilly\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"ccoreilly\" student ambassador",
+          "results": [
+            {
+              "title": "ccoreilly (Ciaran O'Reilly)",
+              "url": "https://huggingface.co/ccoreilly",
+              "excerpt": "ccoreilly (Ciaran O'Reilly) 7 # Ciaran O'Reilly ccoreilly quimroig's profile picture Baybars's profile picture Jarbas's profile picture 4 followers 3 following https://oreilly.cat "
+            }
+          ]
+        },
+        {
+          "query": "\"ccoreilly\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "ccoreilly (Ciaran O'Reilly)",
+              "url": "https://huggingface.co/ccoreilly",
+              "excerpt": "ccoreilly (Ciaran O'Reilly) 7 # Ciaran O'Reilly ccoreilly quimroig's profile picture Baybars's profile picture Jarbas's profile picture 4 followers 3 following https://oreilly.cat "
+            }
+          ]
+        },
+        {
+          "query": "\"ccoreilly\" student fellow organizer",
+          "results": [
+            {
+              "title": "Profile: ccoreilly | Hacker News",
+              "url": "https://news.ycombinator.com/user?id=ccoreilly",
+              "excerpt": "Profile: ccoreilly | Hacker News | user: | ccoreilly | | --- | --- | | created: | July 9, 2022 | | karma: | 24 | | about: | | | | submissions | | | comments | | | favorites |"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3189",
+      "census_row": "24917",
+      "name": "evanhu1",
+      "queries": [
+        "\"evanhu1\" student ambassador",
+        "\"evanhu1\" campus ambassador advocate",
+        "\"evanhu1\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"evanhu1\" student ambassador",
+          "results": [
+            {
+              "title": "Evan Hu",
+              "url": "https://linkedin.com/in/evanhu1",
+              "excerpt": "# Evan Hu cofounder @ Epsilab San Francisco, California, United States (US) 500 connections • 3,067 followers ## About Follow me on X: x.com/vanders3nn Total Experience: 3 years an"
+            }
+          ]
+        },
+        {
+          "query": "\"evanhu1\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "evan hu",
+              "url": "https://linkedin.com/in/evanhu1",
+              "excerpt": "# Evan Hu cofounder @ Epsilab San Francisco, California, United States (US) 500 connections • 3,067 followers ## About Follow me on X: x.com/vanders3nn Total Experience: 3 years an"
+            }
+          ]
+        },
+        {
+          "query": "\"evanhu1\" student fellow organizer",
+          "results": [
+            {
+              "title": "evan hu",
+              "url": "https://linkedin.com/in/evanhu1",
+              "excerpt": "# Evan Hu cofounder @ Epsilab San Francisco, California, United States (US) 500 connections • 3,067 followers ... ### Co-Founder - [Epsilab](https://www.linkedin.com/company/epsila"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3190",
+      "census_row": "24918",
+      "name": "Bytedesk",
+      "queries": [
+        "\"Bytedesk\" student ambassador",
+        "\"Bytedesk\" campus ambassador advocate",
+        "\"Bytedesk\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"Bytedesk\" student ambassador",
+          "results": [
+            {
+              "title": "ByteDesk",
+              "url": "https://linkedin.com/company/bytedesk",
+              "excerpt": "# ByteDesk ByteDesk is a Technology, Information and Internet company. ByteDesk employs 1 person, founded in 2011. ## About ByteDesk - Sentémonos a hablar de bytes. Somos un blog c"
+            }
+          ]
+        },
+        {
+          "query": "\"Bytedesk\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "ByteDesk | The Operating Suite for AI-Powered Business",
+              "url": "https://www.bytedesk.ai/community",
+              "excerpt": "ByteDesk | The Operating Suite for AI-Powered Business # Join the Conversation Connect around practical small-business growth work: marketing, software, automation, AI, and the ope"
+            }
+          ]
+        },
+        {
+          "query": "\"Bytedesk\" student fellow organizer",
+          "results": [
+            {
+              "title": "ByteDesk",
+              "url": "https://linkedin.com/company/bytedesk",
+              "excerpt": "# ByteDesk ByteDesk is a Technology, Information and Internet company. ByteDesk employs 1 person, founded in 2011. ## About ByteDesk - Sentémonos a hablar de bytes. Somos un blog c"
+            }
+          ]
+        }
+      ],
+      "outcome": "Official community and operator roundtables documented, but aimed at business operators; no student-specific participation route surfaced."
+    },
+    {
+      "small_rank": "3191",
+      "census_row": "24919",
+      "name": "patch-gg",
+      "queries": [
+        "\"patch-gg\" student ambassador",
+        "\"patch-gg\" campus ambassador advocate",
+        "\"patch-gg\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"patch-gg\" student ambassador",
+          "results": [
+            {
+              "title": "Patch · Build and play",
+              "url": "https://patch.gg/",
+              "excerpt": "Patch · Build and play # build and play. Patch is a Windows app for playing and building games and mods. ## 50,000 open-source assets. The biggest library of open-source, game-read"
+            }
+          ]
+        },
+        {
+          "query": "\"patch-gg\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Patch · Build and play",
+              "url": "https://patch.gg/",
+              "excerpt": "Patch · Build and play # build and play. Patch is a Windows app for playing and building games and mods. ## 50,000 open-source assets. The biggest library of open-source, game-read"
+            }
+          ]
+        },
+        {
+          "query": "\"patch-gg\" student fellow organizer",
+          "results": [
+            {
+              "title": "Patch · Build and play",
+              "url": "https://patch.gg/",
+              "excerpt": "Patch · Build and play # build and play. Patch is a Windows app for playing and building games and mods. ## 50,000 open-source assets. The biggest library of open-source, game-read"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3192",
+      "census_row": "24920",
+      "name": "Opentrons",
+      "queries": [
+        "\"Opentrons\" student ambassador",
+        "\"Opentrons\" campus ambassador advocate",
+        "\"Opentrons\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"Opentrons\" student ambassador",
+          "results": [
+            {
+              "title": "iGEM 2025 - Meet the Sponsored Teams - Opentrons",
+              "url": "https://opentrons.com/archives/news/igem-2025-meet-the-sponsored-teams",
+              "excerpt": "With the iGEM Grand Jamboree kicking off this week, we are proud to spotlight three of our 2025 Opentrons-sponsored iGEM teams presenting in Paris this week, each tackling ambitiou"
+            }
+          ]
+        },
+        {
+          "query": "\"Opentrons\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Opentrons Announces New Robotics Education Initiative Demonstrating Commitment to Laboratory Automation for Students - Opentrons",
+              "url": "https://opentrons.com/archives/news/opentrons-announces-new-robotics-education-initiative-demonstrating-commitment-to-laboratory-automation-for-students",
+              "excerpt": "# Opentrons Announces New Robotics Education Initiative Demonstrating Commitment to Laboratory Automation for Students BROOKLYN, N.Y. — Opentrons Labworks, Inc., a leader in lab au"
+            }
+          ]
+        },
+        {
+          "query": "\"Opentrons\" student fellow organizer",
+          "results": [
+            {
+              "title": "Boston iGEM Competition: Global Students Showcase Synthetic Biology",
+              "url": "https://opentrons.com/archives/customer-stories/how-opentrons-fostered-collaboration-and-innovation-at-igem-2019",
+              "excerpt": "# How Opentrons Fostered Collaboration And Innovation At IGEM 2019 ##### Biology and engineering students from all over the world gathered at the iGEM Foundation competition in Bos"
+            }
+          ]
+        }
+      ],
+      "outcome": "Official education resources and student lesson plans; no ambassador, advocate, organizer, or fellow participation route surfaced. Non-qualifying resource lead."
+    },
+    {
+      "small_rank": "3193",
+      "census_row": "24921",
+      "name": "gitanat",
+      "queries": [
+        "\"gitanat\" student ambassador",
+        "\"gitanat\" campus ambassador advocate",
+        "\"gitanat\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"gitanat\" student ambassador",
+          "results": [
+            {
+              "title": "gitanat (@gitanat)",
+              "url": "https://github.com/gitanat",
+              "excerpt": "# User: @gitanat - Followers: 0 - Following: 0 - Public Repos: 34 - Joined: 2009-06-29"
+            }
+          ]
+        },
+        {
+          "query": "\"gitanat\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "gitanat (@gitanat)",
+              "url": "https://github.com/gitanat",
+              "excerpt": "# User: @gitanat - Followers: 0 - Following: 0 - Public Repos: 34 - Joined: 2009-06-29"
+            }
+          ]
+        },
+        {
+          "query": "\"gitanat\" student fellow organizer",
+          "results": [
+            {
+              "title": "gitanat (@gitanat)",
+              "url": "https://github.com/gitanat",
+              "excerpt": "# User: @gitanat - Followers: 0 - Following: 0 - Public Repos: 34 - Joined: 2009-06-29"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3194",
+      "census_row": "24922",
+      "name": "Alpha-VL",
+      "queries": [
+        "\"Alpha-VL\" student ambassador",
+        "\"Alpha-VL\" campus ambassador advocate",
+        "\"Alpha-VL\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"Alpha-VL\" student ambassador",
+          "results": [
+            {
+              "title": "Alpha VL Team of Shanghai AI Lab",
+              "url": "https://github.com/Alpha-VL",
+              "excerpt": "# Alpha VL Team of Shanghai AI Lab - Login: Alpha-VL - Public repos: 4 - Public gists: 0 - Followers: 64 - Following: 0 - Joined: 2022-02-05T04:37:27Z ## Top Repositories - Alpha-V"
+            }
+          ]
+        },
+        {
+          "query": "\"Alpha-VL\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Alpha VL Team of Shanghai AI Lab",
+              "url": "https://github.com/Alpha-VL",
+              "excerpt": "# Alpha VL Team of Shanghai AI Lab - Login: Alpha-VL - Public repos: 4 - Public gists: 0 - Followers: 64 - Following: 0 - Joined: 2022-02-05T04:37:27Z ## Top Repositories - Alpha-V"
+            }
+          ]
+        },
+        {
+          "query": "\"Alpha-VL\" student fellow organizer",
+          "results": [
+            {
+              "title": "Alpha VL Team of Shanghai AI Lab",
+              "url": "https://github.com/Alpha-VL",
+              "excerpt": "# Alpha VL Team of Shanghai AI Lab - Login: Alpha-VL - Public repos: 4 - Public gists: 0 - Followers: 64 - Following: 0 - Joined: 2022-02-05T04:37:27Z ## Top Repositories - Alpha-V"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3195",
+      "census_row": "24923",
+      "name": "LSH9832",
+      "queries": [
+        "\"LSH9832\" student ambassador",
+        "\"LSH9832\" campus ambassador advocate",
+        "\"LSH9832\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"LSH9832\" student ambassador",
+          "results": [
+            {
+              "title": "SHL",
+              "url": "https://github.com/LSH9832",
+              "excerpt": "# SHL Perception Engineer. Graduated from: BIT, Automation School. Major: Pattern Recognition and Intelligent System - Login: LSH9832 - Company: Some Institute - Location: Beijing,"
+            }
+          ]
+        },
+        {
+          "query": "\"LSH9832\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "SHL",
+              "url": "https://github.com/LSH9832",
+              "excerpt": "# SHL Perception Engineer. Graduated from: BIT, Automation School. Major: Pattern Recognition and Intelligent System - Login: LSH9832 - Company: Some Institute - Location: Beijing,"
+            }
+          ]
+        },
+        {
+          "query": "\"LSH9832\" student fellow organizer",
+          "results": [
+            {
+              "title": "SHL",
+              "url": "https://github.com/LSH9832",
+              "excerpt": "- Login: LSH9832 - Company: Some Institute - Location: Beijing, China - Blog: https://www.liushihan.site - Public repos: 46 - Public gists: 0 - Followers: 60 - Following: 5 - Joine"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3196",
+      "census_row": "24924",
+      "name": "CogStack",
+      "queries": [
+        "\"CogStack\" student ambassador",
+        "\"CogStack\" campus ambassador advocate",
+        "\"CogStack\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"CogStack\" student ambassador",
+          "results": [
+            {
+              "title": "What a fantastic evening! CogStack was delighted to be a sponsor of the UCL AI Ball last night — a great celebration of AI talent at UCL. | CogStack",
+              "url": "https://www.linkedin.com/posts/cogstack-ai_cogstack-ucl-ai-activity-7444788617119436800-e8Cc",
+              "excerpt": "# What a fantastic evening! CogStack was delighted to be a sponsor of the UCL AI Ball last night — a great celebration of AI talent at UCL. | CogStack · LinkedIn · 2026-03-31 **Cog"
+            }
+          ]
+        },
+        {
+          "query": "\"CogStack\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "David Tang | King's College London",
+              "url": "https://www.kcl.ac.uk/people/david-tang",
+              "excerpt": "David Tang | King's College London # King's College London # Dr David Tang Clinical AI and Data Integration Analyst ### Contact details david.tang@kcl.ac.uk drdavidtang ### Pronoun"
+            }
+          ]
+        },
+        {
+          "query": "\"CogStack\" student fellow organizer",
+          "results": [
+            {
+              "title": "About us: our story and team | CogStack",
+              "url": "https://cogstack.org/about/",
+              "excerpt": "We are a Healthcare Language AI company focused on making clinical data more usable — helping healthcare organisations unlock insights ... CogStack began in 2016 as a research and "
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3197",
+      "census_row": "24925",
+      "name": "Yzw202011",
+      "queries": [
+        "\"Yzw202011\" student ambassador",
+        "\"Yzw202011\" campus ambassador advocate",
+        "\"Yzw202011\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"Yzw202011\" student ambassador",
+          "results": [
+            {
+              "title": "FAVORSYS (Yzw202011): GitHub growth and shipping · TutorHero",
+              "url": "https://tutorhero.me/people/yzw202011/",
+              "excerpt": "FAVORSYS (Yzw202011): GitHub growth and shipping · TutorHero # FAVORSYS Yzw202011 Indie builder Local-first AI creation workstation with multiple modules. ## Best work OmniSpace 45"
+            }
+          ]
+        },
+        {
+          "query": "\"Yzw202011\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "FAVORSYS (Yzw202011): GitHub growth and shipping · TutorHero",
+              "url": "https://tutorhero.me/people/yzw202011/",
+              "excerpt": "FAVORSYS (Yzw202011): GitHub growth and shipping · TutorHero # FAVORSYS Yzw202011 Indie builder Local-first AI creation workstation with multiple modules. ## Best work OmniSpace 45"
+            }
+          ]
+        },
+        {
+          "query": "\"Yzw202011\" student fellow organizer",
+          "results": [
+            {
+              "title": "FAVORSYS (Yzw202011): GitHub growth and shipping · TutorHero",
+              "url": "https://tutorhero.me/people/yzw202011/",
+              "excerpt": "FAVORSYS (Yzw202011): GitHub growth and shipping · TutorHero # FAVORSYS Yzw202011 Indie builder Local-first AI creation workstation with multiple modules. ## Best work OmniSpace 45"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3198",
+      "census_row": "24926",
+      "name": "Media-Smart",
+      "queries": [
+        "\"Media-Smart\" student ambassador",
+        "\"Media-Smart\" campus ambassador advocate",
+        "\"Media-Smart\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"Media-Smart\" student ambassador",
+          "results": [
+            {
+              "title": "Media Smart – The Ballkan Forum",
+              "url": "https://thebalkanforum.org/media-smart-youth-vlog-against-false-information/",
+              "excerpt": "The project “Media Smart – Youth Vlog Against False Information,” implemented by The Balkan Forum and supported by Smart Balkans (IDM), aimed to empower young people to fight disin"
+            }
+          ]
+        },
+        {
+          "query": "\"Media-Smart\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "Media Smart – The Ballkan Forum",
+              "url": "https://thebalkanforum.org/media-smart-youth-vlog-against-false-information/",
+              "excerpt": "The project “Media Smart – Youth Vlog Against False Information,” implemented by The Balkan Forum and supported by Smart Balkans (IDM), aimed to empower young people to fight disin"
+            }
+          ]
+        },
+        {
+          "query": "\"Media-Smart\" student fellow organizer",
+          "results": [
+            {
+              "title": "PODCAST Erblina Krasniqi, student of journalism",
+              "url": "https://2018.thebalkanforum.org/en/podcast-erblina-krasniqi,-student-of-journalism-",
+              "excerpt": "PODCAST Erblina Krasniqi, student of journalism # PODCAST Erblina Krasniqi, student of journalism Erblina Krasniqi, as part of Balkan Forum’s NextGen podcast shares her experience "
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3199",
+      "census_row": "24927",
+      "name": "LeDat98",
+      "queries": [
+        "\"LeDat98\" student ambassador",
+        "\"LeDat98\" campus ambassador advocate",
+        "\"LeDat98\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"LeDat98\" student ambassador",
+          "results": [
+            {
+              "title": "LeDat98's profile: Presentation list - connpass",
+              "url": "https://connpass.com/user/LeDat98/presentation/",
+              "excerpt": "LeDat98's profile: Presentation list - connpass ## LeDat98 (LeDat98) Usage start date: 01/19/2023 ### Your Groups - Hack U No presentation events found. ### LeDat98's followees 0 N"
+            }
+          ]
+        },
+        {
+          "query": "\"LeDat98\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "LeDat98's profile: Presentation list - connpass",
+              "url": "https://connpass.com/user/LeDat98/presentation/",
+              "excerpt": "LeDat98's profile: Presentation list - connpass ## LeDat98 (LeDat98) Usage start date: 01/19/2023 ### Your Groups - Hack U No presentation events found. ### LeDat98's followees 0 N"
+            }
+          ]
+        },
+        {
+          "query": "\"LeDat98\" student fellow organizer",
+          "results": [
+            {
+              "title": "LeDat98's profile: Presentation list - connpass",
+              "url": "https://connpass.com/user/LeDat98/presentation/",
+              "excerpt": "LeDat98's profile: Presentation list - connpass ## LeDat98 (LeDat98) Usage start date: 01/19/2023 ### Your Groups - Hack U No presentation events found. ### LeDat98's followees 0 N"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    },
+    {
+      "small_rank": "3200",
+      "census_row": "24928",
+      "name": "devcxl",
+      "queries": [
+        "\"devcxl\" student ambassador",
+        "\"devcxl\" campus ambassador advocate",
+        "\"devcxl\" student fellow organizer"
+      ],
+      "search_evidence": [
+        {
+          "query": "\"devcxl\" student ambassador",
+          "results": [
+            {
+              "title": "About – 半颗白菜",
+              "url": "https://devcxl.cn/en-us/about/",
+              "excerpt": "About – 半颗白菜 # About Half a Cabbage, independent developer. Specializing in full-stack web development, server operations and management. ## Skills - Backend: Java, Spring Boot, Sp"
+            }
+          ]
+        },
+        {
+          "query": "\"devcxl\" campus ambassador advocate",
+          "results": [
+            {
+              "title": "About – 半颗白菜",
+              "url": "https://devcxl.cn/en-us/about/",
+              "excerpt": "About – 半颗白菜 # About Half a Cabbage, independent developer. Specializing in full-stack web development, server operations and management. ## Skills - Backend: Java, Spring Boot, Sp"
+            }
+          ]
+        },
+        {
+          "query": "\"devcxl\" student fellow organizer",
+          "results": [
+            {
+              "title": "About – 半颗白菜",
+              "url": "https://devcxl.cn/en-us/about/",
+              "excerpt": "About – 半颗白菜 # About Half a Cabbage, independent developer. Specializing in full-stack web development, server operations and management. ## Skills - Backend: Java, Spring Boot, Sp"
+            }
+          ]
+        }
+      ],
+      "outcome": "No qualifying exact-entity student participation route verified in bounded search."
+    }
+  ],
+  "lead_followup_searches": [
+    {
+      "query": "PiSugar official student ambassador campus program community",
+      "results": [
+        {
+          "title": "PiSugar - Raspberry Pi Battery for 5B/4B/3B/zero(2)\n – PiSugar Kitchen",
+          "url": "https://www.pisugar.com/",
+          "excerpt": "PiSugar - Raspberry Pi Battery for 5B/4B/3B/zero(2) – PiSugar Kitchen ... ## Featured Products - ### Whisplay HAT for Raspberry Pi Zero / Zero 2 W / Raspberry Pi 5 – Audio + Displa"
+        },
+        {
+          "title": "PiSugar2 - Portable Power Platform for Pi0",
+          "url": "https://www.pisugar.net/",
+          "excerpt": "PiSugar2 - Portable Power Platform for Pi0 # Make Your Ideas More Portable With UPS and RTC features, PiSugar2 makes your rpi ready for fast prototyping and product development. ##"
+        },
+        {
+          "title": "README.md",
+          "url": "https://github.com/PiSugar/PiSugar/blob/master/README.md",
+          "excerpt": "#### Hackaday Project Page https://hackaday.io/project/164733-pisugar-battery-for-raspberry-pi-zero #### Official Store: PiSugar Kitchen #### Tindie Store #### PiSugar3 on Amazon: "
+        },
+        {
+          "title": "Home · PiSugar/PiSugar Wiki · GitHub",
+          "url": "https://github.com/PiSugar/PiSugar/wiki",
+          "excerpt": "Home · PiSugar/PiSugar Wiki · GitHub # Home For the latest updates and comprehensive guides, please refer to the new site. This wiki will no longer be updated. Welcome to the PiSug"
+        }
+      ]
+    },
+    {
+      "query": "Opentrons official student ambassador program",
+      "results": [
+        {
+          "title": "Opentrons for Education - Opentrons",
+          "url": "https://opentrons.com/education",
+          "excerpt": "Lab Automation for Education | Free Lesson Plans ### Empower your students with lab automation #### Equip your students with the essential skills for top STEM careers using tools l"
+        },
+        {
+          "title": "Opentrons Announces New Robotics Education Initiative Demonstrating Commitment to Laboratory Automation for Students - Opentrons",
+          "url": "https://opentrons.com/archives/news/opentrons-announces-new-robotics-education-initiative-demonstrating-commitment-to-laboratory-automation-for-students",
+          "excerpt": "Opentrons Announces New Robotics Education Initiative Demonstrating Commitment to Laboratory Automation for Students - Opentrons # Opentrons Announces New Robotics Education Initia"
+        },
+        {
+          "title": "Most students don't touch real lab automation until their first job. We think that's backwards. | Opentrons Labworks Inc.",
+          "url": "https://www.linkedin.com/posts/opentrons-labworks-inc%2E_most-students-dont-touch-real-lab-automation-activity-7496204592192454657-O7La",
+          "excerpt": "**Opentrons Labworks Inc.**."
+        },
+        {
+          "title": "iGEM 2025 - Meet the Sponsored Teams - Opentrons",
+          "url": "https://opentrons.com/archives/news/igem-2025-meet-the-sponsored-teams",
+          "excerpt": "# iGEM 2025 – Meet the Sponsored Teams With the iGEM Grand Jamboree kicking off this week, we are proud to spotlight three of our 2025 Opentrons-sponsored iGEM teams presenting in "
+        }
+      ]
+    },
+    {
+      "query": "Bytedesk official campus ambassador student program",
+      "results": [
+        {
+          "title": "ByteDesk | The Operating Suite for AI-Powered Business",
+          "url": "https://www.bytedesk.ai/community",
+          "excerpt": "ByteDesk | The Operating Suite for AI-Powered Business # Join the Conversation Connect around practical small-business growth work: marketing, software, automation, AI, and the ope"
+        },
+        {
+          "title": "ByteDesk | The Operating Suite for AI-Powered Business",
+          "url": "https://www.bytedesk.ai/",
+          "excerpt": "ByteDesk | The Operating Suite for AI-Powered Business # The operating suite for AI-powered business. Secure access to your machines. A workforce of AI agents. The tools those agen"
+        },
+        {
+          "title": "ByteDesk | The Operating Suite for AI-Powered Business",
+          "url": "https://www.bytedesk.ai/careers",
+          "excerpt": "ByteDesk | The Operating Suite for AI-Powered Business # Build practical growth systems for small businesses ByteDesk needs people who can connect marketing, software, automation, "
+        },
+        {
+          "title": "ByteDesk | The Operating Suite for AI-Powered Business",
+          "url": "https://www.bytedesk.ai/partners",
+          "excerpt": "ByteDesk | The Operating Suite for AI-Powered Business # Partner with ByteDesk when your clients need execution. We collaborate with agencies, specialists, builders, and local busi"
+        }
+      ]
+    },
+    {
+      "query": "ModelDepot official student ambassador program",
+      "results": [
+        {
+          "title": "ModelDepot.com — ML & 3D Model Repository | Versioned",
+          "url": "https://modeldepot.com/",
+          "excerpt": "ModelDepot.com — ML & 3D Model Repository | Versioned # A Depot For Your Models Machine-learning checkpoints and 3D assets scatter across drives and buckets. ModelDepot is the ware"
+        },
+        {
+          "title": "ModelDepot.io",
+          "url": "https://github.com/ModelDepot",
+          "excerpt": "# ModelDepot.io Open, Transparent Machine Learning for Engineers - Login: ModelDepot - Blog: https://modeldepot.io - Email: hi@modeldepot.io - Public repos: 7 - Followers: 1 - Crea"
+        },
+        {
+          "title": "ModelDepot",
+          "url": "https://medium.com/modeldepot",
+          "excerpt": "ModelDepot ## ModelDepot Accessible Machine Learning"
+        },
+        {
+          "title": "modeldepot.org",
+          "url": "https://modeldepot.org/",
+          "excerpt": "modeldepot.org # Launching Soon # Launching Soon modeldepot.org # Launching Soon Launching SoonLaunching SoonLaunching Soon # Launching Soon Launching SoonLaunching SoonLaunching S"
+        }
+      ]
+    }
+  ]
+}

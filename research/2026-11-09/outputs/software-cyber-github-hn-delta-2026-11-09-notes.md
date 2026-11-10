@@ -1,0 +1,32 @@
+# Software / developer / open-source lead delta — 9 November 2026
+
+This is a small continuation slice, not an exhaustive program inventory. It focuses on official organizer evidence for student/community programs discovered through current developer-ambassador catalogs, targeted web search, and Hacker News-oriented queries. Crypto/Web3 was excluded from this lane.
+
+## Findings saved
+
+- `software-cyber-github-hn-delta-2026-11-09.csv` contains ten records: new and previously unverified organizer-level checks, explicit regional exclusions, and one material status correction:
+  - **Hackyard Campus Ambassador 2026** — current official page is labeled “Campus Ambassadors / 2026”; the linked Google application form is live and describes review/contact. The student/campus role is relevant across disciplines, but geographic acceptance, deadline and cohort availability are unstated. This is open-appearing, not confirmed open.
+  - **HazelJS University Ambassador** — official page currently exposes a submit-application form, accepts undergraduate or graduate students interested in Node.js/software, and claims 5–10 hours/month and a monthly stipend. The stipend amount/conditions and countries accepted are not published. Current application route exists; no dated intake window found.
+  - **Altraverse Open Source Cohort Ambassador Track** — official role page invites applications, but its only dated 2026 recruitment evidence found was the organizer's July 23 post saying applications were live. The current November intake state and geographic eligibility remain unclear. Keep it as a lead, not a verified open opportunity.
+- **DSCI CSIC 2.0 Campus Ambassador** — the organizer page says registration is live and explicitly requires Indian citizenship, undergraduate/graduate enrollment and age under 26. This fits only if the user's citizenship and age satisfy the rules; deadline and workload are unstated.
+- **BSides Bahawalpur Student Ambassador** — the organizer's September 18 post says applications are open and links a form; requires 6+ months of cybersecurity experience. The current form state and country eligibility are not verified.
+- **CSAFI University Ambassador** — a volunteer cybersecurity outreach listing from August says “5 countries,” but does not identify them or confirm that applications remain open. Kept as an unclear lead, not a global-eligibility match.
+- **Cloud Native Bangladesh Campus Representative** — organizer says next-cohort applications are open, 3–5 hours/month for 12 months, but applicants must study at a university in Bangladesh; recorded as a regional exclusion for the user.
+- **OpenSSF Ambassador** — status conflict recheck, not a new program. The March launch post says applications are rolling, while the current official application-process page says the initial window closed April 7 and only promises later-2026 windows. No reopening evidence was found, so do not count it as currently open.
+- **Microsoft Student Ambassadors (2026 reimagined program)** — current Microsoft portal invites registration without an application/interview; registrants complete activities and qualifying people are invited to official membership. Eligibility is 18+, full-time accredited higher-education enrollment, Azure for Students account, and no disqualifying prior registration/employment. It is distinct from the existing Microsoft Copilot Student Ambassador track and from the old application-based Learn Student Ambassadors program.
+- **Brigade Campus Ambassador (DevAurasion collaboration)** — organizer's Oct 1 post invites applications via QR and an associated post says applications are open. No close date, direct readable form URL, hours or country rules are published; no-coding-expert requirement is stated. A separate individual's Aug post mentions performance pay, which is not treated as organizer-confirmed.
+
+## Dedupe and exclusions
+
+- HackerRank Campus Crew was rechecked but not added because it already appears in `hackernews-community-search.csv` and `global-brave-verification.csv`. Current organizer page says “Apply today,” takes currently enrolled college/university students interested in coding/community, expects about 4–6 hours/week, is unpaid, and selects one per campus. Country eligibility and current cycle dates are still unstated. Its page's US-hosted web route alone does not establish US-only eligibility.
+- SwytchCode, AWS Student Builder Campus Leader, Kiro, Zed Campus Ambassador and other repeated names were excluded because they already have organizer-level records in the central AI or first-wave files.
+- Additional cyber/cloud results were either conditional, geographically restricted or uncertain; see each row's status field. The established Exploit3rs and CyberHx records were not duplicated.
+
+## Search and evidence limits
+
+- Reviewed the `pransh15/DeveloperAmbassadorPrograms` GitHub list as a discovery index. Its stated audit date is August 2026, and its own disclaimer says programs must be checked individually; the list was not treated as current-status evidence.
+- Ran current GitHub code searches for campus/student ambassadors and cyber ambassadors. Results were mostly old lists and stale project README references; one official-resource README linked Microsoft's current Student Ambassadors portal, which was independently checked on its Microsoft pages.
+- Ran four targeted web queries for current software/developer/cyber student ambassador recruitment and Hacker News references. Hacker News results were mostly historical or general discussion; none provided a distinct current 2026 official recruitment call in this lane. This is not a broad HN archive audit.
+- Additional candidate checks: CyberTalents has a global student-ambassador program page but the reviewed page gives no current dated intake/application state; HackerEarth's public campus-program selection documentation is undated; neither was counted as a current opening. Bugv explicitly limits its inaugural open cohort to students at Nepali colleges, so it is not a fit for a MUJ student. Existing Hackviser and BSides Bahawalpur records were not duplicated.
+- Verified candidate details against organizer-owned pages/forms and an organizer-owned July 2026 social post. No user data was entered, no forms submitted, and no organizers contacted.
+- All status claims are as of 2026-11-09. “Open-appearing” means a live form or application call-to-action exists; it does not prove slots remain, acceptance from India, or a selected cohort is still recruiting.

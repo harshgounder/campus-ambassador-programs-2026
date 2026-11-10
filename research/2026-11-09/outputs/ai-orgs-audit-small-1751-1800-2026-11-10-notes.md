@@ -1,0 +1,13 @@
+# AI small-tier census audit — ranks 1751–1800 — 10 Nov 2026
+
+Audited contiguous small-tier ranks 1751–1800 (canonical census rows 23479–23528). Preserved census row, rank, exact name, tier and category from the small-tier queue; the canonical source was cross-checked by census row where available. The audit has 14 columns and 50 rows; source map has 8 columns and 50 rows. GitHub namespace/profile URLs are identity anchors only.
+
+No exact-entity student/campus ambassador, student lead, chapter, community advocate/champion, fellowship, or creator route was verified. Search results surfaced a few unverified adjacent or namesake leads (VigoZhao, Ark0N, MizuhoAOKI, UM-ARM-Lab, styfeng, terryso and SomeOddCodeGuy); these are described in-row and are not treated as verified representative routes.
+
+Research date: 10 Nov 2026; evidence cutoff: 9 Nov 2026. No dated official evidence located establishing a qualifying route open on cutoff day. Nov 10 observations are discovery only. Global/India access, age, student status, degree/year/major, deadlines, duties, workload and compensation remain unknown absent official terms; no eligibility is inferred from silence.
+
+Method: after the initial exact-handle pass was materially impaired by Exa throttling (36/50 individual lookups), all 50 names were re-searched individually through the connected Parallel web_search provider on 2026-11-10. Each exact name received three related searches (student ambassador; campus/community/fellowship; GitHub ambassador). All 50 calls completed successfully; zero fallback provider failures. Per-name completion and outcome are recorded in both CSVs. This retry found no official exact-entity qualifying route. Some broad results remained unrelated generic/name-collision pages. This is a bounded search screen, not exhaustive official-domain/manual/archive or multilingual review. The exact-label duplicate scan covered prior small-tier audit batches and outputs/ai-ml-priority-verification-delta-2026-11-09.csv; no exact-name duplicates were found there. The small-tier ledger is the canonical queue and naturally contains these 50 census records; it was checked to confirm rank/name identity, not treated as a duplicate source. Unindexed, private, local-language, changed, namesake, or differently named parent/community routes may be missed.
+
+No X MCP was used. No accounts, applications, forms, messages, contact, joins, or personal-data submissions were made. Central priority ledger and source census were not edited.
+
+Files: `ai-orgs-audit-small-1751-1800-2026-11-10.csv` (50 rows, 14 columns); `ai-orgs-audit-small-1751-1800-2026-11-10-source-map.csv` (50 rows, 8 columns); this notes file.

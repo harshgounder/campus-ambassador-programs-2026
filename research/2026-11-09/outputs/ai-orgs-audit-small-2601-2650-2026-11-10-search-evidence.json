@@ -1,0 +1,1313 @@
+{
+  "scope": "AI-first small-tier census screening; ranks 2601-2650",
+  "discovery_date": "2026-11-10",
+  "cutoff_date": "2026-11-09",
+  "provider": "Parallel web_search",
+  "call_count": 50,
+  "query_count": 150,
+  "compaction": "Top two results per call; title, URL, excerpt clipped to about 180 characters, and available publish date.",
+  "focused_official_page_reviews": [],
+  "review_note": "No exact-entity route surfaced as a plausible official student/campus representative lead in the compact screening results. Hits for third-party ambassador directories, general student programs, unrelated organizations and generic campus opportunities were screened out; none was presented as the census entity's own route.",
+  "calls": [
+    {
+      "small_rank": 2601,
+      "census_row": "24329",
+      "name": "abgulati",
+      "queries": [
+        "abgulati AI program official",
+        "\"abgulati\" student ambassador AI",
+        "\"abgulati\" campus representative AI"
+      ],
+      "search_id": "search_0930d48cbae29162f954ac09fc8b79b0",
+      "error": null,
+      "results": [
+        {
+          "title": "abgulati (Abheek Gulati) · GitHub",
+          "url": "https://github.com/abgulati",
+          "excerpt": "# User: Abheek Gulati (@abgulati)\n\n- Page: GitHub user profile\n- URL: https://github.com/abgulati\n- Location: Vancouver, BC, Canada\n- Website: https://www.linkedin.com/in/abheek-gu",
+          "publish_date": null
+        },
+        {
+          "title": "Abheek Gulati",
+          "url": "https://linkedin.com/in/abheek-gulati",
+          "excerpt": "- Co-Founder and Chief AI Officer at Level Ground Labs, an AI startup focused on secure, offline-first deployment of cutting-edge Generative AI.\n\n...\n\nProgramming Languages & Datab",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2602,
+      "census_row": "24330",
+      "name": "OliBomby",
+      "queries": [
+        "OliBomby AI program official",
+        "\"OliBomby\" student ambassador AI",
+        "\"OliBomby\" campus representative AI"
+      ],
+      "search_id": "search_c02cf5fe94ef1c095b285bbb728662b3",
+      "error": null,
+      "results": [
+        {
+          "title": "OliBomby (@OliBomby) / X",
+          "url": "https://x.com/OliBomby",
+          "excerpt": "[](https://x.com/)\n\n[](https://x.com/)\n\n \n\n \n\nOliBomby\n\n628 posts\n\n[@OliBomby](https://x.com/OliBomby/photo)\n\n# OliBomby @OliBomby\n\nosu! Mapping Tools guy. I mastered Computer Scie",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - OliBomby/Mapperatorinator: An AI framework for generating and modding osu! beatmaps for all gamemodes from spectrogram inputs. · GitHub",
+          "url": "https://github.com/OliBomby/Mapperatorinator",
+          "excerpt": "# OliBomby/Mapperatorinator\n\n- Page: GitHub repository\n- URL: https://github.com/OliBomby/Mapperatorinator\n- Description: An AI framework for generating and modding osu! beatmaps f",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2603,
+      "census_row": "24331",
+      "name": "Teddy-Liao",
+      "queries": [
+        "Teddy-Liao AI program official",
+        "\"Teddy-Liao\" student ambassador AI",
+        "\"Teddy-Liao\" campus representative AI"
+      ],
+      "search_id": "search_e191d071259f4dc92cf6f25ef706c5da",
+      "error": null,
+      "results": [
+        {
+          "title": "Teddy-Liao (Liao Dengting) · GitHub",
+          "url": "https://github.com/Teddy-Liao",
+          "excerpt": "User: Liao Dengting (@Teddy-Liao)\n\n* Page: GitHub user profile\n* URL: https://github.com/Teddy-Liao\n* Company: Beijing Institute of Technology\n* Location: Beijing\n* Followers: 53\n*",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - Teddy-Liao/walk-these-ways-go2: Deploy walk-these-ways project on Unitree Go2 · GitHub",
+          "url": "https://github.com/Teddy-Liao/walk-these-ways-go2",
+          "excerpt": "Teddy-Liao/walk-these-ways-go2\n\n* Page: GitHub repository\n* URL: https://github.com/Teddy-Liao/walk-these-ways-go2\n* Description: Deploy walk-these-ways project on Unitree Go2\n* Li",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2604,
+      "census_row": "24332",
+      "name": "dazinovic",
+      "queries": [
+        "dazinovic AI program official",
+        "\"dazinovic\" student ambassador AI",
+        "\"dazinovic\" campus representative AI"
+      ],
+      "search_id": "search_2ccb3acd5d8c1d94108d4b8dcd08a6b8",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - dazinovic/neural-rgbd-surface-reconstruction: Official implementation of the CVPR 2022 Paper \"Neural RGB-D Surface Reconstruction\" · GitHub",
+          "url": "https://github.com/dazinovic/neural-rgbd-surface-reconstruction",
+          "excerpt": "# dazinovic/neural-rgbd-surface-reconstruction\n\n- Page: GitHub repository\n- URL: https://github.com/dazinovic/neural-rgbd-surface-reconstruction\n- Description: Official implementat",
+          "publish_date": null
+        },
+        {
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "url": "https://campusunite.in/ambassador",
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27\n\nBecome a Campus Unite\n\nCampus Ambassador\nRepresent Campus Unite at your college, build a thriving student tech community, gain r",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2605,
+      "census_row": "24333",
+      "name": "sieuwe1",
+      "queries": [
+        "sieuwe1 AI program official",
+        "\"sieuwe1\" student ambassador AI",
+        "\"sieuwe1\" campus representative AI"
+      ],
+      "search_id": "search_7a5720524aadf393db342c336f95d660",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - sieuwe1/Autonomous-Ai-drone-scripts: State of the art autonomous navigation scripts using Ai, Computer Vision, Lidar and GPS to control an arducopter based quad copter. · GitHub",
+          "url": "https://github.com/sieuwe1/Autonomous-Ai-drone-scripts",
+          "excerpt": "# sieuwe1/Autonomous-Ai-drone-scripts\n\n- Page: GitHub repository\n- URL: https://github.com/sieuwe1/Autonomous-Ai-drone-scripts\n- Description: State of the art autonomous navigation",
+          "publish_date": null
+        },
+        {
+          "title": "OpenAI campus leaders interest form",
+          "url": "https://openai.com/form/openai-campus-leaders-interest-form",
+          "excerpt": "Students have been among the first to find new ways AI can support learning, creativity, and problem-solving.\n\n...\n\ne with OpenAI tools, and showcase what they create with a global",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2606,
+      "census_row": "24334",
+      "name": "aannoo",
+      "queries": [
+        "aannoo AI program official",
+        "\"aannoo\" student ambassador AI",
+        "\"aannoo\" campus representative AI"
+      ],
+      "search_id": "search_36dcf3a0637539a25c882dc44e9a8d24",
+      "error": null,
+      "results": [
+        {
+          "title": "aannoo (Anno) · GitHub",
+          "url": "https://github.com/aannoo",
+          "excerpt": "# User: Anno (@aannoo)\n\n- Page: GitHub user profile\n- URL: https://github.com/aannoo\n- Followers: 12\n- Following: 36\n- Top languages: JavaScript, Rust\n\n## Pinned repositories\n\n- [a",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - aannoo/hcom: Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi · GitHub",
+          "url": "https://github.com/aannoo/hcom",
+          "excerpt": "# aannoo/hcom\n\n- Page: GitHub repository\n- URL: https://github.com/aannoo/hcom\n- Description: Let AI agents message, watch, and spawn each other across terminals. Claude Code, Code",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2607,
+      "census_row": "24335",
+      "name": "Meliwat",
+      "queries": [
+        "Meliwat AI program official",
+        "\"Meliwat\" student ambassador AI",
+        "\"Meliwat\" campus representative AI"
+      ],
+      "search_id": "search_ea807f46e6e8ced938ca9bd811557151",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - Meliwat/Meliwat · GitHub",
+          "url": "https://github.com/Meliwat/Meliwat",
+          "excerpt": "# Meliwat/Meliwat\n\n- Page: GitHub repository\n- URL: https://github.com/Meliwat/Meliwat\n- Default branch: main\n- Created: 2026-05-16T01:15:44.000Z\n- Commits: 4\n\n## Top-level files\n\n",
+          "publish_date": null
+        },
+        {
+          "title": "Meliwat (Muhammed Eliwat) · GitHub",
+          "url": "https://github.com/Meliwat",
+          "excerpt": "# User: Muhammed Eliwat (@Meliwat)\n\n- Page: GitHub user profile\n- URL: https://github.com/Meliwat\n- Company: Building Spectr\n- Website: https://spectr.to\n- Followers: 16\n- Followin",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2608,
+      "census_row": "24336",
+      "name": "marmotdata",
+      "queries": [
+        "marmotdata AI program official",
+        "\"marmotdata\" student ambassador AI",
+        "\"marmotdata\" campus representative AI"
+      ],
+      "search_id": "search_dd4991b3403fd0e5f2b9dd9079701d76",
+      "error": null,
+      "results": [
+        {
+          "title": "Marmot Data · GitHub",
+          "url": "https://github.com/marmotdata",
+          "excerpt": "Organization: Marmot Data (@marmotdata)\n\n* Page: GitHub organization profile\n* URL: https://github.com/marmotdata\n* Location: United Kingdom\n* Website: https://marmotdata.io\n* Top ",
+          "publish_date": null
+        },
+        {
+          "title": "Data catalog, query gateway and MCP server for humans and agents | Marmot",
+          "url": "https://marmotdata.io/",
+          "excerpt": "Your team and your agents read the same definitions and owners, and every query they run is checked and recorded.\n\n[Start for free](https://cloud.marmotdata.io/signup) [Deploy it y",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2609,
+      "census_row": "24337",
+      "name": "axodox",
+      "queries": [
+        "axodox AI program official",
+        "\"axodox\" student ambassador AI",
+        "\"axodox\" campus representative AI"
+      ],
+      "search_id": "search_44fd6f98c197260041a2803497e30f76",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        },
+        {
+          "title": "OpenAI campus leaders interest form",
+          "url": "https://openai.com/form/openai-campus-leaders-interest-form",
+          "excerpt": "Students have been among the first to find new ways AI can support learning, creativity, and problem-solving.\n\n...\n\ne with OpenAI tools, and showcase what they create with a global",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2610,
+      "census_row": "24338",
+      "name": "ntthanh2603",
+      "queries": [
+        "ntthanh2603 AI program official",
+        "\"ntthanh2603\" student ambassador AI",
+        "\"ntthanh2603\" campus representative AI"
+      ],
+      "search_id": "search_15149435df8fe1ba1117af9dad492854",
+      "error": null,
+      "results": [
+        {
+          "title": "ntthanh2603 (Nguyễn Tuấn Thành) · GitHub",
+          "url": "https://github.com/ntthanh2603",
+          "excerpt": "User: Nguyễn Tuấn Thành (@ntthanh2603)\n\n* Page: GitHub user profile\n* URL: https://github.com/ntthanh2603\n* Location: Ha Noi, Vietnam\n* Followers: 21\n* Following: 11\n* Links: https",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - ntthanh2603/gemini-web-to-api: ✨Reverse-engineered API for Gemini web app. It can be used as a genuine API key from OpenAI, Gemini, and Claude. · GitHub",
+          "url": "https://github.com/ntthanh2603/gemini-web-to-api",
+          "excerpt": "```shell\n  -H \"Content-Type: application/json\" \\\n  -d '{\"model\": \"gemini-auto\", \"messages\": [{\"role\": \"user\", \"content\": \"Hello!\"}]}'\n```\n\nYour Gemini Web To API is running at `htt",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2611,
+      "census_row": "24339",
+      "name": "vikashplus",
+      "queries": [
+        "vikashplus AI program official",
+        "\"vikashplus\" student ambassador AI",
+        "\"vikashplus\" campus representative AI"
+      ],
+      "search_id": "search_202cea3dc6aee40015101cf6ae9891f3",
+      "error": null,
+      "results": [
+        {
+          "title": "vikashplus (Vikash Kumar) · GitHub",
+          "url": "https://github.com/vikashplus",
+          "excerpt": "# User: Vikash Kumar (@vikashplus)\n\n- Page: GitHub user profile\n- URL: https://github.com/vikashplus\n- Website: http://homes.cs.washington.edu/~vikash/\n- Followers: 238\n- Following",
+          "publish_date": null
+        },
+        {
+          "title": "Vikash Kumar — Embodied AI & Robotics",
+          "url": "https://vikashplus.github.io/",
+          "excerpt": "# [Vikash Kumar](https://vikashplus.github.io/index.html) [Twitter](https://twitter.com/vikashplus \"Twitter / X\") [YouTube](https://www.youtube.com/@vikashplus \"YouTube\") [GitHub](",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2612,
+      "census_row": "24340",
+      "name": "SemanticMediaWiki",
+      "queries": [
+        "SemanticMediaWiki AI program official",
+        "\"SemanticMediaWiki\" student ambassador AI",
+        "\"SemanticMediaWiki\" campus representative AI"
+      ],
+      "search_id": "search_a90e61ff6e573abbd42a677d190c3b90",
+      "error": null,
+      "results": [
+        {
+          "title": "Semantic MediaWiki · GitHub",
+          "url": "https://github.com/SemanticMediaWiki",
+          "excerpt": "Organization: Semantic MediaWiki (@SemanticMediaWiki)\n\n* Page: GitHub organization profile\n* URL: https://github.com/SemanticMediaWiki\n* Website: https://www.semantic-mediawiki.org",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - SemanticMediaWiki/SemanticMediaWiki: 🔗 Semantic MediaWiki turns MediaWiki into a knowledge management platform with query and export capabilities · GitHub",
+          "url": "https://github.com/SemanticMediaWiki/SemanticMediaWiki",
+          "excerpt": "SemanticMediaWiki/SemanticMediaWiki\n\n* Page: GitHub repository\n* URL: https://github.com/SemanticMediaWiki/SemanticMediaWiki\n* Description: 🔗 Semantic MediaWiki turns MediaWiki in",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2613,
+      "census_row": "24341",
+      "name": "gglucass",
+      "queries": [
+        "gglucass AI program official",
+        "\"gglucass\" student ambassador AI",
+        "\"gglucass\" campus representative AI"
+      ],
+      "search_id": "search_d98a1cf60b1b9645173776e953ff8e80",
+      "error": null,
+      "results": [
+        {
+          "title": "Google Gemini Student Ambassador 2026",
+          "url": "https://geministudentambassador.com/",
+          "excerpt": "Google Student Ambassador 2026\nCommunity Apply Now\nSmile Star\n\nGoogle Student\n\nAmbassador 2026\nYour campus is ready for what's next. It just needs someone to lead it.\nBring innovat",
+          "publish_date": null
+        },
+        {
+          "title": "Google Gemini Ambassador Program",
+          "url": "https://www.ccsdu.in/admin/uploads/notification_docs/688dca2e2c26a_Google%20Gemini%20Ambassador%20Program.pdf",
+          "excerpt": "Are you the go-to person for anything tech at your college?\n\nDo you get a kick out of explaining AI tools to your friends before anyone else even tries them?\n\nWant to be known as t",
+          "publish_date": "2025-08-01"
+        }
+      ]
+    },
+    {
+      "small_rank": 2614,
+      "census_row": "24342",
+      "name": "omriav",
+      "queries": [
+        "omriav AI program official",
+        "\"omriav\" student ambassador AI",
+        "\"omriav\" campus representative AI"
+      ],
+      "search_id": "search_96861a21aabdf04d44f557f6610d1e54",
+      "error": null,
+      "results": [
+        {
+          "title": "omriav (Omri Avrahami) · GitHub",
+          "url": "https://github.com/omriav",
+          "excerpt": "User: Omri Avrahami (@omriav)\n\n* Page: GitHub user profile\n* URL: https://github.com/omriav\n* Company: The Hebrew University of Jerusalem\n* Website: https://omriavrahami.com\n* Foll",
+          "publish_date": null
+        },
+        {
+          "title": "Omri Avrahami – Generative AI Researcher",
+          "url": "https://omriavrahami.com/",
+          "excerpt": "Previously, I have worked as a Research Scientist at [Snap Research](https://research.snap.com/) , [NVIDIA Research](https://www.nvidia.com/en-eu/research/) , [Google Research](htt",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2615,
+      "census_row": "24343",
+      "name": "johnsonhk88",
+      "queries": [
+        "johnsonhk88 AI program official",
+        "\"johnsonhk88\" student ambassador AI",
+        "\"johnsonhk88\" campus representative AI"
+      ],
+      "search_id": "search_b9eca5cedc5d1fd0f63f437f667a56ee",
+      "error": null,
+      "results": [
+        {
+          "title": "johnsonhk88 (Johnson Chong) · GitHub",
+          "url": "https://github.com/johnsonhk88",
+          "excerpt": "User: Johnson Chong (@johnsonhk88)\n\n* Page: GitHub user profile\n* URL: https://github.com/johnsonhk88\n* Company: Hong Kong telecom (HKT)\n* Location: Hong Kong\n* Followers: 24\n* Fol",
+          "publish_date": null
+        },
+        {
+          "title": "johnsonhk88 (johnsonhk88) / Repositories · GitHub",
+          "url": "https://github.com/johnsonhk88?tab=repositories",
+          "excerpt": "User: Johnson Chong (@johnsonhk88)\n\n* Page: GitHub user profile\n* URL: https://github.com/johnsonhk88\n* Location: Hong Kong\n* Followers: 7\n* Following: 11\n* Top languages: Jupyter ",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2616,
+      "census_row": "24344",
+      "name": "totalgood",
+      "queries": [
+        "totalgood AI program official",
+        "\"totalgood\" student ambassador AI",
+        "\"totalgood\" campus representative AI"
+      ],
+      "search_id": "search_23e46e535a43f186f99811355f218885",
+      "error": null,
+      "results": [
+        {
+          "title": "TotalGood · GitHub",
+          "url": "https://github.com/totalgood",
+          "excerpt": "# Organization: TotalGood (@totalgood)\n\n- Page: GitHub organization profile\n- URL: https://github.com/totalgood\n- Location: Portland, OR\n- Website: http://totalgood.com\n- Top langu",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2617,
+      "census_row": "24345",
+      "name": "dougsm",
+      "queries": [
+        "dougsm AI program official",
+        "\"dougsm\" student ambassador AI",
+        "\"dougsm\" campus representative AI"
+      ],
+      "search_id": "search_c774194b6723468c620ac0e20ef4e53e",
+      "error": null,
+      "results": [
+        {
+          "title": "dougsm (Doug Morrison) · GitHub",
+          "url": "https://github.com/dougsm",
+          "excerpt": "# User: Doug Morrison (@dougsm)\n\n- Page: GitHub user profile\n- URL: https://github.com/dougsm\n- Website: https://dougsm.com\n- Followers: 106\n- Following: 3\n- Links: https://dougsm.",
+          "publish_date": null
+        },
+        {
+          "title": "Google Gemini Student Ambassador 2026",
+          "url": "https://geministudentambassador.com/",
+          "excerpt": "Google Student Ambassador 2026\nCommunity Apply Now\nSmile Star\n\nGoogle Student\n\nAmbassador 2026\nYour campus is ready for what's next. It just needs someone to lead it.\nBring innovat",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2618,
+      "census_row": "24346",
+      "name": "DanAnastasyev",
+      "queries": [
+        "DanAnastasyev AI program official",
+        "\"DanAnastasyev\" student ambassador AI",
+        "\"DanAnastasyev\" campus representative AI"
+      ],
+      "search_id": "search_e96c36db687accc6329457b3153dcd9a",
+      "error": null,
+      "results": [
+        {
+          "title": "DanAnastasyev (Dan Anastasyev) · GitHub",
+          "url": "https://github.com/DanAnastasyev",
+          "excerpt": "# User: Dan Anastasyev (@DanAnastasyev)\n\n- Page: GitHub user profile\n- URL: https://github.com/DanAnastasyev\n- Followers: 98\n- Following: 0\n- Top languages: Python, Jupyter Noteboo",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2619,
+      "census_row": "24347",
+      "name": "codingseb",
+      "queries": [
+        "codingseb AI program official",
+        "\"codingseb\" student ambassador AI",
+        "\"codingseb\" campus representative AI"
+      ],
+      "search_id": "search_0d0f6c3b8ca2fcd66d4d50c5ff741d4b",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        },
+        {
+          "title": "Google Gemini Ambassador Program",
+          "url": "https://www.ccsdu.in/admin/uploads/notification_docs/688dca2e2c26a_Google%20Gemini%20Ambassador%20Program.pdf",
+          "excerpt": "Are you the go-to person for anything tech at your college?\n\nDo you get a kick out of explaining AI tools to your friends before anyone else even tries them?\n\nWant to be known as t",
+          "publish_date": "2025-08-01"
+        }
+      ]
+    },
+    {
+      "small_rank": 2620,
+      "census_row": "24348",
+      "name": "taivop",
+      "queries": [
+        "taivop AI program official",
+        "\"taivop\" student ambassador AI",
+        "\"taivop\" campus representative AI"
+      ],
+      "search_id": "search_3c1682a11598e83b319d28b915c51ed9",
+      "error": null,
+      "results": [
+        {
+          "title": "taivop (Taivo Pungas) · GitHub",
+          "url": "https://github.com/taivop",
+          "excerpt": "# User: Taivo Pungas (@taivop)\n\n- Page: GitHub user profile\n- URL: https://github.com/taivop\n- Company: Pactum AI\n- Location: Estonia\n- Website: https://taivo.ai\n- Followers: 169\n-",
+          "publish_date": null
+        },
+        {
+          "title": "InternStudio.in | Online Internships in Web Dev, MERN, AI/ML – Remote + Certified",
+          "url": "https://www.internstudio.in/campus-ambassador",
+          "excerpt": "InternStudio Campus Ambassador Program 2026\n\nBecome an InternStudio Campus Ambassador\n\nRepresent InternStudio by introducing anyone—friends, classmates, colleagues, or your network",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2621,
+      "census_row": "24349",
+      "name": "wyounas",
+      "queries": [
+        "wyounas AI program official",
+        "\"wyounas\" student ambassador AI",
+        "\"wyounas\" campus representative AI"
+      ],
+      "search_id": "search_5105037b6a651ee82125d6edd1af793f",
+      "error": null,
+      "results": [
+        {
+          "title": "Google Gemini Student Ambassador 2026",
+          "url": "https://geministudentambassador.com/",
+          "excerpt": "Google Student Ambassador 2026\nCommunity Apply Now\nSmile Star\n\nGoogle Student\n\nAmbassador 2026\nYour campus is ready for what's next. It just needs someone to lead it.\nBring innovat",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2622,
+      "census_row": "24350",
+      "name": "diemus",
+      "queries": [
+        "diemus AI program official",
+        "\"diemus\" student ambassador AI",
+        "\"diemus\" campus representative AI"
+      ],
+      "search_id": "search_21a980976d1b53e6e89d4cdeaed7f642",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        },
+        {
+          "title": "Google Gemini Student Ambassador 2026",
+          "url": "https://geministudentambassador.com/",
+          "excerpt": "Google Student Ambassador 2026\nCommunity Apply Now\nSmile Star\n\nGoogle Student\n\nAmbassador 2026\nYour campus is ready for what's next. It just needs someone to lead it.\nBring innovat",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2623,
+      "census_row": "24351",
+      "name": "bitwize-music-studio",
+      "queries": [
+        "bitwize-music-studio AI program official",
+        "\"bitwize-music-studio\" student ambassador AI",
+        "\"bitwize-music-studio\" campus representative AI"
+      ],
+      "search_id": "search_f0f313485d1f6c312bbcba1a8290f1ab",
+      "error": null,
+      "results": [
+        {
+          "title": " bitwize-music-studio  · GitHub",
+          "url": "https://github.com/bitwize-music-studio",
+          "excerpt": "Organization: bitwize-music-studio (@bitwize-music-studio)\n\n* Page: GitHub organization profile\n* URL: https://github.com/bitwize-music-studio\n* Top languages: Python\nbitwize-music",
+          "publish_date": null
+        },
+        {
+          "title": "Behind The Music | bitwize music",
+          "url": "https://www.bitwizemusic.com/behind-the-music",
+          "excerpt": "Stories that deserve to be told, but nobody’s made albums about … until now.\n\nThe Short Version\n\nbitwize music is an experiment in human + AI music collaboration.\n\n...\n\nTogether, I",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2624,
+      "census_row": "24352",
+      "name": "xifan2333",
+      "queries": [
+        "xifan2333 AI program official",
+        "\"xifan2333\" student ambassador AI",
+        "\"xifan2333\" campus representative AI"
+      ],
+      "search_id": "search_a64aa222865f69982f0dd63ebae89db9",
+      "error": null,
+      "results": [
+        {
+          "title": "Google Gemini Student Ambassador 2026",
+          "url": "https://geministudentambassador.com/",
+          "excerpt": "Google Student Ambassador 2026\nCommunity Apply Now\nSmile Star\n\nGoogle Student\n\nAmbassador 2026\nYour campus is ready for what's next. It just needs someone to lead it.\nBring innovat",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2625,
+      "census_row": "24353",
+      "name": "aqm857886159",
+      "queries": [
+        "aqm857886159 AI program official",
+        "\"aqm857886159\" student ambassador AI",
+        "\"aqm857886159\" campus representative AI"
+      ],
+      "search_id": "search_605cbd7fd5d24a78594bfc5efe2d885f",
+      "error": null,
+      "results": [
+        {
+          "title": "aqm857886159 (青阳) · GitHub",
+          "url": "https://github.com/aqm857886159",
+          "excerpt": "# User: 青阳 (@aqm857886159)\n\n- Page: GitHub user profile\n- URL: https://github.com/aqm857886159\n- Company: 无业游民\n- Location: 上海\n- Followers: 11\n- Following: 6\n- Top languages: TypeSc",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - aqm857886159/Nomi: Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real timeline. Local-first: projects, prompts, and keys stay on your machine. No account, no telemetry. · GitHub",
+          "url": "https://github.com/aqm857886159/Nomi",
+          "excerpt": "# aqm857886159/Nomi\n\n- Page: GitHub repository\n- URL: https://github.com/aqm857886159/Nomi\n- Description: Open-source AI video workbench.\n\n...\n\n- Default branch: main\n- Created: 20",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2626,
+      "census_row": "24354",
+      "name": "jzjzzzzzzz",
+      "queries": [
+        "jzjzzzzzzz AI program official",
+        "\"jzjzzzzzzz\" student ambassador AI",
+        "\"jzjzzzzzzz\" campus representative AI"
+      ],
+      "search_id": "search_c283f97533fc1fc13ee34568a6cb4f90",
+      "error": null,
+      "results": [
+        {
+          "title": "jzjzzzzzzz (Zhixuan Zhou) · GitHub",
+          "url": "https://github.com/jzjzzzzzzz",
+          "excerpt": "User: Zhixuan Zhou (@jzjzzzzzzz)\n\n* Page: GitHub user profile\n* URL: https://github.com/jzjzzzzzzz\n* Company: Shigou Intelligent Technology (Shanghai) Co., Ltd. @Cogstruct-ai\n* Web",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - jzjzzzzzzz/agent-me: Distill your knowledge, memories, and decisions into an open-source, inspectable AI Agent Twin. · GitHub",
+          "url": "https://github.com/jzjzzzzzzz/agent-me",
+          "excerpt": "## Why an AI Twin?\n\nMany personal chatbots are effectively a prompt, a vector database, and a chat interface. They can recall biographical facts or imitate a writing style, but tha",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2627,
+      "census_row": "24355",
+      "name": "lgrammel",
+      "queries": [
+        "lgrammel AI program official",
+        "\"lgrammel\" student ambassador AI",
+        "\"lgrammel\" campus representative AI"
+      ],
+      "search_id": "search_d594adbdffb65ad2a9c40f6429f9dc54",
+      "error": null,
+      "results": [
+        {
+          "title": "lgrammel (Lars Grammel) · GitHub",
+          "url": "https://github.com/lgrammel",
+          "excerpt": "# User: Lars Grammel (@lgrammel)\n\n- Page: GitHub user profile\n- URL: https://github.com/lgrammel\n- Company: Vercel\n- Followers: 797\n- Following: 30\n- Links: https://twitter.com/lgr",
+          "publish_date": null
+        },
+        {
+          "title": "Lars Grammel: Bio, Work & Ideas | AI Engineer",
+          "url": "https://ai.engineer/speakers/lars-grammel",
+          "excerpt": "Lars Grammel, AI Engineer conference speaker\n\n## Related work and projects\n\n* [Introducing ModelFusion: Build AI apps with JavaScript and TypeScript ↗](https://dev.to/lgrammel/intr",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2628,
+      "census_row": "24356",
+      "name": "Corbell-AI",
+      "queries": [
+        "Corbell-AI AI program official",
+        "\"Corbell-AI\" student ambassador AI",
+        "\"Corbell-AI\" campus representative AI"
+      ],
+      "search_id": "search_132e269ecdf8e98c3505bbed73ad4fe2",
+      "error": null,
+      "results": [
+        {
+          "title": "Corbell-AI · GitHub",
+          "url": "https://github.com/Corbell-AI",
+          "excerpt": "Organization: Corbell-AI (@Corbell-AI)\n\n* Page: GitHub organization profile\n* URL: https://github.com/Corbell-AI\n* Top languages: Python\n\nRepositories\n\n* Corbell-AI/evalmonkey: CLI",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - Corbell-AI/Corbell: AI-powered spec generation and review using multi-repo code graph intelligence for backend teams that ship to production. · GitHub",
+          "url": "https://github.com/Corbell-AI/Corbell",
+          "excerpt": "Corbell-AI/Corbell\n\n* Page: GitHub repository\n* URL: https://github.com/Corbell-AI/Corbell\n* Description: AI-powered spec generation and review using multi-repo code graph intellig",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2629,
+      "census_row": "24357",
+      "name": "marlin-codes",
+      "queries": [
+        "marlin-codes AI program official",
+        "\"marlin-codes\" student ambassador AI",
+        "\"marlin-codes\" campus representative AI"
+      ],
+      "search_id": "search_06246494907d2ac1054f0eec183ed479",
+      "error": null,
+      "results": [
+        {
+          "title": "marlin-codes (Menglin Yang) · GitHub",
+          "url": "https://github.com/marlin-codes",
+          "excerpt": "User: Menglin Yang (@marlin-codes)\n\n* Page: GitHub user profile\n* URL: https://github.com/marlin-codes\n* Followers: 71\n* Following: 4\n* Top languages: Python\n\nPinned repositories\n\n",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - marlin-codes/marlin-codes · GitHub",
+          "url": "https://github.com/marlin-codes/marlin-codes",
+          "excerpt": "marlin-codes/marlin-codes\n\n* Page: GitHub repository\n* URL: https://github.com/marlin-codes/marlin-codes\n* Default branch: main\n* Created: 2023-10-08T20:59:54.000Z\n* Commits: 24\n\nT",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2630,
+      "census_row": "24358",
+      "name": "ElvinC",
+      "queries": [
+        "ElvinC AI program official",
+        "\"ElvinC\" student ambassador AI",
+        "\"ElvinC\" campus representative AI"
+      ],
+      "search_id": "search_d099004ca40321251266144a73f321a2",
+      "error": null,
+      "results": [
+        {
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "url": "https://campusunite.in/ambassador",
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27\n\nBecome a Campus Unite\n\nCampus Ambassador\nRepresent Campus Unite at your college, build a thriving student tech community, gain r",
+          "publish_date": null
+        },
+        {
+          "title": "NMG Labs · Campus Ambassador Program · Apply Now",
+          "url": "https://labs.nmgdigital.com/ambassadors",
+          "excerpt": "Campus Ambassador Program · Pan-India · Cohort 01\n\nBe the face of NMG Labs on your campus.\n\nBring the sharpest builders from your college into India's most-watched AI hackathon ser",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2631,
+      "census_row": "24359",
+      "name": "ianjwhite99",
+      "queries": [
+        "ianjwhite99 AI program official",
+        "\"ianjwhite99\" student ambassador AI",
+        "\"ianjwhite99\" campus representative AI"
+      ],
+      "search_id": "search_2f7ec62a66ff668f2290884f5deaaac0",
+      "error": null,
+      "results": [
+        {
+          "title": "ianjwhite99 (Ian White) · GitHub",
+          "url": "https://github.com/ianjwhite99",
+          "excerpt": "# User: Ian White (@ianjwhite99)\n\n- Page: GitHub user profile\n- URL: https://github.com/ianjwhite99\n- Location: Nebraska, USA\n- Website: https://workmanusa.com\n- Followers: 23\n- Fo",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - ianjwhite99/opencode-with-claude: OpenCode plugin to use your Claude Max/Pro subscription with OpenCode via Meridian · GitHub",
+          "url": "https://github.com/ianjwhite99/opencode-with-claude",
+          "excerpt": "- Created: 2026-03-20T23:00:56.000Z\n- Commits: 210\n\n## Top-level files\n\n- .github/\n- scripts/\n- src/\n- test/\n- types/\n- .gitignore\n- CHANGELOG.md\n- LICENSE\n- README.md\n- bun.lock\n-",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2632,
+      "census_row": "24360",
+      "name": "iagooar",
+      "queries": [
+        "iagooar AI program official",
+        "\"iagooar\" student ambassador AI",
+        "\"iagooar\" campus representative AI"
+      ],
+      "search_id": "search_7808936496dc3bea51ab297b2e9078a6",
+      "error": null,
+      "results": [
+        {
+          "title": "iagooar (Mateusz Sójka) · GitHub",
+          "url": "https://github.com/iagooar",
+          "excerpt": "# User: Mateusz Sójka (@iagooar)\n\n- Page: GitHub user profile\n- URL: https://github.com/iagooar\n- Company: Podigee\n- Location: Poland\n- Website: https://www.podigee.com/\n- Follower",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - iagooar/qqqa: Fast, stateless LLM for your shell: qq answers; qa runs commands · GitHub",
+          "url": "https://github.com/iagooar/qqqa",
+          "excerpt": "# iagooar/qqqa\n\n- Page: GitHub repository\n- URL: https://github.com/iagooar/qqqa\n- Description: Fast, stateless LLM for your shell: qq answers; qa runs commands - iagooar/qqqa\n- St",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2633,
+      "census_row": "24361",
+      "name": "tecnickcom",
+      "queries": [
+        "tecnickcom AI program official",
+        "\"tecnickcom\" student ambassador AI",
+        "\"tecnickcom\" campus representative AI"
+      ],
+      "search_id": "search_4f64ff6625a0a20df48bf14a20e2fe72",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        },
+        {
+          "title": "Google Gemini Student Ambassador 2026",
+          "url": "https://geministudentambassador.com/",
+          "excerpt": "Google Student Ambassador 2026\nCommunity Apply Now\nSmile Star\n\nGoogle Student\n\nAmbassador 2026\nYour campus is ready for what's next. It just needs someone to lead it.\nBring innovat",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2634,
+      "census_row": "24362",
+      "name": "runebookai",
+      "queries": [
+        "runebookai AI program official",
+        "\"runebookai\" student ambassador AI",
+        "\"runebookai\" campus representative AI"
+      ],
+      "search_id": "search_e1f936eec9d1bab46cce5fc540d6932e",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - runebookai/tome: a magical LLM desktop client that makes it easy for *anyone* to use LLMs and MCP · GitHub",
+          "url": "https://github.com/runebookai/tome",
+          "excerpt": "# runebookai/tome\n\n- Page: GitHub repository\n- URL: https://github.com/runebookai/tome\n- Description: a magical LLM desktop client that makes it easy for *anyone* to use LLMs and M",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2635,
+      "census_row": "24363",
+      "name": "gutfeeling",
+      "queries": [
+        "gutfeeling AI program official",
+        "\"gutfeeling\" student ambassador AI",
+        "\"gutfeeling\" campus representative AI"
+      ],
+      "search_id": "search_00716d5637e6cf4fa56866055b557431",
+      "error": null,
+      "results": [
+        {
+          "title": "Google Gemini Student Ambassador 2026",
+          "url": "https://geministudentambassador.com/",
+          "excerpt": "Google Student Ambassador 2026\nCommunity Apply Now\nSmile Star\n\nGoogle Student\n\nAmbassador 2026\nYour campus is ready for what's next. It just needs someone to lead it.\nBring innovat",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2636,
+      "census_row": "24364",
+      "name": "smixs",
+      "queries": [
+        "smixs AI program official",
+        "\"smixs\" student ambassador AI",
+        "\"smixs\" campus representative AI"
+      ],
+      "search_id": "search_315fe8e2097c7a09d90fc9fcc6116e09",
+      "error": null,
+      "results": [
+        {
+          "title": "Google Gemini Student Ambassador 2026",
+          "url": "https://geministudentambassador.com/",
+          "excerpt": "Google Student Ambassador 2026\nCommunity Apply Now\nSmile Star\n\nGoogle Student\n\nAmbassador 2026\nYour campus is ready for what's next. It just needs someone to lead it.\nBring innovat",
+          "publish_date": null
+        },
+        {
+          "title": "campus-ambassador-programs-2026/EVIDENCE.md at master · harshgounder/campus-ambassador-programs-2026 · GitHub",
+          "url": "https://github.com/harshgounder/campus-ambassador-programs-2026/blob/master/EVIDENCE.md",
+          "excerpt": "Grade V1 means the program's own page. V2 means a directory or the organiser's social post.\n\nOpen, India eligible\n\nGoogle Gemini Student Ambassador 2026, https://geministudentambas",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2637,
+      "census_row": "24365",
+      "name": "proroklab",
+      "queries": [
+        "proroklab AI program official",
+        "\"proroklab\" student ambassador AI",
+        "\"proroklab\" campus representative AI"
+      ],
+      "search_id": "search_e27383d36ccc16b0966b1429e78739b8",
+      "error": null,
+      "results": [
+        {
+          "title": "proroklab · GitHub",
+          "url": "https://github.com/proroklab",
+          "excerpt": "Organization: proroklab (@proroklab)\n\n* Page: GitHub organization profile\n* URL: https://github.com/proroklab\n* Location: Cambridge, UK\n* Website: https://www.proroklab.org\n* Links",
+          "publish_date": null
+        },
+        {
+          "title": "Amanda Prorok · Prorok Lab",
+          "url": "https://www.proroklab.org/people/amanda-prorok",
+          "excerpt": "[· University of Cambridge](https://www.proroklab.org/)\n\n[Research](https://www.proroklab.org/research/) [Talks](https://www.proroklab.org/talks/) [People](https://www.proroklab.or",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2638,
+      "census_row": "24366",
+      "name": "bertinetto",
+      "queries": [
+        "bertinetto AI program official",
+        "\"bertinetto\" student ambassador AI",
+        "\"bertinetto\" campus representative AI"
+      ],
+      "search_id": "search_e186c384e127dcbcd6b4ac47fbcf51d5",
+      "error": null,
+      "results": [
+        {
+          "title": "bertinetto (Luca Bertinetto) · GitHub",
+          "url": "https://github.com/bertinetto",
+          "excerpt": "# User: Luca Bertinetto (@bertinetto)\n\n- Page: GitHub user profile\n- URL: https://github.com/bertinetto\n- Company: University of Oxford\n- Location: UK\n- Website: http://www.robots.",
+          "publish_date": null
+        },
+        {
+          "title": "luca.bertinetto/",
+          "url": "https://lucabertinetto.com/",
+          "excerpt": "[🌻 luca.bertinetto](https://lucabertinetto.com/) :~$\n\n* [about/](https://lucabertinetto.com/about/)\n* [research/](https://lucabertinetto.com/research/)\n\n## Luca Bertinetto\n\nMachin",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2639,
+      "census_row": "24367",
+      "name": "chrishutchinson",
+      "queries": [
+        "chrishutchinson AI program official",
+        "\"chrishutchinson\" student ambassador AI",
+        "\"chrishutchinson\" campus representative AI"
+      ],
+      "search_id": "search_bc62e91883fe347a8c24b7dd36d52c07",
+      "error": null,
+      "results": [
+        {
+          "title": "Mahindra University Students selected as Nvidia Global Ambassadors - Mahindra University",
+          "url": "https://www.mahindrauniversity.edu.in/events/mahindra-university-students-selected-as-nvidia-global-ambassadors",
+          "excerpt": "+ [Admission 2026 - 2027](https://www.mahindrauniversity.edu.in/study-at-mahindra/)\n+ [Academic Calendar](https://www.mahindrauniversity.edu.in/calendar/)\n\n...\n\nA vibrant, inclusiv",
+          "publish_date": "2025-12-19"
+        },
+        {
+          "title": "AI Fest 2026 · Campus Ambassador Portal",
+          "url": "https://www.cuchd.in/aifest-2026/campus-ambassador",
+          "excerpt": "CU InnovFest\nhome about perks benefits partners contact us\nChandigarh University | AI Fest 2026\n\nCampus Ambassador Program\n\n19th-21st February 2026\nNot just a role—it’s your space ",
+          "publish_date": "2026-02-21"
+        }
+      ]
+    },
+    {
+      "small_rank": 2640,
+      "census_row": "24368",
+      "name": "akanimax",
+      "queries": [
+        "akanimax AI program official",
+        "\"akanimax\" student ambassador AI",
+        "\"akanimax\" campus representative AI"
+      ],
+      "search_id": "search_434ffe2c0652d71ab44444aadf677428",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - akanimax/T2F: T2F: text to face generation using Deep Learning · GitHub",
+          "url": "https://github.com/akanimax/T2F",
+          "excerpt": "akanimax/T2F\n\n* Page: GitHub repository\n* URL: https://github.com/akanimax/T2F\n* Description: T2F: text to face generation using Deep Learning\n* Stars: 546\n* Forks: 95\n* Topics: ge",
+          "publish_date": null
+        },
+        {
+          "title": "Google Gemini Student Ambassador 2026",
+          "url": "https://geministudentambassador.com/",
+          "excerpt": "Google Student Ambassador 2026\nCommunity Apply Now\nSmile Star\n\nGoogle Student\n\nAmbassador 2026\nYour campus is ready for what's next. It just needs someone to lead it.\nBring innovat",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2641,
+      "census_row": "24369",
+      "name": "qunqin24",
+      "queries": [
+        "qunqin24 AI program official",
+        "\"qunqin24\" student ambassador AI",
+        "\"qunqin24\" campus representative AI"
+      ],
+      "search_id": "search_b735760fb98097162d9b8b6209b9c52a",
+      "error": null,
+      "results": [
+        {
+          "title": "qunqin24 (qunqin) · GitHub",
+          "url": "https://github.com/qunqin24",
+          "excerpt": "# User: qunqin (@qunqin24)\n\n- Page: GitHub user profile\n- URL: https://github.com/qunqin24\n- Website: https://qunqin24\n- Followers: 16\n- Following: 0\n- Links: https://qunqin24\n- To",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - qunqin24/Pulse: Know how much Claude Code, Codex, Cursor, Copilot and 70+ other AI coding tools you have left — a free, open-source macOS monitor on the edge of your screen. · GitHub",
+          "url": "https://github.com/qunqin24/Pulse",
+          "excerpt": "# qunqin24/Pulse\n\n- Page: GitHub repository\n- URL: https://github.com/qunqin24/Pulse\n- Description: Know how much Claude Code, Codex, Cursor, Copilot and 70+ other AI coding tools ",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2642,
+      "census_row": "24370",
+      "name": "teletrace",
+      "queries": [
+        "teletrace AI program official",
+        "\"teletrace\" student ambassador AI",
+        "\"teletrace\" campus representative AI"
+      ],
+      "search_id": "search_cc6ffeae8335c4d65b61da0501f372e8",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - teletrace/teletrace: Open-Source Tracing Platform · GitHub",
+          "url": "https://github.com/teletrace/teletrace",
+          "excerpt": "teletrace/teletrace\n\n* Page: GitHub repository\n* URL: https://github.com/teletrace/teletrace\n* Description: Open-Source Tracing Platform\n* License: Apache-2.0 license\n* Default bra",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2643,
+      "census_row": "24371",
+      "name": "uzh-rpg",
+      "queries": [
+        "uzh-rpg AI program official",
+        "\"uzh-rpg\" student ambassador AI",
+        "\"uzh-rpg\" campus representative AI"
+      ],
+      "search_id": "search_1a5e7df4a151fcb834c8b87827394278",
+      "error": null,
+      "results": [
+        {
+          "title": "Robotics and Perception Group · GitHub",
+          "url": "https://github.com/uzh-rpg",
+          "excerpt": "# Organization: Robotics and Perception Group (@uzh-rpg)\n\n- Page: GitHub organization profile\n- URL: https://github.com/uzh-rpg\n- Website: https://rpg.ifi.uzh.ch\n- Top languages: P",
+          "publish_date": null
+        },
+        {
+          "title": "About",
+          "url": "https://uzh-rpg.github.io/flightmare/about",
+          "excerpt": "# About\n\n## People\n\n[**Yunlong Song**](http://yun-long.github.io/)\n\n[**Selim Naji**](https://www.linkedin.com/in/selim-naji-706094171/?originalSubdomain=ch)\n\n[**Elia Kaufmann**](ht",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2644,
+      "census_row": "24372",
+      "name": "ushelp",
+      "queries": [
+        "ushelp AI program official",
+        "\"ushelp\" student ambassador AI",
+        "\"ushelp\" campus representative AI"
+      ],
+      "search_id": "search_598ca3d40a802be8ba969cbed8e875f0",
+      "error": null,
+      "results": [
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* [Agentic AI Ambassdor](https://aaif.io/learn-more-about-the-program) \\- If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and hel",
+          "publish_date": null
+        },
+        {
+          "title": "Google Gemini Student Ambassador 2026",
+          "url": "https://geministudentambassador.com/",
+          "excerpt": "Google Student Ambassador 2026\nCommunity Apply Now\nSmile Star\n\nGoogle Student\n\nAmbassador 2026\nYour campus is ready for what's next. It just needs someone to lead it.\nBring innovat",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2645,
+      "census_row": "24373",
+      "name": "Nehanth",
+      "queries": [
+        "Nehanth AI program official",
+        "\"Nehanth\" student ambassador AI",
+        "\"Nehanth\" campus representative AI"
+      ],
+      "search_id": "search_4bcf8ec414b5bedab8d9cc18feaee03d",
+      "error": null,
+      "results": [
+        {
+          "title": "Nehanth Narendrula",
+          "url": "http://nehanthn.com/",
+          "excerpt": "Me Writing\n\n# Hi, I'm Nehanth\n\n## Me\n\n**I love building things.**\n\nCurrently a Machine Learning Engineer at [Red Hat AI](https://www.redhat.com/en/products/ai) , working on agentic",
+          "publish_date": null
+        },
+        {
+          "title": "Nehanth (Nehanth Narendrula) · GitHub",
+          "url": "https://github.com/Nehanth",
+          "excerpt": "User: Nehanth Narendrula (@Nehanth)\n\n* Page: GitHub user profile\n* URL: https://github.com/Nehanth\n* Followers: 36\n* Following: 14\n* Top languages: JavaScript\n\nPinned repositories\n",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2646,
+      "census_row": "24374",
+      "name": "Decade-qiu",
+      "queries": [
+        "Decade-qiu AI program official",
+        "\"Decade-qiu\" student ambassador AI",
+        "\"Decade-qiu\" campus representative AI"
+      ],
+      "search_id": "search_f8f1ae12839004376b11df0c663ef4ec",
+      "error": null,
+      "results": [
+        {
+          "title": "Decade-qiu (Zhongjun Qiu) · GitHub",
+          "url": "https://github.com/Decade-qiu",
+          "excerpt": "User: Zhongjun Qiu (@Decade-qiu)\n\n* Page: GitHub user profile\n* URL: https://github.com/Decade-qiu\n* Location: Shanghai\n* Website: https://decade.net.cn\n* Followers: 30\n* Following",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - Decade-qiu/CookHero: CookHero是一个基于 LLM + RAG + Agent + 多模态的智能饮食与烹饪管理平台，支持智能菜谱查询、个性化饮食计划、AI 饮食记录、营养分析、Web 搜索增强，以及可扩展的 ReAct Agent / Subagent 工具体系，帮助厨房新手轻松成为“烹饪英雄”。 · GitHub",
+          "url": "https://github.com/Decade-qiu/CookHero",
+          "excerpt": "Decade-qiu/CookHero\n\n* Page: GitHub repository\n* URL: https://github.com/Decade-qiu/CookHero\n* Description: CookHero是一个基于 LLM + RAG + Agent + 多模态的智能饮食与烹饪管理平台，支持智能菜谱查询、个性化饮食计划、AI 饮食",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2647,
+      "census_row": "24375",
+      "name": "blacktwist",
+      "queries": [
+        "blacktwist AI program official",
+        "\"blacktwist\" student ambassador AI",
+        "\"blacktwist\" campus representative AI"
+      ],
+      "search_id": "search_42dc845d5948be53f5d25462665f560e",
+      "error": null,
+      "results": [
+        {
+          "title": "blacktwist · GitHub",
+          "url": "https://github.com/blacktwist",
+          "excerpt": "Organization: blacktwist (@blacktwist)\n\n* Page: GitHub organization profile\n* URL: https://github.com/blacktwist\n* Top languages: Shell, TypeScript\n\nRepositories\n\n* blacktwist/rest",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Amba",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2648,
+      "census_row": "24376",
+      "name": "OndrejTexler",
+      "queries": [
+        "OndrejTexler AI program official",
+        "\"OndrejTexler\" student ambassador AI",
+        "\"OndrejTexler\" campus representative AI"
+      ],
+      "search_id": "search_19d71f21e34db13fe4106c492c3fb8af",
+      "error": null,
+      "results": [
+        {
+          "title": "https://www.getprog.ai/profile/ondrej_texler",
+          "url": "https://www.getprog.ai/profile/ondrej_texler",
+          "excerpt": "API\nProducts chevron\nResources chevron\nApps chevron\nFAQ Top Experts Chrome Extension Sign in\nmenu\nOndrej Texler\nPrincipal Research Scientist at Valka.AI\nLos Angeles, California, Un",
+          "publish_date": null
+        },
+        {
+          "title": "MemMachine Student Ambassador Program | MemMachine",
+          "url": "https://memmachine.ai/community-student-ambassador-program/",
+          "excerpt": "MemMachine Student Ambassador Program\n\nJoin the Hippo Huddle. Learn, build, and make an impact with MemMachine.\n\n🦛 About the Program\n\nThe MemMachine Student Ambassador Program emp",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2649,
+      "census_row": "24377",
+      "name": "51bitquant",
+      "queries": [
+        "51bitquant AI program official",
+        "\"51bitquant\" student ambassador AI",
+        "\"51bitquant\" campus representative AI"
+      ],
+      "search_id": "search_bd4e2396f1c8e263625b8b3eebe25047",
+      "error": null,
+      "results": [
+        {
+          "title": "51bitquant (51bitquant) · GitHub",
+          "url": "https://github.com/51bitquant",
+          "excerpt": "# User: 51bitquant (@51bitquant)\n\n- Page: GitHub user profile\n- URL: https://github.com/51bitquant\n- Followers: 836\n- Following: 56\n- Links: https://twitter.com/51bitquant\n- Top la",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - 51bitquant/51bitquant · GitHub",
+          "url": "https://github.com/51bitquant/51bitquant",
+          "excerpt": "# 51bitquant/51bitquant\n\n- Page: GitHub repository\n- URL: https://github.com/51bitquant/51bitquant\n- Stars: 0\n- Forks: 1\n- Default branch: main\n- Created: 2025-04-11T00:00:09.000Z\n",
+          "publish_date": null
+        }
+      ]
+    },
+    {
+      "small_rank": 2650,
+      "census_row": "24378",
+      "name": "daydreamsai",
+      "queries": [
+        "daydreamsai AI program official",
+        "\"daydreamsai\" student ambassador AI",
+        "\"daydreamsai\" campus representative AI"
+      ],
+      "search_id": "search_f2edffe12e0e0c7ef60e542d429575c6",
+      "error": null,
+      "results": [
+        {
+          "title": "daydreams · GitHub",
+          "url": "https://github.com/daydreamsai",
+          "excerpt": "Organization: daydreams (@daydreamsai)\n\n* Page: GitHub organization profile\n* URL: https://github.com/daydreamsai\n* Website: https://daydreams.systems\n* Links: https://x.com/daydre",
+          "publish_date": null
+        },
+        {
+          "title": "GitHub - daydreamsai/daydreams: Daydreams is a set of tools for building agents for commerce · GitHub",
+          "url": "https://github.com/daydreamsai/daydreams",
+          "excerpt": "# daydreamsai/daydreams\n\n- Page: GitHub repository\n- URL: https://github.com/daydreamsai/daydreams\n- Description: Daydreams is a set of tools for building agents for commerce - day",
+          "publish_date": null
+        }
+      ]
+    }
+  ]
+}

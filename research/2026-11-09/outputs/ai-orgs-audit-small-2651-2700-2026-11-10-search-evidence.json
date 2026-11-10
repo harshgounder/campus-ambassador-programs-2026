@@ -1,0 +1,1340 @@
+{
+  "slice": {
+    "start": 2651,
+    "end": 2700,
+    "cutoff": "2026-11-09",
+    "research_date": "2026-11-10"
+  },
+  "method": {
+    "provider": "Parallel web search",
+    "x_mcp_used": false,
+    "query_count_per_name": 3,
+    "failures": 0,
+    "templates": [
+      "{name} student ambassador",
+      "{name} campus representative India",
+      "{name} official academic program advocate"
+    ]
+  },
+  "searches": [
+    {
+      "name": "Clay-foundation",
+      "search_id": "search_d9d283ac31916552ee1b92a15ef67b93",
+      "session_id": "session_d9d283ac31916552ee1b92a15ef67b93",
+      "queries": [
+        "Clay-foundation student ambassador",
+        "Clay-foundation campus representative India",
+        "Clay-foundation official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.todays.marketing/library/e/fresh-clay-campus-ambassadors-2027",
+          "title": "Recruit ambassadors by teaching them a skill first",
+          "publish_date": "2026-11-05",
+          "excerpt": "Recruit ambassadors by teaching them a skill first Clay Recruit ambassadors by teaching them a skill first Clay opened 2027 campus ambassador applications on Nov 5, 2026 with a pos"
+        },
+        {
+          "url": "https://jobs.sapphireventures.com/companies/clay-2-ed7afbce-d16f-41f8-a33f-de2e08c92e46/jobs/74776251-clay-campus-ambassador",
+          "title": "Clay Campus Ambassador @ Clay | Sapphire Ventures Job Board",
+          "publish_date": null,
+          "excerpt": "* Resource Center * * * Sapphire Partners Sapphire Partners Limited partner investing in exceptional early-stage venture fund managers. * Home * Team * OpenLP * Resource Center * *"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "cognitivetech",
+      "search_id": "search_b95df1ea18ed1f2e0131d33956d135c2",
+      "session_id": "session_b95df1ea18ed1f2e0131d33956d135c2",
+      "queries": [
+        "cognitivetech student ambassador",
+        "cognitivetech campus representative India",
+        "cognitivetech official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://www.oscode.co.in/campus-ambassador",
+          "title": "OSCode Campus Ambassador Program | Lead Tech at Your College",
+          "publish_date": null,
+          "excerpt": "communityX For Students For Companies Events Mentorship Contact Us communityX An engineering student building on a laptop in a campus lab at night An engineering student building o"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "turningpoint-ai",
+      "search_id": "search_41bbddd91a53c1791cf78f5ebdcdec92",
+      "session_id": "session_41bbddd91a53c1791cf78f5ebdcdec92",
+      "queries": [
+        "turningpoint-ai student ambassador",
+        "turningpoint-ai campus representative India",
+        "turningpoint-ai official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.turningpoint-ai.com/",
+          "title": "TurningPointAI",
+          "publish_date": null,
+          "excerpt": "top of page TurningPoint_blank Logo # TurningPoint AI AIGC Research Group ## About us ##### We are a compact and hardcore research team focused on harnessing the power of Multimoda"
+        },
+        {
+          "url": "https://labs.nmgdigital.com/ambassadors",
+          "title": "NMG Labs · Campus Ambassador Program · Apply Now",
+          "publish_date": null,
+          "excerpt": "Campus Ambassador Program · Pan-India · Cohort 01 Be the face of NMG Labs on your campus. Bring the sharpest builders from your college into India's most-watched AI hackathon serie"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "Ai00-X",
+      "search_id": "search_e8f636a9ef7f773958188de503c828e5",
+      "session_id": "session_e8f636a9ef7f773958188de503c828e5",
+      "queries": [
+        "Ai00-X student ambassador",
+        "Ai00-X campus representative India",
+        "Ai00-X official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campaign.1111.com.tw/ai-campus-ambassador",
+          "title": "2026校園大使 - 1111人力銀行",
+          "publish_date": "2025-10-14",
+          "excerpt": "跳到主要內容 跳到頁尾 [](https://www.1111.com.tw/) [](https://campaign.1111.com.tw/ai-campus-ambassador/) [我要報名](https://campaign.1111.com.tw/ai-campus-ambassador/application/) [登入](https://"
+        },
+        {
+          "url": "https://labs.nmgdigital.com/ambassadors",
+          "title": "NMG Labs · Campus Ambassador Program · Apply Now",
+          "publish_date": null,
+          "excerpt": "Campus Ambassador Program · Pan-India · Cohort 01 Be the face of NMG Labs on your campus. Bring the sharpest builders from your college into India's most-watched AI hackathon serie"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "NB-Corp",
+      "search_id": "search_61721fd063242f3935306115170c9413",
+      "session_id": "session_61721fd063242f3935306115170c9413",
+      "queries": [
+        "NB-Corp student ambassador",
+        "NB-Corp campus representative India",
+        "NB-Corp official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://nbccstories.ca/meet-nbccs-2025-student-excellence-in-leadership-award-recipients/",
+          "title": "Meet NBCC’s 2025 Student Excellence In Leadership Award Recipients – NBCC Stories",
+          "publish_date": "2025-06-16",
+          "excerpt": "This award recognizes a graduating student who has made an exceptional leadership contribution within an NBCC campus and/or the community they serve. There is one award per Academi"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "mpatacchiola",
+      "search_id": "search_f50aa28ea429ed8ca85ef9cdf97e0f0f",
+      "session_id": "session_f50aa28ea429ed8ca85ef9cdf97e0f0f",
+      "queries": [
+        "mpatacchiola student ambassador",
+        "mpatacchiola campus representative India",
+        "mpatacchiola official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://scholarsadda.in/ambassador",
+          "title": "Scholars Adda - Learning and Assessment Platform",
+          "publish_date": null,
+          "excerpt": "Represent Scholars Adda at your campus. Become a campus ambassador, build valuable skills, and earn exciting rewards while expanding your professional network. Apply Now The Ambass"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "Joker316701882",
+      "search_id": "search_6209546e479ca892ac3f1c1a4be500b1",
+      "session_id": "session_6209546e479ca892ac3f1c1a4be500b1",
+      "queries": [
+        "Joker316701882 student ambassador",
+        "Joker316701882 campus representative India",
+        "Joker316701882 official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://skillsconnect.in/campus-ambassador-program",
+          "title": "Campus Ambassador Program – SkillsConnect",
+          "publish_date": null,
+          "excerpt": "SkillsConnect Campus Ambassador What you get Ambassador Benefits More than a title — being a SkillsConnect Campus Ambassador opens doors that your peers won't have. Certificate of "
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "Gabriella439",
+      "search_id": "search_ac9716ff803f7b3a4c14e77d1a59c2a3",
+      "session_id": "session_ac9716ff803f7b3a4c14e77d1a59c2a3",
+      "queries": [
+        "Gabriella439 student ambassador",
+        "Gabriella439 campus representative India",
+        "Gabriella439 official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/Gabriella439",
+          "title": "Gabriella439 (gabby) · GitHub",
+          "publish_date": null,
+          "excerpt": "# User: gabby (@Gabriella439) - Page: GitHub user profile - URL: https://github.com/Gabriella439 - Location: San Jose, CA - Website: https://haskellforall.com - Followers: 2.5k - F"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "CubiCasa",
+      "search_id": "search_6e5ae0cd43a15e9f4d906e09b45c8be4",
+      "session_id": "session_6e5ae0cd43a15e9f4d906e09b45c8be4",
+      "queries": [
+        "CubiCasa student ambassador",
+        "CubiCasa campus representative India",
+        "CubiCasa official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://cap.kurukshetraceg.org.in/cap_guidelines_26.pdf",
+          "title": "CAMPUS AMBASSADOR PROGRAM – KURUKSHETRA 2026",
+          "publish_date": "2025-12-04",
+          "excerpt": "CAMPUS AMBASSADOR PROGRAM – KURUKSHETRA 2026 The Kurukshetra’ 26 Campus Ambassador Program gives students the chance to represent their Institution/University, promote Kurukshetra,"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "alankbi",
+      "search_id": "search_a538e9b62ea7314bb5e5b4922c6dbaa4",
+      "session_id": "session_a538e9b62ea7314bb5e5b4922c6dbaa4",
+      "queries": [
+        "alankbi student ambassador",
+        "alankbi campus representative India",
+        "alankbi official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://thesmartbridge.com/campus-ambassador-program",
+          "title": "SmartBridge Campus Ambassador Program",
+          "publish_date": null,
+          "excerpt": "or the impact you create on your campus. Lead & Inspire Become a student leader by driving impactful campus initiatives and events. Earn Recognition Receive an official Certificate"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "Skytliang",
+      "search_id": "search_7c9483b357ad03d0a7e29b979884df01",
+      "session_id": "session_7c9483b357ad03d0a7e29b979884df01",
+      "queries": [
+        "Skytliang student ambassador",
+        "Skytliang campus representative India",
+        "Skytliang official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/skytliang",
+          "title": "Skytliang (梁添) · GitHub",
+          "publish_date": null,
+          "excerpt": "# User: 梁添 (@skytliang) - Page: GitHub user profile - URL: https://github.com/skytliang - Company: Researcher at Tencent AI Lab - Location: China - Followers: 49 - Following: 16 - "
+        },
+        {
+          "url": "https://github.com/Skytliang/Multi-Agents-Debate",
+          "title": "GitHub - Skytliang/Multi-Agents-Debate: MAD: The first work to explore Multi-Agent Debate with Large Language Models :D · GitHub",
+          "publish_date": null,
+          "excerpt": "# Skytliang/Multi-Agents-Debate - Page: GitHub repository - URL: https://github.com/Skytliang/Multi-Agents-Debate - Description: MAD: The first work to explore Multi-Agent Debate w"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "pulkitxm",
+      "search_id": "search_530d72614cf2cda1fe383a1a4651f2ce",
+      "session_id": "session_530d72614cf2cda1fe383a1a4651f2ce",
+      "queries": [
+        "pulkitxm student ambassador",
+        "pulkitxm campus representative India",
+        "pulkitxm official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://labs.nmgdigital.com/ambassadors",
+          "title": "NMG Labs · Campus Ambassador Program · Apply Now",
+          "publish_date": null,
+          "excerpt": "Campus Ambassador Program · Pan-India · Cohort 01 Be the face of NMG Labs on your campus. Bring the sharpest builders from your college into India's most-watched AI hackathon serie"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "motis-project",
+      "search_id": "search_82402e45e2f5f8505acbb30617b059eb",
+      "session_id": "session_82402e45e2f5f8505acbb30617b059eb",
+      "queries": [
+        "motis-project student ambassador",
+        "motis-project campus representative India",
+        "motis-project official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://ngi.eu/funded_solution/motis",
+          "title": "MOTIS | Next Generation Internet",
+          "publish_date": "2025-04-24",
+          "excerpt": "Search [contact us](https://ngi.eu/contact/) [Subscribe to our Newsletter](https://dev.ngi.eu/subscribe/) [](https://www.linkedin.com/company/ngi4eu/ \"LinkedIn\") [](https://www.you"
+        },
+        {
+          "url": "https://github.com/motis-project",
+          "title": "MOTIS Project · GitHub",
+          "publish_date": null,
+          "excerpt": "# Organization: MOTIS Project (@motis-project) - Page: GitHub organization profile - URL: https://github.com/motis-project - Location: Germany - Links: https://mastodon.social/@fel"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "agentty-org",
+      "search_id": "search_b805ed5b847915bc034f44aeeae6474e",
+      "session_id": "session_b805ed5b847915bc034f44aeeae6474e",
+      "queries": [
+        "agentty-org student ambassador",
+        "agentty-org campus representative India",
+        "agentty-org official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://www.taskveda.in/campus-ambassador-program.html",
+          "title": "Campus Ambassador Program for Students + Certificate | TaskVeda",
+          "publish_date": null,
+          "excerpt": "🎓 Campus Leadership · TaskVeda Ambassador Program Campus Ambassador Program for Students in India 🚀 Apply for Free Why Become an Ambassador ↓ ✔ No prior experience needed | New c"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "pracdata",
+      "search_id": "search_2069db569b49f6eb9ca05fc2c20cbe94",
+      "session_id": "session_2069db569b49f6eb9ca05fc2c20cbe94",
+      "queries": [
+        "pracdata student ambassador",
+        "pracdata campus representative India",
+        "pracdata official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://scholarsadda.in/ambassador",
+          "title": "Scholars Adda - Learning and Assessment Platform",
+          "publish_date": null,
+          "excerpt": "Represent Scholars Adda at your campus. Become a campus ambassador, build valuable skills, and earn exciting rewards while expanding your professional network. Apply Now The Ambass"
+        },
+        {
+          "url": "https://www.internstudio.in/campus-ambassador",
+          "title": "InternStudio.in | Online Internships in Web Dev, MERN, AI/ML – Remote + Certified",
+          "publish_date": null,
+          "excerpt": "InternStudio Campus Ambassador Program 2026 Become an InternStudio Campus Ambassador Represent InternStudio by introducing anyone—friends, classmates, colleagues, or your network—t"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "jonathanwvd",
+      "search_id": "search_5fc430062e0410f8f7c68a9c7a69b0c5",
+      "session_id": "session_5fc430062e0410f8f7c68a9c7a69b0c5",
+      "queries": [
+        "jonathanwvd student ambassador",
+        "jonathanwvd campus representative India",
+        "jonathanwvd official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://www.taskveda.in/campus-ambassador-program.html",
+          "title": "Campus Ambassador Program for Students + Certificate | TaskVeda",
+          "publish_date": null,
+          "excerpt": "🎓 Campus Leadership · TaskVeda Ambassador Program Campus Ambassador Program for Students in India 🚀 Apply for Free Why Become an Ambassador ↓ ✔ No prior experience needed | New c"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "AlignmentResearch",
+      "search_id": "search_3b1bae764fdc32f76ac67e57f68bfc79",
+      "session_id": "session_3b1bae764fdc32f76ac67e57f68bfc79",
+      "queries": [
+        "AlignmentResearch student ambassador",
+        "AlignmentResearch campus representative India",
+        "AlignmentResearch official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://www.internstudio.in/campus-ambassador",
+          "title": "InternStudio.in | Online Internships in Web Dev, MERN, AI/ML – Remote + Certified",
+          "publish_date": null,
+          "excerpt": "InternStudio Campus Ambassador Program 2026 Become an InternStudio Campus Ambassador Represent InternStudio by introducing anyone—friends, classmates, colleagues, or your network—t"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "rmsalinas",
+      "search_id": "search_51cbe6038c8b9ad1165bd6990364bb9d",
+      "session_id": "session_51cbe6038c8b9ad1165bd6990364bb9d",
+      "queries": [
+        "rmsalinas student ambassador",
+        "rmsalinas campus representative India",
+        "rmsalinas official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://www.ecell.in/ca/",
+          "title": "Campus Ambassador | E-Cell IIT Bombay",
+          "publish_date": null,
+          "excerpt": "WHAT IS E-CELL The Entrepreneurship Cell of IIT Bombay is Asia's largest student-run, non-profit organization dedicated to fostering entrepreneurship. With a legacy spanning 28 yea"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "sunshineatnoon",
+      "search_id": "search_9c40c4d2d68be56636b5e413ff2e6e4b",
+      "session_id": "session_9c40c4d2d68be56636b5e413ff2e6e4b",
+      "queries": [
+        "sunshineatnoon student ambassador",
+        "sunshineatnoon campus representative India",
+        "sunshineatnoon official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.internstudio.in/campus-ambassador",
+          "title": "InternStudio.in | Online Internships in Web Dev, MERN, AI/ML – Remote + Certified",
+          "publish_date": null,
+          "excerpt": "InternStudio Campus Ambassador Program 2026 Become an InternStudio Campus Ambassador Represent InternStudio by introducing anyone—friends, classmates, colleagues, or your network—t"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "smoothnlp",
+      "search_id": "search_efb885b8921a7aaf0f520b66302c1f51",
+      "session_id": "session_efb885b8921a7aaf0f520b66302c1f51",
+      "queries": [
+        "smoothnlp student ambassador",
+        "smoothnlp campus representative India",
+        "smoothnlp official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://www.internstudio.in/campus-ambassador",
+          "title": "InternStudio.in | Online Internships in Web Dev, MERN, AI/ML – Remote + Certified",
+          "publish_date": null,
+          "excerpt": "InternStudio Campus Ambassador Program 2026 Become an InternStudio Campus Ambassador Represent InternStudio by introducing anyone—friends, classmates, colleagues, or your network—t"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "djyde",
+      "search_id": "search_7eb3940c826f48d3f80a8351b4bbf824",
+      "session_id": "session_7eb3940c826f48d3f80a8351b4bbf824",
+      "queries": [
+        "djyde student ambassador",
+        "djyde campus representative India",
+        "djyde official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.vidhigyata.in/events/vidhigyata-campus-ambassador-program-june-&-july-2026",
+          "title": "VIDHIGYATA CAMPUS AMBASSADOR PROGRAM\nJune & July 2026 | Vidhigyata",
+          "publish_date": null,
+          "excerpt": "top of page VIDHIGYATA CAMPUS AMBASSADOR PROGRAM June & July 2026 Course Duration: 2 months Venue: Online Mode: Online Apply About Become the Face of VIDHIGYATA in Your Campus This"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "sam70361",
+      "search_id": "search_603df3d4282faafba24ed317eddddc26",
+      "session_id": "session_603df3d4282faafba24ed317eddddc26",
+      "queries": [
+        "sam70361 student ambassador",
+        "sam70361 campus representative India",
+        "sam70361 official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://aicssyc.ieeecssrm.in/ambassador",
+          "title": "AICSSYC 2026 | IEEE Computer Society SYP Congress | SRM IST",
+          "publish_date": null,
+          "excerpt": "• CAMPUS AMBASSADOR PROGRAM Lead the charge. Own your campus. Become the official representative of India's flagship IEEE Computer Society congress. Build your network, unlock excl"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "YanjieZe",
+      "search_id": "search_078e7feca205ccc0cfc2b2f60bb4f623",
+      "session_id": "session_078e7feca205ccc0cfc2b2f60bb4f623",
+      "queries": [
+        "YanjieZe student ambassador",
+        "YanjieZe campus representative India",
+        "YanjieZe official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://profiles.stanford.edu/yanjieze",
+          "title": "Yanjie Ze's Profile | Stanford Profiles",
+          "publish_date": null,
+          "excerpt": "Yanjie Ze # Yanjie Ze ## Ph.D. Student in Computer Science, admitted Autumn 2024 * [Print Profile](https://cap.stanford.edu/profiles/frdActionServlet?choiceId=printerprofile&profil"
+        },
+        {
+          "url": "https://yanjieze.com/",
+          "title": "Yanjie Ze",
+          "publish_date": null,
+          "excerpt": "_n._ A human-like body with two dexterous hands, and a mind that was learned rather than written. Something you can hand a task to, not a script. PhD student at [Stanford CS](https"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "ee0pdt",
+      "search_id": "search_112c843c68521e2a9a521d7dac53a351",
+      "session_id": "session_112c843c68521e2a9a521d7dac53a351",
+      "queries": [
+        "ee0pdt student ambassador",
+        "ee0pdt campus representative India",
+        "ee0pdt official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://lawlit.in/campus-ambassadors",
+          "title": "The Lawlit Fellowship 2026 | Campus Ambassador Program | Lawlit",
+          "publish_date": null,
+          "excerpt": "2026 Cohort Applications Open The Lawlit Fellowship. We are looking for ambitious law students to represent Lawlit at top NLUs and private law colleges across India. This is not a "
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "daniel3303",
+      "search_id": "search_1683f721f1cf0c4697443261fbee44db",
+      "session_id": "session_1683f721f1cf0c4697443261fbee44db",
+      "queries": [
+        "daniel3303 student ambassador",
+        "daniel3303 campus representative India",
+        "daniel3303 official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://lawlit.in/campus-ambassadors",
+          "title": "The Lawlit Fellowship 2026 | Campus Ambassador Program | Lawlit",
+          "publish_date": null,
+          "excerpt": "2026 Cohort Applications Open The Lawlit Fellowship. We are looking for ambitious law students to represent Lawlit at top NLUs and private law colleges across India. This is not a "
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "winstonkoh87",
+      "search_id": "search_80236e252d0768c2ff5e69d9e2ba8723",
+      "session_id": "session_80236e252d0768c2ff5e69d9e2ba8723",
+      "queries": [
+        "winstonkoh87 student ambassador",
+        "winstonkoh87 campus representative India",
+        "winstonkoh87 official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://scholarsadda.in/ambassador",
+          "title": "Scholars Adda - Learning and Assessment Platform",
+          "publish_date": null,
+          "excerpt": "Represent Scholars Adda at your campus. Become a campus ambassador, build valuable skills, and earn exciting rewards while expanding your professional network. Apply Now The Ambass"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "KRLabsOrg",
+      "search_id": "search_65fff7ff3e6b91cc42920c24f0c31b5f",
+      "session_id": "session_65fff7ff3e6b91cc42920c24f0c31b5f",
+      "queries": [
+        "KRLabsOrg student ambassador",
+        "KRLabsOrg campus representative India",
+        "KRLabsOrg official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/KRLabsOrg",
+          "title": "KR Labs · GitHub",
+          "publish_date": null,
+          "excerpt": "# Organization: KR Labs (@KRLabsOrg) - Page: GitHub organization profile - URL: https://github.com/KRLabsOrg - Location: Austria - Website: https://krlabs.eu - Links: https://linke"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "ApolloScapeAuto",
+      "search_id": "search_15e714db8c05169c47daa751089fa72a",
+      "session_id": "session_15e714db8c05169c47daa751089fa72a",
+      "queries": [
+        "ApolloScapeAuto student ambassador",
+        "ApolloScapeAuto campus representative India",
+        "ApolloScapeAuto official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://skillsconnect.in/campus-ambassador-program",
+          "title": "Campus Ambassador Program – SkillsConnect",
+          "publish_date": null,
+          "excerpt": "SkillsConnect Campus Ambassador What you get Ambassador Benefits More than a title — being a SkillsConnect Campus Ambassador opens doors that your peers won't have. Certificate of "
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "SubhamTyagi",
+      "search_id": "search_a1fca2464b20d5b97602d38634e31c32",
+      "session_id": "session_a1fca2464b20d5b97602d38634e31c32",
+      "queries": [
+        "SubhamTyagi student ambassador",
+        "SubhamTyagi campus representative India",
+        "SubhamTyagi official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://www.sphinx.org.in/ca",
+          "title": "Campus Ambassador Program | Sphinx '26",
+          "publish_date": null,
+          "excerpt": "* Leaderboard * Story * Sponsors * Festival Pass * Campus Ambassador * Team * Dev Team * Legal Register / Sign In Sphinx '26 · Campus Program Campus Ambassador Represent · Connect "
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "StuMason",
+      "search_id": "search_05d05b647b636a91a6fe947fbda42217",
+      "session_id": "session_05d05b647b636a91a6fe947fbda42217",
+      "queries": [
+        "StuMason student ambassador",
+        "StuMason campus representative India",
+        "StuMason official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://studeco.in/campus-ambassador",
+          "title": "Campus Ambassador | StudEco",
+          "publish_date": null,
+          "excerpt": "Become a StudEco Campus Ambassador Represent StudEco at your college, earn real money, and build skills that last a lifetime. Apply Now Learn More –––– Campus Ambassador What is a "
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "rbbrdckybk",
+      "search_id": "search_7497ebbcaf30b1d01947f43c2eadf47e",
+      "session_id": "session_7497ebbcaf30b1d01947f43c2eadf47e",
+      "queries": [
+        "rbbrdckybk student ambassador",
+        "rbbrdckybk campus representative India",
+        "rbbrdckybk official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://thesmartbridge.com/campus-ambassador-program",
+          "title": "SmartBridge Campus Ambassador Program",
+          "publish_date": null,
+          "excerpt": "or the impact you create on your campus. Lead & Inspire Become a student leader by driving impactful campus initiatives and events. Earn Recognition Receive an official Certificate"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "Swayingleaves",
+      "search_id": "search_64b786f09bdac98709a6a51ad3922418",
+      "session_id": "session_64b786f09bdac98709a6a51ad3922418",
+      "queries": [
+        "Swayingleaves student ambassador",
+        "Swayingleaves campus representative India",
+        "Swayingleaves official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://www.sphinx.org.in/ca",
+          "title": "Campus Ambassador Program | Sphinx '26",
+          "publish_date": null,
+          "excerpt": "* Leaderboard * Story * Sponsors * Festival Pass * Campus Ambassador * Team * Dev Team * Legal Register / Sign In Sphinx '26 · Campus Program Campus Ambassador Represent · Connect "
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "WoJiSama",
+      "search_id": "search_188bb6af1d8fc00192764413b55e6208",
+      "session_id": "session_188bb6af1d8fc00192764413b55e6208",
+      "queries": [
+        "WoJiSama student ambassador",
+        "WoJiSama campus representative India",
+        "WoJiSama official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://scholarsadda.in/ambassador",
+          "title": "Scholars Adda - Learning and Assessment Platform",
+          "publish_date": null,
+          "excerpt": "Represent Scholars Adda at your campus. Become a campus ambassador, build valuable skills, and earn exciting rewards while expanding your professional network. Apply Now The Ambass"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "huyuanxin",
+      "search_id": "search_777100319154b42f4b4150d747bf8559",
+      "session_id": "session_777100319154b42f4b4150d747bf8559",
+      "queries": [
+        "huyuanxin student ambassador",
+        "huyuanxin campus representative India",
+        "huyuanxin official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://www.scconline.com/blog/post/2026/07/22/applications-for-ebc-scc-student-ambassadors-programme-2026/",
+          "title": "EBC - SCC OnLine Student Ambassadors' Programme invites applications; Apply by July 31st",
+          "publish_date": "2026-07-22",
+          "excerpt": "* Home * Jobs & Internships * EBC – SCC OnLine Student Ambassadors’ Programme invites applications; Apply by July 31st EBC – SCC OnLine Student Ambassadors’ Programme invites appli"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "millionco",
+      "search_id": "search_a258cfab7364ac345fcee9e3298b381d",
+      "session_id": "session_a258cfab7364ac345fcee9e3298b381d",
+      "queries": [
+        "millionco student ambassador",
+        "millionco campus representative India",
+        "millionco official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://labs.nmgdigital.com/ambassadors",
+          "title": "NMG Labs · Campus Ambassador Program · Apply Now",
+          "publish_date": null,
+          "excerpt": "Campus Ambassador Program · Pan-India · Cohort 01 Be the face of NMG Labs on your campus. Bring the sharpest builders from your college into India's most-watched AI hackathon serie"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "NotPunchnox",
+      "search_id": "search_01dade36a2cc28895d7a0cfbed6670f6",
+      "session_id": "session_01dade36a2cc28895d7a0cfbed6670f6",
+      "queries": [
+        "NotPunchnox student ambassador",
+        "NotPunchnox campus representative India",
+        "NotPunchnox official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://gist.github.com/NotPunchnox",
+          "title": "NotPunchnox’s gists · GitHub",
+          "publish_date": null,
+          "excerpt": "[](https://gist.github.com/) Search Gists Search Gists [All gists](https://gist.github.com/discover) [Back to GitHub](https://github.com/) [](https://gist.github.com/) Instantly sh"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "Sujit-O",
+      "search_id": "search_33ea13538cf40ab4ac126579964f88fb",
+      "session_id": "session_33ea13538cf40ab4ac126579964f88fb",
+      "queries": [
+        "Sujit-O student ambassador",
+        "Sujit-O campus representative India",
+        "Sujit-O official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://lawlit.in/campus-ambassadors",
+          "title": "The Lawlit Fellowship 2026 | Campus Ambassador Program | Lawlit",
+          "publish_date": null,
+          "excerpt": "2026 Cohort Applications Open The Lawlit Fellowship. We are looking for ambitious law students to represent Lawlit at top NLUs and private law colleges across India. This is not a "
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "3dlg-hcvc",
+      "search_id": "search_4ab817edca5d8c7ad8c012f655c6bdb2",
+      "session_id": "session_4ab817edca5d8c7ad8c012f655c6bdb2",
+      "queries": [
+        "3dlg-hcvc student ambassador",
+        "3dlg-hcvc campus representative India",
+        "3dlg-hcvc official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/3dlg-hcvc",
+          "title": "3dlg · GitHub",
+          "publish_date": null,
+          "excerpt": "Organization: 3dlg (@3dlg-hcvc) * Page: GitHub organization profile * URL: https://github.com/3dlg-hcvc * Location: Canada * Website: https://3dlg-hcvc.github.io/ * Links: https://"
+        },
+        {
+          "url": "https://3dlg-hcvc.github.io/people",
+          "title": "People | 3DLG",
+          "publish_date": null,
+          "excerpt": "[](https://3dlg-hcvc.github.io/) * [People](https://3dlg-hcvc.github.io/people/) * [Projects](https://3dlg-hcvc.github.io/projects/) * [Publications](https://3dlg-hcvc.github.io/pu"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "aiplanethub",
+      "search_id": "search_6b5f301fc5fa4c410240fa807f2d7a2d",
+      "session_id": "session_6b5f301fc5fa4c410240fa807f2d7a2d",
+      "queries": [
+        "aiplanethub student ambassador",
+        "aiplanethub campus representative India",
+        "aiplanethub official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.techmnhub.com/ambassador",
+          "title": "Become A TechMNHub Student Ambassador",
+          "publish_date": null,
+          "excerpt": "Back to home CAMPUS FRONTIER 2026 Become A TechMNHub Student Ambassador 🚀 Represent Your School. Build Your Identity. Lead The Future. Connect with a national community of creator"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "ok-robot",
+      "search_id": "search_0d8a24e2af3edc10114d21d95179be12",
+      "session_id": "session_0d8a24e2af3edc10114d21d95179be12",
+      "queries": [
+        "ok-robot student ambassador",
+        "ok-robot campus representative India",
+        "ok-robot official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://www.internstudio.in/campus-ambassador",
+          "title": "InternStudio.in | Online Internships in Web Dev, MERN, AI/ML – Remote + Certified",
+          "publish_date": null,
+          "excerpt": "InternStudio Campus Ambassador Program 2026 Become an InternStudio Campus Ambassador Represent InternStudio by introducing anyone—friends, classmates, colleagues, or your network—t"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "jhu-lcsr",
+      "search_id": "search_9001e01c9cabed97fd2dcb851160eae8",
+      "session_id": "session_9001e01c9cabed97fd2dcb851160eae8",
+      "queries": [
+        "jhu-lcsr student ambassador",
+        "jhu-lcsr campus representative India",
+        "jhu-lcsr official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://lcsr.jhu.edu/lcsr-gsa",
+          "title": "LCSR-GSA – Laboratory for Computational Sensing + Robotics",
+          "publish_date": null,
+          "excerpt": "Skip to main content Skip to site alert You are here: 1. Home 2. LCSR-GSA LCSR-GSA Play background animation Pause background animation The LCSR Graduate Student Association (LCSR-"
+        },
+        {
+          "url": "https://lcsr.jhu.edu/student-organizations",
+          "title": "LCSR-GSA – Laboratory for Computational Sensing + Robotics",
+          "publish_date": null,
+          "excerpt": "* LCSR-GSA * For Current Students * Research * Lab Links * Education * Masters in Robotics * BS/MSE * Affiliated PhD Programs * Undergraduate Minors * AI-CARE Summer REU * Student "
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "genicam",
+      "search_id": "search_c9c4a69b55b0c04b4450e14c8ca1eaf8",
+      "session_id": "session_c9c4a69b55b0c04b4450e14c8ca1eaf8",
+      "queries": [
+        "genicam student ambassador",
+        "genicam campus representative India",
+        "genicam official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://geministudentambassador.com/",
+          "title": "Google Gemini Student Ambassador 2026",
+          "publish_date": null,
+          "excerpt": "Google Student Ambassador 2026 Community Apply Now Smile Star Google Student Ambassador 2026 Your campus is ready for what's next. It just needs someone to lead it. Bring innovatio"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "richardaecn",
+      "search_id": "search_92e3e45539c7d029cd83ed05ba4ef6fc",
+      "session_id": "session_92e3e45539c7d029cd83ed05ba4ef6fc",
+      "queries": [
+        "richardaecn student ambassador",
+        "richardaecn campus representative India",
+        "richardaecn official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://scholarsadda.in/ambassador",
+          "title": "Scholars Adda - Learning and Assessment Platform",
+          "publish_date": null,
+          "excerpt": "Represent Scholars Adda at your campus. Become a campus ambassador, build valuable skills, and earn exciting rewards while expanding your professional network. Apply Now The Ambass"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "mengke-wang",
+      "search_id": "search_878a65febc5cad79728c7afec7b4296e",
+      "session_id": "session_878a65febc5cad79728c7afec7b4296e",
+      "queries": [
+        "mengke-wang student ambassador",
+        "mengke-wang campus representative India",
+        "mengke-wang official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://linkedin.com/in/mengke-wang-4787ab307",
+          "title": "Mengke Wang - Finland | Professional Profile | LinkedIn",
+          "publish_date": null,
+          "excerpt": "take place on 26 October 2026 at 17:00-18:30pm (CST) or 10:00-11:30am (CET). STEM education policies of Finland, Ireland, and Europe will be featured during the session. ... This r"
+        },
+        {
+          "url": "https://www.oulu.fi/en/researchers/mengke-wang",
+          "title": "Mengke Wang | University of Oulu",
+          "publish_date": null,
+          "excerpt": "1. University of Oulu 2. Mengke Wang Mengke Wang PhD Learning and Learning Processes Faculty of Education and Psychology Mengke Wang I am a postdoctoral researcher in the Learning "
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "Eyeline-Labs",
+      "search_id": "search_316b09fa8d570345f3120e25b4b0fd42",
+      "session_id": "session_316b09fa8d570345f3120e25b4b0fd42",
+      "queries": [
+        "Eyeline-Labs student ambassador",
+        "Eyeline-Labs campus representative India",
+        "Eyeline-Labs official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://news.asu.edu/20240426-sun-devil-community-may-grad-yash-rakas-roles-included-mental-health-advocate-student?page=%2C%2C0",
+          "title": "May grad Yash Raka’s roles included mental health advocate, student government senator, researcher and volunteer | ASU News",
+          "publish_date": null,
+          "excerpt": "funding and time to make it happen. Seeing this, alongside the fact that I come from a background of software engineers, piqued my interest in biomedical informatics. This interest"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "danthedeckie",
+      "search_id": "search_58dede46cad38cc03993e2034da5bc4e",
+      "session_id": "session_58dede46cad38cc03993e2034da5bc4e",
+      "queries": [
+        "danthedeckie student ambassador",
+        "danthedeckie campus representative India",
+        "danthedeckie official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://lawlit.in/campus-ambassadors",
+          "title": "The Lawlit Fellowship 2026 | Campus Ambassador Program | Lawlit",
+          "publish_date": null,
+          "excerpt": "Lawlit Lawlit Platform * Daily Brief * Deal Street * Jobs & Internships * Law Firms * Competitions * Courses * College Stories WhatsApp Community Toggle theme Sign In Search ⌘K 202"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "prabanta-dev",
+      "search_id": "search_4ee4d283f673b484b96c1f41820d0edf",
+      "session_id": "session_4ee4d283f673b484b96c1f41820d0edf",
+      "queries": [
+        "prabanta-dev student ambassador",
+        "prabanta-dev campus representative India",
+        "prabanta-dev official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/prabanta-dev/janas",
+          "title": "GitHub - prabanta-dev/janas: 37 tok/s from Qwen3-Next-80B (48 GB) on a 32 GB laptop, 24 without drafts vs 2.8 for llama.cpp; reading 62 vs 16 tok/s. Faster than llama.cpp on all 13 models compared in Q4_K_M. LLMs bigger than your RAM, pure C, CPU or GPU. · GitHub",
+          "publish_date": null,
+          "excerpt": "# prabanta-dev/janas - Page: GitHub repository - URL: https://github.com/prabanta-dev/janas - Description: 37 tok/s from Qwen3-Next-80B (48 GB) on a 32 GB laptop, 24 without drafts"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "cdqa-suite",
+      "search_id": "search_f3974d249734854b5067ce1ea02af21e",
+      "session_id": "session_f3974d249734854b5067ce1ea02af21e",
+      "queries": [
+        "cdqa-suite student ambassador",
+        "cdqa-suite campus representative India",
+        "cdqa-suite official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://scholarsadda.in/ambassador",
+          "title": "Scholars Adda - Learning and Assessment Platform",
+          "publish_date": null,
+          "excerpt": "Represent Scholars Adda at your campus. Become a campus ambassador, build valuable skills, and earn exciting rewards while expanding your professional network. Apply Now The Ambass"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "reriiasu",
+      "search_id": "search_b798a51dca073e21ff508d61f335d8f7",
+      "session_id": "session_b798a51dca073e21ff508d61f335d8f7",
+      "queries": [
+        "reriiasu student ambassador",
+        "reriiasu campus representative India",
+        "reriiasu official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://www.j2c.in/Amb.jsp",
+          "title": "J2C Campus Ambassador Program",
+          "publish_date": null,
+          "excerpt": "Official 2026 Program Become the Face of J2C on Your Campus Gain leadership experience, earn performance-based stipends, and bridge the gap between college and the corporate world."
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    },
+    {
+      "name": "paladini",
+      "search_id": "search_4083bbc2c0be1e5d92ef7c21f0c4753b",
+      "session_id": "session_4083bbc2c0be1e5d92ef7c21f0c4753b",
+      "queries": [
+        "paladini student ambassador",
+        "paladini campus representative India",
+        "paladini official academic program advocate"
+      ],
+      "results": [
+        {
+          "url": "https://members.educause.edu/guillermo-enrique-paladini",
+          "title": "Guillermo Paladini | EDUCAUSE Members",
+          "publish_date": null,
+          "excerpt": "* The Human Edge of AI * Measured Approaches to New Technologies * See all Showcases > * What are EDUCAUSE Showcases? The showcase series spotlights the most urgent issues in highe"
+        },
+        {
+          "url": "https://law.okcu.edu/admissions/admissions-ambassadors/",
+          "title": "Admissions Ambassadors | Oklahoma City University School of Law",
+          "publish_date": "2023-06-30",
+          "excerpt": "Admissions questions? Call 405.208.6400 * Law Library * Faculty & Staff * Current Students * Apply Now * BlueLink * Webmail * Calendar * Simplicity * SharePoint * D2L * Technology "
+        }
+      ],
+      "failure": null,
+      "query_count": 3
+    }
+  ],
+  "official_page_checks": [
+    {
+      "url": "https://github.com/Clay-foundation",
+      "note": "Clay Foundation exact GitHub identity."
+    },
+    {
+      "url": "https://www.clay.com/clay-campus-ambassadors",
+      "note": "Clay.com GTM product; false positive for Clay Foundation."
+    },
+    {
+      "url": "https://www.techmnhub.com/ambassador",
+      "note": "No link to aiplanethub established."
+    },
+    {
+      "url": "https://labs.nmgdigital.com/ambassadors",
+      "note": "No link to turningpoint-ai established."
+    }
+  ],
+  "limitations": "Bounded discovery search; no exact entity-to-program route verified."
+}

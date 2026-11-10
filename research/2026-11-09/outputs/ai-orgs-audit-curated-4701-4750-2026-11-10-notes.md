@@ -1,0 +1,10 @@
+# Audit notes: census rows 4701–4750
+
+- Coverage: 50 consecutive source rows from `census-search-ledger-2026-11-09.csv`. Exact row number, name, tier and category retained in the 13-column output.
+- Method: exact census names and supplied search-result leads were screened for student/campus/community ambassador, advocate, champion, fellow, chapter, representative, and creator routes. Search results and directories were treated as discovery only; route ownership requires organizer evidence. The available web search batch did not provide usable per-name identity evidence for most handles, so non-hit rows remain low-confidence bounded screens rather than claims of absence.
+- Fetch.ai (4735): its official [Ambassador Innovator Club page](https://innovationlab.fetch.ai/ambassador-innovator-club) identifies the Fetch.ai program and describes community advocacy and events. It lists current undergraduates or graduates with a development/technology background. Application depends on availability and suitability. No dated evidence establishes that applications were open on 2026-11-09, and India eligibility was not specified.
+- Uber Research (4709): official Uber India search results surfaced a historical Ludhiana campus brand ambassador call. This is an old city-specific marketing route, not a research/AI student opportunity; it does not establish a current opening or Jaipur/MUJ eligibility.
+- Supplied leads for Claude/Anthropic (including rows 4711, 4743, 4744) were not attributed to the census handles absent a verified connection between each exact handle and the program organizer. Similar caution applied to generic directories and unrelated programs across the slice.
+- No X MCP, external contact, form entry, or application submission was used.
+- Date/geography: status as of the 2026-11-09 cutoff is recorded separately from pages visible during Nov 10 research. India eligibility is explicit only when organizer evidence supports it; global phrasing or another Indian participant is not enough.
+- These bounded results do not prove absence and do not establish overall census completeness.

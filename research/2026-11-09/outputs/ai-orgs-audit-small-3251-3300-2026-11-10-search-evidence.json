@@ -1,0 +1,1600 @@
+{
+  "slice": {
+    "start": 3251,
+    "end": 3300,
+    "census_rows": [
+      24979,
+      25028
+    ],
+    "cutoff": "2026-11-09",
+    "researched": "2026-11-10",
+    "validation": "50 source rows exact; 0 mismatch"
+  },
+  "method": "Three exact-entity targeted identity/ambassador-route search variations per entity; follow credible leads to official pages. Bounded search; no global-absence claims.",
+  "x_mcp_used": false,
+  "search_status": "50 of 50 entities searched in three-query batches; route/cutoff/eligibility reviews remain incomplete; no no-route conclusions.",
+  "entities": [
+    {
+      "small_rank": "3251",
+      "census_row": "24979",
+      "name": "airalcorn2",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"airalcorn2\" GitHub official profile",
+        "\"airalcorn2\" student ambassador program",
+        "\"airalcorn2\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "airalcorn2 GitHub official profile",
+        "airalcorn2 student ambassador program",
+        "airalcorn2 campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/airalcorn2",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Michael A. Alcorn, associated with Stack AV; AI/research software repositories."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence only. No route or no-route conclusion; further official verification needed."
+    },
+    {
+      "small_rank": "3252",
+      "census_row": "24980",
+      "name": "alexklwong",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"alexklwong\" GitHub official profile",
+        "\"alexklwong\" student ambassador program",
+        "\"alexklwong\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "alexklwong GitHub official profile",
+        "alexklwong student ambassador program",
+        "alexklwong campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/alexklwong",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Alex Wong; links Yale vision lab and lists computer vision/robotics research."
+          ]
+        },
+        {
+          "url": "http://vision.cs.yale.edu/",
+          "title": "Linked official site",
+          "excerpts": [
+            "Linked from profile or repository; identity/context locator."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence only. No route or no-route conclusion; further official verification needed."
+    },
+    {
+      "small_rank": "3253",
+      "census_row": "24981",
+      "name": "AaronGIG",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"AaronGIG\" GitHub official profile",
+        "\"AaronGIG\" student ambassador program",
+        "\"AaronGIG\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "AaronGIG GitHub official profile",
+        "AaronGIG student ambassador program",
+        "AaronGIG campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/AaronGIG/pdf2zh-desktop",
+          "title": "GitHub repository",
+          "excerpts": [
+            "AaronGIG repository describes PDF translation desktop app with AI translation engines; exact profile owner identity not captured."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence only. No route or no-route conclusion; further official verification needed."
+    },
+    {
+      "small_rank": "3254",
+      "census_row": "24982",
+      "name": "Teamlinker",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Teamlinker\" GitHub official profile",
+        "\"Teamlinker\" student ambassador program",
+        "\"Teamlinker\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "Teamlinker GitHub official profile",
+        "Teamlinker student ambassador program",
+        "Teamlinker campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/Teamlinker/Teamlinker",
+          "title": "GitHub repository",
+          "excerpts": [
+            "Teamlinker describes a collaboration platform integrating project, wiki, calendar, meeting, chat and file modules."
+          ]
+        },
+        {
+          "url": "https://team-linker.com",
+          "title": "Linked official site",
+          "excerpts": [
+            "Linked from profile or repository; identity/context locator."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence only. No route or no-route conclusion; further official verification needed."
+    },
+    {
+      "small_rank": "3255",
+      "census_row": "24983",
+      "name": "Muvon",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Muvon\" GitHub official profile",
+        "\"Muvon\" student ambassador program",
+        "\"Muvon\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "Muvon GitHub official profile",
+        "Muvon student ambassador program",
+        "Muvon campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/Muvon",
+          "title": "GitHub organization",
+          "excerpts": [
+            "Muvon org is based in Hong Kong and links muvon.io; about page describes a small bootstrapped product company."
+          ]
+        },
+        {
+          "url": "https://muvon.io/about",
+          "title": "Linked official site",
+          "excerpts": [
+            "Linked from profile or repository; identity/context locator."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence only. No route or no-route conclusion; further official verification needed."
+    },
+    {
+      "small_rank": "3256",
+      "census_row": "24984",
+      "name": "nudgebee",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"nudgebee\" GitHub official profile",
+        "\"nudgebee\" student ambassador program",
+        "\"nudgebee\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "nudgebee GitHub official profile",
+        "nudgebee student ambassador program",
+        "nudgebee campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/nudgebee",
+          "title": "GitHub organization",
+          "excerpts": [
+            "NudgeBee is an India-based AIOps platform for AI SRE, cloud-cost and CloudOps."
+          ]
+        },
+        {
+          "url": "https://nudgebee.com/about",
+          "title": "Linked official site",
+          "excerpts": [
+            "Linked from profile or repository; identity/context locator."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence only. No route or no-route conclusion; further official verification needed."
+    },
+    {
+      "small_rank": "3257",
+      "census_row": "24985",
+      "name": "circuitnet",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"circuitnet\" GitHub official profile",
+        "\"circuitnet\" student ambassador program",
+        "\"circuitnet\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "circuitnet GitHub official profile",
+        "circuitnet student ambassador program",
+        "circuitnet campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/circuitnet",
+          "title": "GitHub organization",
+          "excerpts": [
+            "CircuitNet is an open-source dataset for machine-learning applications in electronic design automation."
+          ]
+        },
+        {
+          "url": "https://github.com/circuitnet/CircuitNet",
+          "title": "Linked official site",
+          "excerpts": [
+            "Linked from profile or repository; identity/context locator."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence only. No route or no-route conclusion; further official verification needed."
+    },
+    {
+      "small_rank": "3258",
+      "census_row": "24986",
+      "name": "trustfuture",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"trustfuture\" GitHub official profile",
+        "\"trustfuture\" student ambassador program",
+        "\"trustfuture\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "trustfuture GitHub official profile",
+        "trustfuture student ambassador program",
+        "trustfuture campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/trustfuture",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Simon; pinned work includes a Chinese AI video creation skills collection."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence only. No route or no-route conclusion; further official verification needed."
+    },
+    {
+      "small_rank": "3259",
+      "census_row": "24987",
+      "name": "smileboywtu",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"smileboywtu\" GitHub official profile",
+        "\"smileboywtu\" student ambassador program",
+        "\"smileboywtu\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "smileboywtu GitHub official profile",
+        "smileboywtu student ambassador program",
+        "smileboywtu campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/smileboywtu",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies wind, China; public software repositories include tools and bots."
+          ]
+        },
+        {
+          "url": "http://bob.36deep.com",
+          "title": "Linked official site",
+          "excerpts": [
+            "Linked from profile or repository; identity/context locator."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence only. No route or no-route conclusion; further official verification needed."
+    },
+    {
+      "small_rank": "3260",
+      "census_row": "24988",
+      "name": "uoftcprg",
+      "tier": "small",
+      "category": "rl",
+      "queries": [
+        "\"uoftcprg\" GitHub official profile",
+        "\"uoftcprg\" student ambassador program",
+        "\"uoftcprg\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "uoftcprg GitHub official profile",
+        "uoftcprg student ambassador program",
+        "uoftcprg campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/uoftcprg",
+          "title": "GitHub organization",
+          "excerpts": [
+            "Organization identifies the Universal, Open, Free, and Transparent Computer Poker Research Group and links uoftcprg.com."
+          ]
+        },
+        {
+          "url": "https://uoftcprg.com/",
+          "title": "Linked official site",
+          "excerpts": [
+            "Linked from profile or repository; identity/context locator."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence only. No route or no-route conclusion; further official verification needed."
+    },
+    {
+      "small_rank": "3261",
+      "census_row": "24989",
+      "name": "peter123023",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"peter123023\" GitHub official profile",
+        "\"peter123023\" student ambassador program",
+        "\"peter123023\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "peter123023 GitHub official profile",
+        "peter123023 student ambassador program",
+        "peter123023 campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/peter123023/llm-gateway",
+          "title": "GitHub repository",
+          "excerpts": [
+            "Repository is an LLM gateway that adapts models to OpenAI, Claude and Gemini API formats."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence recorded, no route or no-route conclusion."
+    },
+    {
+      "small_rank": "3262",
+      "census_row": "24990",
+      "name": "apeatling",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"apeatling\" GitHub official profile",
+        "\"apeatling\" student ambassador program",
+        "\"apeatling\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "apeatling GitHub official profile",
+        "apeatling student ambassador program",
+        "apeatling campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/apeatling",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Andy Peatling, Vancouver; search result also associates Andy with Miles, an AI design agent."
+          ]
+        },
+        {
+          "url": "https://apeatling.com",
+          "title": "Linked official page",
+          "excerpts": [
+            "Linked site describes organization or project identity."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence recorded, no route or no-route conclusion."
+    },
+    {
+      "small_rank": "3263",
+      "census_row": "24991",
+      "name": "relari-ai",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"relari-ai\" GitHub official profile",
+        "\"relari-ai\" student ambassador program",
+        "\"relari-ai\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "relari-ai GitHub official profile",
+        "relari-ai student ambassador program",
+        "relari-ai campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/relari-ai",
+          "title": "GitHub organization",
+          "excerpts": [
+            "Relari.ai organization links relari.ai; company describes building an AI agent for software."
+          ]
+        },
+        {
+          "url": "https://www.relari.ai/about",
+          "title": "Linked official page",
+          "excerpts": [
+            "Linked site describes organization or project identity."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence recorded, no route or no-route conclusion."
+    },
+    {
+      "small_rank": "3264",
+      "census_row": "24992",
+      "name": "MAGICS-LAB",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"MAGICS-LAB\" GitHub official profile",
+        "\"MAGICS-LAB\" student ambassador program",
+        "\"MAGICS-LAB\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "MAGICS-LAB GitHub official profile",
+        "MAGICS-LAB student ambassador program",
+        "MAGICS-LAB campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/MAGICS-LAB",
+          "title": "GitHub organization",
+          "excerpts": [
+            "MAGICS-LAB is an academic research lab; repository results include deep learning and adaptation research."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence recorded, no route or no-route conclusion."
+    },
+    {
+      "small_rank": "3265",
+      "census_row": "24993",
+      "name": "shengshu-ai",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"shengshu-ai\" GitHub official profile",
+        "\"shengshu-ai\" student ambassador program",
+        "\"shengshu-ai\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "shengshu-ai GitHub official profile",
+        "shengshu-ai student ambassador program",
+        "shengshu-ai campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/shengshu-ai",
+          "title": "GitHub organization",
+          "excerpts": [
+            "ShengShu org links shengshu.com and maintains world-model and generative AI projects."
+          ]
+        },
+        {
+          "url": "https://www.shengshu.com/en",
+          "title": "Linked official page",
+          "excerpts": [
+            "Linked site describes organization or project identity."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence recorded, no route or no-route conclusion."
+    },
+    {
+      "small_rank": "3266",
+      "census_row": "24994",
+      "name": "LodestoneHQ",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"LodestoneHQ\" GitHub official profile",
+        "\"LodestoneHQ\" student ambassador program",
+        "\"LodestoneHQ\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "LodestoneHQ GitHub official profile",
+        "LodestoneHQ student ambassador program",
+        "LodestoneHQ campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/LodestoneHQ",
+          "title": "GitHub organization",
+          "excerpts": [
+            "LodestoneHQ repository describes personal document archiving software."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence recorded, no route or no-route conclusion."
+    },
+    {
+      "small_rank": "3267",
+      "census_row": "24995",
+      "name": "jsn5",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"jsn5\" GitHub official profile",
+        "\"jsn5\" student ambassador program",
+        "\"jsn5\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "jsn5 GitHub official profile",
+        "jsn5 student ambassador program",
+        "jsn5 campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/jsn5",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Third-party Devpost result identifies Jaison Saji (jsn5), India; projects include DanceNet motion generation."
+          ]
+        },
+        {
+          "url": "https://devpost.com/jsn5",
+          "title": "Linked official page",
+          "excerpts": [
+            "Linked site describes organization or project identity."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence recorded, no route or no-route conclusion."
+    },
+    {
+      "small_rank": "3268",
+      "census_row": "24996",
+      "name": "udibr",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"udibr\" GitHub official profile",
+        "\"udibr\" student ambassador program",
+        "\"udibr\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "udibr GitHub official profile",
+        "udibr student ambassador program",
+        "udibr campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/udibr",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Ehud Ben-Reuven; public site describes machine-learning classifier calibration work."
+          ]
+        },
+        {
+          "url": "http://udibr.github.io/",
+          "title": "Linked official page",
+          "excerpts": [
+            "Linked site describes organization or project identity."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence recorded, no route or no-route conclusion."
+    },
+    {
+      "small_rank": "3269",
+      "census_row": "24997",
+      "name": "jokenox",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"jokenox\" GitHub official profile",
+        "\"jokenox\" student ambassador program",
+        "\"jokenox\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "jokenox GitHub official profile",
+        "jokenox student ambassador program",
+        "jokenox campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/jokenox",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Third-party profile result identifies Kenny Cruz; repository Goopt is a procedural web search engine using GPT-3."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence recorded, no route or no-route conclusion."
+    },
+    {
+      "small_rank": "3270",
+      "census_row": "24998",
+      "name": "tony1223",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"tony1223\" GitHub official profile",
+        "\"tony1223\" student ambassador program",
+        "\"tony1223\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "tony1223 GitHub official profile",
+        "tony1223 student ambassador program",
+        "tony1223 campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/tony1223",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies TonyQ Wang, Taiwan; repository includes a multi-workspace terminal with Claude Code integration."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route variations searched; identity evidence recorded, no route or no-route conclusion."
+    },
+    {
+      "small_rank": "3271",
+      "census_row": "24999",
+      "name": "ZaxbyHub",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"ZaxbyHub\" GitHub official profile",
+        "\"ZaxbyHub\" student ambassador program",
+        "\"ZaxbyHub\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "ZaxbyHub GitHub official profile",
+        "ZaxbyHub student ambassador program",
+        "ZaxbyHub campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/ZaxbyHub",
+          "title": "GitHub organization",
+          "excerpts": [
+            "ZaxbyHub organization hosts RAG and agentic-swarm coding projects."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence recorded. No qualifying route or no-route conclusion; further review needed."
+    },
+    {
+      "small_rank": "3272",
+      "census_row": "25000",
+      "name": "hypertrace",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"hypertrace\" GitHub official profile",
+        "\"hypertrace\" student ambassador program",
+        "\"hypertrace\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "hypertrace GitHub official profile",
+        "hypertrace student ambassador program",
+        "hypertrace campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/hypertrace",
+          "title": "GitHub organization",
+          "excerpts": [
+            "Hypertrace describes an open-source distributed tracing and observability platform."
+          ]
+        },
+        {
+          "url": "https://hypertrace.org/",
+          "title": "Linked official page",
+          "excerpts": [
+            "Linked site from profile/project."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence recorded. No qualifying route or no-route conclusion; further review needed."
+    },
+    {
+      "small_rank": "3273",
+      "census_row": "25001",
+      "name": "AhmadRafiee",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"AhmadRafiee\" GitHub official profile",
+        "\"AhmadRafiee\" student ambassador program",
+        "\"AhmadRafiee\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "AhmadRafiee GitHub official profile",
+        "AhmadRafiee student ambassador program",
+        "AhmadRafiee campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/AhmadRafiee",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Ahmad Rafiee, associated with DockerMe.ir, Iran."
+          ]
+        },
+        {
+          "url": "https://DockerMe.ir",
+          "title": "Linked official page",
+          "excerpts": [
+            "Linked site from profile/project."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence recorded. No qualifying route or no-route conclusion; further review needed."
+    },
+    {
+      "small_rank": "3274",
+      "census_row": "25002",
+      "name": "GraphRAG-Bench",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"GraphRAG-Bench\" GitHub official profile",
+        "\"GraphRAG-Bench\" student ambassador program",
+        "\"GraphRAG-Bench\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "GraphRAG-Bench GitHub official profile",
+        "GraphRAG-Bench student ambassador program",
+        "GraphRAG-Bench campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/GraphRAG-Bench/GraphRAG-Benchmark",
+          "title": "GitHub repository",
+          "excerpts": [
+            "GraphRAG-Bench is a benchmark for evaluating GraphRAG models; repository calls it the official benchmark implementation."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence recorded. No qualifying route or no-route conclusion; further review needed."
+    },
+    {
+      "small_rank": "3275",
+      "census_row": "25003",
+      "name": "adham-elarabawy",
+      "tier": "small",
+      "category": "robotics",
+      "queries": [
+        "\"adham-elarabawy\" GitHub official profile",
+        "\"adham-elarabawy\" student ambassador program",
+        "\"adham-elarabawy\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "adham-elarabawy GitHub official profile",
+        "adham-elarabawy student ambassador program",
+        "adham-elarabawy campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/adham-elarabawy",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Adham Elarabawy, Research Engineer at Google DeepMind; personal site describes vision research."
+          ]
+        },
+        {
+          "url": "https://www.adhamelarabawy.com/",
+          "title": "Linked official page",
+          "excerpts": [
+            "Linked site from profile/project."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence recorded. No qualifying route or no-route conclusion; further review needed."
+    },
+    {
+      "small_rank": "3276",
+      "census_row": "25004",
+      "name": "medipixel",
+      "tier": "small",
+      "category": "rl",
+      "queries": [
+        "\"medipixel\" GitHub official profile",
+        "\"medipixel\" student ambassador program",
+        "\"medipixel\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "medipixel GitHub official profile",
+        "medipixel student ambassador program",
+        "medipixel campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/medipixel",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Medipixel, Inc., Seoul; company is a medical technology/robotics business."
+          ]
+        },
+        {
+          "url": "http://www.medipixel.io",
+          "title": "Linked official page",
+          "excerpts": [
+            "Linked site from profile/project."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence recorded. No qualifying route or no-route conclusion; further review needed."
+    },
+    {
+      "small_rank": "3277",
+      "census_row": "25005",
+      "name": "apocas",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"apocas\" GitHub official profile",
+        "\"apocas\" student ambassador program",
+        "\"apocas\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "apocas GitHub official profile",
+        "apocas student ambassador program",
+        "apocas campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/apocas",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Pedro Dias, Portugal, team.blue; RESTai is an open-source AI-as-a-service platform."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence recorded. No qualifying route or no-route conclusion; further review needed."
+    },
+    {
+      "small_rank": "3278",
+      "census_row": "25006",
+      "name": "WILLOSCAR",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"WILLOSCAR\" GitHub official profile",
+        "\"WILLOSCAR\" student ambassador program",
+        "\"WILLOSCAR\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "WILLOSCAR GitHub official profile",
+        "WILLOSCAR student ambassador program",
+        "WILLOSCAR campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/WILLOSCAR",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile repositories include Awesome-HCI-LLM covering LLMs, agents, RAG and embodied AI."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence recorded. No qualifying route or no-route conclusion; further review needed."
+    },
+    {
+      "small_rank": "3279",
+      "census_row": "25007",
+      "name": "antao97",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"antao97\" GitHub official profile",
+        "\"antao97\" student ambassador program",
+        "\"antao97\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "antao97 GitHub official profile",
+        "antao97 student ambassador program",
+        "antao97 campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/antao97",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies An Tao, postdoctoral researcher at Shanghai Conservatory of Music; personal site summarizes academic background."
+          ]
+        },
+        {
+          "url": "https://antao97.github.io/",
+          "title": "Linked official page",
+          "excerpts": [
+            "Linked site from profile/project."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence recorded. No qualifying route or no-route conclusion; further review needed."
+    },
+    {
+      "small_rank": "3280",
+      "census_row": "25008",
+      "name": "thinhlpg",
+      "tier": "small",
+      "category": "audio",
+      "queries": [
+        "\"thinhlpg\" GitHub official profile",
+        "\"thinhlpg\" student ambassador program",
+        "\"thinhlpg\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "thinhlpg GitHub official profile",
+        "thinhlpg student ambassador program",
+        "thinhlpg campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/thinhlpg",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Thinh Le, Vietnam; public projects include serverless GPU examples and model-hosting work."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence recorded. No qualifying route or no-route conclusion; further review needed."
+    },
+    {
+      "small_rank": "3281",
+      "census_row": "25009",
+      "name": "RoboStack",
+      "tier": "small",
+      "category": "robotics",
+      "queries": [
+        "\"RoboStack\" GitHub official profile",
+        "\"RoboStack\" student ambassador program",
+        "\"RoboStack\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "RoboStack GitHub official profile",
+        "RoboStack student ambassador program",
+        "RoboStack campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/RoboStack",
+          "title": "GitHub organization",
+          "excerpts": [
+            "RoboStack organization maintains robotics software channel documentation."
+          ]
+        },
+        {
+          "url": "https://robostack.github.io",
+          "title": "Linked official/project site",
+          "excerpts": [
+            "Linked from profile or organization account."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence only. No route or no-route conclusion."
+    },
+    {
+      "small_rank": "3282",
+      "census_row": "25010",
+      "name": "jaeksoft",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"jaeksoft\" GitHub official profile",
+        "\"jaeksoft\" student ambassador program",
+        "\"jaeksoft\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "jaeksoft GitHub official profile",
+        "jaeksoft student ambassador program",
+        "jaeksoft campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/jaeksoft",
+          "title": "GitHub organization",
+          "excerpts": [
+            "jaeksoft org is OpenSearchServer; repository describes an open-source enterprise search engine."
+          ]
+        },
+        {
+          "url": "http://www.opensearchserver.com",
+          "title": "Linked official/project site",
+          "excerpts": [
+            "Linked from profile or organization account."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence only. No route or no-route conclusion."
+    },
+    {
+      "small_rank": "3283",
+      "census_row": "25011",
+      "name": "AeternaLabsHQ",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"AeternaLabsHQ\" GitHub official profile",
+        "\"AeternaLabsHQ\" student ambassador program",
+        "\"AeternaLabsHQ\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "AeternaLabsHQ GitHub official profile",
+        "AeternaLabsHQ student ambassador program",
+        "AeternaLabsHQ campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/AeternaLabsHQ",
+          "title": "GitHub organization",
+          "excerpts": [
+            "Aeterna Labs describes practical software tools for AI workflows."
+          ]
+        },
+        {
+          "url": "https://aeternalabs.io/",
+          "title": "Linked official/project site",
+          "excerpts": [
+            "Linked from profile or organization account."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence only. No route or no-route conclusion."
+    },
+    {
+      "small_rank": "3284",
+      "census_row": "25012",
+      "name": "wyu97",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"wyu97\" GitHub official profile",
+        "\"wyu97\" student ambassador program",
+        "\"wyu97\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "wyu97 GitHub official profile",
+        "wyu97 student ambassador program",
+        "wyu97 campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/wyu97",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Wenhao Yu; research repositories include question answering and LLM context generation."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence only. No route or no-route conclusion."
+    },
+    {
+      "small_rank": "3285",
+      "census_row": "25013",
+      "name": "9j",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"9j\" GitHub official profile",
+        "\"9j\" student ambassador program",
+        "\"9j\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "9j GitHub official profile",
+        "9j student ambassador program",
+        "9j campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/9j",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies BAK Chanhee; repositories include Rust/JavaScript developer tools."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence only. No route or no-route conclusion."
+    },
+    {
+      "small_rank": "3286",
+      "census_row": "25014",
+      "name": "proj-airi",
+      "tier": "small",
+      "category": "vision",
+      "queries": [
+        "\"proj-airi\" GitHub official profile",
+        "\"proj-airi\" student ambassador program",
+        "\"proj-airi\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "proj-airi GitHub official profile",
+        "proj-airi student ambassador program",
+        "proj-airi campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/proj-airi",
+          "title": "GitHub organization",
+          "excerpts": [
+            "Project AIRI describes an open-source project for interactive AI virtual characters."
+          ]
+        },
+        {
+          "url": "https://airi.moeru.ai/docs/",
+          "title": "Linked official/project site",
+          "excerpts": [
+            "Linked from profile or organization account."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence only. No route or no-route conclusion."
+    },
+    {
+      "small_rank": "3287",
+      "census_row": "25015",
+      "name": "neurocult",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"neurocult\" GitHub official profile",
+        "\"neurocult\" student ambassador program",
+        "\"neurocult\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "neurocult GitHub official profile",
+        "neurocult student ambassador program",
+        "neurocult campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/neurocult",
+          "title": "GitHub organization",
+          "excerpts": [
+            "NeuroCult has an LLM developer library; separate neurocult.es site describes a Spanish AI agency, linkage unverified."
+          ]
+        },
+        {
+          "url": "https://neurocult.es/",
+          "title": "Linked official/project site",
+          "excerpts": [
+            "Linked from profile or organization account."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence only. No route or no-route conclusion."
+    },
+    {
+      "small_rank": "3288",
+      "census_row": "25016",
+      "name": "dongjing3309",
+      "tier": "small",
+      "category": "robotics",
+      "queries": [
+        "\"dongjing3309\" GitHub official profile",
+        "\"dongjing3309\" student ambassador program",
+        "\"dongjing3309\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "dongjing3309 GitHub official profile",
+        "dongjing3309 student ambassador program",
+        "dongjing3309 campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/dongjing3309",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Jing Dong; repositories include minisam factor-graph optimization framework and robotics examples."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence only. No route or no-route conclusion."
+    },
+    {
+      "small_rank": "3289",
+      "census_row": "25017",
+      "name": "ucaiado",
+      "tier": "small",
+      "category": "rl",
+      "queries": [
+        "\"ucaiado\" GitHub official profile",
+        "\"ucaiado\" student ambassador program",
+        "\"ucaiado\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "ucaiado GitHub official profile",
+        "ucaiado student ambassador program",
+        "ucaiado campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/ucaiado",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Uirá Caiado, São Paulo, Brazil; repositories include reinforcement-learning trading agents."
+          ]
+        },
+        {
+          "url": "http://ucaiado-portfolio.appspot.com",
+          "title": "Linked official/project site",
+          "excerpts": [
+            "Linked from profile or organization account."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence only. No route or no-route conclusion."
+    },
+    {
+      "small_rank": "3290",
+      "census_row": "25018",
+      "name": "huawei-csl",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"huawei-csl\" GitHub official profile",
+        "\"huawei-csl\" student ambassador program",
+        "\"huawei-csl\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "huawei-csl GitHub official profile",
+        "huawei-csl student ambassador program",
+        "huawei-csl campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/huawei-csl",
+          "title": "GitHub organization",
+          "excerpts": [
+            "HUAWEI Computing Systems Lab is a Switzerland-based organization; separate Huawei student ambassador result not verified as Lab-owned."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted query variations searched; identity evidence only. No route or no-route conclusion."
+    },
+    {
+      "small_rank": "3291",
+      "census_row": "25019",
+      "name": "Leeroo-AI",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Leeroo-AI\" GitHub official profile",
+        "\"Leeroo-AI\" student ambassador program",
+        "\"Leeroo-AI\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "Leeroo-AI GitHub official profile",
+        "Leeroo-AI student ambassador program",
+        "Leeroo-AI campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/Leeroo-AI",
+          "title": "GitHub organization",
+          "excerpts": [
+            "Leeroo organization is UK-based and links leeroo.com; develops organizational AI software."
+          ]
+        },
+        {
+          "url": "https://www.leeroo.com",
+          "title": "Linked site",
+          "excerpts": [
+            "Related source surfaced in exact-entity search."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route queries searched. No qualifying route or no-route conclusion; follow-up remains needed."
+    },
+    {
+      "small_rank": "3292",
+      "census_row": "25020",
+      "name": "subho406",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"subho406\" GitHub official profile",
+        "\"subho406\" student ambassador program",
+        "\"subho406\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "subho406 GitHub official profile",
+        "subho406 student ambassador program",
+        "subho406 campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/subho406",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Subhojeet Pramanik at Softmax.com; repos include multimodal learning and reinforcement learning research."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route queries searched. No qualifying route or no-route conclusion; follow-up remains needed."
+    },
+    {
+      "small_rank": "3293",
+      "census_row": "25021",
+      "name": "DIYer22",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"DIYer22\" GitHub official profile",
+        "\"DIYer22\" student ambassador program",
+        "\"DIYer22\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "DIYer22 GitHub official profile",
+        "DIYer22 student ambassador program",
+        "DIYer22 campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/DIYer22",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies Lei Yang at StepFun, Beijing; public work includes AI model and developer projects."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route queries searched. No qualifying route or no-route conclusion; follow-up remains needed."
+    },
+    {
+      "small_rank": "3294",
+      "census_row": "25022",
+      "name": "anig1scur",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"anig1scur\" GitHub official profile",
+        "\"anig1scur\" student ambassador program",
+        "\"anig1scur\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "anig1scur GitHub official profile",
+        "anig1scur student ambassador program",
+        "anig1scur campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/anig1scur",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Search results identify GitHub account anig1scur / Stone; exact AI project identity requires further verification."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route queries searched. No qualifying route or no-route conclusion; follow-up remains needed."
+    },
+    {
+      "small_rank": "3295",
+      "census_row": "25023",
+      "name": "sichkar-valentyn",
+      "tier": "small",
+      "category": "rl",
+      "queries": [
+        "\"sichkar-valentyn\" GitHub official profile",
+        "\"sichkar-valentyn\" student ambassador program",
+        "\"sichkar-valentyn\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "sichkar-valentyn GitHub official profile",
+        "sichkar-valentyn student ambassador program",
+        "sichkar-valentyn campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/sichkar-valentyn",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Personal pages identify Valentyn Sichkar; public tutorials include neural networks for computer vision and robotics."
+          ]
+        },
+        {
+          "url": "https://sichkar-valentyn.github.io/",
+          "title": "Linked site",
+          "excerpts": [
+            "Related source surfaced in exact-entity search."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route queries searched. No qualifying route or no-route conclusion; follow-up remains needed."
+    },
+    {
+      "small_rank": "3296",
+      "census_row": "25024",
+      "name": "BrowserOperator",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"BrowserOperator\" GitHub official profile",
+        "\"BrowserOperator\" student ambassador program",
+        "\"BrowserOperator\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "BrowserOperator GitHub official profile",
+        "BrowserOperator student ambassador program",
+        "BrowserOperator campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/BrowserOperator",
+          "title": "GitHub organization",
+          "excerpts": [
+            "BrowserOperator describes an AI browser with a built-in multi-agent platform."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route queries searched. No qualifying route or no-route conclusion; follow-up remains needed."
+    },
+    {
+      "small_rank": "3297",
+      "census_row": "25025",
+      "name": "PinataFarms",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"PinataFarms\" GitHub official profile",
+        "\"PinataFarms\" student ambassador program",
+        "\"PinataFarms\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "PinataFarms GitHub official profile",
+        "PinataFarms student ambassador program",
+        "PinataFarms campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/PinataFarms",
+          "title": "GitHub organization",
+          "excerpts": [
+            "Piñata Farms AI describes work to unlock human creativity with AI."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route queries searched. No qualifying route or no-route conclusion; follow-up remains needed."
+    },
+    {
+      "small_rank": "3298",
+      "census_row": "25026",
+      "name": "a37836323",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"a37836323\" GitHub official profile",
+        "\"a37836323\" student ambassador program",
+        "\"a37836323\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "a37836323 GitHub official profile",
+        "a37836323 student ambassador program",
+        "a37836323 campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/a37836323",
+          "title": "GitHub profile",
+          "excerpts": [
+            "Profile identifies 云雾API-CEO; repos include AI API configuration guides."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route queries searched. No qualifying route or no-route conclusion; follow-up remains needed."
+    },
+    {
+      "small_rank": "3299",
+      "census_row": "25027",
+      "name": "expectedparrot",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"expectedparrot\" GitHub official profile",
+        "\"expectedparrot\" student ambassador program",
+        "\"expectedparrot\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "expectedparrot GitHub official profile",
+        "expectedparrot student ambassador program",
+        "expectedparrot campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/expectedparrot",
+          "title": "GitHub organization",
+          "excerpts": [
+            "Expected Parrot org profile; Y Combinator identifies John Horton as founder."
+          ]
+        },
+        {
+          "url": "https://www.ycombinator.com/founders/john-horton",
+          "title": "Linked site",
+          "excerpts": [
+            "Related source surfaced in exact-entity search."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route queries searched. No qualifying route or no-route conclusion; follow-up remains needed."
+    },
+    {
+      "small_rank": "3300",
+      "census_row": "25028",
+      "name": "ZeroTang05",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"ZeroTang05\" GitHub official profile",
+        "\"ZeroTang05\" student ambassador program",
+        "\"ZeroTang05\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "ZeroTang05 GitHub official profile",
+        "ZeroTang05 student ambassador program",
+        "ZeroTang05 campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/ZeroTang05/VideoAdGuard",
+          "title": "GitHub repository",
+          "excerpts": [
+            "Repository describes an LLM-based browser extension to identify embedded ads in Bilibili videos; exact owner identity not confirmed."
+          ]
+        }
+      ],
+      "status": "partial/incomplete",
+      "notes": "Three targeted identity/route queries searched. No qualifying route or no-route conclusion; follow-up remains needed."
+    }
+  ]
+}

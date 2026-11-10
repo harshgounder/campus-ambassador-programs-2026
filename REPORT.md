@@ -1,5 +1,8 @@
 # Campus Ambassador Programs, open 3 November 2026
 
+
+> Historical snapshot: This report describes the original program review started on 3 November 2026, with additions through 5 November. The current worldwide follow-up research is indexed in [README.md](README.md) and [research/2026-11-09/README.md](research/2026-11-09/README.md). Recheck organizer sources before applying.
+
 Version 2, rebuilt 4 November 2026 after the first pass missed SpaceXAI and the Cursor
 form change. For a student at Manipal University Jaipur.
 

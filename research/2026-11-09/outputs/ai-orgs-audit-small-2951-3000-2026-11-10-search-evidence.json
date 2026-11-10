@@ -1,0 +1,3024 @@
+{
+  "slice": {
+    "start": 2951,
+    "end": 3000,
+    "cutoff": "2026-11-09",
+    "research_date": "2026-11-10"
+  },
+  "method": {
+    "provider": "Parallel web search (connected web-search tool)",
+    "x_mcp_used": false,
+    "search_calls": 50,
+    "query_count_per_name": 3,
+    "query_variations": 150,
+    "failures": 0,
+    "templates": [
+      "{name} student ambassador",
+      "{name} campus representative India",
+      "{name} official academic advocate"
+    ],
+    "result_handling": "Up to six compact results per name, aggregated from three query variations; one excerpt per result, max 180 characters."
+  },
+  "searches": [
+    {
+      "name": "shadcn-labs",
+      "search_id": "search_d538ac651a6e8638b81d432d91acd936",
+      "queries": [
+        "shadcn-labs student ambassador",
+        "shadcn-labs campus representative India",
+        "shadcn-labs official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.shadcn-labs.com/about",
+          "title": "About | Shadcn Labs",
+          "publish_date": null,
+          "excerpts": [
+            "Shadcn Labs\n\nPushing the limits of the shadcn/ui ecosystem.\n© Shadcn Labs 2026\n* \n* \n* \n* \n* \n* \n* \n* \nhome about contact press\nToggle theme\n~ ~ ~\n\nAbout\n\nAt Shadcn Labs, we create"
+          ]
+        },
+        {
+          "url": "https://github.com/shadcn-labs",
+          "title": "Shadcn Labs · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Organization: Shadcn Labs (@shadcn-labs)\n\n* Page: GitHub organization profile\n* URL: https://github.com/shadcn-labs\n* Website: https://shadcn-labs.com\n* Links: https://x.com/shadcn"
+          ]
+        },
+        {
+          "url": "https://github.com/shadcn-labs/shadcn-labs.com",
+          "title": "GitHub - shadcn-labs/shadcn-labs.com: Shadcn Labs official website · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "shadcn-labs/shadcn-labs.com\n\n* Page: GitHub repository\n* URL: https://github.com/shadcn-labs/shadcn-labs.com\n* Description: Shadcn Labs official website\n* License: MIT license\n* De"
+          ]
+        },
+        {
+          "url": "https://www.shadcn-labs.com/",
+          "title": "Shadcn Labs",
+          "publish_date": null,
+          "excerpts": [
+            "Shadcn Labs\n\nPushing the limits of the shadcn/ui ecosystem.\n© Shadcn Labs 2026\n* \n* \n* \n* \n* \n* \n* \n* \nhome about contact press\nToggle theme\n~ ~ ~\n\nProjects\n\nall\n* startercn\nshadcn"
+          ]
+        },
+        {
+          "url": "https://x.com/shadcnlabs",
+          "title": "Shadcn Labs (@shadcnlabs) / X",
+          "publish_date": null,
+          "excerpts": [
+            "## \n\nShadcn Labs (@shadcnlabs) / X\nShadcn Labs @shadcnlabs pushing the limits of shadcn/ui ecosystem · chief @ alaymanguy · not endorsed by or affiliated with @ shadcn 🆕 pdfcn.dev"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/company/shadcn-labs",
+          "title": "Shadcn Labs | LinkedIn",
+          "publish_date": null,
+          "excerpts": [
+            "Agree & Join LinkedIn\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nLinkedIn\n* Top Content\n* People\n* Learn"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "bolderflight",
+      "search_id": "search_d4c31d72219987526eeab44851ea9e6c",
+      "queries": [
+        "bolderflight student ambassador",
+        "bolderflight campus representative India",
+        "bolderflight official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://bolderflight.com/about",
+          "title": "About | Bolder Flight Systems",
+          "publish_date": null,
+          "excerpts": [
+            "[Bolder Flight Systems](https://bolderflight.com/)\n\nProducts ▾\n\n[**OnFlight Hub** Portable flight data logging](https://bolderflight.com/products/onflight-hub) [**OnFlight Hub+** B"
+          ]
+        },
+        {
+          "url": "https://github.com/bolderflight",
+          "title": "Bolder Flight Systems · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# Organization: Bolder Flight Systems (@bolderflight)\n\n- Page: GitHub organization profile\n- URL: https://github.com/bolderflight\n- Location: Santa Fe, NM\n- Website: https://bolder"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/company/bolder-flight-systems",
+          "title": "Bolder Flight Systems",
+          "publish_date": null,
+          "excerpts": [
+            "* Name: Bolder Flight Systems\n * description\n   - We develop the best data acquisition and flight control systems for manned and unmanned aircraft.\n * Website: https://bolderflight"
+          ]
+        },
+        {
+          "url": "https://bolderflight.com/pdas/PDAS%20Brochure.pdf",
+          "title": "Bolder Flight Systems",
+          "publish_date": "2021-01-15",
+          "excerpts": [
+            "## **Bolder** Flight Systems Portable Data Acquisition System\n\n### info@bolderflight.com\n\n## Portable high-performance data acquisition system for aeronautics research:\n\n## • 200 H"
+          ]
+        },
+        {
+          "url": "https://bolderflight.com/",
+          "title": "Bolder Flight",
+          "publish_date": null,
+          "excerpts": [
+            "# Innovation + Performance\n\n## Data Acquisition Systems for General Aviation + Research and Development\n\n[### OnFlight Hub Our premier, high-quality flight data logger for all pilo"
+          ]
+        },
+        {
+          "url": "https://bolderflight.com/products/onflight-hub-plus",
+          "title": "OnFlight Hub+ | Bolder Flight Systems",
+          "publish_date": null,
+          "excerpts": [
+            "[Bolder Flight Systems](https://bolderflight.com/)\n\nProducts ▾\n\n[**OnFlight Hub** Portable flight data logging](https://bolderflight.com/products/onflight-hub) [**OnFlight Hub+** B"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "tobybreckon",
+      "search_id": "search_7dda7bf7b03e93c95aa126d403fc67bc",
+      "queries": [
+        "tobybreckon student ambassador",
+        "tobybreckon campus representative India",
+        "tobybreckon official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.durham.ac.uk/staff/toby-breckon",
+          "title": "Professor Toby Breckon - Durham University",
+          "publish_date": "2026-10-15",
+          "excerpts": [
+            "+ [Employability](https://www.durham.ac.uk/study/employability/)\n* [Wider Student Experience](https://www.durham.ac.uk/colleges-and-student-experience/)\n  \n  ## Wider Student Exper"
+          ]
+        },
+        {
+          "url": "https://breckon.org/toby/bio",
+          "title": "Toby Breckon :: Biography ",
+          "publish_date": null,
+          "excerpts": [
+            "Engineer & Scientist ...\n\nProf. Breckon is jointly based in the Department of Computer Science and Department of Engineering at Durham University in addition to being an academic t"
+          ]
+        },
+        {
+          "url": "https://github.com/tobybreckon",
+          "title": "tobybreckon (Toby Breckon) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# User: Toby Breckon (@tobybreckon)\n\n- Page: GitHub user profile\n- URL: https://github.com/tobybreckon\n- Company: Durham University\n- Location: UK\n- Website: https://breckon.org/to"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/tobybreckon",
+          "title": "linkedin.com",
+          "publish_date": null,
+          "excerpts": [
+            "* URL: https://linkedin.com/in/tobybreckon\n * Name: Toby Breckon\n * first name: Toby\n * last name: Breckon\n * company name: Durham University\n\n...\n\n- Numerical Analysis\n   - Patter"
+          ]
+        },
+        {
+          "url": "https://durham-repository.worktribe.com/person/211934/toby-breckon",
+          "title": "Professor Toby Breckon - Durham Research Online (DRO)",
+          "publish_date": null,
+          "excerpts": [
+            "Durham Logo\nResearch Repository\nAll Output Person Project\nAdvanced Search\n* Home\n* People\n* Professor Toby Breckon\n* Overview\n* Research outputs\n* Supervisions\nProfile image of Tob"
+          ]
+        },
+        {
+          "url": "https://leverhulmecal.webspace.durham.ac.uk/toby-breckon",
+          "title": "Toby Breckon - Leverhulme Centre for Algorithmic Life",
+          "publish_date": "2025-10-01",
+          "excerpts": [
+            "# Toby Breckon\n\nTB\n\n## Toby Breckon\n\nProfessor Toby Breckon is Associate Director of the Leverhulme Centre for Algorithmic Life and professor of machine vision in the Departments o"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "jbexta",
+      "search_id": "search_b01a60d23666dc2e79aab2494d4145a4",
+      "queries": [
+        "jbexta student ambassador",
+        "jbexta campus representative India",
+        "jbexta official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.iscea.org/ambassadors",
+          "title": "ISCEA | Ambassadors",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Ambassador\n\nGreen University\n\nBangladesh\n\nUntitled.png\n\nTalha Rashid Adar\n\nCampus Ambassador\n\nPatuakhali Science & Technology University\n\nBangladesh\n\nUntitled.png\n\nAishwarya"
+          ]
+        },
+        {
+          "url": "https://jiitopticachapter.github.io/cap-jscop22",
+          "title": "CAP-JIIT Optica Student Chapter",
+          "publish_date": null,
+          "excerpts": [
+            "l CAP-JIIT Optica Student Chapter\n\nCAMPUS AMBASSADOR PROGRAM\n\nBe the representative of your campus\nApply now\nFirst Vector Graphic\nApp\n\nThe Campus Ambassador program\n\nWith the campu"
+          ]
+        },
+        {
+          "url": "https://www.indianbarassociation.org/call-for-applications-2020-2021-campus-ambassadors-program",
+          "title": "Call For Applications 2021-2022; Campus Ambassadors Program  ",
+          "publish_date": null,
+          "excerpts": [
+            "You are here:\n1. Home\n2. Call For Applications 2021-2022; Campus Ambassadors Program\n\nCall For Applications 2021-2022; Campus Ambassadors Program\n\nABOUT INBA SECTION FOR LAW STUDEN"
+          ]
+        },
+        {
+          "url": "https://ambassador-landing-page.labs.jb.gg/",
+          "title": "ambassador-landing-page.labs.jb.gg - JetBrains",
+          "publish_date": null,
+          "excerpts": [
+            "JetBrains Logo\nHero Background\n\nMeet the University Relations Team\n\nJetBrains Campus Ambassadors are community builders and passionate advocates for technology at their universitie"
+          ]
+        },
+        {
+          "url": "https://www.jwi.org/campus-ambassador",
+          "title": "Become a Campus Ambassador — JWI",
+          "publish_date": null,
+          "excerpts": [
+            "Are you committed to ending sexual assault and dating abuse on your campus?\nAs a Campus Ambassador, you can take a leadership role and continue the conversation on sexual assault a"
+          ]
+        },
+        {
+          "url": "https://www.gtalumni.org/student-programs/student-ambassadors/default.html",
+          "title": "Georgia Tech Student Ambassadors - GT Alumni",
+          "publish_date": null,
+          "excerpts": [
+            "Skip To Section Navigation Skip To Footer\n\nStudent Ambassadors\n\nThe Georgia Tech Student Ambassadors represent the Georgia Tech student body and provide knowledgeable insights abou"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "madarco",
+      "search_id": "search_93b25be24c52aa4208800c0f97abe052",
+      "queries": [
+        "madarco student ambassador",
+        "madarco campus representative India",
+        "madarco official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/madarco",
+          "title": "madarco (Madarco) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# User: Madarco (@madarco)\n\n- Page: GitHub user profile\n- URL: https://github.com/madarco\n- Company: 3DRacers\n- Location: Lisbon\n- Website: https://www.madarco.it\n- Followers: 31\n-"
+          ]
+        },
+        {
+          "url": "https://x.com/madarco",
+          "title": "Marco D'Alia (@madarco) / X",
+          "publish_date": null,
+          "excerpts": [
+            "[](https://x.com/)\n\n[](https://x.com/)\n\n \n\n \n\nMarco D'Alia\n\n4,112posts\n\n[Marco D'Alia profile banner](https://x.com/madarco/header_photo)\n\n[@madarco](https://x.com/madarco/photo)\n\n"
+          ]
+        },
+        {
+          "url": "https://www.madarco-sa.com/",
+          "title": "Home  - Madarco Aluminium Extrusion & Powder Coating Co.",
+          "publish_date": null,
+          "excerpts": [
+            "Untitled Document\n\n* \n* \n* \n* \n* \n\n* KSA - Riyadh\n* \\+ 966 11 270 9 444\n* [info@madarco-sa.com](mailto:#)\n\n# [Madarco](https://www.madarco-sa.com/)\n\nAluminium Extrusion & Powder Co"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://arab-engineering.org/en/madar-en",
+          "title": "Madar Aluminium  L.L.T – Arab Engineering Industries",
+          "publish_date": null,
+          "excerpts": [
+            "Arab Engineering Industries\n* Home\n* About us\n* Member companies\n* Board of Directors\n* Publications\n* Activities\n* Contact us\n* Home\n* Madar Aluminium L.L.T\n\nMadar Aluminium L.L.T"
+          ]
+        },
+        {
+          "url": "https://www.mapout.com/studentambassadorprogram",
+          "title": "Mapout - Discovering the right fit for talent and employers.",
+          "publish_date": null,
+          "excerpts": [
+            "Mapout Logo\nFor Employers About Pricing\nExplore Jobs Candidate Login\n\nBecome a Mapout Student ambassador\n\nYour Campus. Your Career. Your Move.\n\napply now\nleftBackground rightBackgr"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "urban-bot",
+      "search_id": "search_ac962aad0015ce4e218de72dadd8751f",
+      "queries": [
+        "urban-bot student ambassador",
+        "urban-bot campus representative India",
+        "urban-bot official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/urban-bot/urban-bot",
+          "title": "GitHub - urban-bot/urban-bot: 🤖 The universal chatbot library based on React. Write once, launch Telegram, Discord, Facebook, ... every messenger with chatbots · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "urban-bot/urban-bot\n\n* Page: GitHub repository\n* URL: https://github.com/urban-bot/urban-bot\n* Description: 🤖 The universal chatbot library based on React. Write once, launch Tele"
+          ]
+        },
+        {
+          "url": "https://sa.nssc.in/",
+          "title": "NSSC - Student Ambassador",
+          "publish_date": null,
+          "excerpts": [
+            "Exclusive Learning Tracks\n\nABOUT NSSC\n\nEstablished in 2011 , the National Students’ Space Challenge (NSSC) is India’s largest astro-tech fest, organized by the Space Technology Stu"
+          ]
+        },
+        {
+          "url": "https://campusambassador.incuxai.com/",
+          "title": "IncuXai Campus AI Ambassador Program 2026–27",
+          "publish_date": null,
+          "excerpts": [
+            "# IncuXai Campus AI Ambassador\n\n## 2026–27\n\nIndia's one of the largest student-driven AI leadership initiative. **300 Ambassadors** from **150 Colleges** building AI innovation com"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Earn verified certificates, XP, and badges.\n\nLeadership Building\n\nBuild leadership experience as a Campus Ambassador.\nFeatures Hub\n\nWhy Students Choose CampusUnite\n\nOpportunities\n\n"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://clif.ai/student-ambassador",
+          "title": "CLIF Student Ambassador Program | Lead, Upskill & Help Students Get Placed",
+          "publish_date": null,
+          "excerpts": [
+            "* \n* \n*\n\n# 🎓 CLIF Student Ambassador Program 2026 - 27\n\nEmpower. Inspire. Lead.\n\nBecome the voice of CLIF on your campus and help students shape their dream careers using AI.\n\nAPP"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "VSLAM-LAB",
+      "search_id": "search_44a9a14ef980170672741fd4a64105a3",
+      "queries": [
+        "VSLAM-LAB student ambassador",
+        "VSLAM-LAB campus representative India",
+        "VSLAM-LAB official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/VSLAM-LAB",
+          "title": "VSLAM-LAB · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Organization: VSLAM-LAB (@VSLAM-LAB)\n\n* Page: GitHub organization profile\n* URL: https://github.com/VSLAM-LAB\n* Top languages: Python, Cuda, SCSS, Cython, C++\n\nRepositories\n\n* VSLA"
+          ]
+        },
+        {
+          "url": "https://github.com/VSLAM-LAB/VSLAM-LAB",
+          "title": "GitHub - VSLAM-LAB/VSLAM-LAB: A Comprehensive Framework for Visual SLAM Systems and Datasets · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "VSLAM-LAB/VSLAM-LAB\n\n* Page: GitHub repository\n* URL: https://github.com/VSLAM-LAB/VSLAM-LAB\n* Description: A Comprehensive Framework for Visual SLAM Systems and Datasets - VSLAM-L"
+          ]
+        },
+        {
+          "url": "https://zaguan.unizar.es/record/171114/files/texto_completo.pdf",
+          "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets",
+          "publish_date": "2026-05-09",
+          "excerpts": [
+            "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets\n\nAlejandro Fontan † Tobias Fischer † Javier Civera ‡ Michael Milford †\nhttps://github.com/alejandrofontan/"
+          ]
+        },
+        {
+          "url": "https://arxiv.org/pdf/2504.04457",
+          "title": "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets",
+          "publish_date": "2025-04-08",
+          "excerpts": [
+            "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets\n\nAlejandro Fontan † Tobias Fischer † Javier Civera ‡ Michael Milford †\nhttps://github.com/alejandrofontan/"
+          ]
+        },
+        {
+          "url": "https://ieeexplore.ieee.org/document/11247218",
+          "title": "ieeexplore.ieee.org",
+          "publish_date": "2025-10-25",
+          "excerpts": [
+            "VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets | IEEE Conference Publication | IEEE Xplore\n\n\n* [IEEE.org](https://www.ieee.org/)\n* IEEE _Xplore_\n\n...\n\nAD"
+          ]
+        },
+        {
+          "url": "https://arxiv.org/abs/2504.04457",
+          "title": "[2504.04457] VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets",
+          "publish_date": "2025-04-06",
+          "excerpts": [
+            " archive\nSearch Submit Donate Log in\n\nComputer Science > Computer Vision and Pattern Recognition\n\narXiv:2504.04457 (cs)\n[Submitted on 6 Apr 2025]\n\nTitle: VSLAM-LAB: A Comprehensive"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "hb20007",
+      "search_id": "search_0aab49ad2f921c607c8bc245e0c9c021",
+      "queries": [
+        "hb20007 student ambassador",
+        "hb20007 campus representative India",
+        "hb20007 official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://hbcuendowmentfund.org/become-ambassador",
+          "title": "Become an Ambassador | HBCU Endowment Fund",
+          "publish_date": null,
+          "excerpts": [
+            "title: \"Become an Ambassador | HBCU Endowment Fund\" meta: author: \"HBCU Endowment Fund\" description: \"Join 200+ student ambassadors spreading the word, recruiting peers, and ensuri"
+          ]
+        },
+        {
+          "url": "https://hhp.ufl.edu/hhp-student-ambassadors",
+          "title": "HHP Student Ambassadors - UF College of Health & Human Performance",
+          "publish_date": "2025-03-25",
+          "excerpts": [
+            "* ADA Compliance Resources\nMENU\n* Admissions\n* Costs & Financial Aid\n* Visit HHP\n* Transfer to HHP\n* Academics\n* Pr\n\n...\n\n* Homecoming Tailgate\n* Recognition Programs\n* Scholarship"
+          ]
+        },
+        {
+          "url": "https://hhp.ufl.edu/for-our-students/undergraduate-students/student-involvement/hhp-student-ambassadors/",
+          "title": "HHP Student Ambassadors - UF College of Health & Human Performance",
+          "publish_date": "2025-03-25",
+          "excerpts": [
+            "For Our Students\n3. Undergraduate Students\n4. Student Involvement\n5. HHP Student Ambassadors\n\nHHP Student Ambassadors\n\nApplications for 2027-2028 will open in January 2027.\nAmbassa"
+          ]
+        },
+        {
+          "url": "https://hhp.ufl.edu/hhp/for-our-students/undergraduate-students/student-involvement/hhp-student-ambassadors",
+          "title": "HHP Student Ambassadors - UF College of Health & Human Performance",
+          "publish_date": null,
+          "excerpts": [
+            "3. Undergraduate Students\n4. Student Involvement\n5. HHP Student Ambassadors\n\nHHP Student Ambassadors\n\nApplications are now open for 2026-2027.\nAmbassadors serve as student represen"
+          ]
+        },
+        {
+          "url": "https://www.blackconnect.org/internships/campus-ambassadors",
+          "title": "Campus Ambassadors — Blackconnect.org",
+          "publish_date": "2025-11-29",
+          "excerpts": [
+            "Sign In My Account\n\nCampus Ambassadors\n\nThe Campus Ambassador is a volunteer student leader who represents Black Connect on their college or university campus. Ambassadors help gro"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "Quincunx33",
+      "search_id": "search_353515dba3d0a91e66a88310e3b9270f",
+      "queries": [
+        "Quincunx33 student ambassador",
+        "Quincunx33 campus representative India",
+        "Quincunx33 official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://linkedin.com/in/sharvari-panse-b030a1319",
+          "title": "Sharvari Panse B030A1319",
+          "publish_date": null,
+          "excerpts": [
+            "* url: https://linkedin.com/in/sharvari-panse-b030a1319\n * name: Sharvari Panse\n * first name: Sharvari \n * last name: Panse \n * company name: UNIVISER\n * title: Student Ambassador"
+          ]
+        },
+        {
+          "url": "https://www.queensu.ca/admission/visit/connect-student-ambassador",
+          "title": "Student Ambassador | Queen's University",
+          "publish_date": null,
+          "excerpts": [
+            "- [International Ambassadors](https://www.queensu.ca/admission/international-student-supports/international-ambassadors)\n\n...\n\n- [Fees and Tuition Calculator](https://www.queensu.c"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/amit-kumar-sharma-92a0ab337",
+          "title": "Amit Kumar Sharma 92A0Ab337",
+          "publish_date": null,
+          "excerpts": [
+            "* url: https://linkedin.com/in/amit-kumar-sharma-92a0ab337\n * name: AMIT KUMAR SHARMA\n * first name: AMIT\n * last name: KUMAR SHARMA\n * company name: Microsoft Learn Student Ambass"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/ritik-kumar-jha-83224b326",
+          "title": "linkedin.com",
+          "publish_date": null,
+          "excerpts": [
+            "* url: https://linkedin.com/in/ritik-kumar-jha-83224b326\n * name: Ritik Kumar Jha\n * first name: Ritik Kumar\n * last name: Jha\n * company name: Google Student Ambassadors (India)\n "
+          ]
+        },
+        {
+          "url": "https://www.qc.cuny.edu/admissions/student-ambassador-program",
+          "title": "Student Ambassador Program | Admissions - Queens College",
+          "publish_date": "2022-10-19",
+          "excerpts": [
+            "Student Ambassador Program\n\n” Discimus ut Serviamus: We learn so that we may serve”\n\n\n\nStudent Ambassador Program\n\nA Student Ambassador is a positive, enthusiastic, well-informed "
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/himanshusingh2005",
+          "title": "linkedin.com",
+          "publish_date": null,
+          "excerpts": [
+            "* url: https://linkedin.com/in/himanshusingh2005\n * name: Himanshu Singh\n * first name: Himanshu\n * last name: Singh\n * company name: Google\n * title: Student Ambassador\n * country"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "yandex-research",
+      "search_id": "search_bad941074e1eb83b4da67efaf3a11499",
+      "queries": [
+        "yandex-research student ambassador",
+        "yandex-research campus representative India",
+        "yandex-research official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://research.yandex.com/about",
+          "title": "About Yandex Research",
+          "publish_date": "2022-05-26",
+          "excerpts": [
+            "We study computer vision and self-driving cars, natural language processing and speech technologies, search and recommendation systems. Our research helps to improve the technologi"
+          ]
+        },
+        {
+          "url": "https://yandex.ru/yaintern/uteam?from=cp_header&lang=en",
+          "title": "Амбассадоры Яндекса в вузах",
+          "publish_date": null,
+          "excerpts": [
+            "Яндекс Young & Yandex Яндекс Young & Yandex\nХочу в Яндекс\n* Стажировки\n* Амбассадоры\n* Ивенты\n* Образовательные проекты\n* Олимпиады\n* CodeRun\n* Айтиобщага\nХочу в Яндекс\nХочу в Янде"
+          ]
+        },
+        {
+          "url": "https://www.ruc.su/announcements/detail/171680/",
+          "title": "ПРОГРАММА АМБАССАДОРОВ ЯНДЕКСА — НОВЫЙ НАБОР ОТКРЫТ!",
+          "publish_date": "2025-09-12",
+          "excerpts": [
+            "Российский Университет Кооперации Филиалы\nruc@ruc.su\nСведения об образовательной организации  Для слабовидящих\nРазмер:\nA A A\nЦвет:\nC C C\nИзображения: Вкл. Выкл.\nОбычная версия сайт"
+          ]
+        },
+        {
+          "url": "https://yandex.ru/yaintern/uteam?from=tg_cpc_frontendbook",
+          "title": "Амбассадоры Яндекса в вузах",
+          "publish_date": null,
+          "excerpts": [
+            "Яндекс Young & Yandex Яндекс Young & Yandex\nХочу в Яндекс\n* Стажировки\n* Амбассадоры\n* Ивенты\n* Образовательные проекты\n* Олимпиады\n* CodeRun\n* Айтиобщага\nХочу в Яндекс\nХочу в Янде"
+          ]
+        },
+        {
+          "url": "https://yandex.ru/yaintern/uteam?version=1",
+          "title": "Амбассадоры Яндекса в вузах",
+          "publish_date": null,
+          "excerpts": [
+            "Яндекс Young & Yandex Яндекс Young & Yandex\nХочу в Яндекс\n* Стажировки\n* Амбассадоры\n* Ивенты\n* Образовательные проекты\n* Олимпиады\n* CodeRun\n* Айтиобщага\nХочу в Яндекс\nХочу в Янде"
+          ]
+        },
+        {
+          "url": "https://www.instagram.com/p/DN8n-FpjO-y",
+          "title": "Представляй Яндекс в своём вузе и создавай ...",
+          "publish_date": null,
+          "excerpts": [
+            "education_yandex's profile picture\neducation_yandex\n•\nFollow\neducation_yandex's profile picture\neducation_yandex 24w\nПредставляй Яндекс в своём вузе и создавай технодвиж 👋\nКоманда"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "rajpurkar",
+      "search_id": "search_e41e9dab73ef8d7a60f03c6abf79e137",
+      "queries": [
+        "rajpurkar student ambassador",
+        "rajpurkar campus representative India",
+        "rajpurkar official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://rajpurkarlab.hms.harvard.edu/team",
+          "title": "Team · Rajpurkar Lab",
+          "publish_date": null,
+          "excerpts": [
+            "[Rajpurkar Lab Harvard Medical School](https://rajpurkarlab.hms.harvard.edu/) MENU\n\n* [Research](https://rajpurkarlab.hms.harvard.edu/research)\n* [Publications](https://rajpurkarla"
+          ]
+        },
+        {
+          "url": "https://rajpurkarlab.hms.harvard.edu/bootcamp",
+          "title": "Medical AI Bootcamp · Rajpurkar Lab",
+          "publish_date": null,
+          "excerpts": [
+            "[Rajpurkar Lab Harvard Medical School](https://rajpurkarlab.hms.harvard.edu/) MENU\n\n* [Research](https://rajpurkarlab.hms.harvard.edu/research)\n* [Publications](https://rajpurkarla"
+          ]
+        },
+        {
+          "url": "http://www.adrindia.org/content/adr-campus-ambassadors",
+          "title": "ADR Campus Ambassadors | Association for Democratic Reforms",
+          "publish_date": null,
+          "excerpts": [
+            "Eligibility: Anyone pursuing a graduate/postgraduate regular course with a passion to be a changemaker can be an ADR Campus Ambassador.\nTraining: Selected Campus Ambassadors are tr"
+          ]
+        },
+        {
+          "url": "http://www.thecapro.org/campus-ambassadors",
+          "title": "Campus Ambassadors | Child Awareness Project (CAP)",
+          "publish_date": null,
+          "excerpts": [
+            "WE ARE LOOKING FOR\n\nCAMPUS AMBASSADORS\n\nWHO ARE CAMPUS AMBASSADORS?\n\nCAMPUS AMBASSADORS are young people in schools, colleges and institutions across India, who want to create a po"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://rajpurkarlab.hms.harvard.edu/join",
+          "title": "Join · Rajpurkar Lab",
+          "publish_date": null,
+          "excerpts": [
+            "[Rajpurkar Lab Harvard Medical School](https://rajpurkarlab.hms.harvard.edu/) MENU\n\n* [Research](https://rajpurkarlab.hms.harvard.edu/research)\n* [Publications](https://rajpurkarla"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "ooples",
+      "search_id": "search_63c2526dc23d2f177220737e9cc39387",
+      "queries": [
+        "ooples student ambassador",
+        "ooples campus representative India",
+        "ooples official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "http://www.thecapro.org/campus-ambassadors",
+          "title": "Campus Ambassadors | Child Awareness Project (CAP)",
+          "publish_date": null,
+          "excerpts": [
+            "WE ARE LOOKING FOR\n\nCAMPUS AMBASSADORS\n\nWHO ARE CAMPUS AMBASSADORS?\n\nCAMPUS AMBASSADORS are young people in schools, colleges and institutions across India, who want to create a po"
+          ]
+        },
+        {
+          "url": "https://iaoc.academy/ambassadors",
+          "title": "IAOC - International Academic Olympiad Council | Global Olympiads & Academic Assessments",
+          "publish_date": null,
+          "excerpts": [
+            "National Student Leadership Network\n\nLead the academic movement\n\nat your institution.\nIAOC Campus Ambassadors represent our global academic council - organizing campus events, guid"
+          ]
+        },
+        {
+          "url": "https://www.instagram.com/reel/DbQSYReTsz2",
+          "title": "Unstop on Instagram: \"Earn your place. Own your campus. Not ...",
+          "publish_date": null,
+          "excerpts": [
+            "As a campus ambassador, you can promote events or products on your\n\n## \n\nUnstop on Instagram: \"Earn your place. Own your campus. Not ...\nBecome a Tech Tomorrow Student Ambassador a"
+          ]
+        },
+        {
+          "url": "https://www.oppo.com/uk/events/campus-ambassador",
+          "title": "OPPO Campus Ambassador | OPPO United Kingdom",
+          "publish_date": "2026-09-24",
+          "excerpts": [
+            "OPPO Campus Ambassador | OPPO United Kingdom\n\nOPPO Campus Ambassadors\nBe the face of OPPO on Campus\nApply Now\nAre you passionate about tech, creativity, and student life? Join OPPO"
+          ]
+        },
+        {
+          "url": "https://education.utexas.edu/students/current-students/student-ambassador-program",
+          "title": "Student Ambassador Program - College of Education - UT Austin",
+          "publish_date": "2018-07-12",
+          "excerpts": [
+            "# **Student Ambassador Program**\n\n**Get Involved**\n\nStudent Ambassadors are an important part of the fabric of the College of Education community. They represent students from acro"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "kacper-daftcode",
+      "search_id": "search_379ce556093d48ee2da75dda0a4f9757",
+      "queries": [
+        "kacper-daftcode student ambassador",
+        "kacper-daftcode campus representative India",
+        "kacper-daftcode official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/kacper-daftcode",
+          "title": "kacper-daftcode · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: kacper-daftcode (@kacper-daftcode)\n\n* Page: GitHub user profile\n* URL: https://github.com/kacper-daftcode\n* Followers: 47\n* Following: 0\n* Top languages: Sass, Cuda, HTML, Sh"
+          ]
+        },
+        {
+          "url": "https://theorg.com/org/oxla/org-chart/kacper-szczesniak",
+          "title": "Kacper Szcześniak - CEO at Oxla | The Org",
+          "publish_date": null,
+          "excerpts": [
+            "Platform\nEnrich\nPricing\nLog in Sign up\n* Oxla\n‌\n* Kacper Szcześniak\nUnverified\n\nKacper Szcześniak\n\nCEO\n\nContact\nKacper Szczesniak is a seasoned entrepreneur and investor with exten"
+          ]
+        },
+        {
+          "url": "https://github.com/kacper-daftcode?tab=repositories",
+          "title": "kacper-daftcode / Repositories · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "## \n\nkacper-daftcode / Repositories · GitHub\nkacper-daftcode has 10 repositories available. Follow their code on GitHub."
+          ]
+        },
+        {
+          "url": "https://github.com/kacper-daftcode/cubit/tree/main/docs",
+          "title": "cubit/docs at main · kacper-daftcode/cubit · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "kacper-daftcode/cubit — docs\n\n* Page: GitHub directory listing\n* URL: https://github.com/kacper-daftcode/cubit/tree/main/docs\n* Repository: kacper-daftcode/cubit\n* Path: docs\n* Ref"
+          ]
+        },
+        {
+          "url": "https://codemyfyp.com/campus-ambassador",
+          "title": "Campus Ambassador Programme | CodeMyFYP",
+          "publish_date": null,
+          "excerpts": [
+            "CodeMyFYP IT & Software Solutions Logo\nServices\nAI Solutions NEW\nLearn & Build\nResources\nCompany\n Scope Project Discuss your project\nCampus Ambassador\n\nRepresent CodeMyFYP at your "
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/kacper-gawor-0a2a3a15b",
+          "title": "Kacper Gawor - Colgate-Palmolive | LinkedIn",
+          "publish_date": null,
+          "excerpts": [
+            "Kacper can introduce you to 10+ people at Colgate-Palmolive\nEmail or phone\nPassword\nShow\nForgot password? Sign in Sign in with Email\nor\nNew to LinkedIn? Join now\nBy clicking Contin"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "syepes",
+      "search_id": "search_992fe15b3a8b16bd2c836781114c642e",
+      "queries": [
+        "syepes student ambassador",
+        "syepes campus representative India",
+        "syepes official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://aicssyc.ieeecssrm.in/ambassador",
+          "title": "AICSSYC 2026 | IEEE Computer Society SYP Congress | SRM IST",
+          "publish_date": null,
+          "excerpts": [
+            "• CAMPUS AMBASSADOR PROGRAM\n\nLead the charge.\n\nOwn your campus.\nBecome the official representative of India's flagship IEEE Computer Society congress. Build your network, unlock ex"
+          ]
+        },
+        {
+          "url": "https://mtt.org/student-ambassadors-program",
+          "title": "MTT-S Student Ambassadors Program - MTT-S",
+          "publish_date": "2025-06-11",
+          "excerpts": [
+            "MTT-S Student Ambassadors Program\n\n* Home\n* MTT-S Student Ambassadors Program\n\nMTT-S Student Ambassadors\n\nIEEE MTT-S Ambassador Program is an initiative designed to empower student"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://www.comsoc.org/engagement-community/students/ieee-comsoc-student-ambassador",
+          "title": "IEEE ComSoc Student Ambassador | IEEE Communications Society",
+          "publish_date": null,
+          "excerpts": [
+            "\nIEEE ComSoc Student Ambassador\n\nPeople Standing\n\nBreadcrumb\n\n1. Home\n2. Engagement & Community\n3. For Students\n\nIEEE ComSoc Student Ambassador Program 2026\n\nEmpowering the Next Ge"
+          ]
+        },
+        {
+          "url": "http://www.isye.gatech.edu/engage/engage-isye-students/isye-ambassadors",
+          "title": "ISyE Ambassadors | H. Milton Stewart School of Industrial and Systems Engineering",
+          "publish_date": null,
+          "excerpts": [
+            "\nISyE Ambassadors\n\nBreadcrumb\n\n1. Home\n2. Engage\n3. Engage with ISyE Students\nThe mission of the ISyE Ambassadors is to build and maintain a hospitable environment where prospectiv"
+          ]
+        },
+        {
+          "url": "https://fass.nus.edu.sg/sa-programme/faq/",
+          "title": "Frequently Asked Questions - NUS Faculty of Arts & Social Sciences",
+          "publish_date": "2021-12-03",
+          "excerpts": [
+            "FASS Student Ambassador Programme\n\nBlack Simple Coffee Landscape Banner (2000 × 400 px) (1)\n**Frequently Asked Questions (FAQ) **\n**What does a Student Ambassador do? ** Student Am"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "suriyadeepan",
+      "search_id": "search_ddd050741f3d88f306b717e383a26a9a",
+      "queries": [
+        "suriyadeepan student ambassador",
+        "suriyadeepan campus representative India",
+        "suriyadeepan official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/suriyadeepan",
+          "title": "suriyadeepan (Suriyadeepan Ramamoorthy) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# User: Suriyadeepan Ramamoorthy (@suriyadeepan)\n\n- Page: GitHub user profile\n- URL: https://github.com/suriyadeepan\n- Location: Chennai, India\n- Website: https://blog.suriya.app\n-"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/suriyadeepan85",
+          "title": "linkedin.com",
+          "publish_date": null,
+          "excerpts": [
+            "* URL: https://linkedin.com/in/suriyadeepan85\n * Name: Suriyadeepan Narayanasamy\n * first name: Suriyadeepan\n * last name: Narayanasamy\n * company name: Cognizant\n * Title: Manager"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://bdstudents.org/ambassador",
+          "title": "Become a Campus Ambassador | BDStudents Ambassador Program",
+          "publish_date": null,
+          "excerpts": [
+            "Help students connect, navigate campus life, and build community at your university.\n\nWhat Is the BDStudents Ambassador Program?\n\nBDStudents is building a global platform to connec"
+          ]
+        },
+        {
+          "url": "https://adrindia.org/content/adr-campus-ambassadors",
+          "title": "ADR Campus Ambassadors | Association for Democratic Reforms",
+          "publish_date": null,
+          "excerpts": [
+            "Eligibility: Anyone pursuing a graduate/postgraduate regular course with a passion to be a changemaker can be an ADR Campus Ambassador.\nTraining: Selected Campus Ambassadors are tr"
+          ]
+        },
+        {
+          "url": "https://svkm.org.in/academics/assistance/student-ambassadors",
+          "title": "Student Ambassadors | SVKM",
+          "publish_date": "2019-11-25",
+          "excerpts": [
+            "* Home\n* Events\n* Upcoming Events\n* Past Events\n* Youth Fest & Annual Days\n* Careers\n* News\n* Shop\n* Alumni\n* Contact Us\n* Menu Item\n* Shop\n* News\n  \nAlumni\n\nStudent Ambassadors\n\nT"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "mx-space",
+      "search_id": "search_625187402eec8b065e9aee2739db026b",
+      "queries": [
+        "mx-space student ambassador",
+        "mx-space campus representative India",
+        "mx-space official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.antarikshsociety.com/space-ambassdor",
+          "title": "SPACE AMBASSDOR | Antariksh Society",
+          "publish_date": null,
+          "excerpts": [
+            "top of page\nASI-LOGO.gif\n\nEarth First, Space Next! ©\n\nANTARIKSH SOCIETY INDIA\n\nNEWS& ARTICLES\nCOMMUNITY\nCONFRENCE& EVENTS\nEDUCATION& OUTREACH\nLog In\n* HOME\n* ANTARIKSH MEDIA\n* SPAC"
+          ]
+        },
+        {
+          "url": "https://www.techmnhub.com/ambassador",
+          "title": "Become A TechMNHub Student Ambassador",
+          "publish_date": null,
+          "excerpts": [
+            "Back to home\nCAMPUS FRONTIER 2026\n\nBecome A TechMNHub\n\nStudent Ambassador 🚀\nRepresent Your School. Build Your Identity. Lead The Future. Connect with a national community of creat"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://www.sphinx.org.in/ca",
+          "title": "Campus Ambassador Program | Sphinx '26",
+          "publish_date": null,
+          "excerpts": [
+            "* Leaderboard\n* Story\n* Sponsors\n* Festival Pass\n* Campus Ambassador\n* Team\n* Dev Team\n* Legal\nRegister / Sign In\nSphinx '26 · Campus Program\n\nCampus\n\nAmbassador\nRepresent · Connec"
+          ]
+        },
+        {
+          "url": "https://www.iscea.org/ambassadors",
+          "title": "ISCEA | Ambassadors",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Ambassador\n\nGreen University\n\nBangladesh\n\nUntitled.png\n\nTalha Rashid Adar\n\nCampus Ambassador\n\nPatuakhali Science & Technology University\n\nBangladesh\n\nUntitled.png\n\nAishwarya"
+          ]
+        },
+        {
+          "url": "https://www.allcollegeevent.com/campus-ambassador",
+          "title": "Campus Ambassador | ACE – AllCollegeEvent | ACE",
+          "publish_date": null,
+          "excerpts": [
+            "CAMPUS AMBASSADOR 2026\n\nYour Campus Needs a Leader. Is That You?\n\nBecome the Official Campus Ambassador for AllCollegeEvent.com . Build Your Leadership. Expand Your Network. Create"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "PunithVT",
+      "search_id": "search_16458c4c2e9c0d4cd87e29590b398083",
+      "queries": [
+        "PunithVT student ambassador",
+        "PunithVT campus representative India",
+        "PunithVT official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://linkedin.com/in/punithvt",
+          "title": "Punith V T - Rooman Technologies Pvt Ltd | LinkedIn",
+          "publish_date": "2024-06-21",
+          "excerpts": [
+            "LinkedIn respects your privacy\n\nLinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads "
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/Punithvt",
+          "title": "Punith V T - Rooman Technologies Pvt Ltd | LinkedIn",
+          "publish_date": "2024-06-21",
+          "excerpts": [
+            "This event has taught us to plan and then execute\n\n...\n\nPunith V T shared this\nI’m happy to share this Stock Prediction and\n\n...\n\nEncourage and inspire fellow participants! Github "
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/punith-parthiban-021762249",
+          "title": "Punith Parthiban - Career Development Cell, IIT Bhubaneswar | LinkedIn",
+          "publish_date": null,
+          "excerpts": [
+            "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\n\nChennai, Tamil Nadu, India Contact Info\n\nSign in to view Pun"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/punithchavan",
+          "title": "Punith Chavan - CSE Student at Mahindra University",
+          "publish_date": "2024-06-06",
+          "excerpts": [
+            "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\n\nHyderabad, Telangana, India Contact Info\n\nSign in to view Pu"
+          ]
+        },
+        {
+          "url": "https://www.datanyze.com/people/Punith-Rahul/15581687578",
+          "title": "Punith Rahul's email & phone | All India Catholic University Federation's Vice President contact info",
+          "publish_date": null,
+          "excerpts": [
+            "Homepage Non-Profit & Charitable Organizations All India Catholic University Federation\nPunith Rahul\n\nPunith Rahul\n\nVice President\n\nAll India Catholic University Federation's logo "
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/punith-gn-886a61166",
+          "title": "Punith Gn - West Delhi, Delhi, India | Professional Profile | LinkedIn",
+          "publish_date": null,
+          "excerpts": [
+            "professional and job ads ) on and off LinkedIn. Learn more in our Cookie Policy .\nSelect Accept to consent or Reject to decline non-essential cookies for this use. You can update y"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "Nebukam",
+      "search_id": "search_d04bea4bd087b402cdca665a22f260bb",
+      "queries": [
+        "Nebukam student ambassador",
+        "Nebukam campus representative India",
+        "Nebukam official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://eduskillsfoundation.org/index.php/ambassador",
+          "title": "EduSkills Student Campus Ambassador Program",
+          "publish_date": "2021-06-05",
+          "excerpts": [
+            "EduSkills Student Campus Ambassador Program\n\nThe EduSkills Student Ambassador Program is a platform for students who are passionate about learning new emerging tech and believe in "
+          ]
+        },
+        {
+          "url": "https://www.rmcad.edu/life-rmcad/student-resources/student-involvement/student-ambassadors/",
+          "title": "Student Ambassadors - RMCAD",
+          "publish_date": "2022-09-23",
+          "excerpts": [
+            "Student Ambassadors\n\nYOUR PEER MENTORS\n\nStudent Ambassadors promote the RMCAD mission through ongoing, positive leadership, civic awareness, and engagement.\n\nStudent Ambassadors ar"
+          ]
+        },
+        {
+          "url": "https://brand.northeastern.edu/design-and-experiences/social-media/student-ambassadors/",
+          "title": "Student Ambassadors - Brand Center",
+          "publish_date": "2023-01-31",
+          "excerpts": [
+            "* Licensing & Merchandise\n* Vendor Information\n* Stationery\n* Digital\n* Social Media\n* Student Ambassadors\n* Public Art\n* Environmental\n* Policies\n* Resources\n* Key Terms & Style\n*"
+          ]
+        },
+        {
+          "url": "https://brand.northeastern.edu/student-ambassadors",
+          "title": "Student Ambassadors - Brand Center",
+          "publish_date": "2023-01-31",
+          "excerpts": [
+            "Student Ambassadors\n\nSocial Media Ambassador Program\n\nWho are social media ambassadors?\n\nThe Social Media Ambassadors serve as representatives of the Northeastern experience, and a"
+          ]
+        },
+        {
+          "url": "https://svkm.org.in/academics/assistance/student-ambassadors",
+          "title": "Student Ambassadors | SVKM",
+          "publish_date": "2019-11-25",
+          "excerpts": [
+            "* Home\n* Events\n* Upcoming Events\n* Past Events\n* Youth Fest & Annual Days\n* Careers\n* News\n* Shop\n* Alumni\n* Contact Us\n* Menu Item\n* Shop\n* News\n  \nAlumni\n\nStudent Ambassadors\n\nT"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "idreesshaikh",
+      "search_id": "search_866f57a9679a5e90fdb50c7a677dc42a",
+      "queries": [
+        "idreesshaikh student ambassador",
+        "idreesshaikh campus representative India",
+        "idreesshaikh official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.iscea.org/ambassadors",
+          "title": "ISCEA | Ambassadors",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Ambassador\n\nGreen University\n\nBangladesh\n\nUntitled.png\n\nTalha Rashid Adar\n\nCampus Ambassador\n\nPatuakhali Science & Technology University\n\nBangladesh\n\nUntitled.png\n\nAishwarya"
+          ]
+        },
+        {
+          "url": "https://adrindia.org/content/adr-campus-ambassadors",
+          "title": "ADR Campus Ambassadors | Association for Democratic Reforms",
+          "publish_date": null,
+          "excerpts": [
+            "Eligibility: Anyone pursuing a graduate/postgraduate regular course with a passion to be a changemaker can be an ADR Campus Ambassador.\nTraining: Selected Campus Ambassadors are tr"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Earn verified certificates, XP, and badges.\n\nLeadership Building\n\nBuild leadership experience as a Campus Ambassador.\nFeatures Hub\n\nWhy Students Choose CampusUnite\n\nOpportunities\n\n"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://trustidea.org/campus-ambassador/",
+          "title": "Campus Ambassador – TrustIDEA",
+          "publish_date": "2021-01-07",
+          "excerpts": [
+            "image13\n\nCampus Ambassador Programme\n\nIDEA calls for Campus Ambassadors to serve as a pivotal link between the Organisation and the student community. We are looking for dynamic ca"
+          ]
+        },
+        {
+          "url": "https://www.ieee-ies.org/membership/students/become-an-ies-student-ambassador",
+          "title": "IEEE Industrial Electronics Society - Become an IES Student Ambassador",
+          "publish_date": null,
+          "excerpts": [
+            "IEEE\nIEEE Industrial Electronics Society IEEE Industrial Electronics Society\nSearch IEEE IES Search\nFacebook Twitter LinkedIn YouTube\nJoin IEEE IES\n* Home\n* Membership\n* Students\n*"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "tzachbon",
+      "search_id": "search_97d75ad83ddf66cd978af3ccbb4cfd58",
+      "queries": [
+        "tzachbon student ambassador",
+        "tzachbon campus representative India",
+        "tzachbon official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.techmnhub.com/ambassador",
+          "title": "Become A TechMNHub Student Ambassador",
+          "publish_date": null,
+          "excerpts": [
+            "Back to home\nCAMPUS FRONTIER 2026\n\nBecome A TechMNHub\n\nStudent Ambassador 🚀\nRepresent Your School. Build Your Identity. Lead The Future. Connect with a national community of creat"
+          ]
+        },
+        {
+          "url": "https://www.iscea.org/ambassadors",
+          "title": "ISCEA | Ambassadors",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Ambassador\n\nGreen University\n\nBangladesh\n\nUntitled.png\n\nTalha Rashid Adar\n\nCampus Ambassador\n\nPatuakhali Science & Technology University\n\nBangladesh\n\nUntitled.png\n\nAishwarya"
+          ]
+        },
+        {
+          "url": "http://www.thecapro.org/campus-ambassadors",
+          "title": "Campus Ambassadors | Child Awareness Project (CAP)",
+          "publish_date": null,
+          "excerpts": [
+            "WE ARE LOOKING FOR\n\nCAMPUS AMBASSADORS\n\nWHO ARE CAMPUS AMBASSADORS?\n\nCAMPUS AMBASSADORS are young people in schools, colleges and institutions across India, who want to create a po"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://iaoc.academy/ambassadors",
+          "title": "IAOC - International Academic Olympiad Council | Global Olympiads & Academic Assessments",
+          "publish_date": null,
+          "excerpts": [
+            "National Student Leadership Network\n\nLead the academic movement\n\nat your institution.\nIAOC Campus Ambassadors represent our global academic council - organizing campus events, guid"
+          ]
+        },
+        {
+          "url": "https://www.tathyagrid.com/campus-ambassador",
+          "title": "Become a TathyaGrid Campus Ambassador",
+          "publish_date": null,
+          "excerpts": [
+            "Back to Home\nSign In\nJoin the Student Network\n\nBecome a TathyaGrid\n\nCampus Ambassador\nAre you passionate about legal technology, research, and leadership? Join top students from pr"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "Bryley",
+      "search_id": "search_107e3f46fce06332c20325b4c1063331",
+      "queries": [
+        "Bryley student ambassador",
+        "Bryley campus representative India",
+        "Bryley official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://linkedin.com/in/bryley-w-889165252",
+          "title": "Bryley W. - Hachette Book Group | LinkedIn",
+          "publish_date": null,
+          "excerpts": [
+            "When leading experts join forces with social organizations, we strengthen the protection of our students.\n\n...\n\n👉 https://brnw.ch/21wZVbO 3\n* Abigayle Stoetzer 278 followers How d"
+          ]
+        },
+        {
+          "url": "https://www.facebook.com/OSUFoodAgEnv/posts/find-something-you-are-seriously-passionate-about-and-love-showing-up-for-everyd/1690254256438362",
+          "title": "Avery Bouwman shares career advice for CFAES students",
+          "publish_date": null,
+          "excerpts": [
+            "## \n\nAvery Bouwman shares career advice for CFAES students\nBryley is an active member on our chapter Veterinary Science Career Development Event team in addition to competing in Pr"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/bryley-savage",
+          "title": "Bryley Savage - Bendigo, Victoria, Australia | Professional Profile | LinkedIn",
+          "publish_date": "2017-04-11",
+          "excerpts": [
+            "ement\nAnnie North Sorry Statement\n9\n* Copy\n* LinkedIn\n* Facebook\n* X\n* Bryley Savage reposted this\n* Report this post\nBryley Savage reposted this\nSafe and Equal\n\nSafe and Equal\n\n5m"
+          ]
+        },
+        {
+          "url": "https://www.bryley.com/about-us/management-team/",
+          "title": "Management Team | Bryley Systems Inc.",
+          "publish_date": "2021-05-07",
+          "excerpts": [
+            "He has a passion for all things technical, coupled with a deep understanding of the end-user experience and excellent communication skills. Garin is a Microsoft Certified Technicia"
+          ]
+        },
+        {
+          "url": "https://www.brunel.ac.uk/life/get-involved/student-ambassador-scheme",
+          "title": "\n\tStudent Ambassador Scheme | Brunel University of London\n",
+          "publish_date": null,
+          "excerpts": [
+            "Student Ambassador Scheme\n\n* Home\n* Life\n* Student life: Get involved\n* Student Ambassador Scheme\nOur Student Ambassador Scheme gives you the opportunity to represent us at various"
+          ]
+        },
+        {
+          "url": "https://www.athleteally.org/on-campus/",
+          "title": "Campus Chapters - Athlete Ally",
+          "publish_date": "2016-12-16",
+          "excerpts": [
+            "* Champions of Inclusion\n* Resources\n* Join the Movement\n* Stay Connected\n* Playing for Pride\n* Join a Campus Chapter\n* Become an Ambassador\n* Contact Us\n* News\n* Shop\n* DONATE\n* \n"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "bhouston",
+      "search_id": "search_aeb5f38d7a3f91880a4f52af5fbb2d9b",
+      "queries": [
+        "bhouston student ambassador",
+        "bhouston campus representative India",
+        "bhouston official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.uh.edu/csi/resources/cia/index.php",
+          "title": "Cougar Involvement Ambassadors",
+          "publish_date": null,
+          "excerpts": [
+            "Student employees\nCougar Involvement Ambassadors\nFind the Red in You\n1. UH Home\n2. Center for Student Involvement\n3. Resources\n4. Cougar Involvement Ambassadors\n\nWho are the Involv"
+          ]
+        },
+        {
+          "url": "https://www.uh.edu/csi/resources/cia/",
+          "title": "Cougar Involvement Ambassadors",
+          "publish_date": null,
+          "excerpts": [
+            "Logo\n* Search Field Magnifying-glass icon\n* Visit\n* Apply\n* Give\nlogo Toggle navigation\n* Magnifying-glass icon\n* Visit\n* Apply\n* Give\nCenter for Student Involvement\n* Home\n\n...\n\n*"
+          ]
+        },
+        {
+          "url": "http://dev.class.uh.edu/csi/resources/cia/index.php",
+          "title": "Cougar Involvement Ambassadors",
+          "publish_date": null,
+          "excerpts": [
+            "* About Us\n* Staff\n* News\n* LeadUH\n* Ignite Leadership Program\n* CoogCareers\n* SOLD\n* SOLAR\n* Source of Strength\n* Global Pathways\n* ServeUH\n* Volunteering\n* Constitution Day\n* Day"
+          ]
+        },
+        {
+          "url": "http://www.sa.uh.edu/dos/commuter/ca/",
+          "title": "Commuter Ambassador Program",
+          "publish_date": null,
+          "excerpts": [
+            "Logo\n* Search Field Magnifying-glass icon\n* Visit\n* Apply\n* Give\nlogo Toggle navigation\n* Magnifying-glass icon\n* Visit\n* Apply\n* Give\nDean of Students\n* Home\n* About\n* Mission, Vi"
+          ]
+        },
+        {
+          "url": "https://giveto.uh.edu/uh-ambassadors-members",
+          "title": "UH Ambassadors - Members - GiveTo - University of Houston",
+          "publish_date": "2025-08-27",
+          "excerpts": [
+            "reputation as a Tier One institution.\nOn campus, She is in her second year as Chair of UH Ambassadors, representing the student body to alumni, donors, and local leaders, and foste"
+          ]
+        },
+        {
+          "url": "https://www.uh.edu/af/studentservices/af-ambassadors/student-amabassdor-archive.php",
+          "title": "A&F Student Ambassadors | Administration & Finance | University of Houston",
+          "publish_date": null,
+          "excerpts": [
+            "1. UH Home\n2. Administration & Finance\n3. Student Services\n4. A&F Student Ambassadors\n\nA&F Student Ambassadors\n\n* Meet the A&F Ambassador Team\n* A&F Student Ambassador Service Requ"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "Kamalnrf",
+      "search_id": "search_cf7b54c2020491bb8ec76a1eff9d31f4",
+      "queries": [
+        "Kamalnrf student ambassador",
+        "Kamalnrf campus representative India",
+        "Kamalnrf official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/kamalnrf",
+          "title": "Kamalnrf (Kamal) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# User: Kamal (@kamalnrf)\n\n- Page: GitHub user profile\n- URL: https://github.com/kamalnrf\n- Followers: 108\n- Following: 106\n- Links: https://twitter.com/kamalnrf\n- Top languages: T"
+          ]
+        },
+        {
+          "url": "https://github.com/Kamalnrf/claude-plugins",
+          "title": "GitHub - Kamalnrf/claude-plugins: Lightweight registry to discover, install, and manage all public Claude plugins and agent skills for your favourite AI coding agent. · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# Kamalnrf/claude-plugins\n\n- Page: GitHub repository\n- URL: https://github.com/Kamalnrf/claude-plugins\n- Description: Lightweight registry to discover, install, and manage all publ"
+          ]
+        },
+        {
+          "url": "https://github.com/kamalnrf/claude-plugins",
+          "title": "GitHub - Kamalnrf/claude-plugins: Lightweight registry to discover, install, and manage all public Claude plugins and agent skills for your favourite AI coding agent. · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# kamalnrf/claude-plugins\n\n- Page: GitHub repository\n- URL: https://github.com/kamalnrf/claude-plugins\n- Description: Lightweight registry to discover, install, and manage all publ"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Earn verified certificates, XP, and badges.\n\nLeadership Building\n\nBuild leadership experience as a Campus Ambassador.\nFeatures Hub\n\nWhy Students Choose CampusUnite\n\nOpportunities\n\n"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://www.macbease.com/universities/kmc",
+          "title": "Kirori Mal College Campus Ecosystem | Macbease",
+          "publish_date": null,
+          "excerpts": [
+            "Back to All Universities\nKirori Mal College\nCampus Chapter Verified Hub\n\nKirori Mal College\n\nDelhi, India\nClubs\n—\nCommunities\n—\nMembers\n10\nLeader Position Open\n\nRepresent Kirori Ma"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "shawroad",
+      "search_id": "search_65f5493ccfe87ab389e1d5a82d5fe1d8",
+      "queries": [
+        "shawroad student ambassador",
+        "shawroad campus representative India",
+        "shawroad official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.instagram.com/shawustudentambassadors",
+          "title": "The B.E.A.R. Ambassadors (@shawustudentambassadors) • Instagram photos and videos",
+          "publish_date": null,
+          "excerpts": [
+            "Log In\nSign Up\nshawustudentambassadors's profile picture\n\nshawustudentambassadors\n\nThe B.E.A.R. Ambassadors\n* 203 posts\n* 462 followers\n* 605 following\nWe are your student ambassad"
+          ]
+        },
+        {
+          "url": "https://www.shadowfox.org.in/campus-ambassador",
+          "title": "Campus Ambassador Program - ShadowFox",
+          "publish_date": null,
+          "excerpts": [
+            "ShadowFox\nShadowFox\nHome\nPrograms\nCertifications\nStore\nCampus Ambassador Program\n\nLead Your Campus. Build Your Career.\n\nBecome the official face of ShadowFox at your university and"
+          ]
+        },
+        {
+          "url": "https://shareatdoorstep.com/become-our-campus-ambassador/",
+          "title": "Become our Campus Ambassador | Share At Door Step",
+          "publish_date": "2024-02-29",
+          "excerpts": [
+            "* \n\npoints balance:\n\n* MY ACCOUNT\n* LOGOUT\n* Brand Campaigns\n* Get Involved\n* Employee Engagement\n* Take Back Program (by Circular Infinity)\n* Brand Partners\n* Campus Ambassador Pr"
+          ]
+        },
+        {
+          "url": "https://www.shawneecc.edu/clubs/student-ambassadors/",
+          "title": "Student Ambassadors - Shawnee Community College",
+          "publish_date": "2021-03-25",
+          "excerpts": [
+            "* Assessment\n* Board of Trustees\n* \n* Campuses\n* Campus Security\n* Facilities\n* Foundation\n* Institutional Effectiveness\n* Data Dashboard\n* Strategic Planning\n* Monitoring Reports\n"
+          ]
+        },
+        {
+          "url": "https://dev.shawneecc.edu/clubs/student-ambassadors/",
+          "title": "Student Ambassadors - Shawnee Community College",
+          "publish_date": "2021-03-25",
+          "excerpts": [
+            "* Assessment\n* Board of Trustees\n* \n* Campuses\n* Campus Security\n* Facilities\n* Foundation\n* Institutional Effectiveness\n* Data Dashboard\n* Strategic Planning\n* Monitoring Reports\n"
+          ]
+        },
+        {
+          "url": "https://education.utexas.edu/students/current-students/student-ambassador-program",
+          "title": "Student Ambassador Program - College of Education - UT Austin",
+          "publish_date": "2018-07-12",
+          "excerpts": [
+            "# **Student Ambassador Program**\n\n**Get Involved**\n\nStudent Ambassadors are an important part of the fabric of the College of Education community. They represent students from acro"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "RoggeOhta",
+      "search_id": "search_2fd42ef3e7da22fae13dced5de8d54c2",
+      "queries": [
+        "RoggeOhta student ambassador",
+        "RoggeOhta campus representative India",
+        "RoggeOhta official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/roggeohta",
+          "title": "RoggeOhta (RoggeOhta) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# User: RoggeOhta (@roggeohta)\n\n- Page: GitHub user profile\n- URL: https://github.com/roggeohta\n- Followers: 19\n- Following: 3\n- Top languages: Rust, Shell, C++\n\nAI Principle Engin"
+          ]
+        },
+        {
+          "url": "https://superset.sh/roggeohta",
+          "title": "RoggeOhta · #1017 on the Superset leaderboard | Superset",
+          "publish_date": null,
+          "excerpts": [
+            "[](https://superset.sh/)\n\n* Product\n* Resources\n* [Pricing](https://superset.sh/pricing)\n* [Enterprise](https://superset.sh/enterprise)\n* [Join us](https://superset.sh/careers)\n\n[1"
+          ]
+        },
+        {
+          "url": "https://x.com/RoggeOhta/status/2099376169208672601",
+          "title": "RoggeOhta",
+          "publish_date": "2026-09-14",
+          "excerpts": [
+            "RoggeOhta\nRoggeOhta@RoggeOhtaFollow. AI Engineer. Trending now. Sports · Trending. Arike · Trending in United States. Red Sox · Sports · Trending. Taylor"
+          ]
+        },
+        {
+          "url": "https://www.iscea.org/ambassadors",
+          "title": "ISCEA | Ambassadors",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Ambassador\n\nGreen University\n\nBangladesh\n\nUntitled.png\n\nTalha Rashid Adar\n\nCampus Ambassador\n\nPatuakhali Science & Technology University\n\nBangladesh\n\nUntitled.png\n\nAishwarya"
+          ]
+        },
+        {
+          "url": "https://www.haaga-helia.fi/en/haaga-helia-student-ambassadors",
+          "title": "Haaga-Helia Student Ambassadors | Haaga-Helia",
+          "publish_date": "2020-10-01",
+          "excerpts": [
+            "1. Home\n2. About us\n3. Career in Haaga-Helia\n\nHaaga-Helia Student Ambassadors\n\nKuvituskuva\n\nLead paragraph\n\nWhat is it like to study at Haaga-Helia from a student's perspective? Wo"
+          ]
+        },
+        {
+          "url": "https://www.codiga.io/student-ambassador-program",
+          "title": "Codiga: Students Ambassador Program",
+          "publish_date": null,
+          "excerpts": [
+            "Codiga has joined Datadog!\nRead the Blog ·\nInterested in our Static Analysis?\nSign up\n* Platform\n* Get Codiga\n* Blog\n\nCodiga Student Ambassador Program\n\nWe will aim to uplift our c"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "HamaWhiteGG",
+      "search_id": "search_f2a82cf1cc331c641dad24667bb90947",
+      "queries": [
+        "HamaWhiteGG student ambassador",
+        "HamaWhiteGG campus representative India",
+        "HamaWhiteGG official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Earn verified certificates, XP, and badges.\n\nLeadership Building\n\nBuild leadership experience as a Campus Ambassador.\nFeatures Hub\n\nWhy Students Choose CampusUnite\n\nOpportunities\n\n"
+          ]
+        },
+        {
+          "url": "https://www.htindialabs.com/content/campus-ambassadors",
+          "title": "HT India Labs - Workshop | Training | Championships",
+          "publish_date": null,
+          "excerpts": [
+            "Stay Connected\n\nCampus Ambassadors\n\nWe will be glad to have you as one of the ambassadors.\nAfter last year\\'s success, HT India Labs is back with its HT India labs Ambassador Progr"
+          ]
+        },
+        {
+          "url": "https://www.gtalumni.org/student-programs/student-ambassadors/default.html",
+          "title": "Georgia Tech Student Ambassadors - GT Alumni",
+          "publish_date": null,
+          "excerpts": [
+            "Skip To Section Navigation Skip To Footer\n\nStudent Ambassadors\n\nThe Georgia Tech Student Ambassadors represent the Georgia Tech student body and provide knowledgeable insights abou"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/aadarshkas2812",
+          "title": "linkedin.com",
+          "publish_date": null,
+          "excerpts": [
+            "* url: https://linkedin.com/in/aadarshkas2812\n * name: Aadarsh K.A.S\n * first name: Aadarsh\n * last name: K.A.S\n * company name: Center of Excellence For IoT\n * title: Student Amba"
+          ]
+        },
+        {
+          "url": "https://undergraduateawards.com/campus-ambassadors",
+          "title": "Campus Ambassadors - The Global Undergraduate Awards",
+          "publish_date": "2024-07-11",
+          "excerpts": [
+            "\nBecome a Campus Ambassador\n\nCampus Ambassadors are current undergraduate students or recent graduates moving onto MA or other programmes who promote the GUA to students in their o"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "Carasibana",
+      "search_id": "search_7fe73859b05f39052ee455d8ea6b37c5",
+      "queries": [
+        "Carasibana student ambassador",
+        "Carasibana campus representative India",
+        "Carasibana official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.iscea.org/ambassadors",
+          "title": "ISCEA | Ambassadors",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Ambassador\n\nGreen University\n\nBangladesh\n\nUntitled.png\n\nTalha Rashid Adar\n\nCampus Ambassador\n\nPatuakhali Science & Technology University\n\nBangladesh\n\nUntitled.png\n\nAishwarya"
+          ]
+        },
+        {
+          "url": "https://www.carrollcc.edu/admissions-aid/apply-register/academic-programs/student-ambassadors",
+          "title": "Carroll Ambassadors - Carroll Community College",
+          "publish_date": "2022-09-06",
+          "excerpts": [
+            "\nCampus Alert\n\n1. Home\n2. Admissions & Aid\n3. Apply & Register\n4. Apply for Academic Degree Programs\n5. Carroll Ambassadors\n\nCarroll Ambassadors\n\n* Apply for Academic Degree Progra"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Earn verified certificates, XP, and badges.\n\nLeadership Building\n\nBuild leadership experience as a Campus Ambassador.\nFeatures Hub\n\nWhy Students Choose CampusUnite\n\nOpportunities\n\n"
+          ]
+        },
+        {
+          "url": "http://www.thecapro.org/campus-ambassadors",
+          "title": "Campus Ambassadors | Child Awareness Project (CAP)",
+          "publish_date": null,
+          "excerpts": [
+            "WE ARE LOOKING FOR\n\nCAMPUS AMBASSADORS\n\nWHO ARE CAMPUS AMBASSADORS?\n\nCAMPUS AMBASSADORS are young people in schools, colleges and institutions across India, who want to create a po"
+          ]
+        },
+        {
+          "url": "https://kanta02cer.github.io/JAA.HP/ambassador.html",
+          "title": "アンバサダー制度 | 日本学生アンバサダー協会の公認アンバサダー制度",
+          "publish_date": null,
+          "excerpts": [
+            "アンバサダー制度\n\n学生の可能性を社会に発信するリーダーとして活動する公認アンバサダー制度についてご紹介します。\nアンバサダー紹介 応募する\n学生のグループワーク\nプレゼンテーション活動\n企業との連携活動\n学生のプロジェクト活動\n\n公認アンバサダーとは？\n\n当協会の理念を体現し、企業の課題解決や地域の活性化に挑む大学生の代表です。自身の専門性や興味を軸にプロ"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "Saganaki22",
+      "search_id": "search_8269eb56b44a8a205749292721b0112e",
+      "queries": [
+        "Saganaki22 student ambassador",
+        "Saganaki22 campus representative India",
+        "Saganaki22 official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://svkm.org.in/academics/assistance/student-ambassadors",
+          "title": "Student Ambassadors | SVKM",
+          "publish_date": "2019-11-25",
+          "excerpts": [
+            "* Home\n* Events\n* Upcoming Events\n* Past Events\n* Youth Fest & Annual Days\n* Careers\n* News\n* Shop\n* Alumni\n* Contact Us\n* Menu Item\n* Shop\n* News\n  \nAlumni\n\nStudent Ambassadors\n\nT"
+          ]
+        },
+        {
+          "url": "https://www.acg.edu/current-students/student-services/student-life/getting-involved/student-organizations/deree-ambassadors",
+          "title": "The American College of Greece | Deree Ambassadors",
+          "publish_date": "2016-05-18",
+          "excerpts": [
+            "customize\n\nDeree Ambassadors\n\nThe Deree Ambassadors is a group of selected, high academic standing undergraduates who are proud advocates for the College from a position of leaders"
+          ]
+        },
+        {
+          "url": "https://assets.sfc.edu/content/uploads/SFC_Student_Ambassador_Brochure.pdf?focal=none&mtime=20210728163552",
+          "title": "STUDENT AMBASSADOR PROGRAM",
+          "publish_date": "2017-08-23",
+          "excerpts": [
+            "STUDENT AMBASSADOR\n\nPROGRAM\n\nwww.sfc.edu/studentambassadors\n\n| #SFCAmbassadors\n\nWHAT IS THE STUDENT AMBASSADOR PROGRAM?\nStudent Ambassadors are an exceptional group of students who"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/narendarv31",
+          "title": "linkedin.com",
+          "publish_date": null,
+          "excerpts": [
+            "* url: https://linkedin.com/in/narendarv31\n * name: Narendar V\n * first name: Narendar\n * last name: V\n * company name: Google\n * title: Student Ambassador\n * country iso: IN\n * co"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/aadarshkas2812",
+          "title": "linkedin.com",
+          "publish_date": null,
+          "excerpts": [
+            "* url: https://linkedin.com/in/aadarshkas2812\n * name: Aadarsh K.A.S\n * first name: Aadarsh\n * last name: K.A.S\n * company name: Center of Excellence For IoT\n * title: Student Amba"
+          ]
+        },
+        {
+          "url": "https://oga.snu.ac.kr/snu-student-ambassadors",
+          "title": "SNU Student Ambassadors | OGA",
+          "publish_date": null,
+          "excerpts": [
+            "\nSNU Student Ambassadors\n\nWhat is SSA?\n\nStudent representatives of Seoul National University who act as a bridge to the international community\nSNU Student Ambassadors (SSA) embodi"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "coderabbitai",
+      "search_id": "search_949eba4dd6dc145181c9d0452bd463ee",
+      "queries": [
+        "coderabbitai student ambassador",
+        "coderabbitai campus representative India",
+        "coderabbitai official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://x.com/santoshyadavdev",
+          "title": "Santosh Yadav (@SantoshYadavDev) / Posts / X",
+          "publish_date": null,
+          "excerpts": [
+            "## \n\nSantosh Yadav (@SantoshYadavDev) / Posts / X\nSantosh Yadav (@SantoshYadavDev) - Posts - Principal Developer Advocate - Open Source and AI, GDE @angular , @github star, MVP you"
+          ]
+        },
+        {
+          "url": "https://tvwatch.su/readme/stories/santosh-yadav",
+          "title": "Santosh Yadav · GitHub",
+          "publish_date": "2023-02-14",
+          "excerpts": [
+            "\nOut of the slums and into open source\n\nUsing software development as a path out of poverty, Santosh knows a little support goes a long way.\nSantosh Yadav // @santoshyadavdev\nHello"
+          ]
+        },
+        {
+          "url": "https://x.com/i/status/2008071047845998673",
+          "title": "Santosh Yadav on X",
+          "publish_date": "2026-01-05",
+          "excerpts": [
+            "## \n\nSantosh Yadav on X\nThanks to @aravindputrevu for a great interview process and ・ vindputrevu for a great interview process ・ building one of the best Code Review AI tool\n\n## \n"
+          ]
+        },
+        {
+          "url": "https://github.com/readme/stories/santosh-yadav",
+          "title": "Santosh Yadav · GitHub",
+          "publish_date": "2023-02-14",
+          "excerpts": [
+            "\nOut of the slums and into open source\n\nUsing software development as a path out of poverty, Santosh knows a little support goes a long way.\nSantosh Yadav // @santoshyadavdev\nHello"
+          ]
+        },
+        {
+          "url": "https://github.com/santoshyadavdev",
+          "title": "santoshyadavdev (Santosh Yadav) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Santosh Yadav (@santoshyadavdev)\n\n* Page: GitHub user profile\n* URL: https://github.com/santoshyadavdev\n* Company: Principal Developer Advocate - Open Source @coderabbitai\n* "
+          ]
+        },
+        {
+          "url": "https://x.com/SantoshYadavDev?lang=en",
+          "title": "Santosh Yadav (@SantoshYadavDev) / Posts / X",
+          "publish_date": null,
+          "excerpts": [
+            "Don’t miss what’s happening\nPeople on X are the first to know.\nLog in\nSign up\n\nSantosh Yadav\n\n51.6K posts\nSee new posts\nFollow\nSantosh Yadav\n@SantoshYadavDev\nPrincipal Developer Ad"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "URLab-Sim",
+      "search_id": "search_afadd387a29cd1d1db6989795ddb6e28",
+      "queries": [
+        "URLab-Sim student ambassador",
+        "URLab-Sim campus representative India",
+        "URLab-Sim official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/URLab-Sim/UnrealRoboticsLab",
+          "title": "GitHub - URLab-Sim/UnrealRoboticsLab: A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics. · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "URLab-Sim/UnrealRoboticsLab\n\n* Page: GitHub repository\n* URL: https://github.com/URLab-Sim/UnrealRoboticsLab\n* Description: A high-fidelity, open-source robotics simulator integrat"
+          ]
+        },
+        {
+          "url": "https://github.com/URLab-Sim/urlab_bridge",
+          "title": "GitHub - URLab-Sim/URLab_Bridge: Python middleware for URLab — remote control, RL policy deployment, sensor streaming, and ROS 2 bridging · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "URLab-Sim/urlab_bridge\n\n* Page: GitHub repository\n* URL: https://github.com/URLab-Sim/urlab_bridge\n* Description: Python middleware for URLab — remote control, RL policy deployment"
+          ]
+        },
+        {
+          "url": "https://github.com/URLab-Sim/URLab_Bridge",
+          "title": "GitHub - URLab-Sim/URLab_Bridge: Python middleware for URLab — remote control, RL policy deployment, sensor streaming, and ROS 2 bridging · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "URLab-Sim/URLab_Bridge\n\n* Page: GitHub repository\n* URL: https://github.com/URLab-Sim/URLab_Bridge\n* Description: Python middleware for URLab — remote control, RL policy deployment"
+          ]
+        },
+        {
+          "url": "https://github.com/URLab-Sim/UnrealRoboticsLab/blob/main/docs/index.md",
+          "title": "UnrealRoboticsLab/docs/index.md at main · URLab-Sim/UnrealRoboticsLab · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "URLab-Sim/UnrealRoboticsLab — docs/index.md\n\n* Page: GitHub code file\n* URL: https://github.com/URLab-Sim/UnrealRoboticsLab/blob/main/docs/index.md\n* Repository: URLab-Sim/UnrealRo"
+          ]
+        },
+        {
+          "url": "https://urlab-sim.github.io/UnrealRoboticsLab",
+          "title": "Unreal Robotics Lab - urlab-sim.github.io",
+          "publish_date": null,
+          "excerpts": [
+            "logo\nUnreal Robotics Lab\nHome\nInitializing search\nURLab-Sim/UnrealRoboticsLab\nlogo Unreal Robotics Lab\nURLab-Sim/UnrealRoboticsLab\n* Home Home\nTable of contents\n* What you can do\n*"
+          ]
+        },
+        {
+          "url": "https://github.com/URLab-Sim/UnrealRoboticsLab/blob/main/docs/roadmap.md",
+          "title": "UnrealRoboticsLab/docs/roadmap.md at main · URLab-Sim/UnrealRoboticsLab · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "URLab-Sim/UnrealRoboticsLab — docs/roadmap.md\n\n* Page: GitHub code file\n* URL: https://github.com/URLab-Sim/UnrealRoboticsLab/blob/main/docs/roadmap.md\n* Repository: URLab-Sim/Unre"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "dgriff777",
+      "search_id": "search_36fa5a334302770fe519a916f564a813",
+      "queries": [
+        "dgriff777 student ambassador",
+        "dgriff777 campus representative India",
+        "dgriff777 official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.griffith.ie/global/student-ambassadors",
+          "title": "Global Student Ambassador Programme | Griffith College",
+          "publish_date": "2023-03-24",
+          "excerpts": [
+            "* Resources\n* Student Ambassadors\n* Accessibility Tools\n\nFurther Information\n\n* About\n* Faculties\n* Opening Hours\n* Offices\n* Accommodation\n* Learner Hub\n* Staff Hub\n* Blog\nToggle "
+          ]
+        },
+        {
+          "url": "https://griffin.uga.edu/current-students/student-life/ambassadors",
+          "title": "UGA Griffin Ambassadors | University of Georgia Griffin Campus",
+          "publish_date": null,
+          "excerpts": [
+            "* Current Students\n* Student Life\n* UGA Griffin Ambassadors\n\nUGA Griffin Ambassadors\n\nIn spring 2009, the UGA Griffin Ambassadors organization was formed. Undergraduate and graduat"
+          ]
+        },
+        {
+          "url": "https://www.scconline.com/blog/post/2026/07/22/applications-for-ebc-scc-student-ambassadors-programme-2026/",
+          "title": "EBC - SCC OnLine Student Ambassadors' Programme invites applications; Apply by July 31st",
+          "publish_date": "2026-07-22",
+          "excerpts": [
+            "* Home\n* Jobs & Internships\n* EBC – SCC OnLine Student Ambassadors’ Programme invites applications; Apply by July 31st\n\nEBC – SCC OnLine Student Ambassadors’ Programme invites appl"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/suraj-munde-",
+          "title": "Suraj Munde",
+          "publish_date": null,
+          "excerpts": [
+            "* url: https://linkedin.com/in/suraj-munde-\n * name: Suraj Munde\n * first name: Suraj\n * last name: Munde\n * company name: E-Cell, IIT Bombay\n * title: Campus Ambassador\n * country"
+          ]
+        },
+        {
+          "url": "https://beyond120.clas.ufl.edu/about-beyond120/clas-ambassadors/",
+          "title": "CLAS Ambassadors - Beyond120 - University of Florida",
+          "publish_date": "2022-06-02",
+          "excerpts": [
+            "Applications for the 2027-28 CLAS Ambassadors cohort will open in February 2027.\n\nCLAS Ambassadors\n\nEstablished in 2009, the CLAS Ambassadors are a select group of students in the "
+          ]
+        },
+        {
+          "url": "https://github.com/harshgounder/campus-ambassador-programs-2026/blob/master/EVIDENCE.md",
+          "title": "campus-ambassador-programs-2026/EVIDENCE.md at master · harshgounder/campus-ambassador-programs-2026 · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "* Repository: harshgounder/campus-ambassador-programs-2026\n* Path: EVIDENCE.md\n* Ref: master\n* Lines: 268\n\nEvidence\n\nVerbatim quotes from the official pages, fetched 2 to 4 Novembe"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "Flame-Code-VLM",
+      "search_id": "search_3e0812c2d8db809de76b404713a131e8",
+      "queries": [
+        "Flame-Code-VLM student ambassador",
+        "Flame-Code-VLM campus representative India",
+        "Flame-Code-VLM official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/Flame-Code-VLM/Flame-Code-VLM",
+          "title": "GitHub - Flame-Code-VLM/Flame-Code-VLM: Flame is an open-source multimodal AI system designed to translate UI design mockups into high-quality React code. It leverages vision-language modeling, automated data synthesis, and structured training workflows to bridge the gap between design and front-end development. · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Flame-Code-VLM/Flame-Code-VLM\n\n* Page: GitHub repository\n* URL: https://github.com/Flame-Code-VLM/Flame-Code-VLM\n* Description: Flame is an open-source multimodal AI system designe"
+          ]
+        },
+        {
+          "url": "https://github.com/Flame-Code-VLM",
+          "title": "Flame-Code-VLM · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Organization: Flame-Code-VLM (@Flame-Code-VLM)\n\n* Page: GitHub organization profile\n* URL: https://github.com/Flame-Code-VLM\n* Top languages: Python\nFlame-Code-VLM has one reposito"
+          ]
+        },
+        {
+          "url": "https://unitedstatesofamericasuperintelligence.com/github/flame-code-vlm--flame-code-vlm/",
+          "title": "Flame-Code-VLM/Flame-Code-VLM on GitHub | USASI",
+          "publish_date": null,
+          "excerpts": [
+            "1. Home\n2. AI on GitHub\nGenerated teal constellation network artwork for Flame-Code-VLM/Flame-Code-VLM, labeled USASI · AI on GitHub, with Organization · Python · Apache-2.0.\nRank "
+          ]
+        },
+        {
+          "url": "https://www.2025.flame.edu.in/admissions/chat-with-student-ambassadors",
+          "title": "Chat with Student Ambassadors",
+          "publish_date": null,
+          "excerpts": [
+            "ADMISSIONS AT FLAME\n\nEXPLORE PROGRAMS. LEARN ABOUT THE APPLICATION PROCESS. BEGIN YOUR JOURNEY.\n1. Home\n2. Admissions\n3. Chat with Student Ambassadors\n\nChat with Student Ambassador"
+          ]
+        },
+        {
+          "url": "https://www.flame.edu.in/about-flame/[",
+          "title": "FLAME University | The Pioneers of Liberal Education in India",
+          "publish_date": null,
+          "excerpts": [
+            "* ACADEMICS toggle submenu\n* UNDERGRADUATE B.A., B.Sc., BBA, BBA(CM), Hons.\n* UNDERGRADUATE DESIGN B.Des\n* POSTGRADUATE MBA, MBA (CM), M.Sc., PGPEI\n* DOCTORAL\n* FLAME SUMMER SCHOOL"
+          ]
+        },
+        {
+          "url": "https://www.flame.edu.in/infrastructure",
+          "title": "FLAME University | The Pioneers of Liberal Education in India",
+          "publish_date": null,
+          "excerpts": [
+            "* ACADEMICS toggle submenu\n* UNDERGRADUATE B.A., B.Sc., BBA, BBA(CM), Hons.\n* UNDERGRADUATE DESIGN B.Des\n* POSTGRADUATE MBA, MBA (CM), M.Sc., PGPEI\n* DOCTORAL\n* FLAME SUMMER SCHOOL"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "respanai",
+      "search_id": "search_f67f80987f38a1fdd079cc071eab1b27",
+      "queries": [
+        "respanai student ambassador",
+        "respanai campus representative India",
+        "respanai official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.respan.ai/about",
+          "title": "About | Respan",
+          "publish_date": null,
+          "excerpts": [
+            "We care deeply about the quality of our work\nWe're a small team where every person has outsized impact. We ship weekly, talk to customers constantly, and live together in our compa"
+          ]
+        },
+        {
+          "url": "https://www.workatastartup.com/companies/respan",
+          "title": "Jobs at Respan (W24) | Y Combinator's Work at a Startup",
+          "publish_date": null,
+          "excerpts": [
+            "Respan logo\nRespan\nOpen-source, extensible AI gateway with observability and evals Batch W24 Location San Francisco Team size 17 Industry B2B Software and Services, Infrastructure "
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Unite Leadership Program • Batch of 2026-27\nBecome a Campus Unite\nCampus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+          ]
+        },
+        {
+          "url": "https://github.com/harshgounder/campus-ambassador-programs-2026/blob/master/EVIDENCE.md",
+          "title": "campus-ambassador-programs-2026/EVIDENCE.md at master · harshgounder/campus-ambassador-programs-2026 · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Anthropic Claude Campus, https://claude.com/programs/campus , V1 \"The program is closed for Fall 2026\" \"Applications open September 1 and close September 12.\" OpenAI Student Collec"
+          ]
+        },
+        {
+          "url": "https://www.iwu.edu/campus-culture/organizations.html",
+          "title": "Registered Student Organizations",
+          "publish_date": null,
+          "excerpts": [
+            "promote the IWU student body as they bring the Illinois Wesleyan community together through educational and inclusive collaboration.\n\nThe Council for Inclusion and Awareness (CIA) "
+          ]
+        },
+        {
+          "url": "https://www.igniteroom.in/ambassador/signup",
+          "title": "Become a Campus Ambassador | Ignite Room",
+          "publish_date": null,
+          "excerpts": [
+            "Ignite Room Ignite Room Home About Events Ambassador Chapters App Careers Partners Login Join Community\nApply for the Campus Ambassador Program\nLead your campus community, run task"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "skaldlabs",
+      "search_id": "search_d8dd10044769ca14332e5184846de27e",
+      "queries": [
+        "skaldlabs student ambassador",
+        "skaldlabs campus representative India",
+        "skaldlabs official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://skaldlabs.io/careers",
+          "title": "Careers - Skald Labs",
+          "publish_date": null,
+          "excerpts": [
+            "skald labs\nvalues culture investors\n\nCareers\n\nWe don't currently have roles open but we're always interested in chatting with people that align with our values.\nIf you've read thro"
+          ]
+        },
+        {
+          "url": "https://skaldlabs.io/",
+          "title": "Skald Labs",
+          "publish_date": null,
+          "excerpts": [
+            "skald labs\nvalues culture investors\n\nSkald Labs\n\nReach out: yakko@skaldlabs.io .\nValues\nCulture\nInvestors\nCareers\nSkald Labs, Inc.\n2261 Market Street San Francisco, CA 94114\nreach "
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/archit-singh-0a8519207",
+          "title": "linkedin.com",
+          "publish_date": null,
+          "excerpts": [
+            "* country name: India\n * locality: Gurugram, Haryana, India\n * headline: Creative AI strategist | AI Video producer | Brand strategist\n * connection count: 500\n * follower count: 1"
+          ]
+        },
+        {
+          "url": "https://skillsconnect.in/campus-ambassador-program",
+          "title": "Campus Ambassador Program – SkillsConnect",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Ambassador Program\n\nBe a Leader at\n\nyour campus\nRepresent your college as a SkillsConnect Campus Ambassador.\n\n...\n\nSkillsConnect Campus Ambassador\nWhat you get\n\nAmbassador B"
+          ]
+        },
+        {
+          "url": "https://www.htindialabs.com/content/campus-ambassadors",
+          "title": "HT India Labs - Workshop | Training | Championships",
+          "publish_date": null,
+          "excerpts": [
+            "Stay Connected\n\nCampus Ambassadors\n\nWe will be glad to have you as one of the ambassadors.\nAfter last year\\'s success, HT India Labs is back with its HT India labs Ambassador Progr"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "xwhan",
+      "search_id": "search_90c2536cb0c21efaab6c52142d5cd9b0",
+      "queries": [
+        "xwhan student ambassador",
+        "xwhan campus representative India",
+        "xwhan official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://developer.x.com/en/community/student-ambassadors",
+          "title": "Student Ambassadors | X Developer Platform  ",
+          "publish_date": null,
+          "excerpts": [
+            "X Student Ambassadors\n\nStudent Ambassador program\n\nThe X Student Ambassadors Program is a program set up to support our enthusiastic student builders. Our leaders and ambassadors a"
+          ]
+        },
+        {
+          "url": "https://mba.nus.edu.sg/student-life/",
+          "title": "Student Life | The NUS MBA",
+          "publish_date": "2021-04-01",
+          "excerpts": [
+            "The NUS MBA Students’ Council is the main student leadership body. It comprises six ExCo members and the leaders of our 6 student clubs.\nAs well as supporting the clubs, student re"
+          ]
+        },
+        {
+          "url": "https://ap-ls.org/resources/students/campus_reps",
+          "title": "Campus Representative Program – The American Psychology-Law Society",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Representative Program\n\nThank you for your interest in the AP-LS Student Committee Campus Representative Program. The Executive Cabinet of the Student Committee is very exci"
+          ]
+        },
+        {
+          "url": "https://industryx.org/students-ambassadors",
+          "title": "Student Ambassadors – industryx.org",
+          "publish_date": null,
+          "excerpts": [
+            "Student Ambassadors\n\n* Home\n* Student Ambassadors\n\nStudent Ambassadors\n\nStudent ambassadors contribute to the center’s mission, develop leadership skills and network within the Ind"
+          ]
+        },
+        {
+          "url": "https://www.merrimack.edu/admission/undergraduate/visiting/ambassadors",
+          "title": "Ambassador Program | Merrimack College",
+          "publish_date": "2024-01-05",
+          "excerpts": [
+            "Admission](https://www.merrimack.edu/admission/undergraduate/ \"Undergraduate Admission\") › [Visit](https://www.merrimack.edu/admission/undergraduate/visiting/ \"Visit\")\n\n## Meet the"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/amit-kumar-sharma-92a0ab337",
+          "title": "Amit Kumar Sharma 92A0Ab337",
+          "publish_date": null,
+          "excerpts": [
+            "* url: https://linkedin.com/in/amit-kumar-sharma-92a0ab337\n * name: AMIT KUMAR SHARMA\n * first name: AMIT\n * last name: KUMAR SHARMA\n * company name: Microsoft Learn Student Ambass"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "ClipsAI",
+      "search_id": "search_d8aca883412439927b449d44e991cf5f",
+      "queries": [
+        "ClipsAI student ambassador",
+        "ClipsAI campus representative India",
+        "ClipsAI official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/ClipsAI",
+          "title": "Clips AI · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# Organization: Clips AI (@ClipsAI)\n\n- Page: GitHub organization profile\n- URL: https://github.com/ClipsAI\n- Website: https://www.clipsai.com\n- Top languages: TypeScript, Python\n\n#"
+          ]
+        },
+        {
+          "url": "https://www.clipsai.com/",
+          "title": "Clips AI | AI Video Repurposing for Developers",
+          "publish_date": null,
+          "excerpts": [
+            "- [Installation](https://www.clipsai.com/)\n        - [Creating clips](https://www.clipsai.com/)\n        - [Resizing a video](https://www.clipsai.com/)\n  \n    + [Clip](https://www.c"
+          ]
+        },
+        {
+          "url": "https://github.com/ClipsAI/clipsai",
+          "title": "GitHub - ClipsAI/clipsai: Clips AI is an open-source Python library that automatically converts long videos into clips. · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# ClipsAI/clipsai\n\n- Page: GitHub repository\n- URL: https://github.com/ClipsAI/clipsai\n- Description: Clips AI is an open-source Python library that automatically converts long vid"
+          ]
+        },
+        {
+          "url": "https://github.com/orgs/ClipsAI/repositories",
+          "title": "ClipsAI repositories · GitHub",
+          "publish_date": "2024-02-06",
+          "excerpts": [
+            "* [All](https://github.com/orgs/ClipsAI/repositories?q=)\n* [Contributed by me](https://github.com/orgs/ClipsAI/repositories?q=contributed-by:@me)\n* [Admin access](https://github.co"
+          ]
+        },
+        {
+          "url": "https://pypi.org/project/clipsai",
+          "title": "clipsai · PyPI",
+          "publish_date": "2024-01-15",
+          "excerpts": [
+            "For full documentation, visit [Clips AI Documentation](https://clipsai.com/) .\nCheck out a [UI demo](https://demo.clipsai.com/) with clips generated by this library.\n\n### Installat"
+          ]
+        },
+        {
+          "url": "https://github.com/ClipsAI/video-editor",
+          "title": "GitHub - ClipsAI/video-editor: A simple video editor for trimming and resizing clips. · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# ClipsAI/video-editor\n\n- Page: GitHub repository\n- URL: https://github.com/ClipsAI/video-editor\n- Description: A simple video editor for trimming and resizing clips. - ClipsAI/vid"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "01walid",
+      "search_id": "search_a1c83e59c93f6754e0b80ea830b43f7f",
+      "queries": [
+        "01walid student ambassador",
+        "01walid campus representative India",
+        "01walid official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/01walid",
+          "title": "01walid (Walid ZIOUCHE) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# User: Walid ZIOUCHE (@01walid)\n\n- Page: GitHub user profile\n- URL: https://github.com/01walid\n- Company: @on-deck\n- Location: Annaba, Algeria\n- Website: https://walid.dev\n- Follo"
+          ]
+        },
+        {
+          "url": "https://x.com/01walid",
+          "title": "Walid Ziouche (@01walid) / X",
+          "publish_date": null,
+          "excerpts": [
+            "Walid Ziouche\n\n2,206posts\n\n@01walid\n\n# Walid Ziouche @01walid\n\nSenior Platform Engineer @ Yassir (YC W'20). Generalist. I like to tinker. Prev: Sr. Software engineer @beondeck , Te"
+          ]
+        },
+        {
+          "url": "https://walid.dev/about",
+          "title": "\n\n\n     Walid Ziouche - About Me \n\n",
+          "publish_date": null,
+          "excerpts": [
+            "About Me\n\n## Hello y’all\n\nI’m Walid.\n\nA software engineer from the [beautiful](https://www.google.com/search?q=annaba+algeria&tbm=isch) city of [Annaba, Algeria](https://en.wikiped"
+          ]
+        },
+        {
+          "url": "https://profiles.wordpress.org/01walid",
+          "title": "01walid (@01walid) – WordPress user profile | WordPress.org",
+          "publish_date": null,
+          "excerpts": [
+            "Profiles\n\n* Register\n* Log In\n\n01walid\n\n@01walid on WordPress.org\n* Member Since: September 5th, 2011\n* Find me on:\n\nContribution History\n\n01walid’s badges:\n* Translation Contribut"
+          ]
+        },
+        {
+          "url": "https://www.iscea.org/ambassadors",
+          "title": "ISCEA | Ambassadors",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Ambassador\n\nGreen University\n\nBangladesh\n\nUntitled.png\n\nTalha Rashid Adar\n\nCampus Ambassador\n\nPatuakhali Science & Technology University\n\nBangladesh\n\nUntitled.png\n\nAishwarya"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "XiaoyeCodes",
+      "search_id": "search_fa1672ad491133c004b458176c720417",
+      "queries": [
+        "XiaoyeCodes student ambassador",
+        "XiaoyeCodes campus representative India",
+        "XiaoyeCodes official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.oscode.co.in/campus-ambassador",
+          "title": "OSCode Campus Ambassador Program | Lead Tech at Your College",
+          "publish_date": null,
+          "excerpts": [
+            "communityX\nFor Students For Companies Events Mentorship\nContact Us\ncommunityX\nAn engineering student building on a laptop in a campus lab at night\nAn engineering student building o"
+          ]
+        },
+        {
+          "url": "https://codemyfyp.com/campus-ambassador",
+          "title": "Campus Ambassador Programme | CodeMyFYP",
+          "publish_date": null,
+          "excerpts": [
+            "CodeMyFYP IT & Software Solutions Logo\nServices\nAI Solutions NEW\nLearn & Build\nResources\nCompany\n Scope Project Discuss your project\nCampus Ambassador\n\nRepresent CodeMyFYP at your "
+          ]
+        },
+        {
+          "url": "https://chaicode.com/campus",
+          "title": "ChaiCode - Home for Programmers",
+          "publish_date": null,
+          "excerpts": [
+            "Toggle theme Menu\nWe are at your\ncampus illustration campus illustration\nYour college gives you the foundation. We help you build on it. ChaiCode is now on campuses across India.\nJ"
+          ]
+        },
+        {
+          "url": "https://www.oscode.co.in/partner/industry",
+          "title": "Industry Partnership communityX Engineering Community",
+          "publish_date": null,
+          "excerpts": [
+            "Activate the next generation of engineers.\n\nPartner with communityX to run hackathons, developer programs, product workshops and innovation challenges with engineering students acr"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://www.oscode.co.in/partner/college",
+          "title": "College Partnership communityX Chapter Program",
+          "publish_date": null,
+          "excerpts": [
+            "community X\nHome Chapters Community Events Mentorship\nPartner with Us\ncommunity X\nHome Chapters Community Events Mentorship\nFor colleges & universities across India\n\nYour campus. T"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "hangoutsbot",
+      "search_id": "search_dba92762369c9a48b8cdcd3ab09d0295",
+      "queries": [
+        "hangoutsbot student ambassador",
+        "hangoutsbot campus representative India",
+        "hangoutsbot official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/hangoutsbot/hangoutsbot",
+          "title": "GitHub - hangoutsbot/hangoutsbot: Google Hangouts bot · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# hangoutsbot/hangoutsbot\n\n- Page: GitHub repository\n- URL: https://github.com/hangoutsbot/hangoutsbot\n- Description: Google Hangouts bot\n- Stars: 564\n- Forks: 266\n- Topics: python"
+          ]
+        },
+        {
+          "url": "https://github.com/das7pad/hangoutsbot",
+          "title": "GitHub - das7pad/hangoutsbot: Google Hangouts bot · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# das7pad/hangoutsbot\n\n- Page: GitHub repository\n- URL: https://github.com/das7pad/hangoutsbot\n- Description: Google Hangouts bot\n- Stars: 5\n- Forks: 3\n\n...\n\n* [Instructions for in"
+          ]
+        },
+        {
+          "url": "https://github.com/sleavitt/hangupsbot",
+          "title": "GitHub - sleavitt/hangupsbot: Bot for Google Hangouts · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Hangupsbot is a chat bot designed for working with Google Hangouts.\n\nPlease see:\n\n* [Instructions for installing](https://github.com/hangoutsbot/hangoutsbot/blob/master/INSTALL.md)"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Earn verified certificates, XP, and badges.\n\nLeadership Building\n\nBuild leadership experience as a Campus Ambassador.\nFeatures Hub\n\nWhy Students Choose CampusUnite\n\nOpportunities\n\n"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://www.allcollegeevent.com/campus-ambassador",
+          "title": "Campus Ambassador | ACE – AllCollegeEvent | ACE",
+          "publish_date": null,
+          "excerpts": [
+            "CAMPUS AMBASSADOR 2026\n\nYour Campus Needs a Leader. Is That You?\n\nBecome the Official Campus Ambassador for AllCollegeEvent.com . Build Your Leadership. Expand Your Network. Create"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "ndycode",
+      "search_id": "search_9898629df80950c0e38f93ec16f6e0f2",
+      "queries": [
+        "ndycode student ambassador",
+        "ndycode campus representative India",
+        "ndycode official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://codemyfyp.com/campus-ambassador",
+          "title": "Campus Ambassador Programme | CodeMyFYP",
+          "publish_date": null,
+          "excerpts": [
+            "CodeMyFYP IT & Software Solutions Logo\nServices\nAI Solutions NEW\nLearn & Build\nResources\nCompany\n Scope Project Discuss your project\nCampus Ambassador\n\nRepresent CodeMyFYP at your "
+          ]
+        },
+        {
+          "url": "http://www.dypcoeakurdi.ac.in/student-clubschapters",
+          "title": " Student Clubs/Chapters ",
+          "publish_date": null,
+          "excerpts": [
+            "Student Clubs/Chapters\n\n* Home\n* Student Clubs/Chapters\n* DYPCOE - Student clubs\n* Vihanga\n* NSS\n* Student Clubs of the Institute/ Associations / Chapters |  |  |  |  |  | \n* Acade"
+          ]
+        },
+        {
+          "url": "https://www.oscode.co.in/campus-ambassador",
+          "title": "OSCode Campus Ambassador Program | Lead Tech at Your College",
+          "publish_date": null,
+          "excerpts": [
+            "communityX\nFor Students For Companies Events Mentorship\nContact Us\ncommunityX\nAn engineering student building on a laptop in a campus lab at night\nAn engineering student building o"
+          ]
+        },
+        {
+          "url": "https://www.techmnhub.com/ambassador",
+          "title": "Become A TechMNHub Student Ambassador",
+          "publish_date": null,
+          "excerpts": [
+            "Back to home\nCAMPUS FRONTIER 2026\n\nBecome A TechMNHub\n\nStudent Ambassador 🚀\nRepresent Your School. Build Your Identity. Lead The Future. Connect with a national community of creat"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://wecncode.com/ambassadors",
+          "title": "Campus Ambassador Program | Wecncode",
+          "publish_date": null,
+          "excerpts": [
+            "Wecncode home\n* Bootcamps\n* Masterclasses\n* Ambassadors\n* Blog\nSign in Start learning\nCampus ambassador program\n\nLead Wecncode\n\non your campus.\nYou're the one friends text when the"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "Radiant303",
+      "search_id": "search_e9ecd9383dc4cf3f69333d38af7fa303",
+      "queries": [
+        "Radiant303 student ambassador",
+        "Radiant303 campus representative India",
+        "Radiant303 official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Earn verified certificates, XP, and badges.\n\nLeadership Building\n\nBuild leadership experience as a Campus Ambassador.\nFeatures Hub\n\nWhy Students Choose CampusUnite\n\nOpportunities\n\n"
+          ]
+        },
+        {
+          "url": "https://www.theradiantacademy.com/our-team",
+          "title": "Our Team | Best institute for NEET(UG) in Udaipur",
+          "publish_date": "2026-07-17",
+          "excerpts": [
+            "* Student Zone\n* Achievements\n* Gallery\n* Alumni\n* Careers\n* Blog\n* Radiant Online\n* Student Zone\n* Achievements\n* Gallery\n* Alumni\n* Careers\n* Blog\n* Radiant Online\n* About Us\n* A"
+          ]
+        },
+        {
+          "url": "http://studenttribe.in/",
+          "title": "Student Marketing, Campus Ambassador, Gigs & Upskilling Platform | Student Tribe",
+          "publish_date": null,
+          "excerpts": [
+            "slide-6\nslide-7\nslide-8\nslide-9\nslide-10\nslide-11\n🏆\n\n#1\n\nStudent Network in India\nWe are a community of\n🎓\n\n7,50,000+\n\nStudents across India\n500+\nColleges\n100+\nCities\n\nST. UNIVERS"
+          ]
+        },
+        {
+          "url": "https://radiantindore.com/contact-us",
+          "title": "Contact Radiant Institute | Top Management College in Indore",
+          "publish_date": null,
+          "excerpts": [
+            "E n q u i r e N o w A p p l y N o w\n\nContact Us\n\nContact Details\n\nProf. Sanjay Rajput (Head Of Admissions)\n\n8818812348\n\nshailendra@radiantindore.com\n\nAdmission Counselor\n\n790988881"
+          ]
+        },
+        {
+          "url": "https://www.thestudentambassadors.com/our-ambassadors",
+          "title": "Our Campus Ambassadors | The Student Ambassadors",
+          "publish_date": null,
+          "excerpts": [
+            "The Student Ambassadors\nThe Student Ambassadors\nHome For Students For Organizations Our Ambassadors About Contact\nLoading page content\nThe Student Ambassadors\nThe Student Ambassado"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "gitroomhq",
+      "search_id": "search_d0d28c8fc4d2cd8abd55b3c66cddf226",
+      "queries": [
+        "gitroomhq student ambassador",
+        "gitroomhq campus representative India",
+        "gitroomhq official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/gitroomhq",
+          "title": "Gitroom · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Organization: Gitroom (@gitroomhq)\n\n* Page: GitHub organization profile\n* URL: https://github.com/gitroomhq\n* Location: Israel\n* Website: https://gitroom.com\n* Links: https://posti"
+          ]
+        },
+        {
+          "url": "https://www.techmnhub.com/ambassador",
+          "title": "Become A TechMNHub Student Ambassador",
+          "publish_date": null,
+          "excerpts": [
+            "Back to home\nCAMPUS FRONTIER 2026\n\nBecome A TechMNHub\n\nStudent Ambassador 🚀\nRepresent Your School. Build Your Identity. Lead The Future. Connect with a national community of creat"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Earn verified certificates, XP, and badges.\n\nLeadership Building\n\nBuild leadership experience as a Campus Ambassador.\nFeatures Hub\n\nWhy Students Choose CampusUnite\n\nOpportunities\n\n"
+          ]
+        },
+        {
+          "url": "https://www.igniteroom.in/ambassador",
+          "title": "Campus Ambassador Program | Ignite Room",
+          "publish_date": null,
+          "excerpts": [
+            "Ignite Room Ignite Room\nHome About Events Ambassador Chapters App Careers Partners\nLogin Join Community\nCampus Ambassador Program\n\nRepresent Ignite Room\n\nat Your Campus\nBecome the "
+          ]
+        },
+        {
+          "url": "https://www.guvi.in/community/campus-ambassador",
+          "title": "HCL GUVI Campus Ambassador Program | Apply Now",
+          "publish_date": null,
+          "excerpts": [
+            "ampus Ambassador Program turns students into leaders who drive innovation on campus. As an ambassador, you’ll run tech-driven initiatives, build influence, and position yourself as"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "yassa9",
+      "search_id": "search_84adef0ab4e1f85da4b3f1209cb3aa41",
+      "queries": [
+        "yassa9 student ambassador",
+        "yassa9 campus representative India",
+        "yassa9 official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://www.iscea.org/ambassadors",
+          "title": "ISCEA | Ambassadors",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Ambassador\n\nGreen University\n\nBangladesh\n\nUntitled.png\n\nTalha Rashid Adar\n\nCampus Ambassador\n\nPatuakhali Science & Technology University\n\nBangladesh\n\nUntitled.png\n\nAishwarya"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "http://www.adrindia.org/content/adr-campus-ambassadors",
+          "title": "ADR Campus Ambassadors | Association for Democratic Reforms",
+          "publish_date": null,
+          "excerpts": [
+            "Eligibility: Anyone pursuing a graduate/postgraduate regular course with a passion to be a changemaker can be an ADR Campus Ambassador.\nTraining: Selected Campus Ambassadors are tr"
+          ]
+        },
+        {
+          "url": "https://sada-bd.org/campus-ambassador",
+          "title": "Campus Ambassador – SADA",
+          "publish_date": "2023-02-18",
+          "excerpts": [
+            "\nCampus Ambassador\n\nCampus Ambassador Program:\n\nWe offer a Campus Ambassador Program for students who are passionate about our organization’s mission and want to help spread the wo"
+          ]
+        },
+        {
+          "url": "https://www.dal.ca/faculty/computerscience/about/study_here/student-ambassadors.html",
+          "title": "Student Ambassadors - Faculty of Computer Science - Dalhousie University",
+          "publish_date": "2025-02-06",
+          "excerpts": [
+            "Study Admissions Life at Dal Research and Innovation Alumni About Dal\n1. Dal.ca Home\n2. Home\n3. Faculty of Computer Science\n4. About\n5. Contact a Student Ambassador\n* About\n* Stude"
+          ]
+        },
+        {
+          "url": "https://www.rmcad.edu/life-rmcad/student-resources/student-involvement/student-ambassadors/",
+          "title": "Student Ambassadors - RMCAD",
+          "publish_date": "2022-09-23",
+          "excerpts": [
+            "Student Ambassadors\n\nYOUR PEER MENTORS\n\nStudent Ambassadors promote the RMCAD mission through ongoing, positive leadership, civic awareness, and engagement.\n\nStudent Ambassadors ar"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "Isi-dev",
+      "search_id": "search_7fba9906907ed40eedb89e3c60da7209",
+      "queries": [
+        "Isi-dev student ambassador",
+        "Isi-dev campus representative India",
+        "Isi-dev official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/Isi-dev",
+          "title": "Isi-dev (Isi) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Isi (@Isi-dev)\n\n* Page: GitHub user profile\n* URL: https://github.com/Isi-dev\n* Website: https://isi-dev.netlify.app/#/isiapps#home\n* Followers: 73\n* Following: 4\n* Links: ht"
+          ]
+        },
+        {
+          "url": "https://github.com/Isi-dev/ComfyUI-UniAnimate-W/issues",
+          "title": "Issues · Isi-dev/ComfyUI-UniAnimate-W · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Resetting focus\nIsi-dev / ComfyUI-UniAnimate-W Public\n* Notifications You must be signed in to change notification settings\n* Fork 25\n* Star 188\n* Code\n* Issues 22\n* Pull requests "
+          ]
+        },
+        {
+          "url": "https://www.joinwedo.org/join-us/student-ambassador-program",
+          "title": "Student Ambassador Program - Women's Entrepreneurship Day Organization",
+          "publish_date": "2023-06-30",
+          "excerpts": [
+            "National Advanced School of Engineering Yaounde, Cameroon\n\nAbigail Owusuwaa Gyamfi\n\nAfrica - Ghana, Founder OGA Golden Solutions\n\nMagdaline Chepkemoi\n\nKenya Youth Ambassador\n\nEliza"
+          ]
+        },
+        {
+          "url": "https://fsmr.isi.ac.id/empat-mahasiswa-isi-yogyakarta-terpilih-gsa-2026",
+          "title": "EMPAT MAHASISWA ISI YOGYAKARTA TERPILIH GSA 2026, DUA HADIRI INAUGURASI DI JAKARTA – isijogja :: Fakultas Seni Media Rekam",
+          "publish_date": "2026-04-28",
+          "excerpts": [
+            "* Beranda\n* Berita\n* EMPAT MAHASISWA ISI YOGYAKARTA TERPILIH GSA 2026, DUA HADIRI INAUGURASI DI JAKARTA\n\nEMPAT MAHASISWA ISI YOGYAKARTA TERPILIH GSA 2026, DUA HADIRI INAUGURASI DI "
+          ]
+        },
+        {
+          "url": "https://unibuddy.com/blog/what-is-a-student-ambassador",
+          "title": "What is a Student Ambassador? | Higher Education | Unibuddy",
+          "publish_date": null,
+          "excerpts": [
+            "More and more universities are utilizing their current students as their best advocates and ambassadors. But what is a student ambassador? And how can they help boost your enrollme"
+          ]
+        },
+        {
+          "url": "https://www.isi.ac.id/2025/10/06/mahasiswa-desain-media-isi-yogyakarta-terpilih-jadi-google-student-ambassador-2025",
+          "title": "Mahasiswa Desain Media ISI Yogyakarta Terpilih Jadi Google Student Ambassador 2025 – ISI Jogja | ISI Yogyakarta",
+          "publish_date": "2025-10-06",
+          "excerpts": [
+            "Black ISI LOGO\nInstitut Seni Indonesia Yogyakarta\n* Beranda\n* Berita dan info , Prestasi Mahasiswa\n* Mahasiswa Desain Media ISI Yogyakarta Terpilih Jadi Google Student Ambassador 2"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "astrio-labs",
+      "search_id": "search_9e319c76b081243744cf27b9af9e15b6",
+      "queries": [
+        "astrio-labs student ambassador",
+        "astrio-labs campus representative India",
+        "astrio-labs official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/astrio-labs",
+          "title": "Astrio Labs · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Organization: Astrio Labs (@astrio-labs)\n\n* Page: GitHub organization profile\n* URL: https://github.com/astrio-labs\n* Location: United States of America\n* Links: https://www.x.com/"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/company/astriolabs",
+          "title": "Astrio | LinkedIn",
+          "publish_date": "2026-10-04",
+          "excerpts": [
+            "Agree & Join LinkedIn\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nLinkedIn\n* Top Content\n* People\n* Learn"
+          ]
+        },
+        {
+          "url": "http://168.138.51.227:8088/astrio-labs",
+          "title": "Astrio Labs · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "@astrio-labs\n\nAstrio Labs\n\nwww.astriolabs.com\n* 17 followers\n* United States of America\n* @AstrioLabs\n* nolan.lwin@astriolabs.com\n* Overview\n* Repositories\n* Projects\n* Packages\n* "
+          ]
+        },
+        {
+          "url": "https://zamantika.com/en/profile/AstrioLabs",
+          "title": "astrio (@AstrioLabs) - Twitter Profile | Zamantika",
+          "publish_date": null,
+          "excerpts": [
+            "4/ @TenthManLabs - 39 followers - (Geopolitical AI): independent geopolitical intelligence and forecasts for investing, trading and underwriting. 5/ @AstrioLabs - 53 followers - (A"
+          ]
+        },
+        {
+          "url": "https://112.cachefly.net/astrio-labs",
+          "title": "Astrio Labs · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Skip to content ## Navigation Menu\n@astrio-labs\n\nAstrio Labs\n\nwww.astriolabs.com\n* 17 followers\n* United States of America\n* @AstrioLabs\n* company/astrioai\n* astrioai\n* Overview\n* "
+          ]
+        },
+        {
+          "url": "https://github.com/astrio-labs/forall",
+          "title": "GitHub - astrio-labs/forall: Forall (∀) is a coding harness from Astrio that helps developers build correct software by generating spec-driven code alongside machine-checkable proofs. · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "astrio-labs/forall\n\n* Page: GitHub repository\n* URL: https://github.com/astrio-labs/forall\n* Description: Forall (∀) is a coding harness from Astrio that helps developers build cor"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "kelindar",
+      "search_id": "search_7207cfdec1285fb2b792169c1cf05583",
+      "queries": [
+        "kelindar student ambassador",
+        "kelindar campus representative India",
+        "kelindar official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://www.taskveda.in/campus-ambassador",
+          "title": "Campus Ambassador Program — Apply Now (2026) | TaskVeda",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Ambassador Program\n\nLead your campus.\n\nLaunch your career.\nRepresent your college with TaskVeda, host real events and webinars, and earn certificates, incentives and mentors"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Earn verified certificates, XP, and badges.\n\nLeadership Building\n\nBuild leadership experience as a Campus Ambassador.\nFeatures Hub\n\nWhy Students Choose CampusUnite\n\nOpportunities\n\n"
+          ]
+        },
+        {
+          "url": "http://www.thecapro.org/campus-ambassadors",
+          "title": "Campus Ambassadors | Child Awareness Project (CAP)",
+          "publish_date": null,
+          "excerpts": [
+            "WE ARE LOOKING FOR\n\nCAMPUS AMBASSADORS\n\nWHO ARE CAMPUS AMBASSADORS?\n\nCAMPUS AMBASSADORS are young people in schools, colleges and institutions across India, who want to create a po"
+          ]
+        },
+        {
+          "url": "https://ca.kashiyatra.org/",
+          "title": "Kashiyatra 26",
+          "publish_date": null,
+          "excerpts": [
+            "Become the Campus Ambassador\n\nJoin us to become a campus ambassador and proudly represent our brand on your college campus.\nRegister Now\n\nAbout\n\nKashiyatra Offers You The Chance To"
+          ]
+        },
+        {
+          "url": "https://www.allcollegeevent.com/campus-ambassador",
+          "title": "Campus Ambassador | ACE – AllCollegeEvent | ACE",
+          "publish_date": null,
+          "excerpts": [
+            "CAMPUS AMBASSADOR 2026\n\nYour Campus Needs a Leader. Is That You?\n\nBecome the Official Campus Ambassador for AllCollegeEvent.com . Build Your Leadership. Expand Your Network. Create"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "mdipietro09",
+      "search_id": "search_6c3c7ef3ed64017bd5804f736b91d85a",
+      "queries": [
+        "mdipietro09 student ambassador",
+        "mdipietro09 campus representative India",
+        "mdipietro09 official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/mdipietro09",
+          "title": "mdipietro09 (Mauro Di Pietro) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# User: Mauro Di Pietro (@mdipietro09)\n\n- Page: GitHub user profile\n- URL: https://github.com/mdipietro09\n- Website: https://linktr.ee/maurodp\n- Followers: 359\n- Following: 0\n- Lin"
+          ]
+        },
+        {
+          "url": "https://linktr.ee/maurodp",
+          "title": "Mauro Di Pietro Official: Instagram, X | Linktree",
+          "publish_date": null,
+          "excerpts": [
+            "Mauro Di Pietro Official: Instagram, X\n\n# Mauro Di Pietro\n\n## Tech, Finance, Politics, Art\n\nMauro Di Pietro X Mauro Di Pietro Substack Mauro Di Pietro Instagram Mauro Di Pietro Lin"
+          ]
+        },
+        {
+          "url": "https://github.com/mdipietro09/RoboticsPy",
+          "title": "GitHub - mdipietro09/RoboticsPy · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# mdipietro09/RoboticsPy\n\n- Page: GitHub repository\n- URL: https://github.com/mdipietro09/RoboticsPy\n- Default branch: main\n- Created: 2025-10-10T12:06:09.000Z\n- Commits: 42\n\n## To"
+          ]
+        },
+        {
+          "url": "https://github.com/mdipietro09/App_Wedding",
+          "title": "mdipietro09/App_Wedding: Wedding Planner Web App",
+          "publish_date": null,
+          "excerpts": [
+            "mdipietro09/App_Wedding: Wedding Planner Web App\nWedding Planner Web App. Contribute to mdipietro09/App_Wedding development by creating an account on GitHub."
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Program Pillars\n\nWhy Become a Camp"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Earn verified certificates, XP, and badges.\n\nLeadership Building\n\nBuild leadership experience as a Campus Ambassador.\nFeatures Hub\n\nWhy Students Choose CampusUnite\n\nOpportunities\n\n"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "PacificAI",
+      "search_id": "search_8451513b3c750e01f8e462d04e85d7bb",
+      "queries": [
+        "PacificAI student ambassador",
+        "PacificAI campus representative India",
+        "PacificAI official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/topics/responsible-ai",
+          "title": "responsible-ai · GitHub Topics · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Topic: responsible-ai\n\n* Page: GitHub topic page\n* URL: https://github.com/topics/responsible-ai\n\nRepositories\n\n* ifixai-ai/iFixAi: Independent Auditing of AI Agents. Run by human "
+          ]
+        },
+        {
+          "url": "https://pacificai.systems/about",
+          "title": "About PacificAI Systems | Canadian AI & Technology Company",
+          "publish_date": null,
+          "excerpts": [
+            "[Book a Demo](https://pacificai.systems/book-a-call)\n\nAbout Us\n\n# About PacificAI Systems\n\nA Canadian AI and technology company — building AI products and helping businesses across"
+          ]
+        },
+        {
+          "url": "https://pacificai.systems/careers",
+          "title": "Careers | PacificAI Systems AI Agency Canada",
+          "publish_date": null,
+          "excerpts": [
+            "[Book a Strategy Call](https://pacificai.systems/book-a-call)\n\n[P PacificAI Systems](https://pacificai.systems/)\n\n[Products](https://pacificai.systems/products) [Services](https://"
+          ]
+        },
+        {
+          "url": "https://pacificai.systems/faq",
+          "title": "FAQ | Frequently Asked Questions | PacificAI Systems AI Agency Canada",
+          "publish_date": null,
+          "excerpts": [
+            "[Book a Strategy Call](https://pacificai.systems/book-a-call)\n\n[P PacificAI Systems](https://pacificai.systems/)\n\n...\n\n[Book a Demo](https://pacificai.systems/book-a-call)\n\nFAQ\n\n# "
+          ]
+        },
+        {
+          "url": "https://pacificai.systems/",
+          "title": "PacificAI Systems | Canadian AI & Technology Company | AI Products & Solutions",
+          "publish_date": null,
+          "excerpts": [
+            "[Book a Strategy Call](https://pacificai.systems/book-a-call)\n\n[P PacificAI Systems](https://pacificai.systems/)\n\n[Products](https://pacificai.systems/products) [Services](https://"
+          ]
+        },
+        {
+          "url": "https://pacificai.systems/industries/healthcare",
+          "title": "AI for Healthcare Canada | Patient Intake Automation & Clinical AI | PacificAI Systems",
+          "publish_date": null,
+          "excerpts": [
+            "[Book a Strategy Call](https://pacificai.systems/book-a-call)\n\n[P PacificAI Systems](https://pacificai.systems/)\n\n[Products](https://pacificai.systems/products) [Services](https://"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "inoryy",
+      "search_id": "search_a21fc0a4528249544e58d9843bc52c71",
+      "queries": [
+        "inoryy student ambassador",
+        "inoryy campus representative India",
+        "inoryy official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://hostro.in/student-ambassador",
+          "title": "Hostro — One Platform. Endless Possibilities.",
+          "publish_date": "2026-06-07",
+          "excerpts": [
+            "Hostro Student Ambassador Program\n\nBecome a Hostro\n\nStudent Ambassador\nLead your campus, earn rewards, build your professional profile, and help students find better accommodation "
+          ]
+        },
+        {
+          "url": "https://www.macbease.com/universities/ignou",
+          "title": "Indira Gandhi National Open University Campus Ecosystem | Macbease",
+          "publish_date": null,
+          "excerpts": [
+            "Macbease\nHome About us Communities Clubs Events\nGet the App\nBack to All Universities\nIndira Gandhi National Open University\nCampus Chapter Verified Hub\n\nIndira Gandhi National Open"
+          ]
+        },
+        {
+          "url": "https://www.scconline.com/blog/post/2026/07/22/applications-for-ebc-scc-student-ambassadors-programme-2026/",
+          "title": "EBC - SCC OnLine Student Ambassadors' Programme invites applications; Apply by July 31st",
+          "publish_date": "2026-07-22",
+          "excerpts": [
+            "* Home\n* Jobs & Internships\n* EBC – SCC OnLine Student Ambassadors’ Programme invites applications; Apply by July 31st\n\nEBC – SCC OnLine Student Ambassadors’ Programme invites appl"
+          ]
+        },
+        {
+          "url": "https://cap.trystiitd.org/",
+          "title": "Tryst IITD Campus Ambassador Program",
+          "publish_date": null,
+          "excerpts": [
+            "CAMPUS AMBASSADOR PROGRAM\n\n2500+\n\nIndian Colleges\n\n500+\n\nInternationl Institutes\n\nWelcome TO TRYST CAP\n\nABOUT US\nTryst, organized by the Students of IIT Delhi, stands tall as Asia'"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Earn verified certificates, XP, and badges.\n\nLeadership Building\n\nBuild leadership experience as a Campus Ambassador.\nFeatures Hub\n\nWhy Students Choose CampusUnite\n\nOpportunities\n\n"
+          ]
+        },
+        {
+          "url": "https://cap.tryst-iitdelhi.org/",
+          "title": "Tryst IITD Campus Ambassador Program",
+          "publish_date": null,
+          "excerpts": [
+            "Tryst Logo\n\nCAMPUS AMBASSADOR\n\nPROGRAM\nEarth\n\n2500+\n\nIndian Colleges\n\n500+\n\nInternational Institutes\nRegister Now\nRecycle Cloth Water Conservation EV Recycling\n\nWelcome TO TRYST CA"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "name": "ashbuilds",
+      "search_id": "search_88ae7a8fae4f52c158414d89d10064de",
+      "queries": [
+        "ashbuilds student ambassador",
+        "ashbuilds campus representative India",
+        "ashbuilds official academic advocate"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/ashbuilds",
+          "title": "ashbuilds (Ash) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# User: Ash (@ashbuilds)\n\n- Page: GitHub user profile\n- URL: https://github.com/ashbuilds\n- Location: València, Spain\n- Followers: 33\n- Following: 20\n- Top languages: TypeScript\n\n#"
+          ]
+        },
+        {
+          "url": "https://www.ashoka.edu.in/profile/avantika",
+          "title": "Avantika - Ashoka University",
+          "publish_date": "2025-10-15",
+          "excerpts": [
+            "* News and Events\n* Overview\n* Ashoka Bulletin\n* Editor’s Pick\n* Ashoka Podcast\n* Related Links\n* Social Wall\n* Apply\n* Quick Links\n* Ombudsperson\n* Public Self Disclosure\n* Virtua"
+          ]
+        },
+        {
+          "url": "https://www.ashoka.edu.in/profile/khushhi",
+          "title": "Khushhi - Ashoka University",
+          "publish_date": "2025-10-15",
+          "excerpts": [
+            "* News and Events\n* Overview\n* Ashoka Bulletin\n* Editor’s Pick\n* Ashoka Podcast\n* Related Links\n* Social Wall\n* Apply\n* Quick Links\n* Ombudsperson\n* Public Self Disclosure\n* Virtua"
+          ]
+        },
+        {
+          "url": "https://www.ashoka.edu.in/profile/niharika",
+          "title": "Niharika - Ashoka University",
+          "publish_date": "2025-10-15",
+          "excerpts": [
+            "* News and Events\n* Overview\n* Ashoka Bulletin\n* Editor’s Pick\n* Ashoka Podcast\n* Related Links\n* Social Wall\n* Apply\n* Quick Links\n* Ombudsperson\n* Public Self Disclosure\n* Virtua"
+          ]
+        },
+        {
+          "url": "https://www.ashoka.edu.in/profile/teekshna",
+          "title": "Teekshna - Ashoka University",
+          "publish_date": "2025-10-15",
+          "excerpts": [
+            "* News and Events\n* Overview\n* Ashoka Bulletin\n* Editor’s Pick\n* Ashoka Podcast\n* Related Links\n* Social Wall\n* Apply\n* Quick Links\n* Ombudsperson\n* Public Self Disclosure\n* Virtua"
+          ]
+        },
+        {
+          "url": "https://www.ashoka.edu.in/profile/naisha-chhabra",
+          "title": "Naisha Chhabra",
+          "publish_date": "2023-08-10",
+          "excerpts": [
+            "Naisha Chhabra - Ashoka University\n* News and Events\n* Overview\n* Ashoka Bulletin\n* Editor’s Pick\n* Ashoka Podcast\n* Related Links\n* Social Wall\n* Apply\n* Quick Links\n* Ombudsperso"
+          ]
+        }
+      ],
+      "error": false
+    }
+  ]
+}

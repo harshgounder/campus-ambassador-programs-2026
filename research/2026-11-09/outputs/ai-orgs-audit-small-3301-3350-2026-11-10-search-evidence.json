@@ -1,0 +1,2130 @@
+{
+  "slice": {
+    "start": 3301,
+    "end": 3350,
+    "census_rows": [
+      25029,
+      25078
+    ],
+    "cutoff": "2026-11-09",
+    "researched": "2026-11-10",
+    "validation": "50 source rows exact; 0 mismatch"
+  },
+  "method": "Three exact-entity targeted identity/ambassador-route searches per entity; follow credible leads to official pages. Bounded search; no global-absence claims.",
+  "x_mcp_used": false,
+  "search_status": "50 of 50 entities searched in 3-query batches; one official student route was identified and followed to primary pages; remaining rows require further verification, not absence conclusions.",
+  "entities": [
+    {
+      "small_rank": "3301",
+      "census_row": "25029",
+      "name": "Undertone0809",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Undertone0809\" official profile organization",
+        "\"Undertone0809\" student ambassador program",
+        "\"Undertone0809\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"Undertone0809\" official organization profile",
+        "\"Undertone0809\" student ambassador program",
+        "\"Undertone0809\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/Undertone0809",
+          "title": "Undertone0809 (Zeeland) · GitHub",
+          "excerpts": [
+            "# User: Zeeland (@Undertone0809)\n\n- Page: GitHub user profile\n- URL: https://github.com/Undertone0809\n- Company: Foundria\n- Location: Mars\n- Followers"
+          ]
+        },
+        {
+          "url": "https://github.com/Undertone0809/rudder",
+          "title": "GitHub - Undertone0809/rudder: Open-source local Agent harness for self-improving agent teams: run agents, review work, and turn feedback into reusable skills. · GitHub",
+          "excerpts": [
+            "A model is only as effective as the environment around it. Rudder gives agents durable context, coordinated tools, structured work, review feedback, b"
+          ]
+        },
+        {
+          "url": "https://github.com/Undertone0809/Undertone0809/blob/main/README.md",
+          "title": "Undertone0809/README.md at main · Undertone0809/Undertone0809 · GitHub",
+          "excerpts": [
+            "# Undertone0809/Undertone0809 — README.md\n\n- Page: GitHub code file\n- URL: https://github.com/Undertone0809/Undertone0809/blob/main/README.md\n- Reposi"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity and official-source leads."
+    },
+    {
+      "small_rank": "3302",
+      "census_row": "25030",
+      "name": "Dokhacgiakhoa",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Dokhacgiakhoa\" official profile organization",
+        "\"Dokhacgiakhoa\" student ambassador program",
+        "\"Dokhacgiakhoa\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"Dokhacgiakhoa\" official organization profile",
+        "\"Dokhacgiakhoa\" student ambassador program",
+        "\"Dokhacgiakhoa\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-CLI",
+          "title": "GitHub - Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-CLI · GitHub",
+          "excerpts": [
+            "# Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-CLI\n\n- Page: GitHub repository\n- URL: https://github.com/Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-CLI\n- Def"
+          ]
+        },
+        {
+          "url": "https://www.sourcepulse.org/projects/24471296",
+          "title": "Agent-Skills-4-Vibe-Coding-CLI by Dokhacgiakhoa - SourcePulse",
+          "excerpts": [
+            "Discover and explore top open-source AI tools and projects—updated daily.\n\n[Home](https://www.sourcepulse.org/) [Browse all repos](https://www.sourcep"
+          ]
+        },
+        {
+          "url": "https://github.com/Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-CLI/blob/main/README.md",
+          "title": "Agent-Skills-4-Vibe-Coding-CLI/README.md at main · Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-CLI · GitHub",
+          "excerpts": [
+            "# Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-CLI — README.md\n\n- Page: GitHub code file\n- URL: https://github.com/Dokhacgiakhoa/Agent-Skills-4-Vibe-Codin"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity and official-source leads."
+    },
+    {
+      "small_rank": "3303",
+      "census_row": "25031",
+      "name": "JindongGu",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"JindongGu\" official profile organization",
+        "\"JindongGu\" student ambassador program",
+        "\"JindongGu\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"JindongGu\" official organization profile",
+        "\"JindongGu\" student ambassador program",
+        "\"JindongGu\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://fg.uedu.tw/ambassador",
+          "title": "Campus Ambassador - Uedu",
+          "excerpts": [
+            "Account settings Data privacy settings Research Informed Consent Form\nUEDU CAMPUS AMBASSADOR\n\nYodo Campus Ambassador\n\nCampus ambassadors are Uedu's pe"
+          ]
+        },
+        {
+          "url": "https://ndh.uedu.tw/ambassador",
+          "title": "Campus Ambassador - Uedu",
+          "excerpts": [
+            "National Dong Hwa University campus portal｜Uedu Cross-university platform portal\n* \nQuick Settings\n\nAI Reply Desktop Notifications\n\nShow a desktop not"
+          ]
+        },
+        {
+          "url": "https://tc.uedu.tw/ambassador",
+          "title": "Campus Ambassador - Uedu",
+          "excerpts": [
+            "Account settings Data privacy settings Research Informed Consent Form\nUEDU CAMPUS AMBASSADOR\n\nYodo Campus Ambassador\n\nCampus ambassadors are Uedu's pe"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity and official-source leads."
+    },
+    {
+      "small_rank": "3304",
+      "census_row": "25032",
+      "name": "seratch",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"seratch\" official profile organization",
+        "\"seratch\" student ambassador program",
+        "\"seratch\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"seratch\" official organization profile",
+        "\"seratch\" student ambassador program",
+        "\"seratch\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://business.catholic.edu/news/2024/index.html",
+          "title": "2024 News Archive - Catholic University of America - Washington, DC | CUA",
+          "excerpts": [
+            "* Busch School Club Fair Showcases Student-Run Organizations\n\nBusch School Club Fair Showcases Student-Run Organizations\n\nThe Busch School of Business"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Prog"
+          ]
+        },
+        {
+          "url": "https://www.thestudentambassadors.com/our-ambassadors",
+          "title": "Our Campus Ambassadors | The Student Ambassadors",
+          "excerpts": [
+            "The Student Ambassadors helps organizations build and operate student ambassador programs while connecting students with meaningful projects, tasks, c"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity and official-source leads."
+    },
+    {
+      "small_rank": "3305",
+      "census_row": "25033",
+      "name": "ExtractPDF4J",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"ExtractPDF4J\" official profile organization",
+        "\"ExtractPDF4J\" student ambassador program",
+        "\"ExtractPDF4J\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"ExtractPDF4J\" official organization profile",
+        "\"ExtractPDF4J\" student ambassador program",
+        "\"ExtractPDF4J\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/ExtractPDF4J/ExtractPDF4J",
+          "title": "GitHub - ExtractPDF4J/ExtractPDF4J: Java PDF table extraction & OCR library. Extract structured tables from text-based and scanned PDFs using stream, lattice (OpenCV-style grid detection), and hybrid parsing. · GitHub",
+          "excerpts": [
+            "# ExtractPDF4J/ExtractPDF4J\n\n- Page: GitHub repository\n- URL: https://github.com/ExtractPDF4J/ExtractPDF4J\n- Description: Java PDF table extraction &a"
+          ]
+        },
+        {
+          "url": "https://extractpdf4j.github.io/ExtractPDF4J",
+          "title": "ExtractPDF4J",
+          "excerpts": [
+            "logo\nExtractPDF4J\nHome\nInitializing search\nExtractPDF4J/ExtractPDF4J\nlogo ExtractPDF4J\nExtractPDF4J/ExtractPDF4J\n* Home Home\nTable of contents\n* Why E"
+          ]
+        },
+        {
+          "url": "https://softono.com/software/extractpdf4j",
+          "title": "ExtractPDF4J - Open Source Software | Softono",
+          "excerpts": [
+            "Software Document Management ExtractPDF4J\n\nExtractPDF4J\n\nOpen source Java\nWebsite GitHub\n419\nStars\n44\nForks\n63\nIssues\n5\nWatchers\n7 months\nLast Commit\n"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity and official-source leads."
+    },
+    {
+      "small_rank": "3306",
+      "census_row": "25034",
+      "name": "toverainc",
+      "tier": "small",
+      "category": "audio",
+      "queries": [
+        "\"toverainc\" official profile organization",
+        "\"toverainc\" student ambassador program",
+        "\"toverainc\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"toverainc\" official organization profile",
+        "\"toverainc\" student ambassador program",
+        "\"toverainc\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/toverainc/willow-inference-server",
+          "title": "GitHub - toverainc/willow-inference-server: Open source, local, and self-hosted highly optimized language inference server supporting ASR/STT, TTS, and LLM across WebRTC, REST, and WS · GitHub",
+          "excerpts": [
+            "# toverainc/willow-inference-server\n\n- Page: GitHub repository\n- URL: https://github.com/toverainc/willow-inference-server\n- Description: Open source,"
+          ]
+        },
+        {
+          "url": "https://github.com/toverainc/willow-inference-server/issues",
+          "title": "Issues · toverainc/willow-inference-server · GitHub",
+          "excerpts": [
+            "Resetting focus\n\n[toverainc](https://github.com/toverainc) / **[willow-inference-server](https://github.com/toverainc/willow-inference-server)** Publi"
+          ]
+        },
+        {
+          "url": "https://github.com/orgs/toverainc/packages/container/willow/127914576",
+          "title": "Package willow · GitHub",
+          "excerpts": [
+            "Skip to content ## Navigation Menu\n\n# [@toverainc Tovera](https://github.com/toverainc)\n\n* [Overview](https://github.com/toverainc)\n* [Repositories](h"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity and official-source leads."
+    },
+    {
+      "small_rank": "3307",
+      "census_row": "25035",
+      "name": "syncable-dev",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"syncable-dev\" official profile organization",
+        "\"syncable-dev\" student ambassador program",
+        "\"syncable-dev\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"syncable-dev\" official organization profile",
+        "\"syncable-dev\" student ambassador program",
+        "\"syncable-dev\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/syncable-dev",
+          "title": "Syncable · GitHub",
+          "excerpts": [
+            "Organization: Syncable (@syncable-dev)\n\n* Page: GitHub organization profile\n* URL: https://github.com/syncable-dev\n* Location: Denmark\n* Website: http"
+          ]
+        },
+        {
+          "url": "https://syncable.dev/about",
+          "title": "About Syncable — Meet the Founders | AI DevOps Platform",
+          "excerpts": [
+            "Syncable was founded on a simple belief: deploying software shouldn't require a DevOps team. We're building the platform that lets every developer shi"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/company/syncable-devops-agent",
+          "title": "Syncable.dev | LinkedIn",
+          "excerpts": [
+            "LinkedIn\n* Top Content\n* People\n* Learning\n* Jobs\n* Games\n* Get the app\nSign in Join now \nSyncable.dev’s cover photo\n\nSyncable.dev\n\nSoftware Developme"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity and official-source leads."
+    },
+    {
+      "small_rank": "3308",
+      "census_row": "25036",
+      "name": "zhengbangbo",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"zhengbangbo\" official profile organization",
+        "\"zhengbangbo\" student ambassador program",
+        "\"zhengbangbo\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"zhengbangbo\" official organization profile",
+        "\"zhengbangbo\" student ambassador program",
+        "\"zhengbangbo\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://fg.uedu.tw/ambassador",
+          "title": "Campus Ambassador - Uedu",
+          "excerpts": [
+            "Account settings Data privacy settings Research Informed Consent Form\nUEDU CAMPUS AMBASSADOR\n\nYodo Campus Ambassador\n\nCampus ambassadors are Uedu's pe"
+          ]
+        },
+        {
+          "url": "https://tc.uedu.tw/ambassador",
+          "title": "Campus Ambassador - Uedu",
+          "excerpts": [
+            "Account settings Data privacy settings Research Informed Consent Form\nUEDU CAMPUS AMBASSADOR\n\nYodo Campus Ambassador\n\nCampus ambassadors are Uedu's pe"
+          ]
+        },
+        {
+          "url": "https://nptu.uedu.tw/ambassador",
+          "title": "Campus Ambassador - Uedu",
+          "excerpts": [
+            "National Pingtung University campus portal｜Uedu Cross-university platform portal\n* \nQuick Settings\n\nAI Reply Desktop Notifications\n\nShow a desktop not"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity and official-source leads."
+    },
+    {
+      "small_rank": "3309",
+      "census_row": "25037",
+      "name": "Nyankomintsu",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Nyankomintsu\" official profile organization",
+        "\"Nyankomintsu\" student ambassador program",
+        "\"Nyankomintsu\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"Nyankomintsu\" official organization profile",
+        "\"Nyankomintsu\" student ambassador program",
+        "\"Nyankomintsu\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Prog"
+          ]
+        },
+        {
+          "url": "https://nanya.uedu.tw/ambassador",
+          "title": "Campus Ambassador - Uedu",
+          "excerpts": [
+            "Nanya Institute of Technology campus portal｜Uedu Cross-university platform portal\n* \nQuick Settings\n\nAI Reply Desktop Notifications\n\nShow a desktop no"
+          ]
+        },
+        {
+          "url": "https://nkust.uedu.tw/ambassador",
+          "title": "Campus Ambassador - Uedu",
+          "excerpts": [
+            "Play an alert sound whenever there is a new notification\n\nMore settings\n\nAccount settings Data privacy settings Research Informed Consent Form\nUEDU CA"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity and official-source leads."
+    },
+    {
+      "small_rank": "3310",
+      "census_row": "25038",
+      "name": "guanmo-ai",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"guanmo-ai\" official profile organization",
+        "\"guanmo-ai\" student ambassador program",
+        "\"guanmo-ai\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"guanmo-ai\" official organization profile",
+        "\"guanmo-ai\" student ambassador program",
+        "\"guanmo-ai\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of tr"
+          ]
+        },
+        {
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "excerpts": [
+            "Campus Ambassador Program\n\nLead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to build campus-level communities, pr"
+          ]
+        },
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "excerpts": [
+            "We are Hiring\n\nAI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\nJoin Now\n\nAb"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity and official-source leads."
+    },
+    {
+      "small_rank": "3311",
+      "census_row": "25039",
+      "name": "JdeRobot",
+      "tier": "small",
+      "category": "robotics",
+      "queries": [
+        "\"JdeRobot\" official profile organization",
+        "\"JdeRobot\" student ambassador program",
+        "\"JdeRobot\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"JdeRobot\" official organization profile",
+        "\"JdeRobot\" student ambassador program",
+        "\"JdeRobot\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "http://jderobot.github.io/",
+          "title": "JdeRobot",
+          "excerpts": [
+            "## Skip links\n\n* Skip to primary navigation\n\n[](https://jderobot.github.io/) [JdeRobot Programming Robot Intelligence](https://jderobot.github.io/)\n\n."
+          ]
+        },
+        {
+          "url": "https://jderobot.github.io/community/students",
+          "title": "Students - JdeRobot",
+          "excerpts": [
+            "Skip links\n\n* Skip to primary navigation\n JdeRobot Programming Robot Intelligence\n* Projects\n* Activities\n* Community\n* About\nToggle menu\nFollow\nToggl"
+          ]
+        },
+        {
+          "url": "http://jderobot.github.io/activities/gsoc",
+          "title": "Google Summer of Code (GSoC) - JdeRobot",
+          "excerpts": [
+            "Skip links\n\n* Skip to primary navigation\n JdeRobot Programming Robot Intelligence\n* Projects\n* Activities\n* Community\n* About\nToggle menu\nFollow\nToggl"
+          ]
+        }
+      ],
+      "status": "OFFICIAL STUDENT ROUTES FOUND; CUTOFF OPEN STATUS UNKNOWN",
+      "notes": "Official JdeRobot internship and GSoC 2026 pages reviewed; no evidence in retrieved excerpt establishes whether an application route was open on 2026-11-09.",
+      "official_followups": [
+        {
+          "url": "https://jderobot.github.io/activities/internships/",
+          "title": "Internships - JdeRobot",
+          "excerpt": "We accept internships (there is a selection process before setting the internship goals) inside JdeRobot organization, even remote ones. Please send us your CV. Page lists ongoing internships (2024), so 2026-11-09 availability is not established."
+        },
+        {
+          "url": "https://jderobot.github.io/activities/gsoc/2026",
+          "title": "GSoC 2026 - JdeRobot",
+          "excerpt": "Official page lists eight project ideas and application instructions for GSoC 2026; retrieved evidence does not establish whether applications remained open on 2026-11-09."
+        }
+      ]
+    },
+    {
+      "small_rank": "3312",
+      "census_row": "25040",
+      "name": "dylanhogg",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"dylanhogg\" official profile organization",
+        "\"dylanhogg\" student ambassador program",
+        "\"dylanhogg\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"dylanhogg\" official organization profile",
+        "\"dylanhogg\" student ambassador program",
+        "\"dylanhogg\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://huggingface.co/dylanhogg",
+          "title": "dylanhogg (Dylan Hogg)",
+          "excerpts": [
+            "Dylan Hogg's picture\n\n# [Dylan Hogg](https://huggingface.co/dylanhogg \"Dylan Hogg\")\n\ndylanhogg\n\n[2](https://huggingface.co/dylanhogg/activity/communit"
+          ]
+        },
+        {
+          "url": "https://huggingface.co/dylanhogg/activity/community",
+          "title": "dylanhogg (Dylan Hogg) – Community Activity",
+          "excerpts": [
+            "Dylan Hogg's picture\n\n# [Dylan Hogg](https://huggingface.co/dylanhogg \"Dylan Hogg\")\n\ndylanhogg\n\n[2](https://huggingface.co/dylanhogg/activity/communit"
+          ]
+        },
+        {
+          "url": "https://huggingface.co/datasets/dylanhogg/awesome-python",
+          "title": "dylanhogg/awesome-python · Datasets at Hugging Face",
+          "excerpts": [
+            "Our mission is to provide the tools, so that you can focus on what matters. |['ai', 'artificial-intelligence', 'autonomous-agents', 'gpt-4', 'openai']"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3313",
+      "census_row": "25041",
+      "name": "andrew-shwetzer",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"andrew-shwetzer\" official profile organization",
+        "\"andrew-shwetzer\" student ambassador program",
+        "\"andrew-shwetzer\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"andrew-shwetzer\" official organization profile",
+        "\"andrew-shwetzer\" student ambassador program",
+        "\"andrew-shwetzer\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/andrew-shwetzer",
+          "title": "andrew-shwetzer (Andrew Shwetzer) · GitHub",
+          "excerpts": [
+            "User: Andrew Shwetzer (@andrew-shwetzer)\n\n* Page: GitHub user profile\n* URL: https://github.com/andrew-shwetzer\n* Company: Talent Signals LLC\n* Locati"
+          ]
+        },
+        {
+          "url": "https://rocketreach.co/andrew-shwetzer-email_718890152",
+          "title": "Andrew Shwetzer Email & Phone Number | Talent Signals AI Founder Contact Information",
+          "excerpts": [
+            "Andrew Shwetzer Email\n\nAndrew Shwetzer Email\n\nFounder@ Talent Signals AI\n\nEmail (1)\n* @benai.co\nView Andrew's Email\n5 free lookup(s). No credit card r"
+          ]
+        },
+        {
+          "url": "https://github.com/andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-",
+          "title": "GitHub - andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-: Claude Cowork plugin for job seekers. 9 AI skills: evaluate job postings, generate ATS-optimized resumes, scan company career portals, track applications, draft outreach. Works in any industry. · GitHub",
+          "excerpts": [
+            "# andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2-\n\n- Page: GitHub repository\n- URL: https://github.com/andrew-shwetzer/career-ops"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3314",
+      "census_row": "25042",
+      "name": "cordum-io",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"cordum-io\" official profile organization",
+        "\"cordum-io\" student ambassador program",
+        "\"cordum-io\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"cordum-io\" official organization profile",
+        "\"cordum-io\" student ambassador program",
+        "\"cordum-io\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/cordum-io",
+          "title": "Cordum.io · GitHub",
+          "excerpts": [
+            "# Organization: Cordum.io (@cordum-io)\n\n- Page: GitHub organization profile\n- URL: https://github.com/cordum-io\n- Website: https://Cordum.io\n- Links: "
+          ]
+        },
+        {
+          "url": "https://github.com/cordum-io/cordum",
+          "title": "GitHub - cordum-io/cordum: The action firewall for AI agents. Enforce policy and human approval before risky tool calls, shell commands, workflows, and production changes, with auditable evidence. · GitHub",
+          "excerpts": [
+            "# cordum-io/cordum\n\n- Page: GitHub repository\n- URL: https://github.com/cordum-io/cordum\n- Description: The action firewall for AI agents.\n\n...\n\n[Star"
+          ]
+        },
+        {
+          "url": "https://github.com/cordum-io/cordum/blob/main/GOVERNANCE.md",
+          "title": "cordum/GOVERNANCE.md at main · cordum-io/cordum · GitHub",
+          "excerpts": [
+            "cordum-io/cordum — GOVERNANCE.md\n\n* Page: GitHub code file\n* URL: https://github.com/cordum-io/cordum/blob/main/GOVERNANCE.md\n* Repository: cordum-io/"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3315",
+      "census_row": "25043",
+      "name": "deadbits",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"deadbits\" official profile organization",
+        "\"deadbits\" student ambassador program",
+        "\"deadbits\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"deadbits\" official organization profile",
+        "\"deadbits\" student ambassador program",
+        "\"deadbits\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://www.deadbits.org/",
+          "title": "deadbits.org",
+          "excerpts": [
+            "// Research Close [Esc]\n\nRecent Papers\n\nImproving Labeling Consistency with Detailed Constitutional Definitions and AI-Driven Evaluation Prescriptive "
+          ]
+        },
+        {
+          "url": "https://github.com/deadbits/trs",
+          "title": "GitHub - deadbits/trs: 🔭  Threat report analysis via LLM and Vector DB · GitHub",
+          "excerpts": [
+            "# deadbits/trs\n\n- Page: GitHub repository\n- URL: https://github.com/deadbits/trs\n- Description:  🔭  Threat report analysis via LLM and Vector DB\n- Li"
+          ]
+        },
+        {
+          "url": "https://github.com/deadbits/deadbits",
+          "title": "GitHub - deadbits/deadbits · GitHub",
+          "excerpts": [
+            "# deadbits/deadbits\n\n- Page: GitHub repository\n- URL: https://github.com/deadbits/deadbits\n- Default branch: main\n- Created: 2023-09-07T20:41:11.000Z\n"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3316",
+      "census_row": "25044",
+      "name": "mxyhi",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"mxyhi\" official profile organization",
+        "\"mxyhi\" student ambassador program",
+        "\"mxyhi\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"mxyhi\" official organization profile",
+        "\"mxyhi\" student ambassador program",
+        "\"mxyhi\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/mxyhi",
+          "title": "mxyhi (mxyhi) · GitHub",
+          "excerpts": [
+            "# User: mxyhi (@mxyhi)\n\n- Page: GitHub user profile\n- URL: https://github.com/mxyhi\n- Website: https://mxyhi.com\n- Followers: 34\n- Following: 10\n- Lin"
+          ]
+        },
+        {
+          "url": "https://github.com/mxyhi/ok-skills",
+          "title": "GitHub - mxyhi/ok-skills: Curated AI coding agent skills and AGENTS.md playbooks for Codex, Claude Code, Cursor, OpenClaw, and other SKILL.md-compatible tools. · GitHub",
+          "excerpts": [
+            "# mxyhi/ok-skills\n\n- Page: GitHub repository\n- URL: https://github.com/mxyhi/ok-skills\n- Description: Curated AI coding agent skills and AGENTS.md pla"
+          ]
+        },
+        {
+          "url": "https://github.com/mxyhi/ok-skills/activity?sort=ASC",
+          "title": "Activity · mxyhi/ok-skills · GitHub",
+          "excerpts": [
+            "Skip to content ## Navigation Menu\n\n1. [mxyhi](https://github.com/mxyhi)\n2. [ok-skills](https://github.com/mxyhi/ok-skills)\n\n## Repository navigation\n"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3317",
+      "census_row": "25045",
+      "name": "C4rohan",
+      "tier": "small",
+      "category": "audio",
+      "queries": [
+        "\"C4rohan\" official profile organization",
+        "\"C4rohan\" student ambassador program",
+        "\"C4rohan\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"C4rohan\" official organization profile",
+        "\"C4rohan\" student ambassador program",
+        "\"C4rohan\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/C4rohan",
+          "title": "C4rohan (Rohan Salvi) · GitHub",
+          "excerpts": [
+            "# User: Rohan Salvi (@C4rohan)\n\n- Page: GitHub user profile\n- URL: https://github.com/C4rohan\n- Followers: 2\n- Following: 1\n- Links: https://orcid.org"
+          ]
+        },
+        {
+          "url": "https://memmachine.ai/community-student-ambassador-program/",
+          "title": "MemMachine Student Ambassador Program | MemMachine",
+          "excerpts": [
+            "MemMachine Student Ambassador Program\n\nJoin the Hippo Huddle. Learn, build, and make an impact with MemMachine.\n\n🦛 About the Program\n\nThe MemMachine "
+          ]
+        },
+        {
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "excerpts": [
+            "Campus Ambassador Program\n\nLead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to build campus-level communities, pr"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3318",
+      "census_row": "25046",
+      "name": "r2d4",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"r2d4\" official profile organization",
+        "\"r2d4\" student ambassador program",
+        "\"r2d4\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"r2d4\" official organization profile",
+        "\"r2d4\" student ambassador program",
+        "\"r2d4\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "excerpts": [
+            "Campus Ambassador Program\n\nLead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to build campus-level communities, pr"
+          ]
+        },
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "excerpts": [
+            "We are Hiring\n\nAI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\nJoin Now\n\nAb"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Prog"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3319",
+      "census_row": "25047",
+      "name": "Jaeyoung-Lim",
+      "tier": "small",
+      "category": "robotics",
+      "queries": [
+        "\"Jaeyoung-Lim\" official profile organization",
+        "\"Jaeyoung-Lim\" student ambassador program",
+        "\"Jaeyoung-Lim\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"Jaeyoung-Lim\" official organization profile",
+        "\"Jaeyoung-Lim\" student ambassador program",
+        "\"Jaeyoung-Lim\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://jaeyounglim.com/",
+          "title": "Jaeyoung Lim",
+          "excerpts": [
+            "## Jaeyoung Lim\n\n* About\n* [Research](https://jaeyounglim.com/research.html)\n* [Publications](https://jaeyounglim.com/publications.html)\n* [Projects]("
+          ]
+        },
+        {
+          "url": "https://jaeyounglim.com/index.html",
+          "title": "Jaeyoung Lim",
+          "excerpts": [
+            "## Jaeyoung Lim\n\n* About\n* [Research](https://jaeyounglim.com/research.html)\n* [Publications](https://jaeyounglim.com/publications.html)\n* [Projects]("
+          ]
+        },
+        {
+          "url": "https://github.com/Jaeyoung-Lim",
+          "title": "Jaeyoung-Lim (Jaeyoung Lim) · GitHub",
+          "excerpts": [
+            "User: Jaeyoung Lim (@Jaeyoung-Lim)\n\n* Page: GitHub user profile\n* URL: https://github.com/Jaeyoung-Lim\n* Company: University of California, Berkeley\n*"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3320",
+      "census_row": "25048",
+      "name": "willard-yuan",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"willard-yuan\" official profile organization",
+        "\"willard-yuan\" student ambassador program",
+        "\"willard-yuan\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"willard-yuan\" official organization profile",
+        "\"willard-yuan\" student ambassador program",
+        "\"willard-yuan\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/willard-yuan",
+          "title": "willard-yuan (Yong Yuan) · GitHub",
+          "excerpts": [
+            "User: Yong Yuan (@willard-yuan)\n\n* Page: GitHub user profile\n* URL: https://github.com/willard-yuan\n* Company: @meituan -> @kuaishou -> @Shopee\n* Loca"
+          ]
+        },
+        {
+          "url": "https://github.com/willard-yuan/video-text-retrieval-papers",
+          "title": "GitHub - willard-yuan/video-text-retrieval-papers · GitHub",
+          "excerpts": [
+            "willard-yuan/video-text-retrieval-papers\n\n* Page: GitHub repository\n* URL: https://github.com/willard-yuan/video-text-retrieval-papers\n* Stars: 15\n* F"
+          ]
+        },
+        {
+          "url": "https://github.com/willard-yuan/cvt",
+          "title": "GitHub - willard-yuan/cvt: CVT, a Computer Vision Toolkit. · GitHub",
+          "excerpts": [
+            "willard-yuan/cvt\n\n* Page: GitHub repository\n* URL: https://github.com/willard-yuan/cvt\n* Description: CVT, a Computer Vision Toolkit\n* Stars: 168\n* Fo"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3321",
+      "census_row": "25049",
+      "name": "Brokenwind",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Brokenwind\" official profile organization",
+        "\"Brokenwind\" student ambassador program",
+        "\"Brokenwind\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"Brokenwind\" official organization profile",
+        "\"Brokenwind\" student ambassador program",
+        "\"Brokenwind\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "excerpts": [
+            "We are Hiring\n\nAI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\nJoin Now\n\nAb"
+          ]
+        },
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Prog"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3322",
+      "census_row": "25050",
+      "name": "KevRojo",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"KevRojo\" official profile organization",
+        "\"KevRojo\" student ambassador program",
+        "\"KevRojo\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"KevRojo\" official organization profile",
+        "\"KevRojo\" student ambassador program",
+        "\"KevRojo\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://ka.gravatar.com/objecthonestly9836b3b53d",
+          "title": "Kevin Rojo | Globally | Dulus Ai | Ceo, Founder | G...",
+          "excerpts": [
+            "მენიუ\n\n* Gravatar.com\n* Developer API\n* მხარდაჭერა\n* გამაფრთხილებელი შეტყობინება\n* Create a new Gravatar profile and make it your go to place on the w"
+          ]
+        },
+        {
+          "url": "https://cn.gravatar.com/objecthonestly9836b3b53d",
+          "title": "Kevin Rojo | Globally | Dulus Ai | Ceo, Founder | G...",
+          "excerpts": [
+            "* \n* Link in Bio\n* 开发者\n* 支持\n* Log in\n* Get Started Now\n* Gravatar.com\n* 开发者 API\n* 支持\n* 举报滥用\n* Create a new Gravatar profile and make it your go to pla"
+          ]
+        },
+        {
+          "url": "https://ar.gravatar.com/objecthonestly9836b3b53d",
+          "title": "Kevin Rojo | Globally | Dulus Ai | Ceo, Founder | G...",
+          "excerpts": [
+            "القائمة\n\n* Gravatar.com\n* واجهة برمجة تطبيقات المطور\n* الدعم الفني\n* الإبلاغ عن إساءة\n* Create a new Gravatar profile and make it your go to place on "
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3323",
+      "census_row": "25051",
+      "name": "Deuz-AI",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Deuz-AI\" official profile organization",
+        "\"Deuz-AI\" student ambassador program",
+        "\"Deuz-AI\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"Deuz-AI\" official organization profile",
+        "\"Deuz-AI\" student ambassador program",
+        "\"Deuz-AI\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://linkedin.com/company/deuzai",
+          "title": "Deuz A.I | LinkedIn",
+          "excerpts": [
+            "* Learning\n* Jobs\n* Games\n* Get the app\nSign in Join now \nDeuz A.I’s cover photo\n\nDeuz A.I\n\nSoftware Development\n\nAutonomous AI across every model. Bu"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/company/102540059",
+          "title": "Deuz A.I | LinkedIn",
+          "excerpts": [
+            "* Learning\n* Jobs\n* Games\n* Get the app\nSign in Join now \nDeuz A.I’s cover photo\n\nDeuz A.I\n\nSoftware Development\n\nAutonomous AI across every model. Bu"
+          ]
+        },
+        {
+          "url": "https://github.com/Deuz-AI",
+          "title": "Deuz AI",
+          "excerpts": [
+            "## \n\nDeuz AI\nDeuz AI. Deuz is an AI research and technology company building open intelligence infrastructure for models, applications, and autonomous"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3324",
+      "census_row": "25052",
+      "name": "sigpanic",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"sigpanic\" official profile organization",
+        "\"sigpanic\" student ambassador program",
+        "\"sigpanic\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"sigpanic\" official organization profile",
+        "\"sigpanic\" student ambassador program",
+        "\"sigpanic\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://opportunitiesforyouth.org/2026/09/04/claude-campus-ambassador-program-2026-paid-student-opportunities-with-anthropic",
+          "title": "Claude Campus Ambassador Program 2026 – Paid Student Opportunities with Anthropic - Opportunities for Youth",
+          "excerpts": [
+            "|\n* \n\nFeatured\n\nResist Urgent Action Fund Grant 2026: Apply for Up to $5,000 in Rapid-Response Funding for Grassroots Organizations\n\nResist Urgent Act"
+          ]
+        },
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "excerpts": [
+            "We are Hiring\n\nAI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\nJoin Now\n\nAb"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Prog"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3325",
+      "census_row": "25053",
+      "name": "gkiril",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"gkiril\" official profile organization",
+        "\"gkiril\" student ambassador program",
+        "\"gkiril\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"gkiril\" official organization profile",
+        "\"gkiril\" student ambassador program",
+        "\"gkiril\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://memmachine.ai/community-student-ambassador-program/",
+          "title": "MemMachine Student Ambassador Program | MemMachine",
+          "excerpts": [
+            "MemMachine Student Ambassador Program\n\nJoin the Hippo Huddle. Learn, build, and make an impact with MemMachine.\n\n🦛 About the Program\n\nThe MemMachine "
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Prog"
+          ]
+        },
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "excerpts": [
+            "We are Hiring\n\nAI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\nJoin Now\n\nAb"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3326",
+      "census_row": "25054",
+      "name": "martin-rizzo",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"martin-rizzo\" official profile organization",
+        "\"martin-rizzo\" student ambassador program",
+        "\"martin-rizzo\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"martin-rizzo\" official organization profile",
+        "\"martin-rizzo\" student ambassador program",
+        "\"martin-rizzo\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://linkedin.com/in/martin-rizzo-martinez-a79b6a13b",
+          "title": "Martin Rizzo-Martinez - University of California, Santa Cruz | LinkedIn",
+          "excerpts": [
+            "Sign in to view Martin’s full profile\n\nMartin can introduce you to 10+ people at University of California, Santa Cruz\nEmail or phone\nPassword\nShow\nFor"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/martin-rizzo-1786a3146",
+          "title": "Martin Rizzo - CPA Ferrere | LinkedIn",
+          "excerpts": [
+            "* Reactions\nNo more previous content\n* Martin Rizzo\n\nMartin Rizzo\n\n1y\n* Report this post\nMartin Rizzo shared this\nTremenda experiencia. Aprendimos un "
+          ]
+        },
+        {
+          "url": "https://www.tinyfish.ai/blog/student-ambassador-program",
+          "title": "Student Ambassador Program for AI Builders: TinyFish for Students | TinyFish Blog",
+          "excerpts": [
+            "On this page\n\n* TL;DR\n* What is a student ambassador program?\n* Why join a student ambassador program?\n* How TinyFish for Students works\n* What studen"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3327",
+      "census_row": "25055",
+      "name": "ollama4j",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"ollama4j\" official profile organization",
+        "\"ollama4j\" student ambassador program",
+        "\"ollama4j\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"ollama4j\" official organization profile",
+        "\"ollama4j\" student ambassador program",
+        "\"ollama4j\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/ollama4j",
+          "title": "Ollama4j · GitHub",
+          "excerpts": [
+            "Organization: Ollama4j (@ollama4j)\n\n* Page: GitHub organization profile\n* URL: https://github.com/ollama4j\n* Top languages: Java\n\nRepositories\n\n* olla"
+          ]
+        },
+        {
+          "url": "https://ollama4j.github.io/ollama4j",
+          "title": "Ollama4j",
+          "excerpts": [
+            "Ollama4j Logo Ollama4j Logo Ollama4j Docs Examples Javadoc Doxygen Blog\nGitHub\nSearch\n\nOllama4j\n\nOllama4j Logo\nA clean and simple Java library for int"
+          ]
+        },
+        {
+          "url": "https://ollama4j.github.io/ollama4j/intro",
+          "title": "Introduction | Ollama4j",
+          "excerpts": [
+            "Ollama4j Logo Ollama4j Logo Ollama4j Docs Examples Javadoc Doxygen Blog\nGitHub\nSearch\n* Introduction\n* Manage Models\n* Generate\n* Agents 🆕\n* Extras\n*"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3328",
+      "census_row": "25056",
+      "name": "HRLTY",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"HRLTY\" official profile organization",
+        "\"HRLTY\" student ambassador program",
+        "\"HRLTY\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"HRLTY\" official organization profile",
+        "\"HRLTY\" student ambassador program",
+        "\"HRLTY\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://hets.org/virtualplaza/student-placita/student-ambassador-programs",
+          "title": "Student Ambassador Program",
+          "excerpts": [
+            "* Skip to primary navigation\nRepresentation of former Student Ambassadors from PR, US & Latin America during their meeting in Puerto Rico in February "
+          ]
+        },
+        {
+          "url": "https://ci.unt.edu/student-resources/student-ambassador-program.html",
+          "title": "Student Ambassador Program |  University of North Texas",
+          "excerpts": [
+            "Home\nStudent Resources\nStudent Ambassador Program\n\nStudent Ambassador Program\n\nGet Involved\n\nThe College of Information Student Ambassadors are studen"
+          ]
+        },
+        {
+          "url": "https://ecell.iiit.ac.in/ca/",
+          "title": "Campus Ambassador Programme | E-Cell IIIT-H - IIIT Hyderabad",
+          "excerpts": [
+            "presents\n\nCampus Ambassador Programme | E-Cell IIIT-H\n\nAbout Us\n\nEntrepreneurship Cell, IIIT-Hyderabad is a non-profit organization run by students, a"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3329",
+      "census_row": "25057",
+      "name": "ynqa",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"ynqa\" official profile organization",
+        "\"ynqa\" student ambassador program",
+        "\"ynqa\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"ynqa\" official organization profile",
+        "\"ynqa\" student ambassador program",
+        "\"ynqa\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "excerpts": [
+            "We are Hiring\n\nAI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\nJoin Now\n\nAb"
+          ]
+        },
+        {
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "excerpts": [
+            "Campus Ambassador Program\n\nLead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to build campus-level communities, pr"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Prog"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3330",
+      "census_row": "25058",
+      "name": "ryantsai",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"ryantsai\" official profile organization",
+        "\"ryantsai\" student ambassador program",
+        "\"ryantsai\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"ryantsai\" official organization profile",
+        "\"ryantsai\" student ambassador program",
+        "\"ryantsai\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/ryantsai/KKTerm",
+          "title": "GitHub - ryantsai/KKTerm: Super-tool for vibe coders & system admins — terminals, SSH, SFTP, RDP/VNC, dashboards, install helpers, and a built-in AI assistant. · GitHub",
+          "excerpts": [
+            "ryantsai/KKTerm\n\n* Page: GitHub repository\n* URL: https://github.com/ryantsai/KKTerm\n* Description: Super-tool for vibe coders & system admins — termi"
+          ]
+        },
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "excerpts": [
+            "We are Hiring\n\nAI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\nJoin Now\n\nAb"
+          ]
+        },
+        {
+          "url": "https://mamentis.com/student-ambassador",
+          "title": "Student Ambassador Program | Mamentis",
+          "excerpts": [
+            "Mamentis Logo Mamentis Logo Mamentis Product\nResources\n* Documentation\n* Blog\nPricing Enterprise AI\nLog in Start for Free\n\nStudent Ambassador Program\n"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3331",
+      "census_row": "25059",
+      "name": "ozontech",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"ozontech\" official profile organization",
+        "\"ozontech\" student ambassador program",
+        "\"ozontech\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"ozontech\" official organization profile",
+        "\"ozontech\" student ambassador program",
+        "\"ozontech\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/ozontech",
+          "title": "Ozon Tech · GitHub",
+          "excerpts": [
+            "Organization: Ozon Tech (@ozontech)\n\n* Page: GitHub organization profile\n* URL: https://github.com/ozontech\n* Website: https://ozon.tech/\n* Top langua"
+          ]
+        },
+        {
+          "url": "https://stthomas.campuslabs.com/engage/organization/ceo",
+          "title": "Collegiate Entrepreneurs' Organization - Tommie Link",
+          "excerpts": [
+            "Collegiate Entrepreneurs' Organization\nCollegiate Entrepreneurs' Organization\nAbout To inform, support, and inspire college students to be entrepreneu"
+          ]
+        },
+        {
+          "url": "https://campusinvolvement.umich.edu/content/student-organization-resource-contact-list-0",
+          "title": "Student Organization Resource Contact List | Center for Campus Involvement",
+          "excerpts": [
+            "Book traversal links for Student Organization Resource Contact List\n‹ Student Organization Resource Contact List\nUp\nArts at Michigan › Student Life Lo"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3332",
+      "census_row": "25060",
+      "name": "EricLee0224",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"EricLee0224\" official profile organization",
+        "\"EricLee0224\" student ambassador program",
+        "\"EricLee0224\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"EricLee0224\" official organization profile",
+        "\"EricLee0224\" student ambassador program",
+        "\"EricLee0224\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "excerpts": [
+            "We are Hiring\n\nAI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\nJoin Now\n\nAb"
+          ]
+        },
+        {
+          "url": "https://ambassador.directory/programs/claude-campus-program",
+          "title": "Claude Campus Program by Anthropic | Ambassador Directory",
+          "excerpts": [
+            "1. Home /\n2. AI & Machine Learning /\n3. Claude Campus Program\nAI & Machine Learning Students\nClaude Campus Program — Anthropic tech ambassador program"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Prog"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3333",
+      "census_row": "25061",
+      "name": "SWHL",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"SWHL\" official profile organization",
+        "\"SWHL\" student ambassador program",
+        "\"SWHL\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"SWHL\" official organization profile",
+        "\"SWHL\" student ambassador program",
+        "\"SWHL\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Women's_League_(Switzerland)",
+          "title": "Women's League (Switzerland) - Wikipedia",
+          "excerpts": [
+            "* 6 Others women's competitions in Switzerland Toggle Others women's competitions in Switzerland subsection\n* 6.1 SWHL B\n* 6.2 SWHL C\n* 6.3 Fourth div"
+          ]
+        },
+        {
+          "url": "https://www.venturelab.swiss/swhl",
+          "title": "SWHL GmbH - Venturelab",
+          "excerpts": [
+            "* [Startups](https://www.venturelab.swiss/startups)\n* [Programs](https://www.venturelab.swiss/programs)\n* [Events](https://www.venturelab.swiss/events"
+          ]
+        },
+        {
+          "url": "https://apholo.ch/overview.html",
+          "title": "SWHL",
+          "excerpts": [
+            "# Sub-Wavelength Holographic Lithography\n\n[Home](https://apholo.ch/index.html) [Publications](https://apholo.ch/downloads.html) [FAQ](https://apholo.c"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3334",
+      "census_row": "25062",
+      "name": "eagle705",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"eagle705\" official profile organization",
+        "\"eagle705\" student ambassador program",
+        "\"eagle705\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"eagle705\" official organization profile",
+        "\"eagle705\" student ambassador program",
+        "\"eagle705\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "excerpts": [
+            "We are Hiring\n\nAI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\nJoin Now\n\nAb"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Prog"
+          ]
+        },
+        {
+          "url": "https://www.geneseo.edu/cil/student_ambassadorships",
+          "title": "Student Ambassador Program - SUNY Geneseo",
+          "excerpts": [
+            "* Home\n* Center for Integrative Learning\n* Student Ambassador Program\nCenter for Integrative Learning\n* What is Integrative Learning?\n* Explore IAL Ex"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3335",
+      "census_row": "25063",
+      "name": "OTA-Tech-AI",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"OTA-Tech-AI\" official profile organization",
+        "\"OTA-Tech-AI\" student ambassador program",
+        "\"OTA-Tech-AI\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"OTA-Tech-AI\" official organization profile",
+        "\"OTA-Tech-AI\" student ambassador program",
+        "\"OTA-Tech-AI\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://mcptoplist.com/org/ota-tech-ai",
+          "title": "OTA-Tech-AI - 1 MCP Server | MCP Toplist",
+          "excerpts": [
+            "← All organizations\nORGANIZATION\n\nOTA-Tech-AI\n\n1 server · 19.1 /100 avg score · listed on 1 registry\nView on GitHub ↗ Claim this organization\nFirst li"
+          ]
+        },
+        {
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "excerpts": [
+            "Campus Ambassador Program\n\nLead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to build campus-level communities, pr"
+          ]
+        },
+        {
+          "url": "https://www.baypath.edu/student-life/student-engagement/clubs-organizations",
+          "title": "Clubs & Organizations | Bay Path University",
+          "excerpts": [
+            "Bay Path University Open Navigation Apply Now Request Info\nInterested in hearing more about Bay Path University? Please select a program below:\nGradua"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3336",
+      "census_row": "25064",
+      "name": "Vasco0x4",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Vasco0x4\" official profile organization",
+        "\"Vasco0x4\" student ambassador program",
+        "\"Vasco0x4\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"Vasco0x4\" official organization profile",
+        "\"Vasco0x4\" student ambassador program",
+        "\"Vasco0x4\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/Vasco0x4",
+          "title": "Vasco0x4 (Vasco ) · GitHub",
+          "excerpts": [
+            "# User: Vasco (@Vasco0x4)\n\n- Page: GitHub user profile\n- URL: https://github.com/Vasco0x4\n- Location: kernel32.dll\n- Website: http://vasco0x4.me/\n- Fo"
+          ]
+        },
+        {
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "excerpts": [
+            "Campus Ambassador Program\n\nLead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to build campus-level communities, pr"
+          ]
+        },
+        {
+          "url": "https://www.swytchcode.com/campus-ambassadors",
+          "title": "Campus Ambassador Program | Swytchcode",
+          "excerpts": [
+            "Join Our global SwytchCode community\n\nBecome a Campus Ambassador. Grow your community, host AI events, and bring AI agents to more students.\nApply now"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3337",
+      "census_row": "25065",
+      "name": "oxynote",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"oxynote\" official profile organization",
+        "\"oxynote\" student ambassador program",
+        "\"oxynote\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"oxynote\" official organization profile",
+        "\"oxynote\" student ambassador program",
+        "\"oxynote\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/oxynote/oxynote",
+          "title": "GitHub - oxynote/oxynote: An open‑source technical wiki connected to the systems it describes · GitHub",
+          "excerpts": [
+            "# oxynote/oxynote\n\n- Page: GitHub repository\n- URL: https://github.com/oxynote/oxynote\n- Description: An open‑source technical wiki connected to the s"
+          ]
+        },
+        {
+          "url": "https://mcpservers.org/servers/oxynote/oxynote",
+          "title": "Oxynote MCP Server | Awesome MCP Servers",
+          "excerpts": [
+            "Uptime monitors, AI evals, a database viewer and admin actions are in development.\n\n</details>\n\n## Quick Start\n\nOxynote is one container. Start it wit"
+          ]
+        },
+        {
+          "url": "https://github.com/oxynote/oxynote/blob/main/SECURITY.md",
+          "title": "oxynote/SECURITY.md at main · oxynote/oxynote · GitHub",
+          "excerpts": [
+            "# oxynote/oxynote — SECURITY.md\n\n- Page: GitHub code file\n- URL: https://github.com/oxynote/oxynote/blob/main/SECURITY.md\n- Repository: oxynote/oxynot"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3338",
+      "census_row": "25066",
+      "name": "hfslyc",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"hfslyc\" official profile organization",
+        "\"hfslyc\" student ambassador program",
+        "\"hfslyc\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"hfslyc\" official organization profile",
+        "\"hfslyc\" student ambassador program",
+        "\"hfslyc\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://www.guvi.in/community/campus-ambassador",
+          "title": "HCL GUVI Campus Ambassador Program | Apply Now",
+          "excerpts": [
+            "Menu\nLIVE Classes\nVLSI Design Programme\nVLSI Design Programme\nNew\nIIT Delhi certified\nAI & Machine Learning\nAI & Machine Learning\nNew\nIntel & IIT-M Pr"
+          ]
+        },
+        {
+          "url": "https://ambassador.directory/programs/claude-campus-program",
+          "title": "Claude Campus Program by Anthropic | Ambassador Directory",
+          "excerpts": [
+            "1. Home /\n2. AI & Machine Learning /\n3. Claude Campus Program\nAI & Machine Learning Students\nClaude Campus Program — Anthropic tech ambassador program"
+          ]
+        },
+        {
+          "url": "https://www.hauscr.org/hsylc",
+          "title": "HSYLC — Harvard Undergraduate Association for U.S. Cross-Cultural Relations ",
+          "excerpts": [
+            "Check out our Seminar Leaders Testimonials of 2017 above!\nAs Seminar Leader , you will teach HSYLC students in a seminar of your design on any topic o"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3339",
+      "census_row": "25067",
+      "name": "Miasyster",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Miasyster\" official profile organization",
+        "\"Miasyster\" student ambassador program",
+        "\"Miasyster\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"Miasyster\" official organization profile",
+        "\"Miasyster\" student ambassador program",
+        "\"Miasyster\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/Miasyster",
+          "title": "Miasyster · GitHub",
+          "excerpts": [
+            "# User: Miasyster (@Miasyster)\n\n- Page: GitHub user profile\n- URL: https://github.com/Miasyster\n- Followers: 13\n- Following: 1\n- Top languages: Python"
+          ]
+        },
+        {
+          "url": "https://github.com/Miasyster/QuantGPT",
+          "title": "GitHub - Miasyster/QuantGPT: Agent-driven alpha factory — LLM autonomously designs, backtests, and submits factors to WorldQuant BRAIN · GitHub",
+          "excerpts": [
+            "# Miasyster/QuantGPT\n\n- Page: GitHub repository\n- URL: https://github.com/Miasyster/QuantGPT\n- Description: Agent-driven alpha factory — LLM autonomou"
+          ]
+        },
+        {
+          "url": "https://www.blackconnect.org/internships/campus-ambassadors",
+          "title": "Campus Ambassadors — Blackconnect.org",
+          "excerpts": [
+            "Sign In My Account\n\nCampus Ambassadors\n\nThe Campus Ambassador is a volunteer student leader who represents Black Connect on their college or universit"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3340",
+      "census_row": "25068",
+      "name": "canghailan",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"canghailan\" official profile organization",
+        "\"canghailan\" student ambassador program",
+        "\"canghailan\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"canghailan\" official organization profile",
+        "\"canghailan\" student ambassador program",
+        "\"canghailan\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://ambassador.directory/programs/claude-campus-program",
+          "title": "Claude Campus Program by Anthropic | Ambassador Directory",
+          "excerpts": [
+            "1. Home /\n2. AI & Machine Learning /\n3. Claude Campus Program\nAI & Machine Learning Students\nClaude Campus Program — Anthropic tech ambassador program"
+          ]
+        },
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "excerpts": [
+            "We are Hiring\n\nAI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\nJoin Now\n\nAb"
+          ]
+        },
+        {
+          "url": "https://uat.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "excerpts": [
+            "We are Hiring\n\nAI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\nJoin Now\n\nAb"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3341",
+      "census_row": "25069",
+      "name": "yangzhou24",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"yangzhou24\" official profile organization",
+        "\"yangzhou24\" student ambassador program",
+        "\"yangzhou24\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"yangzhou24\" official organization profile",
+        "\"yangzhou24\" student ambassador program",
+        "\"yangzhou24\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://memmachine.ai/community-student-ambassador-program/",
+          "title": "MemMachine Student Ambassador Program | MemMachine",
+          "excerpts": [
+            "MemMachine Student Ambassador Program\n\nJoin the Hippo Huddle. Learn, build, and make an impact with MemMachine.\n\n🦛 About the Program\n\nThe MemMachine "
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Prog"
+          ]
+        },
+        {
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "excerpts": [
+            "Campus Ambassador Program\n\nLead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to build campus-level communities, pr"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3342",
+      "census_row": "25070",
+      "name": "Holiday-Robot",
+      "tier": "small",
+      "category": "robotics",
+      "queries": [
+        "\"Holiday-Robot\" official profile organization",
+        "\"Holiday-Robot\" student ambassador program",
+        "\"Holiday-Robot\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"Holiday-Robot\" official organization profile",
+        "\"Holiday-Robot\" student ambassador program",
+        "\"Holiday-Robot\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/Holiday-Robot",
+          "title": "Holiday Robotics · GitHub",
+          "excerpts": [
+            "Organization: Holiday Robotics (@Holiday-Robot)\n\n* Page: GitHub organization profile\n* URL: https://github.com/Holiday-Robot\n* Location: Korea, South\n"
+          ]
+        },
+        {
+          "url": "https://kyu-robo.sakura.ne.jp/index.html",
+          "title": "休日ロボットエンジニア ~Holiday Robot Engineer~",
+          "excerpts": [
+            "休日ロボットエンジニア\n\n* ホーム\n* 作成物案内\n* 活動記録\n* ギャラリー\n* メンバー紹介\n* 問い合わせ\n\n休日ロボットエンジニアとは\n\nモノ作り集団\n\n平日の仕事から逃れ、モノ作りに励んでいる集団が「休日ロボットエンジニア」(通称『休ロボ』)です。 基本的には会社の同期や同じ部署内のモ"
+          ]
+        },
+        {
+          "url": "https://holiday-robotics.com/about",
+          "title": "Holiday Robotics | About Us",
+          "excerpts": [
+            "We focus on full-stack robotics, dexterous manipulation, and field deployment to free human hands.\nProblems We're Solving\n\nThe hardest part happens in"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3343",
+      "census_row": "25071",
+      "name": "Graphicle-AI",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Graphicle-AI\" official profile organization",
+        "\"Graphicle-AI\" student ambassador program",
+        "\"Graphicle-AI\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"Graphicle-AI\" official organization profile",
+        "\"Graphicle-AI\" student ambassador program",
+        "\"Graphicle-AI\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://mcptoplist.com/org/graphicle-ai",
+          "title": "Graphicle-AI - 1 MCP Server | MCP Toplist",
+          "excerpts": [
+            "← All organizations\nORGANIZATION\n\nGraphicle-AI\n\n1 server · 34.6 /100 avg score · listed on 2 registries\nView on GitHub ↗ Claim this organization\nFirst"
+          ]
+        },
+        {
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "excerpts": [
+            "Campus Ambassador Program\n\nLead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to build campus-level communities, pr"
+          ]
+        },
+        {
+          "url": "https://www.swytchcode.com/campus-ambassadors",
+          "title": "Campus Ambassador Program | Swytchcode",
+          "excerpts": [
+            "Join Our global SwytchCode community\n\nBecome a Campus Ambassador. Grow your community, host AI events, and bring AI agents to more students.\nApply now"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3344",
+      "census_row": "25072",
+      "name": "Mybridge",
+      "tier": "small",
+      "category": "rl",
+      "queries": [
+        "\"Mybridge\" official profile organization",
+        "\"Mybridge\" student ambassador program",
+        "\"Mybridge\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"Mybridge\" official organization profile",
+        "\"Mybridge\" student ambassador program",
+        "\"Mybridge\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://www.mybridge.me/about-us",
+          "title": "About Us - mybridge",
+          "excerpts": [
+            "[](https://www.mybridge.me/)\n\nLog in Sign Up\n\n**Welcome to** **myBridge** , the platform designed to revolutionize the way professionals connect, coll"
+          ]
+        },
+        {
+          "url": "https://mybridge.life/",
+          "title": "MyBridge — Discover Your Purpose",
+          "excerpts": [
+            "MyBridge\n* The Platform\n* For Schools\n* Try It\n* About\n* Get in Touch\nFor young people, ages 15–19\n\nYour life has a\n\ndirection. Let's find it.\nMyBridg"
+          ]
+        },
+        {
+          "url": "https://mybridgeradio.net/category/morning-conversations",
+          "title": "Morning Conversations Archives - My Bridge Radio",
+          "excerpts": [
+            "\nCategory: Morning Conversations\n\nLaunching Graduates\n\n* Morning Conversations\nAs graduation season unfolds, this conversation dives into what it real"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3345",
+      "census_row": "25073",
+      "name": "dense-analysis",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"dense-analysis\" official profile organization",
+        "\"dense-analysis\" student ambassador program",
+        "\"dense-analysis\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"dense-analysis\" official organization profile",
+        "\"dense-analysis\" student ambassador program",
+        "\"dense-analysis\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://denseanalysis.org/about/",
+          "title": "Abouts - Dense Analysis",
+          "excerpts": [
+            "Abouts\n\n## Contact Us\nPosted on January 1, 0001 | 1 minutes | 195 words |\nIf you are interested in contacting us, please feel free to reach out at you"
+          ]
+        },
+        {
+          "url": "https://denseanalysis.org/about/organization",
+          "title": "The Organization - Dense Analysis",
+          "excerpts": [
+            "The Organization\n\nDense Analysis is a nonprofit organization incorporated in the state of Washington in the United States of America in 2022. Dense An"
+          ]
+        },
+        {
+          "url": "https://denseanalysis.org/projects/daft",
+          "title": "DAFT - Dense Analysis",
+          "excerpts": [
+            "# DAFT\n\n* * *\n\n## The \"Dense Analysis Functional Toolkit\"\n\nDense Analysis maintains and also recommends a suite of FOSS tools for building\ncomputer so"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3346",
+      "census_row": "25074",
+      "name": "ai-search-guru",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"ai-search-guru\" official profile organization",
+        "\"ai-search-guru\" student ambassador program",
+        "\"ai-search-guru\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"ai-search-guru\" official organization profile",
+        "\"ai-search-guru\" student ambassador program",
+        "\"ai-search-guru\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool",
+          "title": "GitHub - ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool: GetCito the World's First Open Source AI Search Optimization (AIO) / Answer Engine Optimization (AEO) or Generative Engine Optimization (GEO) and AI Visibility Tracking Tool. · GitHub",
+          "excerpts": [
+            "ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool\n\n* Page: GitHub repository\n* URL: https://github.com/ai-search-guru/getcito-worlds"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of tr"
+          ]
+        },
+        {
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "excerpts": [
+            "Campus Ambassador Program\n\nLead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to build campus-level communities, pr"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3347",
+      "census_row": "25075",
+      "name": "zenogantner",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"zenogantner\" official profile organization",
+        "\"zenogantner\" student ambassador program",
+        "\"zenogantner\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"zenogantner\" official organization profile",
+        "\"zenogantner\" student ambassador program",
+        "\"zenogantner\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/zenogantner",
+          "title": "zenogantner (Zeno Gantner) · GitHub",
+          "excerpts": [
+            "# User: Zeno Gantner (@zenogantner)\n\n- Page: GitHub user profile\n- URL: https://github.com/zenogantner\n- Company: @facebook\n- Location: Berlin, German"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of tr"
+          ]
+        },
+        {
+          "url": "https://mamentis.com/student-ambassador",
+          "title": "Student Ambassador Program | Mamentis",
+          "excerpts": [
+            "Mamentis Logo Mamentis Logo Mamentis Product\nResources\n* Documentation\n* Blog\nPricing Enterprise AI\nLog in Start for Free\n\nStudent Ambassador Program\n"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3348",
+      "census_row": "25076",
+      "name": "opennookorg",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"opennookorg\" official profile organization",
+        "\"opennookorg\" student ambassador program",
+        "\"opennookorg\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"opennookorg\" official organization profile",
+        "\"opennookorg\" student ambassador program",
+        "\"opennookorg\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/opennookorg",
+          "title": "opennook · GitHub",
+          "excerpts": [
+            "# Organization: opennook (@opennookorg)\n\n- Page: GitHub organization profile\n- URL: https://github.com/opennookorg\n- Links: https://x.com/code_kartik,"
+          ]
+        },
+        {
+          "url": "https://github.com/opennookorg/betterwispr",
+          "title": "GitHub - opennookorg/betterwispr: Free, open-source, local-first dictation app for macOS. Hold a shortcut, speak, and text is typed into any app. On-device speech-to-text with Whisper, Parakeet and Apple speech. Private, offline, open-source Wispr Flow alternative. · GitHub",
+          "excerpts": [
+            "# opennookorg/betterwispr\n\n- Page: GitHub repository\n- URL: https://github.com/opennookorg/betterwispr\n- Description: Free, open-source, local-first d"
+          ]
+        },
+        {
+          "url": "https://news.ycombinator.com/item?id=50046250",
+          "title": "Just tried it out as I was looking for something that does this exact thing well... | Hacker News",
+          "excerpts": [
+            "|[](https://news.ycombinator.com/) |**[Hacker News](https://news.ycombinator.com/news)** [new](https://news.ycombinator.com/newest) | [past](https://n"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3349",
+      "census_row": "25077",
+      "name": "PITI-Synthesis",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"PITI-Synthesis\" official profile organization",
+        "\"PITI-Synthesis\" student ambassador program",
+        "\"PITI-Synthesis\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"PITI-Synthesis\" official organization profile",
+        "\"PITI-Synthesis\" student ambassador program",
+        "\"PITI-Synthesis\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://unitedstatesofamericasuperintelligence.com/github/piti-synthesis--piti/",
+          "title": "PITI-Synthesis/PITI on GitHub | USASI",
+          "excerpts": [
+            "1. Home\n2. AI on GitHub\nGenerated green flowing-wave artwork for PITI-Synthesis/PITI, labeled USASI · AI on GitHub, with Personal account · Python · M"
+          ]
+        },
+        {
+          "url": "https://www.alphaxiv.org/abs/2205.12952",
+          "title": "Pretraining is All You Need for Image-to-Image Translation | alphaXiv",
+          "excerpts": [
+            "uality. We present extensive empirical comparison across various tasks on challenging benchmarks such as ADE20K, COCO-Stuff, and DIODE, showing the pr"
+          ]
+        },
+        {
+          "url": "https://www.tinyfish.ai/blog/student-ambassador-program",
+          "title": "Student Ambassador Program for AI Builders: TinyFish for Students | TinyFish Blog",
+          "excerpts": [
+            "On this page\n\n* TL;DR\n* What is a student ambassador program?\n* Why join a student ambassador program?\n* How TinyFish for Students works\n* What studen"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    },
+    {
+      "small_rank": "3350",
+      "census_row": "25078",
+      "name": "jovanavidenovic",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"jovanavidenovic\" official profile organization",
+        "\"jovanavidenovic\" student ambassador program",
+        "\"jovanavidenovic\" campus ambassador AI"
+      ],
+      "searched_queries": [
+        "\"jovanavidenovic\" official organization profile",
+        "\"jovanavidenovic\" student ambassador program",
+        "\"jovanavidenovic\" campus ambassador AI"
+      ],
+      "results": [
+        {
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "excerpts": [
+            "Campus Ambassador Program\n\nLead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to build campus-level communities, pr"
+          ]
+        },
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "excerpts": [
+            "We are Hiring\n\nAI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\nJoin Now\n\nAb"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "excerpts": [
+            "Official Verified Link • Shareable Profile\n50+\nCollege Campuses\n100+\nStudent Ambassadors\n4000+\nStudents Reached\n100% Free\nLeadership Program\nCore Prog"
+          ]
+        }
+      ],
+      "status": "SEARCHED; FURTHER REVIEW REQUIRED",
+      "notes": "Initial exact-name results recorded; continue assessing exact-entity official-source leads."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Audit notes: census rows 5401–5450
+
+- Coverage: 50 consecutive source rows from `census-search-ledger-2026-11-09.csv`; exact row number, name, tier and category retained and checked against canonical positions.
+- Method: bounded check for exact-entity, organizer-owned student/campus/community ambassador, advocate, champion, fellow, chapter or representative intake. Primary-source evidence was required to establish exact identity/ownership. Search directories and unlinked programs were discovery leads only.
+- No qualifying route was confirmed for an exact census entity. High-signal program checks: Technovation’s official Student Ambassador program is limited to its 13–18-year-old alumnae; no tie to `tb0hdan` was established. MemMachine’s official Student Ambassador program is not attributable to `heymrun`, which identifies separately as Heym AI. OpenAI Codex Ambassadors, LF Energy, 5ire, Anakin, Qualcomm/Arduino, Open Mainframe Project, The Noah AI, and NEON programs were likewise not linked to their nearby census handles/entities.
+- ClawBio’s official community supports events and open contributions but no formal ambassador intake was identified. Broad contributor participation, education programs, student resources, events, and unrelated university ambassador listings were not counted as qualifying routes.
+- Current-status nuance: Technovation’s official page currently says the 2026–27 Student Ambassador applications are closed; OpenAI’s current Codex Ambassadors page says applications are closed and students are not accepted. These observations are dated to the current check only; exact Nov 9 status was not established, and neither program is attributed to an unrelated census entity.
+- The CSV records the Nov 9 cutoff assessment separately from current findings checked Nov 10. India/MUJ eligibility is not inferred.
+- No X MCP, contact, application, form submission, or external outreach was used. Bounded screening does not prove absence.

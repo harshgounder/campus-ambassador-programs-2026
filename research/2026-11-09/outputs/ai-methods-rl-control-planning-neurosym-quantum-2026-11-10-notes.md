@@ -1,0 +1,21 @@
+# Non-LLM AI methods and quantum-AI opportunity pass
+
+**Cutoff:** 2026-11-09. **Checked:** 2026-11-10. **Scope:** RL, control, planning/search, KR/automated reasoning, neuro-symbolic, fuzzy/evolutionary/soft computing, cognitive AI, and both AI-for-quantum and quantum-methods-for-AI. Searched organizer pages and official society/project/event sources for ambassador, student representative/chapter, developer champion/advocate, volunteer, and organizer routes. No X MCP, forms, personal data, messages, outreach, or source-repo edits were used.
+
+## Findings
+
+- **Qiskit Fall Fest 2026 host** is a distinct student/community event organizer route in quantum. IBM's official call was global and welcomed student hosts, researchers, educators, and community leaders; the application path required a June 23 information-session signup, one session June 26–29, application by July 20, and decisions July 31. IBM states events ran Oct–Nov and host learning/planning sessions ran twice weekly Aug 10–Sep 29. No hours or compensation are stated; benefits include IBM Quantum resources/support and leadership/network access. It was closed on Nov 9. IBM’s event roster lists IEM Kolkata on Nov 9, establishing an India-hosted event, not an open India application. This is an organizer/event route, not an ambassador role.
+- **Qiskit Advocate Program (v2.0)** is included as a deduped cross-direction route: it already appears as row 228 in `ai-ml-priority-verification-delta-2026-11-09.csv`. That record reports year-round applications, global/student eligibility and a qualifying badge/certification prerequisite. It is general quantum-software advocacy, not a named AI/quantum specialization.
+- **ICAPS LaunchPad 2026** is a strong topical match for planning/scheduling and explicitly welcomes undergraduate/master’s students, with mentoring and research exploration. The June 27 in-person event in Dublin was past the cutoff. Conference registration/travel is needed; organizers only said possible partial support was being explored. It is a research-development workshop, not a chapter/ambassador/volunteer role. No 2027 successor was verified.
+- The ICAPS 2026 **Shadow Program Committee** page is not counted as an eligible route: it is aimed at PhD students and early-career researchers and displays dates in 2026 that had passed (with some internally inconsistent year references).
+- Searches of official IEEE Computational Intelligence Society pages confirmed membership and chapter/community structure spanning fuzzy systems and evolutionary computation, but did not establish a currently open, dated ambassador, student representative or chapter-lead intake. Membership is an ordinary professional-community route, not a student opportunity call.
+
+## Search coverage and limits
+
+Official-page searches covered IEEE CIS (computational intelligence/fuzzy/evolutionary), IEEE RAS (control/robotics adjacent), AAAI student-volunteer/program routes, ICAPS planning, GECCO/SIGEVO evolutionary computation, and IBM Quantum/Qiskit. Results included old conference volunteer/student/research opportunities, which were excluded as closed or miscategorized. No new, verified-on-cutoff open role was established for RL, control, knowledge representation/automated reasoning, neuro-symbolic, cognitive AI, fuzzy/soft computing, or a distinct AI-for-quantum program.
+
+This is a bounded coverage pass. It does not establish that no route exists elsewhere. Several primary sources lacked current role cycles, country eligibility, duties or hours. Qiskit Fall Fest is general quantum community leadership rather than a quantum-AI-specific track; the IEM listing is evidence of India participation only. The Qiskit Advocate finding is inherited from the existing ledger and was not added as a new lead.
+
+## Deduplication
+
+Compared with `outputs/ai-ml-priority-verification-delta-2026-11-09.csv`, `outputs/ambassador-research-first-wave-2026-11-09.csv`, and `outputs/ai-taxonomy-gap-audit-2026-11-09.md`. Qiskit Advocate is explicitly deduped against the priority delta. Qiskit Fall Fest host is recorded as a separate organizer mechanism, not another advocate role. ICAPS LaunchPad is a past research-development event; it is not an ambassador lead. No other new open opportunity met the evidence bar in this pass.

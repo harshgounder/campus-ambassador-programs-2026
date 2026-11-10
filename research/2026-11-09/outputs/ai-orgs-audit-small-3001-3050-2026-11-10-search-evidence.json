@@ -1,0 +1,2313 @@
+{
+  "slice": {
+    "start": 3001,
+    "end": 3050,
+    "cutoff": "2026-11-09",
+    "researched": "2026-11-10"
+  },
+  "method": "50 exact-handle web-search calls; three targeted query variations each (150 queries); up to four result records retained per entity. Result presence does not prove identity or route ownership.",
+  "entity_calls": 50,
+  "query_variations_per_entity": 3,
+  "records": [
+    {
+      "small_rank": "3001",
+      "census_row": "24729",
+      "name": "redis-developer",
+      "queries": [
+        "redis-developer student ambassador AI",
+        "redis-developer campus advocate program",
+        "redis-developer official community fellowship student"
+      ],
+      "search_id": "search_e2a29c0f8e8f6c90c5ae31ac14edeb14",
+      "results": [
+        {
+          "url": "https://redis-developer.github.io/redis-insiders/",
+          "title": "Redis Insiders, our ambassador program | The Home of Redis Developers",
+          "publish_date": "2022-11-10",
+          "excerpts": [
+            "Announcing Redis 7.2 and Enhanced Vector DB Learn more →\nRedis Developer Hub logo Redis Developer Hub logo\nGet started Redis Launchpad Try Free\n* \n* Get Involved\n* Redis Insiders\n* Redis Insiders\nOn this page\n\nRedis Insiders, our ambassador program\n\nProfile picture for Suze Shardlow\nAuthor:\nSuze Sha"
+          ]
+        },
+        {
+          "url": "https://github.com/redis-developer/redis-developer.github.io",
+          "title": "GitHub - redis-developer/redis-developer.github.io: The Home of Redis Developers · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "redis-developer/redis-developer.github.io\n\n* Page: GitHub repository\n* URL: https://github.com/redis-developer/redis-developer.github.io\n* Description: The Home of Redis Developers\n* Default branch: master\n* Created: 2020-12-31T10:46:44.000Z\n* Commits: 3,321\n\nTop-level files\n\n* .github/workflows/\n* "
+          ]
+        },
+        {
+          "url": "https://github.com/redis-developer",
+          "title": "Redis Developer · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# Organization: Redis Developer (@redis-developer)\n\n- Page: GitHub organization profile\n- URL: https://github.com/redis-developer\n- Website: https://redis.io/learn\n- Links: https://twitter.com/redisinc\n- Top languages: Python, TypeScript, Jupyter Notebook, JavaScript, Java, Rust, Shell, C#\n- Top top"
+          ]
+        },
+        {
+          "url": "https://memmachine.ai/community-student-ambassador-program",
+          "title": "MemMachine Student Ambassador Program | MemMachine",
+          "publish_date": null,
+          "excerpts": [
+            "# MemMachine Student Ambassador Program\n\nJoin the Hippo Huddle. Learn, build, and make an impact with MemMachine.\n\n## 🦛 About the Program\n\nThe MemMachine Student Ambassador Program empowers students around the world to become the voice of MemMachine – The Open-Source Memory Layer for AI Agents on t"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3002",
+      "census_row": "24730",
+      "name": "r14dd",
+      "queries": [
+        "r14dd student ambassador AI",
+        "r14dd campus advocate program",
+        "r14dd official community fellowship student"
+      ],
+      "search_id": "search_a330748f1a002e5fa3fc62256673809c",
+      "results": [
+        {
+          "url": "https://github.com/r14dd",
+          "title": "r14dd (Riad Mukhtarov) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Riad Mukhtarov (@r14dd)\n\n* Page: GitHub user profile\n* URL: https://github.com/r14dd\n* Location: Baku, Azerbaijan\n* Website: https://riad.cc\n* Followers: 19\n* Following: 2\n* Links: https://riad.cc, https://www.linkedin.com/in/riadmukhtarov\n* Top languages: Rust, Python, Java\n\nPinned repositori"
+          ]
+        },
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        },
+        {
+          "url": "https://tamids.tamu.edu/student-opportunities/student-ambassadors",
+          "title": "Student Ambassadors Program - TAMIDS",
+          "publish_date": "2024-02-08",
+          "excerpts": [
+            "Ambassadors are Texas A&M graduate students who wish to serve as representatives for TAMIDS and champions for AI and data science literacy in their field\n\n...\n\nTAMIDS Ambassadors play a crucial role in promoting AI, machine learning, and data science literacy and connecting new individuals to our gr"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\n# Campus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\n## Why Join\n\n### Frontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\n### Real Ownersh"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3003",
+      "census_row": "24731",
+      "name": "neilgupta",
+      "queries": [
+        "neilgupta student ambassador AI",
+        "neilgupta campus advocate program",
+        "neilgupta official community fellowship student"
+      ],
+      "search_id": "search_3167ca5e37080e43a176e19d5902eee0",
+      "results": [
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        },
+        {
+          "url": "https://campusambassador.incuxai.com/",
+          "title": "IncuXai Campus AI Ambassador Program 2026–27",
+          "publish_date": null,
+          "excerpts": [
+            "IncuXai Ambassador\nProgram Timeline Benefits Process FAQ\nApply Now\n2026–27 Program — Registrations Open Now\n\nIncuXai Campus AI Ambassador\n\n2026–27\n\nIndia's one of the largest student-driven AI leadership initiative. 300 Ambassadors from 150 Colleges building AI innovation communities across campuses"
+          ]
+        },
+        {
+          "url": "https://memmachine.ai/community-student-ambassador-program",
+          "title": "MemMachine Student Ambassador Program | MemMachine",
+          "publish_date": null,
+          "excerpts": [
+            "# MemMachine Student Ambassador Program\n\nJoin the Hippo Huddle. Learn, build, and make an impact with MemMachine.\n\n## 🦛 About the Program\n\nThe MemMachine Student Ambassador Program empowers students around the world to become the voice of MemMachine – The Open-Source Memory Layer for AI Agents on t"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/suraj-munde-",
+          "title": "Suraj Munde",
+          "publish_date": null,
+          "excerpts": [
+            "* url: https://linkedin.com/in/suraj-munde-\n * name: Suraj Munde\n * first name: Suraj\n * last name: Munde\n * company name: E-Cell, IIT Bombay\n * title: Campus Ambassador\n * country iso: IN\n * country name: India\n * locality: Pune/Pimpri-Chinchwad Area\n * headline\n   - Campus Ambassador at E-Cell, II"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3004",
+      "census_row": "24732",
+      "name": "tasdikrahman",
+      "queries": [
+        "tasdikrahman student ambassador AI",
+        "tasdikrahman campus advocate program",
+        "tasdikrahman official community fellowship student"
+      ],
+      "search_id": "search_05ebd62ebbe3698f0ab43594db4ecd83",
+      "results": [
+        {
+          "url": "https://github.com/tasdikrahman",
+          "title": "tasdikrahman (Tasdik Rahman) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Tasdik Rahman (@tasdikrahman)\n\n* Page: GitHub user profile\n* URL: https://github.com/tasdikrahman\n* Company: @newrelic\n* Location: Berlin, Germany\n* Website: https://www.tasdikrahman.com/\n* Followers: 573\n* Following: 798\n* Links: https://www.tasdikrahman.com/, https://twitter.com/tasdikrahman"
+          ]
+        },
+        {
+          "url": "https://github.com/tasdikrahman/gsoc-proposal-2017/blob/master/tasdikrahman_ovirt_Projectproposal_gsoc_2017.pdf",
+          "title": "gsoc-proposal-2017/tasdikrahman_ovirt_Projectproposal_gsoc_2017.pdf at master · tasdikrahman/gsoc-proposal-2017 · GitHub",
+          "publish_date": "2019-12-09",
+          "excerpts": [
+            "Skip to content ## Navigation Menu\nSign in\n* Products\n  + Platform\n  \n  - [GitHub Repository hosting, code review, and collaboration](https://github.com/platform)\n  - [Copilot AI coding agent for tasks, projects and automated work](https://github.com/features/copilot)\n* Build & Ship\n* Actions CI/CD "
+          ]
+        },
+        {
+          "url": "https://scholarshipsandaid.org/2026/09/03/claude-campus-ambassador-programme-2026/",
+          "title": "Claude Campus Ambassador Programme 2026. – SCHOLARSHIPS AND AID",
+          "publish_date": "2026-11-07",
+          "excerpts": [
+            "September 3, 2026 4 minutes read\nApplications are now open for the 2026 Claude Campus Ambassador Program. The programme supports student-led AI initiatives at universities and invites undergraduate students, graduate students, PhD students and postdocs to help create communities around AI learning, "
+          ]
+        },
+        {
+          "url": "https://x.com/rishabhkio/status/2119599602920042840",
+          "title": "Rishabh Karnawat on X: \"hi everyone, autumn ai is expanding its campus ambassador program.\n\nif you’re a college student, this is a rare opportunity to work with one of the most exciting yc-backed startups, alongside an incredibly talented team building something exceptional.\n\ni’ll personally review… / X",
+          "publish_date": "2026-11-09",
+          "excerpts": [
+            "Post\n\nLog in Sign up\n\nPost\n\nLog in Sign up\n\nRishabh Karnawat on X: \"hi everyone, autumn ai is expanding its campus ambassador program.\n\n...\n\ni’ll personally review your profile and connect you with the right person if it’s a good fit. my dms are open. apply here: https://t.co/wKymR0IeRo\"\n\nConversati"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3005",
+      "census_row": "24733",
+      "name": "1033020837",
+      "queries": [
+        "1033020837 student ambassador AI",
+        "1033020837 campus advocate program",
+        "1033020837 official community fellowship student"
+      ],
+      "search_id": "search_5349401d093b254e58b6fad1da6f6f8a",
+      "results": [
+        {
+          "url": "https://x.com/rishabhkio/status/2119599602920042840",
+          "title": "Rishabh Karnawat on X: \"hi everyone, autumn ai is expanding its campus ambassador program.\n\nif you’re a college student, this is a rare opportunity to work with one of the most exciting yc-backed startups, alongside an incredibly talented team building something exceptional.\n\ni’ll personally review… / X",
+          "publish_date": "2026-11-09",
+          "excerpts": [
+            "Post\n\nLog in Sign up\n\nPost\n\nLog in Sign up\n\nRishabh Karnawat on X: \"hi everyone, autumn ai is expanding its campus ambassador program.\n\n...\n\ni’ll personally review your profile and connect you with the right person if it’s a good fit. my dms are open. apply here: https://t.co/wKymR0IeRo\"\n\nConversati"
+          ]
+        },
+        {
+          "url": "https://memorilabs.ai/student-ambassador",
+          "title": "Student ambassador program | Memori – Agent-native memory infrastructure",
+          "publish_date": null,
+          "excerpts": [
+            "# Student ambassador program\n\n# Student ambassador program\n\nMemori is building the memory infrastructure layer for AI agents. With 13K GitHub stars and148Kdownloads since coming out of stealth in late 2025, we're growing fast. Now we're bringing that momentum to college campuses.\n\nMemori is building"
+          ]
+        },
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "publish_date": null,
+          "excerpts": [
+            "\n**We are Hiring**\n\n# AI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\n\n## About the Program\n\nThis student-driven initiative is designed to promote the ethical use of AI on campuses worldwide. Gain valuable experience, access "
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3006",
+      "census_row": "24734",
+      "name": "avansaber",
+      "queries": [
+        "avansaber student ambassador AI",
+        "avansaber campus advocate program",
+        "avansaber official community fellowship student"
+      ],
+      "search_id": "search_a60429319533ef7db06f27dff5516651",
+      "results": [
+        {
+          "url": "https://linkedin.com/company/avansaber",
+          "title": "linkedin.com",
+          "publish_date": null,
+          "excerpts": [
+            "* Name: AvanSaber\n * description\n   - AvanSaber is a forward-thinking technology company specializing in Software as a Service (SaaS) solutions and high value software consulting . Our mission is to provide innovative and efficient solutions that empower businesses to reach their full potential.\nOur"
+          ]
+        },
+        {
+          "url": "https://github.com/avansaber",
+          "title": "AvanSaber Inc · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# Organization: AvanSaber Inc (@avansaber)\n\n- Page: GitHub organization profile\n- URL: https://github.com/avansaber\n- Location: Newark\n- Website: https://www.avansaber.com\n- Top languages: Python, PHP, TypeScript\n\nERPClaw: the AI-native ERP. Run your whole business in plain language. Free forever, s"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        },
+        {
+          "url": "https://www.forbes.com/councils/forbestechcouncil/people/nikhiljathar",
+          "title": "Nikhil Jathar - Forbes Technology Council",
+          "publish_date": null,
+          "excerpts": [
+            "Nikhil Jathar\n\nNikhil Jathar\n\nForbes Councils Member |\nCOUNCIL POST Expertise from Forbes Councils members, operated under license. Opinions expressed are those of the author. Membership (fee-based)\n   \nNikhil Jathar: AvanSaber Co-founder, IEEE-USA advocate bridging AI innovation with responsible go"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3007",
+      "census_row": "24735",
+      "name": "juanjuandog",
+      "queries": [
+        "juanjuandog student ambassador AI",
+        "juanjuandog campus advocate program",
+        "juanjuandog official community fellowship student"
+      ],
+      "search_id": "search_0c4a937b99186a61d0974cd48913949c",
+      "results": [
+        {
+          "url": "https://github.com/juanjuandog",
+          "title": "juanjuandog (juanjuandog) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: juanjuandog (@juanjuandog)\n\n* Page: GitHub user profile\n* URL: https://github.com/juanjuandog\n* Followers: 3\n* Following: 1\n* Top languages: Java, JavaScript, Go, Python\nBackend-focused full-stack developer · Java, Spring Boot, AI Agents, and Go\n\nPinned repositories\n\n* spring-projects/spring-a"
+          ]
+        },
+        {
+          "url": "https://github.com/juanjuandog/FinSight-AI",
+          "title": "GitHub - juanjuandog/FinSight-AI: AI equity research agent with resilient workflows, evidence-grounded RAG, versioned reports, and automated quality evaluation. · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# juanjuandog/FinSight-AI\n\n- Page: GitHub repository\n- URL: https://github.com/juanjuandog/FinSight-AI\n- Description: AI equity research agent with resilient workflows, evidence-grounded RAG, versioned reports, and automated quality evaluation. - juanjuandog/FinSight-AI\n- License: MIT license\n\n...\n\n"
+          ]
+        },
+        {
+          "url": "https://download.plaud.ai/juanjuandog",
+          "title": "juanjuandog (juanjuandog) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Skip to content ## Navigation Menu\n@juanjuandog juanjuandog Follow\nOverview Repositories 24 Projects Packages Stars 59\n@juanjuandog juanjuandog Follow\nView juanjuandog's full-sized avatar\n\njuanjuandog juanjuandog\n\nFollow\nBackend-focused full-stack developer · Java, Spring Boot, AI Agents, and Go\n5 f"
+          ]
+        },
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3008",
+      "census_row": "24736",
+      "name": "giselles-ai",
+      "queries": [
+        "giselles-ai student ambassador AI",
+        "giselles-ai campus advocate program",
+        "giselles-ai official community fellowship student"
+      ],
+      "search_id": "search_bdd30e0b689c19f222a7312a4eecdb98",
+      "results": [
+        {
+          "url": "https://github.com/giselles-ai",
+          "title": "Giselle · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Organization: Giselle (@giselles-ai)\n\n* Page: GitHub organization profile\n* URL: https://github.com/giselles-ai\n* Location: Japan\n* Website: https://giselles.ai\n* Links: https://www.instagram.com/giselle_de_ai/, https://x.com/Giselles_AI, https://www.facebook.com/GiselleAI/, https://www.youtube.com/"
+          ]
+        },
+        {
+          "url": "https://github.com/giselles-ai/giselle",
+          "title": "GitHub - giselles-ai/giselle: Giselle: AI App Builder. Open Source. · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "giselles-ai/giselle\n\n* Page: GitHub repository\n* URL: https://github.com/giselles-ai/giselle\n* Description: Giselle: AI App Builder. Open Source\n* License: Apache-2.0 license\n* Default branch: main\n* Created: 2024-08-21T02:40:46.000Z\n* Commits: 13,320\n\nTop-level files\n\n* .claude/\n* .cursor/rules/\n* "
+          ]
+        },
+        {
+          "url": "https://download.plaud.ai/giselles-ai",
+          "title": "Giselle · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Skip to content ## Navigation Menu\n@giselles-ai\n\nGiselle\n\nAI for agentic workflows. Human-AI collaboration.\n* Verified\nWe've verified that the organization giselles-ai controls the domain:\n* giselles.ai\nLearn more about verified organizations\n* 19 followers\n* Japan\n* https://giselles.ai\n* giselle_de"
+          ]
+        },
+        {
+          "url": "https://www.everydev.ai/tools/giselle",
+          "title": "Giselle",
+          "publish_date": null,
+          "excerpts": [
+            "Giselle\n\nAI app builder that enables teams to create, deploy, and manage AI agents visually without code for product development workflows.\nGiselle is an AI app builder designed for AI-native product teams to create, deploy, and manage AI agents through a visual, no-code interface. It enables teams "
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3009",
+      "census_row": "24737",
+      "name": "hihozhou",
+      "queries": [
+        "hihozhou student ambassador AI",
+        "hihozhou campus advocate program",
+        "hihozhou official community fellowship student"
+      ],
+      "search_id": "search_ae00a91dd476a992cf3e9f657c758101",
+      "results": [
+        {
+          "url": "https://x.com/rishabhkio/status/2119599602920042840",
+          "title": "Rishabh Karnawat on X: \"hi everyone, autumn ai is expanding its campus ambassador program.\n\nif you’re a college student, this is a rare opportunity to work with one of the most exciting yc-backed startups, alongside an incredibly talented team building something exceptional.\n\ni’ll personally review… / X",
+          "publish_date": "2026-11-09",
+          "excerpts": [
+            "Post\n\nLog in Sign up\n\nPost\n\nLog in Sign up\n\nRishabh Karnawat on X: \"hi everyone, autumn ai is expanding its campus ambassador program.\n\n...\n\ni’ll personally review your profile and connect you with the right person if it’s a good fit. my dms are open. apply here: https://t.co/wKymR0IeRo\"\n\nConversati"
+          ]
+        },
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1. [ホームページ](https://blog.google/intl/ja-jp/ \"Japan Blog\")\n2. [最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 "
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\n# Campus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\n## Why Join\n\n### Frontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\n### Real Ownersh"
+          ]
+        },
+        {
+          "url": "http://memmachine.ai/community-student-ambassador-program",
+          "title": "MemMachine Student Ambassador Program | MemMachine",
+          "publish_date": null,
+          "excerpts": [
+            "MemMachine Student Ambassador Program\n\nJoin the Hippo Huddle. Learn, build, and make an impact with MemMachine.\n\n🦛 About the Program\n\nThe MemMachine Student Ambassador Program empowers students around the world to become the voice of MemMachine – The Open-Source Memory Layer for AI Agents on their "
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3010",
+      "census_row": "24738",
+      "name": "jupediaz",
+      "queries": [
+        "jupediaz student ambassador AI",
+        "jupediaz campus advocate program",
+        "jupediaz official community fellowship student"
+      ],
+      "search_id": "search_9bcb5fa03ca6304b657b1241119be36a",
+      "results": [
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        },
+        {
+          "url": "https://memorilabs.ai/student-ambassador",
+          "title": "Student ambassador program | Memori – Agent-native memory infrastructure",
+          "publish_date": null,
+          "excerpts": [
+            "# Student ambassador program\n\n# Student ambassador program\n\nMemori is building the memory infrastructure layer for AI agents. With 13K GitHub stars and148Kdownloads since coming out of stealth in late 2025, we're growing fast. Now we're bringing that momentum to college campuses.\n\nMemori is building"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/copilot-student-ambassador",
+          "title": "AI for College Students: Become a Copilot Student Ambassador | Microsoft Copilot",
+          "publish_date": null,
+          "excerpts": [
+            "### Networking\n\nYou’ll be connected to an ambassador cohort network across 100+ college campuses, collaborating in both individual and partner-led events.\n\n...\n\nWe’re looking for creative , influential individuals who are naturals at connecting with people at events, through clubs and organizations,"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3011",
+      "census_row": "24739",
+      "name": "TheDecipherist",
+      "queries": [
+        "TheDecipherist student ambassador AI",
+        "TheDecipherist campus advocate program",
+        "TheDecipherist official community fellowship student"
+      ],
+      "search_id": "search_86c1347250195d907769b8e2bec0c1f6",
+      "results": [
+        {
+          "url": "https://github.com/TheDecipherist",
+          "title": "TheDecipherist (TheDecipherist) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: TheDecipherist (@TheDecipherist)\n\n* Page: GitHub user profile\n* URL: https://github.com/TheDecipherist\n* Location: Mamaroneck NY\n* Website: https://thedecipherist.com\n* Followers: 19\n* Following: 0\n* Links: https://thedecipherist.com, https://www.facebook.com/tim.carter.9066389/, https://www.l"
+          ]
+        },
+        {
+          "url": "https://thedecipherist.com/",
+          "title": "TheDecipherist — 1M+ Views in January 2026 Alone | Tim Carter Clausen",
+          "publish_date": null,
+          "excerpts": [
+            "We'd record the broadcasts onto cassette tapes, then play them back into our C64s to load the games. Over-the-air game distribution, decades before the App Store existed.\n\nWe were pulling software out of the sky before some of your parents met.\n\nThat was 1987. I've been coding ever since.\n\n## 38 Yea"
+          ]
+        },
+        {
+          "url": "https://thedecipherist.com/resume",
+          "title": "TheDecipherist - Tim Carter Clausen — Principal Engineer | 1M+ Views in January 2026 Alone",
+          "publish_date": null,
+          "excerpts": [
+            "Stop AI Mistakes for Good. 7 Day Free Trial → RuleCatch\n* Home\n* Articles\n* My Music\n* Music & Code\n* Projects\n* Resume\n* Contact\n\nTim Carter Clausen\n\nStaff Engineer | Platform & AI Engineer\nMamaroneck, NY me@thedecipherist.com 914-295-2431 LinkedIn Download PDF\nFull-spectrum technologist and AI-ass"
+          ]
+        },
+        {
+          "url": "https://thedecipherist.com/projects/kactuzmusic",
+          "title": "Kactuz Music — AI-Powered Music Platform | TheDecipherist",
+          "publish_date": null,
+          "excerpts": [
+            "# Kactuz Music\n\nA Creative Collaboration\n\n## Music & Code\n\nBeyond breaking ciphers and building software, I've been making music for years. It's a creative outlet that balances the analytical side of my work — a different kind of pattern recognition.\n\nMy friend **Michael** , known as **Kactuz** , an"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3012",
+      "census_row": "24740",
+      "name": "charlie947",
+      "queries": [
+        "charlie947 student ambassador AI",
+        "charlie947 campus advocate program",
+        "charlie947 official community fellowship student"
+      ],
+      "search_id": "search_86141818478a4f325107b4b2e5cedab0",
+      "results": [
+        {
+          "url": "https://github.com/charlie947",
+          "title": "charlie947 (Charlie Hills) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Charlie Hills (@charlie947)\n\n* Page: GitHub user profile\n* URL: https://github.com/charlie947\n* Followers: 295\n* Following: 0\n* Links: https://www.linkedin.com/in/charlie-hills/, https://www.instagram.com/charliehills/, https://x.com/charliejhills, https://charliehills.substack.com/\n* Top lang"
+          ]
+        },
+        {
+          "url": "https://skillsmp.com/creators/charlie947",
+          "title": "charlie947 Agent Skills | SkillsMP",
+          "publish_date": null,
+          "excerpts": [
+            "![charlie947](https://avatars.githubusercontent.com/u/255382850?u=7f4683bd796139ca07e4fd50cc0700c6cae1714d&v=4&s=144)\n\nGitHub creator profile\n\n# charlie947\n\nRepository-level view of 52 collected skills across 9 GitHub repositories.\n\n[github/ charlie947](https://github.com/charlie947) [largest repo: "
+          ]
+        },
+        {
+          "url": "https://github.com/charlie947/social-media-skills",
+          "title": "GitHub - charlie947/social-media-skills · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# charlie947/social-media-skills\n\n- Page: GitHub repository\n- URL: https://github.com/charlie947/social-media-skills\n- License: MIT license\n- Default branch: main\n- Created: 2026-04-22T12:56:33.000Z\n\n...\n\n[Social Media Skills by Charlie Hills](https://github.com/charlie947/social-media-skills/blob/m"
+          ]
+        },
+        {
+          "url": "https://github.com/charlie947?tab=repositories",
+          "title": "charlie947 (Charlie Hills) / Repositories · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "## \n\ncharlie947 (Charlie Hills) / Repositories · GitHub\ncharlie947 has 14 repositories available. Follow their code on GitHub.\n\n## \n\ncharlie947 (Charlie Hills) / Repositories · GitHub\ncharlie947 has 11 repositories available. Follow their code on GitHub.\n\n## \n\ncharlie947 (Charlie Hills) / Repositori"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3013",
+      "census_row": "24741",
+      "name": "ImKKingshuk",
+      "queries": [
+        "ImKKingshuk student ambassador AI",
+        "ImKKingshuk campus advocate program",
+        "ImKKingshuk official community fellowship student"
+      ],
+      "search_id": "search_0db7ff3efef84c7ca28df8f758831b9e",
+      "results": [
+        {
+          "url": "https://github.com/ImKKingshuk",
+          "title": "ImKKingshuk (ImKKingshuk) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: ImKKingshuk (@ImKKingshuk)\n\n* Page: GitHub user profile\n* URL: https://github.com/ImKKingshuk\n* Location: 0xΣπ , 127.0.0.1\n* Followers: 143\n* Following: 0\n* Top languages: Rust, Python, Shell\nArchitect of stochastic dreams, Fueling creativity with caffeine deriving alpha from chaos in code cor"
+          ]
+        },
+        {
+          "url": "https://112.cachefly.net/ImKKingshuk",
+          "title": "ImKKingshuk (ImKKingshuk) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Seeking enlightenment where sums meet the Infinite\n149 followers · 0 following\n* 0xΣπ , 127.0.0.1\n\nSponsors\n\n@Hero799U\n\nAchievements\n\nAchievement: Starstruck x3 Achievement: Galaxy Brain x2 Achievement: Pair Extraordinaire x3 Achievement: YOLO Achievement: Pull Shark x3 Achievement: Quickdraw\n\nAchie"
+          ]
+        },
+        {
+          "url": "https://112.cachefly.net/sponsors/ImKKingshuk",
+          "title": "Sponsor @ImKKingshuk on GitHub Sponsors · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Skip to content ## Navigation Menu\nYou must be logged in to sponsor ImKKingshuk\n\nBecome a sponsor to ImKKingshuk\n\n@ImKKingshuk\n\nImKKingshuk\n\n0xΣπ , 127.0.0.1\nSupport ImKKingshuk's open source work\n1 sponsor has funded ImKKingshuk’s work.\n@Hero799U\nLearn more about sponsoring developers and organizat"
+          ]
+        },
+        {
+          "url": "https://deepstation.ai/ambassadors",
+          "title": "Ambassador Program | DeepStation",
+          "publish_date": null,
+          "excerpts": [
+            "Whether you're a student building campus communities or an industry professional mentoring the next generation, there's a place for you at DeepStation.\n\n[Apply as Student](https://deepstation.ai/ambassadors/apply?track=student) [Apply as Professional](https://deepstation.ai/ambassadors/apply?track=i"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3014",
+      "census_row": "24742",
+      "name": "SpeechColab",
+      "queries": [
+        "SpeechColab student ambassador AI",
+        "SpeechColab campus advocate program",
+        "SpeechColab official community fellowship student"
+      ],
+      "search_id": "search_bd89085ccdc9656699c6ac771c069c1d",
+      "results": [
+        {
+          "url": "https://github.com/SpeechColab",
+          "title": "SpeechColab · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: SpeechColab (@SpeechColab)\n\n* Page: GitHub user profile\n* URL: https://github.com/SpeechColab\n* Followers: 110\n* Following: 0\n* Top languages: Python, Shell\n\nPinned repositories\n\n* SpeechColab/GigaSpeech: Large, modern dataset for speech recognition (Shell)\n* SpeechColab/Leaderboard: SpeechIO "
+          ]
+        },
+        {
+          "url": "https://huggingface.co/organizations/speechcolab/activity/all",
+          "title": "speechcolab (SpeechColab) – Activity",
+          "publish_date": null,
+          "excerpts": [
+            "# SpeechColab\nnon-profit\nSpeechColab\nActivity Feed Request to join this org\nFollow\n79\n\nAI & ML interests\n\nMachine Learning for Audio/Speech\n\nRecent Activity\n\nAntares97 updated a dataset about 5 hours ago\nspeechcolab/gigaspeech3\nyfyeung submitted a paper about 8 hours ago\nGigaSpeech 3: Scaling Multi-"
+          ]
+        },
+        {
+          "url": "https://huggingface.co/speechcolab/datasets",
+          "title": "speechcolab (SpeechColab)",
+          "publish_date": null,
+          "excerpts": [
+            "# SpeechColab\nnon-profit\nSpeechColab\nActivity Feed Request to join this org\nFollow\n69\n\nAI & ML interests\n\nMachine Learning for Audio/Speech\n\nRecent Activity\n\nAlexTYJ updated a dataset about 1 month ago\nspeechcolab/GigaSpeechBench\nAlexTYJ authored a paper about 1 month ago\nHabibi: Laying the Open-Sou"
+          ]
+        },
+        {
+          "url": "http://huggingface.co/speechcolab",
+          "title": "speechcolab (SpeechColab)",
+          "publish_date": null,
+          "excerpts": [
+            "# SpeechColab\nnon-profit\nSpeechColab\nActivity Feed Request to join this org\nFollow\n83\n\nAI & ML interests\n\nMachine Learning for Audio/Speech\n\nRecent Activity\n\nyfyeung authored a paper 1 day ago\nGigaSpeech 3: Scaling Multi-Dialect Arabic Speech Recognition with Weakly Labeled Data\nAntares97 updated a "
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3015",
+      "census_row": "24743",
+      "name": "oxbshw",
+      "queries": [
+        "oxbshw student ambassador AI",
+        "oxbshw campus advocate program",
+        "oxbshw official community fellowship student"
+      ],
+      "search_id": "search_f9f5d8f93689b9bf154dd7fcf187d2a7",
+      "results": [
+        {
+          "url": "https://github.com/oxbshw",
+          "title": "oxbshw (Sayed Allam) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# User: Sayed Allam (@oxbshw)\n\n- Page: GitHub user profile\n- URL: https://github.com/oxbshw\n- Location: Earth\n- Followers: 112\n- Following: 0\n- Links: https://x.com/Sayedevv, https://bsky.app/profile/sayedev.bsky.social\n- Top languages: Python\n\nAI Engineer building LLM agents, RAG systems, local AI "
+          ]
+        },
+        {
+          "url": "https://api.github.com/users/oxbshw",
+          "title": "https://api.github.com/users/oxbshw",
+          "publish_date": null,
+          "excerpts": [
+            "{ \"login\": \"oxbshw\", \"id\": 212214682, \"node_id\": \"U_kgDODKYjmg\", \"avatar_url\": \"https://avatars.githubusercontent.com/u/212214682?v=4\", \"gravatar_id\": \"\", \"url\": \"https://api.github.com/users/oxbshw\", \"html_url\": \"https://github.com/oxbshw\", \"followers_url\": \"https://api.github.com/users/oxbshw/foll"
+          ]
+        },
+        {
+          "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
+          "title": "GitHub - oxbshw/LLM-Agents-Ecosystem-Handbook: One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools. · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# oxbshw/LLM-Agents-Ecosystem-Handbook\n\n- Page: GitHub repository\n- URL: https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook\n- Description: One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools. - oxbshw/LLM-"
+          ]
+        },
+        {
+          "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook/issues",
+          "title": "Issues · oxbshw/LLM-Agents-Ecosystem-Handbook · GitHub",
+          "publish_date": "2026-10-28",
+          "excerpts": [
+            "1. [oxbshw](https://github.com/oxbshw)\n2. [LLM-Agents-Ecosystem-Handbook](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook)\n\n## Repository navigation\n\n* \n* [Code](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook)\n* [Issues 2 (2)](https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook/"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3016",
+      "census_row": "24744",
+      "name": "ibrahimcetin",
+      "queries": [
+        "ibrahimcetin student ambassador AI",
+        "ibrahimcetin campus advocate program",
+        "ibrahimcetin official community fellowship student"
+      ],
+      "search_id": "search_95bee89c728c3cd3f3d4d2b2a1c04c9a",
+      "results": [
+        {
+          "url": "https://github.com/ibrahimcetin/",
+          "title": "ibrahimcetin (İbrahim Çetin) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: İbrahim Çetin (@ibrahimcetin)\n\n* Page: GitHub user profile\n* URL: https://github.com/ibrahimcetin/\n* Location: Istanbul\n* Website: https://ibrahimcetin.dev\n* Followers: 62\n* Following: 18\n* Links: https://ibrahimcetin.dev, https://x.com/iibrahimcetinn\n* Top languages: Swift, Dart\n\nPinned repos"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Become a Campus Ambassador and lead technical programs, events, and bootcamps on your campus.\nCareer Boost\n\nFeatured Opportunities\n\n...\n\nala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship p"
+          ]
+        },
+        {
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "* Claude Campus Program - Lead student-driven AI initiatives with Anthropic support. Apply to lead a Claude Builder Club or become a Campus Ambassador to advance AI education.\n\n...\n\n* GitHub Campus Experts - Campus Experts are student leaders that strive to build diverse and inclusive spaces to lear"
+          ]
+        },
+        {
+          "url": "https://docs.codemate.ai/codemate-for-education/campus-clubs-and-ambassadors",
+          "title": "Campus Clubs and Ambassadors | CodeMate Documentation",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Clubs and Ambassadors\n\nCodeMate partners with university developer communities to bring AI-enhanced software development practices directly to campus. Whether you're running a coding club, organizing hackathons, or building a community of developers who want to stay ahead of the curve, CodeMa"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3017",
+      "census_row": "24745",
+      "name": "Koldim2001",
+      "queries": [
+        "Koldim2001 student ambassador AI",
+        "Koldim2001 campus advocate program",
+        "Koldim2001 official community fellowship student"
+      ],
+      "search_id": "search_709e952734344b87ff6e994ba775fe7c",
+      "results": [
+        {
+          "url": "https://github.com/Koldim2001/Koldim2001",
+          "title": "GitHub - Koldim2001/Koldim2001: About me · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Koldim2001/Koldim2001\n\n* Page: GitHub repository\n* URL: https://github.com/Koldim2001/Koldim2001\n* Description: About me\n* Default branch: main\n* Created: 2022-12-07T16:30:13.000Z\n* Commits: 27\n\nTop-level files\n\n* README.md\n\nREADME.md\n\nHi there 👋 I'm Dmitry Kolesnikov\n\nLead Computer Vision Engineer"
+          ]
+        },
+        {
+          "url": "https://github.com/Koldim2001",
+          "title": "Koldim2001 (Dmitry Kolesnikov) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Dmitry Kolesnikov (@Koldim2001)\n\n* Page: GitHub user profile\n* URL: https://github.com/Koldim2001\n* Company: Wildberries\n* Website: https://www.youtube.com/@Koldim2001\n* Followers: 238\n* Following: 6\n* Links: https://www.youtube.com/@Koldim2001\n* Top languages: Python, Jupyter Notebook\n\nPinned"
+          ]
+        },
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3018",
+      "census_row": "24746",
+      "name": "amzn",
+      "queries": [
+        "amzn student ambassador AI",
+        "amzn campus advocate program",
+        "amzn official community fellowship student"
+      ],
+      "search_id": "search_5a09245efac8be91b3ff2b8d0e0d50bc",
+      "results": [
+        {
+          "url": "https://its.gmu.edu/ai-ambassador-program",
+          "title": "AI Ambassador Program - Information Technology Services",
+          "publish_date": "2026-08-25",
+          "excerpts": [
+            "* AI Ambassador Program\n\n## **ABOUT THE PROGRAM**\n\n##### Empowering Patriots.  \nTransforming George Mason.\n\nAI Ambassadors are a select group who receive training and hands on experience using AI tools to help departments streamline processes, enhance productivity, and improve the way we work and le"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/yuvanesh-k",
+          "title": "Yuvanesh K",
+          "publish_date": null,
+          "excerpts": [
+            "* url: https://linkedin.com/in/yuvanesh-k\n * name: Yuvanesh K\n * first name: Yuvanesh\n * last name: K\n * company name: Amazon Web Services (AWS)\n * title: Campus Ambassador\n * country iso: IN\n * country name: India\n * locality: Chengalpattu, Tamil Nadu, India\n * headline: Campus Ambassador at Amazon"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/zaveriya",
+          "title": "linkedin.com",
+          "publish_date": null,
+          "excerpts": [
+            "* url: https://linkedin.com/in/zaveriya\n * name: Zaveriya Mulla\n * first name: Zaveriya\n * last name: Mulla\n * company name: Amazon Web Services (AWS)\n * title: AWS Student Builder Campus Leader\n * country iso: IN\n * country name: India\n * locality: India\n * headline\n   - AI & Data Science Engineeri"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3019",
+      "census_row": "24747",
+      "name": "sjtu-marl",
+      "queries": [
+        "sjtu-marl student ambassador AI",
+        "sjtu-marl campus advocate program",
+        "sjtu-marl official community fellowship student"
+      ],
+      "search_id": "search_385b08636d2b06e81201df1b09b05083",
+      "results": [
+        {
+          "url": "https://github.com/sjtu-marl",
+          "title": "MARL @ SJTU · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Organization: MARL @ SJTU (@sjtu-marl)\n\n* Page: GitHub organization profile\n* URL: https://github.com/sjtu-marl\n* Location: Shanghai, China\n* Top languages: Python, JavaScript\nMulti-Agent Research at Shanghai Jiao Tong University - MARL @ SJTU\n\nRepositories\n\n* sjtu-marl/ZSC-Eval: This repository is "
+          ]
+        },
+        {
+          "url": "https://github.com/orgs/sjtu-marl/followers",
+          "title": "GitHub · Where software is built",
+          "publish_date": null,
+          "excerpts": [
+            "Skip to content ## Navigation Menu\n\n@sjtu-marl MARL @ SJTU\n\n* Overview\n* Repositories\n* Projects\n* Packages\n* People\n\nUsers following sjtu-marl\n\n@mobius-yang\nYang Siqi mobius-yang\nI am Siqi Yang , a student in Peking university. l want to study in Github and try to make some contributions to the com"
+          ]
+        },
+        {
+          "url": "https://github.com/sjtu-marl/DPT-Agent",
+          "title": "GitHub - sjtu-marl/DPT-Agent: This is the official implementation of paper \"Leveraging Dual Process Theory in Language Agent Framework for Simultaneous Human-AI Collaboration.\" · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "sjtu-marl/DPT-Agent\n\n* Page: GitHub repository\n* URL: https://github.com/sjtu-marl/DPT-Agent\n* Description: This is the official implementation of paper \"Leveraging Dual Process Theory in Language Agent Framework for Simultaneous Human-AI Collaboration.\" - sjtu-marl/DPT-Agent\n* License: MIT license\n"
+          ]
+        },
+        {
+          "url": "https://www.alphaxiv.org/ja/@shengtao-zhang",
+          "title": "Shengtao Zhang | alphaXiv",
+          "publish_date": "2026-01-06",
+          "excerpts": [
+            "Shengtao Zhang\n\nShengtao Zhang\n\nフォロー\nPhD： Shanghai Jiaotong University\n以前のArtificial Intelligence BEng Student： Xi'an Jiaotong University\nGoogle Scholar ウェブサイト DBLP GitHub zhangst@stu.xjtu.edu.cn\n\n紹介\n\nShengtao Zhang’s MemRL enables non-parametric self-improvement by updating the utility of episodic "
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3020",
+      "census_row": "24748",
+      "name": "Angzz",
+      "queries": [
+        "Angzz student ambassador AI",
+        "Angzz campus advocate program",
+        "Angzz official community fellowship student"
+      ],
+      "search_id": "search_aa983b03ac867f6c76fd2505eccc0a40",
+      "results": [
+        {
+          "url": "https://github.com/Angzz",
+          "title": "Angzz (Ang Li) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Ang Li (@Angzz)\n\n* Page: GitHub user profile\n* URL: https://github.com/Angzz\n* Company: NJUST & SenseTime\n* Location: Nanjing. China.\n* Followers: 75\n* Following: 69\n* Top languages: Python, Jupyter Notebook\nGet your hands dirty~\n\nPinned repositories\n\n* Angzz/panoptic-fpn-gluon: Panoptic Featu"
+          ]
+        },
+        {
+          "url": "https://x.com/rishabhkio/status/2119599602920042840",
+          "title": "Rishabh Karnawat on X: \"hi everyone, autumn ai is expanding its campus ambassador program.\n\nif you’re a college student, this is a rare opportunity to work with one of the most exciting yc-backed startups, alongside an incredibly talented team building something exceptional.\n\ni’ll personally review… / X",
+          "publish_date": "2026-11-09",
+          "excerpts": [
+            "Post\n\nLog in Sign up\n\nPost\n\nLog in Sign up\n\nRishabh Karnawat on X: \"hi everyone, autumn ai is expanding its campus ambassador program.\n\n...\n\ni’ll personally review your profile and connect you with the right person if it’s a good fit. my dms are open. apply here: https://t.co/wKymR0IeRo\"\n\nConversati"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        },
+        {
+          "url": "https://www.swytchcode.com/campus-ambassadors",
+          "title": "Campus Ambassador Program | Swytchcode",
+          "publish_date": null,
+          "excerpts": [
+            "Join Our global SwytchCode community\n\nBecome a Campus Ambassador. Grow your community, host AI events, and bring AI agents to more students.\nApply now Join our Discord\nPanel discussion on AI agents for Fintech engineering, hosted by Swytchcode at the AWS Builder Loft\nSpeaker presenting at the Swytch"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3021",
+      "census_row": "24749",
+      "name": "SilentCoderHere",
+      "queries": [
+        "SilentCoderHere student ambassador AI",
+        "SilentCoderHere campus advocate program",
+        "SilentCoderHere official community fellowship student"
+      ],
+      "search_id": "search_575ccd462b8c1d905a78144129100073",
+      "results": [
+        {
+          "url": "https://github.com/SilentCoderHere",
+          "title": "SilentCoderHere (Silent Coder) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Silent Coder (@SilentCoderHere)\n\n* Page: GitHub user profile\n* URL: https://github.com/SilentCoderHere\n* Location: Uttar Pradesh, India\n* Website: https://SilentCoderHere.github.io/website/\n* Followers: 126\n* Following: 0\n* Links: https://SilentCoderHere.github.io/website/\n* Top languages: Kot"
+          ]
+        },
+        {
+          "url": "https://github.com/SilentCoderHere/aihub",
+          "title": "GitHub - SilentCoderHere/aihub: All-in-one Kotlin app that aggregates multiple AI assistants in a single tabbed interface, featuring webview integration, Material Design 3, and persistent session management. · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# SilentCoderHere/aihub\n\n- Page: GitHub repository\n- URL: https://github.com/SilentCoderHere/aihub\n- Description: All-in-one Kotlin app that aggregates multiple AI assistants in a single tabbed interface, featuring webview integration, Material Design 3, and persistent session management. - SilentCo"
+          ]
+        },
+        {
+          "url": "https://github.com/SilentCoderHere/aihub/issues",
+          "title": "Issues · SilentCoderHere/aihub · GitHub",
+          "publish_date": "2026-01-07",
+          "excerpts": [
+            "New issue\n* Local AI support (OpenWebUI eg.)\n#4 · Arc86 opened on Jan 7, 2026\n3\n* Light Mode Toggle\n#29 · kpcenti opened on Feb 6, 2026\n3\n* A community has been created. Join Now!\n\n...\n\nNewest\n* Comfortable display density\n* Compact display density\n* \n\nRequest for new AI\n\nnew ai\nSilentCoderHere/aihu"
+          ]
+        },
+        {
+          "url": "https://github.com/SilentCoderHere/aihub/discussions",
+          "title": "SilentCoderHere/aihub · Discussions · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Skip to content ## Navigation Menu\n1. SilentCoderHere\n2. aihub\n\nRepository navigation\n\n* Code\n* Issues 94 (94)\n* Pull requests 1 (1)\n* Discussions\n* Actions\n* Security and quality\n* Insights\nMore items # SilentCoderHere aihub Discussions\n\nPinned Discussions\n\n* SilentCoderHere\n\nWelcome to AI Hub Disc"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3022",
+      "census_row": "24750",
+      "name": "V1ki",
+      "queries": [
+        "V1ki student ambassador AI",
+        "V1ki campus advocate program",
+        "V1ki official community fellowship student"
+      ],
+      "search_id": "search_503d2d090302a936600eb1859bd5a3e0",
+      "results": [
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        },
+        {
+          "url": "https://github.com/harshgounder/campus-ambassador-programs-2026/blob/master/EVIDENCE.md",
+          "title": "campus-ambassador-programs-2026/EVIDENCE.md at master · harshgounder/campus-ambassador-programs-2026 · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "harshgounder/campus-ambassador-programs-2026 — EVIDENCE.md\n\n* Page: GitHub code file\n* URL: https://github.com/harshgounder/campus-ambassador-programs-2026/blob/master/EVIDENCE.md\n\n...\n\nEligibility country list includes \"India\".\n\"Complete the Concepts badge on the IBM Z Xplore platform.\"\nSmartBridge"
+          ]
+        },
+        {
+          "url": "https://claude.com/programs/campus",
+          "title": "claude.com",
+          "publish_date": null,
+          "excerpts": [
+            "1. Programs /\n2. Campus\n\nExplore here\n\n* Ask questions about this page\n* Copy as markdown\n\n# Supporting student builders\n\nLead student-driven AI initiatives with support from Anthropic.\n\n### For undergrads\n\nIf you're passionate about bringing AI fluency to your campus, apply to lead a Claude Builder"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3023",
+      "census_row": "24751",
+      "name": "rtzr",
+      "queries": [
+        "rtzr student ambassador AI",
+        "rtzr campus advocate program",
+        "rtzr official community fellowship student"
+      ],
+      "search_id": "search_c004f76cfe479dc23bb32e8d642eafb9",
+      "results": [
+        {
+          "url": "https://github.com/orgs/rtzr/followers",
+          "title": "GitHub · Where software is built",
+          "publish_date": null,
+          "excerpts": [
+            "\nNavigation Menu\n\nToggle navigation\nSign in\nAppearance settings\nrtzr\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n\nSign in\nSign up\nAppearance settings\nResetting focus\n\n@rtzr Return Zero Inc.\n\n* Overview\n* Repositories\n* Projects\n* Packages\n* People\n\nUsers followin"
+          ]
+        },
+        {
+          "url": "https://github.com/rtzr",
+          "title": "Return Zero Inc. · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Organization: Return Zero Inc. (@rtzr)\n\n* Page: GitHub organization profile\n* URL: https://github.com/rtzr\n* Website: https://rtzr.ai\n* Top languages: Rust, Python, Go, TypeScript, Swift\n\nRepositories\n\n* rtzr/cer-levenshtein\n* rtzr/dms-validator: Local, offline desktop + CLI validator for AWS DMS ta"
+          ]
+        },
+        {
+          "url": "https://huggingface.co/rtzr",
+          "title": "rtzr (Return Zero)",
+          "publish_date": null,
+          "excerpts": [
+            "[](https://huggingface.co/rtzr \"Return Zero\")\n\n[# Return Zero](https://huggingface.co/rtzr \"Return Zero\")\n\ncompany\n\nVerified\n\n[https://www.rtzr.ai](https://www.rtzr.ai/)\n\n[https://github.com/rtzr](https://github.com/https://github.com/rtzr)\n\n[Activity Feed](https://huggingface.co/organizations/rtzr/"
+          ]
+        },
+        {
+          "url": "https://112.cachefly.net/orgs/rtzr/followers",
+          "title": "GitHub · Where software is built",
+          "publish_date": null,
+          "excerpts": [
+            "Skip to content ## Navigation Menu\n\n@rtzr Return Zero Inc.\n\n* Overview\n* Repositories\n* Projects\n* Packages\n* People\n\nUsers following rtzr\n\n@jiunbae\nJiun Bae (June) jiunbae\nMachine Learning, Computer Vision and NLP.\n@rtzr Seoul, Republic of Korea\nFollow\n@cover-park\ncover-park\nFollow\n@max-dog\nRamos C"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3024",
+      "census_row": "24752",
+      "name": "Mohamedelrefaie",
+      "queries": [
+        "Mohamedelrefaie student ambassador AI",
+        "Mohamedelrefaie campus advocate program",
+        "Mohamedelrefaie official community fellowship student"
+      ],
+      "search_id": "search_93e77a05ee4c16ff5166317551554399",
+      "results": [
+        {
+          "url": "https://github.com/Mohamedelrefaie",
+          "title": "Mohamedelrefaie · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Mohamedelrefaie (@Mohamedelrefaie)\n\n* Page: GitHub user profile\n* URL: https://github.com/Mohamedelrefaie\n* Company: MIT\n* Website: https://mohamedelrefaie.github.io\n* Followers: 86\n* Following: 42\n* Links: https://mohamedelrefaie.github.io, https://orcid.org/0009-0008-9981-0930, https://www.r"
+          ]
+        },
+        {
+          "url": "https://mohamedelrefaie.academic.ws/",
+          "title": "Mohamed Elrefaie",
+          "publish_date": null,
+          "excerpts": [
+            "Mohamed Elrefaie\n\nBuilding foundation physics models\n* \n* \n* \n* \n* S\nMenu\nClose\nHome\nPublications\nInvited Talks\nIn the News\nTeaching & Mentorship\n\nAbout\n\nI am a PhD researcher at MIT in the Mechanical Engineering Department and the Schwarzman College of Computing. I hold a B.Sc. in Mechanical Engine"
+          ]
+        },
+        {
+          "url": "https://mohamedelrefaie.github.io/",
+          "title": "Home | Mohamed Elrefaie",
+          "publish_date": null,
+          "excerpts": [
+            "Mohamed Elrefaie\n\nMohamed Elrefaie\n\nPhD Researcher | Mechanical Engineering & Schwarzman College of Computing, MIT\n\nAbout\n\nI am a PhD researcher at the Massachusetts Institute of Technology (MIT) in the Mechanical Engineering Department and the Schwarzman College of Computing. I hold a B.Sc. in Mech"
+          ]
+        },
+        {
+          "url": "https://mohamedelrefaie.github.io/index.html",
+          "title": "Home | Mohamed Elrefaie",
+          "publish_date": null,
+          "excerpts": [
+            "Mohamed Elrefaie\n\nMohamed Elrefaie\n\nPhD Researcher | Mechanical Engineering & Schwarzman College of Computing, MIT\n\nAbout\n\nI am a PhD researcher at the Massachusetts Institute of Technology (MIT) in the Mechanical Engineering Department and the Schwarzman College of Computing. I hold a B.Sc. in Mech"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3025",
+      "census_row": "24753",
+      "name": "adeekshith",
+      "queries": [
+        "adeekshith student ambassador AI",
+        "adeekshith campus advocate program",
+        "adeekshith official community fellowship student"
+      ],
+      "search_id": "search_5aafaf2b1ffa322fe79f722e4abf8fc2",
+      "results": [
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1. [ホームページ](https://blog.google/intl/ja-jp/ \"Japan Blog\")\n2. [最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 "
+          ]
+        },
+        {
+          "url": "https://github.com/adeekshith",
+          "title": "adeekshith (Deekshith Allamaneni) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Deekshith Allamaneni (@adeekshith)\n\n* Page: GitHub user profile\n* URL: https://github.com/adeekshith\n* Location: Dallas, TX\n* Website: https://cv.deekshith.in\n* Followers: 95\n* Following: 19\n* Links: https://cv.deekshith.in, https://techhub.social/@dsoft, https://www.linkedin.com/in/adeekshith"
+          ]
+        },
+        {
+          "url": "https://github.com/harshgounder/campus-ambassador-programs-2026/blob/master/EVIDENCE.md",
+          "title": "campus-ambassador-programs-2026/EVIDENCE.md at master · harshgounder/campus-ambassador-programs-2026 · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "harshgounder/campus-ambassador-programs-2026 — EVIDENCE.md\n\n* Page: GitHub code file\n* URL: https://github.com/harshgounder/campus-ambassador-programs-2026/blob/master/EVIDENCE.md\n\n...\n\nEligibility country list includes \"India\".\n\"Complete the Concepts badge on the IBM Z Xplore platform.\"\nSmartBridge"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3026",
+      "census_row": "24754",
+      "name": "1003129155",
+      "queries": [
+        "1003129155 student ambassador AI",
+        "1003129155 campus advocate program",
+        "1003129155 official community fellowship student"
+      ],
+      "search_id": "search_237b3420ca019bf41a42e2cf3fec3e34",
+      "results": [
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        },
+        {
+          "url": "https://tamids.tamu.edu/student-opportunities/student-ambassadors",
+          "title": "Student Ambassadors Program - TAMIDS",
+          "publish_date": "2024-02-08",
+          "excerpts": [
+            "Ambassadors are Texas A&M graduate students who wish to serve as representatives for TAMIDS and champions for AI and data science literacy in their field\n\n...\n\nTAMIDS Ambassadors play a crucial role in promoting AI, machine learning, and data science literacy and connecting new individuals to our gr"
+          ]
+        },
+        {
+          "url": "https://scholarshipsandaid.org/2026/09/03/claude-campus-ambassador-programme-2026/",
+          "title": "Claude Campus Ambassador Programme 2026. – SCHOLARSHIPS AND AID",
+          "publish_date": "2026-11-07",
+          "excerpts": [
+            "September 3, 2026 4 minutes read\nApplications are now open for the 2026 Claude Campus Ambassador Program. The programme supports student-led AI initiatives at universities and invites undergraduate students, graduate students, PhD students and postdocs to help create communities around AI learning, "
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3027",
+      "census_row": "24755",
+      "name": "shuaihuaiyi",
+      "queries": [
+        "shuaihuaiyi student ambassador AI",
+        "shuaihuaiyi campus advocate program",
+        "shuaihuaiyi official community fellowship student"
+      ],
+      "search_id": "search_015f5b09eea77383ab1b89398d5d094f",
+      "results": [
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        },
+        {
+          "url": "https://memorilabs.ai/student-ambassador",
+          "title": "Student ambassador program | Memori – Agent-native memory infrastructure",
+          "publish_date": null,
+          "excerpts": [
+            "# Student ambassador program\n\n# Student ambassador program\n\nMemori is building the memory infrastructure layer for AI agents. With 13K GitHub stars and148Kdownloads since coming out of stealth in late 2025, we're growing fast. Now we're bringing that momentum to college campuses.\n\nMemori is building"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\n# Campus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\n## Why Join\n\n### Frontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\n### Real Ownersh"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/suraj-munde-",
+          "title": "Suraj Munde",
+          "publish_date": null,
+          "excerpts": [
+            "* url: https://linkedin.com/in/suraj-munde-\n * name: Suraj Munde\n * first name: Suraj\n * last name: Munde\n * company name: E-Cell, IIT Bombay\n * title: Campus Ambassador\n * country iso: IN\n * country name: India\n * locality: Pune/Pimpri-Chinchwad Area\n * headline\n   - Campus Ambassador at E-Cell, II"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3028",
+      "census_row": "24756",
+      "name": "zengxiao-he",
+      "queries": [
+        "zengxiao-he student ambassador AI",
+        "zengxiao-he campus advocate program",
+        "zengxiao-he official community fellowship student"
+      ],
+      "search_id": "search_adeae783f1cde70c724c7860d41fffdf",
+      "results": [
+        {
+          "url": "https://linkedin.com/in/zengxiao-he",
+          "title": "Zengxiao He",
+          "publish_date": null,
+          "excerpts": [
+            "* country name: United States\n * Locality: San Francisco Bay Area\n * connection count: 500\n * follower count: 1352\n * jobs count: 1\n * Summary\n   - I make LLMs fast and cheap to serve.<br>What I've built: <br>• Tessera — a from-scratch…\n * skills\n   - AI Agents\n   - AI Infrastructure\n   - Assistant "
+          ]
+        },
+        {
+          "url": "https://henryhe.ai/",
+          "title": "Zengxiao (Henry) He | LLM Inference Optimization",
+          "publish_date": null,
+          "excerpts": [
+            "Zengxiao (Henry) He\n\n# Zengxiao (Henry) He\n\nLLM Inference Optimization · Stanford M.S. EE · GPU Systems & Serving\n\nOpen to LLM inference & AI-infra roles\n\n[](https://www.linkedin.com/in/zengxiao-he/) [](https://github.com/zengxiao-he) [](mailto:zengxiao@stanford.edu)\n\n* * *\n\n## About\n\nI’m an AI infr"
+          ]
+        },
+        {
+          "url": "https://github.com/zengxiao-he",
+          "title": "zengxiao-he (Henry) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Henry (@zengxiao-he)\n\n* Page: GitHub user profile\n* URL: https://github.com/zengxiao-he\n* Company: Stanford University\n* Location: San Francisco\n* Website: https://henryhe.ai\n* Followers: 16\n* Following: 8\n* Links: https://henryhe.ai\n* Top languages: Python\nStanford MSEE | Agentic Systems Engi"
+          ]
+        },
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3029",
+      "census_row": "24757",
+      "name": "hades217",
+      "queries": [
+        "hades217 student ambassador AI",
+        "hades217 campus advocate program",
+        "hades217 official community fellowship student"
+      ],
+      "search_id": "search_729208f29831b5b3b84061edc0deca05",
+      "results": [
+        {
+          "url": "https://github.com/hades217/awesome-ai",
+          "title": "GitHub - hades217/awesome-ai: A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "* Deepnote — AI-first Jupyter alternative with native data integrations and a built-in agent.\n\n🤝 Agent Frameworks & MCP\n\nBuild LLM agents that plan, use tools, and execute multi-step tasks. 2026's hottest category .\n\nAgent Frameworks\n\n* Claude Agent SDK ⭐ 🆕 — Anthropic's official agent SDK with sk"
+          ]
+        },
+        {
+          "url": "https://github.com/hades217/awesome-ai/blob/master/README.md",
+          "title": "awesome-ai/README.md at master · hades217/awesome-ai · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "* Anthropic SDK — official Claude SDK.\n* OpenAI SDK (31k ⭐) — official OpenAI SDK.\n* Discord.py — Discord bot SDK.\n\n...\n\nbanks and mock-exam entry points.\n\nKids & School Learning\n\n* CodeKidz — AI-powered programming learning for kids.\n\n...\n\nResumes & Job Search\n\n* Teal — AI resume builder + job trac"
+          ]
+        },
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        },
+        {
+          "url": "https://x.com/rishabhkio/status/2119599602920042840",
+          "title": "Rishabh Karnawat on X: \"hi everyone, autumn ai is expanding its campus ambassador program.\n\nif you’re a college student, this is a rare opportunity to work with one of the most exciting yc-backed startups, alongside an incredibly talented team building something exceptional.\n\ni’ll personally review… / X",
+          "publish_date": "2026-11-09",
+          "excerpts": [
+            "Post\n\nLog in Sign up\n\nPost\n\nLog in Sign up\n\nRishabh Karnawat on X: \"hi everyone, autumn ai is expanding its campus ambassador program.\n\n...\n\ni’ll personally review your profile and connect you with the right person if it’s a good fit. my dms are open. apply here: https://t.co/wKymR0IeRo\"\n\nConversati"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3030",
+      "census_row": "24758",
+      "name": "kcg2015",
+      "queries": [
+        "kcg2015 student ambassador AI",
+        "kcg2015 campus advocate program",
+        "kcg2015 official community fellowship student"
+      ],
+      "search_id": "search_043c53277fdfacf3654595dbf6cb1176",
+      "results": [
+        {
+          "url": "https://x.com/rishabhkio/status/2119599602920042840",
+          "title": "Rishabh Karnawat on X: \"hi everyone, autumn ai is expanding its campus ambassador program.\n\nif you’re a college student, this is a rare opportunity to work with one of the most exciting yc-backed startups, alongside an incredibly talented team building something exceptional.\n\ni’ll personally review… / X",
+          "publish_date": "2026-11-09",
+          "excerpts": [
+            "Post\n\nLog in Sign up\n\nPost\n\nLog in Sign up\n\nRishabh Karnawat on X: \"hi everyone, autumn ai is expanding its campus ambassador program.\n\n...\n\ni’ll personally review your profile and connect you with the right person if it’s a good fit. my dms are open. apply here: https://t.co/wKymR0IeRo\"\n\nConversati"
+          ]
+        },
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        },
+        {
+          "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+          "title": "OpenAI Campus Network: Student club interest form | OpenAI",
+          "publish_date": null,
+          "excerpts": [
+            "* Developers\n* Company\n* Foundation (opens in a new window)\nOpenAI Campus Network: Student club interest form | OpenAI\nMay 11, 2026\nCompany\n\nOpenAI Campus Network: Student club interest form\n\nJoin a global network of student leaders building AI-native campuses.\nShare\nWe’re partnering with student cl"
+          ]
+        },
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "publish_date": null,
+          "excerpts": [
+            "\n**We are Hiring**\n\n# AI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\n\n## About the Program\n\nThis student-driven initiative is designed to promote the ethical use of AI on campuses worldwide. Gain valuable experience, access "
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3031",
+      "census_row": "24759",
+      "name": "OpenLemur",
+      "queries": [
+        "OpenLemur student ambassador AI",
+        "OpenLemur campus advocate program",
+        "OpenLemur official community fellowship student"
+      ],
+      "search_id": "search_2aca8681929ff8a1cd1da102bcb3f5e1",
+      "results": [
+        {
+          "url": "https://github.com/OpenLemur",
+          "title": "OpenLemur · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Organization: OpenLemur (@OpenLemur)\n\n* Page: GitHub organization profile\n* URL: https://github.com/OpenLemur\n* Website: https://xlang.ai\n* Links: https://twitter.com/XLangNLP\n* Top languages: Python\n\nRepositories\n\n* OpenLemur/OSWorld: [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-"
+          ]
+        },
+        {
+          "url": "https://github.com/OpenLemur/lemur",
+          "title": "GitHub - OpenLemur/Lemur: [ICLR 2024] Lemur: Open Foundation Models for Language Agents · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "OpenLemur/lemur\n\n* Page: GitHub repository\n* URL: https://github.com/OpenLemur/lemur\n* Description: [ICLR 2024] Lemur: Open Foundation Models for Language Agents - OpenLemur/Lemur\n* License: Apache-2.0 license\n* Default branch: main\n* Created: 2023-08-23T13:48:25.000Z\n* Commits: 26\n\nTop-level files\n"
+          ]
+        },
+        {
+          "url": "https://112.cachefly.net/OpenLemur",
+          "title": "OpenLemur · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Skip to content ## Navigation Menu\n@OpenLemur\n\nOpenLemur\n\nLemur: Open Foundation Models for Language Agents\n* 46 followers\n* https://xlang.ai\n* @XLangNLP\n* Overview\n* Repositories\n* Projects\n* Packages\n* People\n\nPinned Loading\n\n1. Lemur Lemur Public\n[ICLR 2024] Lemur: Open Foundation Models for Lang"
+          ]
+        },
+        {
+          "url": "https://www.aifasthub.com/OpenLemur",
+          "title": "OpenLemur (OpenLemur)",
+          "publish_date": null,
+          "excerpts": [
+            "# OpenLemur\nnon-profit\nhttps://xlang.ai\nXLangNLP\nOpenLemur\nActivity Feed Request to join this org\nFollow\n26\n\nAI & ML interests\n\nNone defined yet.\n\nTeam members 13\n\nTianbao Xie's profile picture Yiheng Xu's profile picture Qian Liu's profile picture Fan Zhou's profile picture cheng's profile picture "
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3032",
+      "census_row": "24760",
+      "name": "wpydcr",
+      "queries": [
+        "wpydcr student ambassador AI",
+        "wpydcr campus advocate program",
+        "wpydcr official community fellowship student"
+      ],
+      "search_id": "search_969b8c0f2d53fd4c382d4988e09a3682",
+      "results": [
+        {
+          "url": "https://github.com/wpydcr",
+          "title": "wpydcr (pingyu wu) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: pingyu wu (@wpydcr)\n\n* Page: GitHub user profile\n* URL: https://github.com/wpydcr\n* Company: University of Science and Technology of China\n* Location: hefei\n* Website: https://wupingyu@mail.ustc.edu.cn\n* Followers: 26\n* Following: 0\n* Links: https://wupingyu@mail.ustc.edu.cn, https://scholar.g"
+          ]
+        },
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        },
+        {
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "* Claude Campus Program - Lead student-driven AI initiatives with Anthropic support. Apply to lead a Claude Builder Club or become a Campus Ambassador to advance AI education.\n\n...\n\n* GitHub Campus Experts - Campus Experts are student leaders that strive to build diverse and inclusive spaces to lear"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3033",
+      "census_row": "24761",
+      "name": "hhy-huang",
+      "queries": [
+        "hhy-huang student ambassador AI",
+        "hhy-huang campus advocate program",
+        "hhy-huang official community fellowship student"
+      ],
+      "search_id": "search_88988fd3ffca7edac6e1abffb4a7c617",
+      "results": [
+        {
+          "url": "https://github.com/hhy-huang",
+          "title": "hhy-huang (haoyuhuang) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: haoyuhuang (@hhy-huang)\n\n* Page: GitHub user profile\n* URL: https://github.com/hhy-huang\n* Company: HKUST\n* Location: Clear Water Bay\n* Followers: 36\n* Following: 22\n* Links: https://hhy-huang.github.io/\n* Top languages: Python\nPh.D. Student @ HKUST\n\nPinned repositories\n\n* hhy-huang/HiRAG: [EM"
+          ]
+        },
+        {
+          "url": "https://hhy-huang.github.io/",
+          "title": "Haoyu Huang",
+          "publish_date": "2025-01-25",
+          "excerpts": [
+            "Haoyu Huang\n\nPh.D. Student\nHKUST\nEmail: hhuangcp [at] connect (dot) ust (dot) hk\nGithub / Publications / Twitter\nI am a Ph.D. student of HKUST , advised by Prof. Yangqiu Song .\n\n...\n\nMy current research focuses on Agent Post-Training, LLM Memory.\n\nNews\n\n* One paper accepted to NeurIPS 2026. 2026.9\n*"
+          ]
+        },
+        {
+          "url": "https://github.com/hhy-huang/GraphJudge",
+          "title": "GitHub - hhy-huang/GraphJudge: [EMNLP'25 main] This is the official repo for the paper, Can LLMs be Good Graph Judge for Knowledge Graph Construction? · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "hhy-huang/GraphJudge\n\n* Page: GitHub repository\n* URL: https://github.com/hhy-huang/GraphJudge\n* Description: [EMNLP'25 main] This is the official repo for the paper, Can LLMs be Good Graph Judge for Knowledge Graph Construction? - hhy-huang/GraphJudge\n* License: MIT license\n* Default branch: main\n*"
+          ]
+        },
+        {
+          "url": "https://api.github.com/repos/HKUST-KnowComp/AutoSchemaKG/contributors?per_page=100",
+          "title": "https://api.github.com/repos/HKUST-KnowComp/AutoSchemaKG/contributors?per_page=100",
+          "publish_date": null,
+          "excerpts": [
+            "\"https://api.github.com/users/gzone0111\", \"html_url\": \"https://github.com/gzone0111\", \"followers_url\": \"https://api.github.com/users/gzone0111/followers\", \"following_url\": \"https://api.github.com/users/gzone0111/following{/other_user}\", \"gists_url\": \"https://api.github.com/users/gzone0111/gists{/gis"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3034",
+      "census_row": "24762",
+      "name": "Sirui-Xu",
+      "queries": [
+        "Sirui-Xu student ambassador AI",
+        "Sirui-Xu campus advocate program",
+        "Sirui-Xu official community fellowship student"
+      ],
+      "search_id": "search_eccd421bcd0f9d1604cdecd18700dbd0",
+      "results": [
+        {
+          "url": "https://github.com/Sirui-Xu",
+          "title": "Sirui-Xu (Sirui Xu) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Sirui Xu (@Sirui-Xu)\n\n* Page: GitHub user profile\n* URL: https://github.com/Sirui-Xu\n* Location: Urbana, IL\n* Website: http://sirui-xu.github.io/\n* Followers: 154\n* Following: 61\n* Links: http://sirui-xu.github.io/\n* Top languages: Python\nCS @ UIUC\n\nPinned repositories\n\n* Sirui-Xu/ULTRA: [IROS"
+          ]
+        },
+        {
+          "url": "https://yxw.cs.illinois.edu/",
+          "title": "Yuxiong Wang’s Homepage - Yuxiong Wang",
+          "publish_date": null,
+          "excerpts": [
+            "## Please feel free to contact me if interested!\n\n* I am always seeking self-motivated Ph.D., M.S., and undergraduate students.\n* Our group also has openings for visiting students.\n\n...\n\nFor representative works, please refer to my two recent talks: the first talk, presented at the C3.ai Generative "
+          ]
+        },
+        {
+          "url": "https://github.com/Sirui-Xu/ULTRA",
+          "title": "GitHub - Sirui-Xu/ULTRA: [IROS 2026] ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Sirui-Xu/ULTRA\n\n* Page: GitHub repository\n* URL: https://github.com/Sirui-Xu/ULTRA\n* Description: [IROS 2026] ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation - Sirui-Xu/ULTRA\n* License: Apache-2.0 license\n* Default branch: main\n* Created: 2026-09-25T07:58:59.00"
+          ]
+        },
+        {
+          "url": "https://sirui-xu.github.io/",
+          "title": "Sirui Xu",
+          "publish_date": null,
+          "excerpts": [
+            "embodied AI human-like dexterity and agility for interacting with the world.\nLIGHT\nHandX\nInterAct\n\nBehavioral Intelligence\n\nWhat should happen?\n\n...\n\n* Jul 22, 2026 | The code for Dexplore has been released in this repo .\n* Jun 26, 2026 | InterPrior won the Best Poster Award at the Interactive Physi"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3035",
+      "census_row": "24763",
+      "name": "mixpeek",
+      "queries": [
+        "mixpeek student ambassador AI",
+        "mixpeek campus advocate program",
+        "mixpeek official community fellowship student"
+      ],
+      "search_id": "search_72e84339aa3ed4f9da1e7aa7c78f84bf",
+      "results": [
+        {
+          "url": "https://github.com/mixpeek",
+          "title": "Mixpeek · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# Organization: Mixpeek (@mixpeek)\n\n- Page: GitHub organization profile\n- URL: https://github.com/mixpeek\n- Location: United States of America\n- Website: https://mixpeek.com\n- Links: http://twitter.com/mixpeek, http://linkedin.com/company/mixpeek/\n- Top languages: Python, Rust, JavaScript, Ruby, Typ"
+          ]
+        },
+        {
+          "url": "https://www.getaiperks.com/en/ai/github-campus-expert",
+          "title": "GitHub Campus Expert 2026: What It Is and Who Gets In | Get AI Perks",
+          "publish_date": "2026-11-02",
+          "excerpts": [
+            "GitHub Campus Expert 2026: What It Is and Who Gets In\n\nGitHub Campus Expert explained: what the program is, what members get, and which student perks to claim alongside it. Tracked by AI Perks.\nGitHub Campus Expert GitHub Campus Experts Program GitHub Student Ambassador GitHub Campus Program Student"
+          ]
+        },
+        {
+          "url": "https://x.com/mixpeek",
+          "title": "Mixpeek (@mixpeek) / X",
+          "publish_date": null,
+          "excerpts": [
+            "[](https://x.com/)\n\n[](https://x.com/)\n\n \n\n \n\nMixpeek\n\n409 posts\n\n[Mixpeek profile banner](https://x.com/mixpeek/header_photo)\n\n[@mixpeek](https://x.com/mixpeek/photo)\n\n# Mixpeek @mixpeek\n\nMixpeek makes the world's unstructured data programmable. The multimodal warehouse for AI.\n\nScience & Technolog"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Become a Campus Ambassador and lead technical programs, events, and bootcamps on your campus.\nCareer Boost\n\nFeatured Opportunities\n\n...\n\nala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship p"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3036",
+      "census_row": "24764",
+      "name": "richardr1126",
+      "queries": [
+        "richardr1126 student ambassador AI",
+        "richardr1126 campus advocate program",
+        "richardr1126 official community fellowship student"
+      ],
+      "search_id": "search_eda6ae627b1546369afda4763b4d4d25",
+      "results": [
+        {
+          "url": "https://github.com/richardr1126",
+          "title": "richardr1126 (Richard R) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Richard R (@richardr1126)\n\n* Page: GitHub user profile\n* URL: https://github.com/richardr1126\n* Location: Boulder, CO\n* Website: https://richardr.dev\n* Followers: 14\n* Following: 1\n* Links: https://richardr.dev\n* Top languages: TypeScript, Python, Jupyter Notebook, Shell\nSoftware Engineer | Cl"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/richard-roberson",
+          "title": "Richard Roberson",
+          "publish_date": null,
+          "excerpts": [
+            "+ job employment type: Full-time\n\n## Academic Qualification\n     + academic qualification: bachelor degree\n\n...\n\n+ Leading a research project that fine-tunes large language models for text-to-SQL synthesis. Learn more about the project in the Recent Projects section below.\n   - Title: Undergraduate "
+          ]
+        },
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        },
+        {
+          "url": "https://memmachine.ai/community-student-ambassador-program",
+          "title": "MemMachine Student Ambassador Program | MemMachine",
+          "publish_date": null,
+          "excerpts": [
+            "# MemMachine Student Ambassador Program\n\nJoin the Hippo Huddle. Learn, build, and make an impact with MemMachine.\n\n## 🦛 About the Program\n\nThe MemMachine Student Ambassador Program empowers students around the world to become the voice of MemMachine – The Open-Source Memory Layer for AI Agents on t"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3037",
+      "census_row": "24765",
+      "name": "VideoVerses",
+      "queries": [
+        "VideoVerses student ambassador AI",
+        "VideoVerses campus advocate program",
+        "VideoVerses official community fellowship student"
+      ],
+      "search_id": "search_e256b17f0d78c987356051af6089b1d1",
+      "results": [
+        {
+          "url": "https://github.com/VideoVerses",
+          "title": "VideoVerses · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Organization: VideoVerses (@VideoVerses)\n\n* Page: GitHub organization profile\n* URL: https://github.com/VideoVerses\n* Top languages: Python, JavaScript\n\nRepositories\n\n* VideoVerses/AnimationBench: AnimationBench: Are Video Models Good at Character-Centric Animation?\n* VideoVerses/VideoTuna: Let's fi"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        },
+        {
+          "url": "https://x.com/rishabhkio/status/2119599602920042840",
+          "title": "Rishabh Karnawat on X: \"hi everyone, autumn ai is expanding its campus ambassador program.\n\nif you’re a college student, this is a rare opportunity to work with one of the most exciting yc-backed startups, alongside an incredibly talented team building something exceptional.\n\ni’ll personally review… / X",
+          "publish_date": "2026-11-09",
+          "excerpts": [
+            "Post\n\nLog in Sign up\n\nPost\n\nLog in Sign up\n\nRishabh Karnawat on X: \"hi everyone, autumn ai is expanding its campus ambassador program.\n\n...\n\ni’ll personally review your profile and connect you with the right person if it’s a good fit. my dms are open. apply here: https://t.co/wKymR0IeRo\"\n\nConversati"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Become a Campus Ambassador and lead technical programs, events, and bootcamps on your campus.\nCareer Boost\n\nFeatured Opportunities\n\n...\n\nala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship p"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3038",
+      "census_row": "24766",
+      "name": "jshilong",
+      "queries": [
+        "jshilong student ambassador AI",
+        "jshilong campus advocate program",
+        "jshilong official community fellowship student"
+      ],
+      "search_id": "search_eea12cd8e94765e341b886eddd5898f6",
+      "results": [
+        {
+          "url": "https://github.com/jshilong",
+          "title": "jshilong (Shilong Zhang) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Shilong Zhang (@jshilong)\n\n* Page: GitHub user profile\n* URL: https://github.com/jshilong\n* Location: San Jose\n* Website: https://jshilong.github.io\n* Followers: 275\n* Following: 24\n* Links: https://jshilong.github.io, https://orcid.org/0009-0005-4336-4941\n* Top languages: Python\nPh.D. student"
+          ]
+        },
+        {
+          "url": "https://download.plaud.ai/jshilong",
+          "title": "jshilong (Shilong Zhang) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Skip to content ## Navigation Menu\n@jshilong jshilong Follow\nOverview Repositories 31 Projects Packages Stars 138\n@jshilong jshilong Follow\nView jshilong's full-sized avatar\n🎯\nFocusing\n\nShilong Zhang jshilong\n\n🎯\nFocusing\nFollow\nPh.D. student\n277 followers · 24 following\n* San Jose\n* https://jshilo"
+          ]
+        },
+        {
+          "url": "https://112.cachefly.net/jshilong",
+          "title": "jshilong (Shilong Zhang) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Skip to content ## Navigation Menu\n@jshilong jshilong Follow\nOverview Repositories 31 Projects Packages Stars 138\n@jshilong jshilong Follow\nView jshilong's full-sized avatar\n🎯\nFocusing\n\nShilong Zhang jshilong\n\n🎯\nFocusing\nFollow\nPh.D. student\n277 followers · 24 following\n* San Jose\n* https://jshilo"
+          ]
+        },
+        {
+          "url": "https://memmachine.ai/community-student-ambassador-program/",
+          "title": "MemMachine Student Ambassador Program | MemMachine",
+          "publish_date": null,
+          "excerpts": [
+            "MemMachine Student Ambassador Program\n\nJoin the Hippo Huddle. Learn, build, and make an impact with MemMachine.\n\n🦛 About the Program\n\nThe MemMachine Student Ambassador Program empowers students around the world to become the voice of MemMachine – The Open-Source Memory Layer for AI Agents on their "
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3039",
+      "census_row": "24767",
+      "name": "beader",
+      "queries": [
+        "beader student ambassador AI",
+        "beader campus advocate program",
+        "beader official community fellowship student"
+      ],
+      "search_id": "search_4a8f99edb5594f08af1eeb7356616cfd",
+      "results": [
+        {
+          "url": "https://scai.sorbonne-universite.fr/news/claude-program",
+          "title": "Claude Campus Ambassadors Program — applications open until September 12 — SCAI",
+          "publish_date": "2026-11-04",
+          "excerpts": [
+            "[Back to news](https://scai.sorbonne-universite.fr/news)\n\n07 Sept 2026\n\n# Claude Campus Ambassadors Program — applications open until September 12\n\nLead student-driven AI initiatives with support from Anthropic.\n\nAnthropic reopened applications for its Claude Campus Ambassadors program on September "
+          ]
+        },
+        {
+          "url": "https://claude.com/programs/campus",
+          "title": "claude.com",
+          "publish_date": null,
+          "excerpts": [
+            "1. Programs /\n2. Campus\n\nExplore here\n\n* Ask questions about this page\n* Copy as markdown\n\n# Supporting student builders\n\nLead student-driven AI initiatives with support from Anthropic.\n\n### For undergrads\n\nIf you're passionate about bringing AI fluency to your campus, apply to lead a Claude Builder"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/copilot-student-ambassador",
+          "title": "AI for College Students: Become a Copilot Student Ambassador | Microsoft Copilot",
+          "publish_date": null,
+          "excerpts": [
+            "### Networking\n\nYou’ll be connected to an ambassador cohort network across 100+ college campuses, collaborating in both individual and partner-led events.\n\n...\n\nWe’re looking for creative , influential individuals who are naturals at connecting with people at events, through clubs and organizations,"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3040",
+      "census_row": "24768",
+      "name": "dragonked2",
+      "queries": [
+        "dragonked2 student ambassador AI",
+        "dragonked2 campus advocate program",
+        "dragonked2 official community fellowship student"
+      ],
+      "search_id": "search_f4f30c434191336c9effe2ffcf5c8eb5",
+      "results": [
+        {
+          "url": "https://github.com/dragonked2",
+          "title": "dragonked2 (Ali Essam) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "# User: Ali Essam (@dragonked2)\n\n- Page: GitHub user profile\n- URL: https://github.com/dragonked2\n- Company: @alphacli\n- Location: Anonymous\n- Website: https://alphacli.github.io/\n- Followers: 197\n- Following: 13\n- Links: https://alphacli.github.io/, https://orcid.org/0009-0008-5109-0970, https://ww"
+          ]
+        },
+        {
+          "url": "https://github.com/dragonked2/alphacode",
+          "title": "GitHub - dragonked2/alphacode: Free MIT AI coding agent — no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 more. Swarm mode, 40+ tools, browser & desktop automation, built in Rust. · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "- Default branch: main\n- Created: 2026-09-01T09:57:03.000Z\n- Commits: 96\n\n## Top-level files\n\n- .github/\n- alphagrep/\n- assets/app-icons/\n- docs/\n- scripts/\n- src/\n- tests/\n- .editorconfig\n\n...\n\n[AlphaCode: open-source Rust AI coding agent for the terminal with Firefox browser automation and desktop"
+          ]
+        },
+        {
+          "url": "https://112.cachefly.net/dragonked2",
+          "title": "dragonked2 (Ali Essam) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Achievement: YOLO Achievement: Public Sponsor Achievement: Starstruck x2 Achievement: Pull Shark Achievement: Quickdraw\n\nAchievements\n\nAchievement: YOLO Achievement: Public Sponsor Achievement: Starstruck x2 Achievement: Pull Shark Achievement: Quickdraw\n\nHighlights\n\n* Developer Program Member\nBlock"
+          ]
+        },
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1. [ホームページ](https://blog.google/intl/ja-jp/ \"Japan Blog\")\n2. [最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 "
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3041",
+      "census_row": "24769",
+      "name": "chenkui164",
+      "queries": [
+        "chenkui164 student ambassador AI",
+        "chenkui164 campus advocate program",
+        "chenkui164 official community fellowship student"
+      ],
+      "search_id": "search_c9497a7d70bf667a5608abc1a8ce8240",
+      "results": [
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        },
+        {
+          "url": "https://memmachine.ai/community-student-ambassador-program",
+          "title": "MemMachine Student Ambassador Program | MemMachine",
+          "publish_date": null,
+          "excerpts": [
+            "# MemMachine Student Ambassador Program\n\nJoin the Hippo Huddle. Learn, build, and make an impact with MemMachine.\n\n## 🦛 About the Program\n\nThe MemMachine Student Ambassador Program empowers students around the world to become the voice of MemMachine – The Open-Source Memory Layer for AI Agents on t"
+          ]
+        },
+        {
+          "url": "https://campaign.1111.com.tw/ai-campus-ambassador",
+          "title": "2026校園大使 - 1111人力銀行",
+          "publish_date": "2025-10-14",
+          "excerpts": [
+            "跳到主要內容 跳到頁尾\n\n[](https://www.1111.com.tw/) [](https://campaign.1111.com.tw/ai-campus-ambassador/)\n\n[我要報名](https://campaign.1111.com.tw/ai-campus-ambassador/application/) [登入](https://campaign.1111.com.tw/wp-admin/admin-post.php?action=mcl_1111_sso_start&redirect_to=https://campaign.1111.com.tw/ai-cam"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\n# Campus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\n## Why Join\n\n### Frontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\n### Real Ownersh"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3042",
+      "census_row": "24770",
+      "name": "vlm-run",
+      "queries": [
+        "vlm-run student ambassador AI",
+        "vlm-run campus advocate program",
+        "vlm-run official community fellowship student"
+      ],
+      "search_id": "search_0b8259f95781d05883062f359a0032df",
+      "results": [
+        {
+          "url": "http://github.com/vlm-run",
+          "title": "VLM Run · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Organization: VLM Run (@vlm-run)\n\n* Page: GitHub organization profile\n* URL: http://github.com/vlm-run\n* Location: United States of America\n* Website: https://vlm.run\n* Links: https://twitter.com/vlmrun, https://www.linkedin.com/company/vlm-run\n* Top languages: Python, TypeScript, Jupyter Notebook, "
+          ]
+        },
+        {
+          "url": "https://www.vlm.run/about",
+          "title": "About | VLM Run",
+          "publish_date": null,
+          "excerpts": [
+            "Diagram showing visual inputs flowing through VLM Run into structured outputs\n\nThe Team\n\n## The people building VLM Run\n\nHalf PhDs. Roots in MIT, CMU, and NC State robotics and computer vision. We shipped perception at Toyota Research and AWS AI Labs. Now we build the infrastructure that makes visua"
+          ]
+        },
+        {
+          "url": "https://www.southparkcommons.com/companies/vlm-run",
+          "title": "VLM Run - Companies - South Park Commons",
+          "publish_date": null,
+          "excerpts": [
+            "[Return to Companies](https://www.southparkcommons.com/companies)\n\nVLM Run\n\n# VLM Run\n\nThe gateway for visual intelligence\n\nInfrastructure · 2023 · San Francisco\n\nVLM Run is building the infrastructure for visual intelligence – letting developers deploy AI systems that perceive, reason, and act on i"
+          ]
+        },
+        {
+          "url": "https://linkedin.com/in/dinesh-reddy-n-26b95945",
+          "title": "Dinesh Reddy N - Build VLM RUN | CMU Robotics PHD",
+          "publish_date": "2026-01-01",
+          "excerpts": [
+            "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nVLM Run\nCarnegie Mellon University\nPersonal Website\n* Report this profile\n\nAbout\n\nAs a Founding Member at VLM Run\n\n...\n\nto everyone building AI applications. Excited to see what peo"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3043",
+      "census_row": "24771",
+      "name": "maykulkarni",
+      "queries": [
+        "maykulkarni student ambassador AI",
+        "maykulkarni campus advocate program",
+        "maykulkarni official community fellowship student"
+      ],
+      "search_id": "search_09c385449f05447269a4e56fa2442d87",
+      "results": [
+        {
+          "url": "https://github.com/maykulkarni",
+          "title": "maykulkarni · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: maykulkarni (@maykulkarni)\n\n* Page: GitHub user profile\n* URL: https://github.com/maykulkarni\n* Company: Adagrad AI\n* Location: Pune, India\n* Website: https://maykulkarni.github.io\n* Followers: 188\n* Following: 27\n* Links: https://maykulkarni.github.io\n* Top languages: Java, Jupyter Notebook, "
+          ]
+        },
+        {
+          "url": "https://happenstance.ai/u/mayank-kulkarni",
+          "title": "Mayank Kulkarni | Happenstance",
+          "publish_date": null,
+          "excerpts": [
+            "* Happenstance\nToggle Sidebar\nToggle Sidebar\nProfile banner\nMayank Kulkarni\nAdd friend Export Share\n\nMayank Kulkarni\n\nFounder, Full-Stack Developer & SaaS Product Builder\nmayank-kulkarni\nNashik, Maharashtra, India\n5 connections\nJoinedJuly 2026\nFavicon image mayank.wiki Favicon image mktechs.in Favic"
+          ]
+        },
+        {
+          "url": "https://www.collegecircleai.com/student-community",
+          "title": "CC>AI College Circle AI",
+          "publish_date": null,
+          "excerpts": [
+            "Join India's AI-native network of builders, operators, creators, and innovators reshaping what it means to be a student.\nExplore Your Pathway Enter The Ecosystem\n5K+\nEXPLORERS\n80+\nCAMPUS AMBASSADORS\n24\nCITIES\nAI Workshop\nACTIVE NOW\nOperator Apps\nOPEN • COHORT 02\n+12 campuses\nJOINED TODAY\nMascot\nBUIL"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "publish_date": null,
+          "excerpts": [
+            "Become a Campus Ambassador and lead technical programs, events, and bootcamps on your campus.\nCareer Boost\n\nFeatured Opportunities\n\n...\n\nala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship p"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3044",
+      "census_row": "24772",
+      "name": "SpectacularAI",
+      "queries": [
+        "SpectacularAI student ambassador AI",
+        "SpectacularAI campus advocate program",
+        "SpectacularAI official community fellowship student"
+      ],
+      "search_id": "search_87358c7b4a05764c4651a56553077734",
+      "results": [
+        {
+          "url": "https://github.com/SpectacularAI",
+          "title": "Spectacular AI · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Organization: Spectacular AI (@SpectacularAI)\n\n* Page: GitHub organization profile\n* URL: https://github.com/SpectacularAI\n* Location: Finland\n* Website: https://www.spectacularai.com\n* Links: https://www.linkedin.com/company/spectacular-ai, https://www.youtube.com/@SpectacularAI\n* Top languages: Py"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        },
+        {
+          "url": "https://github.com/orgs/SpectacularAI/followers",
+          "title": "GitHub · Where software is built",
+          "publish_date": null,
+          "excerpts": [
+            "Skip to content ## Navigation Menu\n\n@SpectacularAI Spectacular AI\n\n* Overview\n* Repositories\n* Projects\n* Packages\n* People\n\nUsers following SpectacularAI\n\n@weriksonfoalves\nWerikson Alves weriksonfoalves\nBrazil\nFollow\n@ohameiri\nohameiri\nFollow\n@MichaelSun1001\nMichael Sun MichaelSun1001\n🌐 Spatial AI"
+          ]
+        },
+        {
+          "url": "https://www.swytchcode.com/campus-ambassadors",
+          "title": "Campus Ambassador Program | Swytchcode",
+          "publish_date": null,
+          "excerpts": [
+            "Join Our global SwytchCode community\n\nBecome a Campus Ambassador. Grow your community, host AI events, and bring AI agents to more students.\nApply now Join our Discord\nPanel discussion on AI agents for Fintech engineering, hosted by Swytchcode at the AWS Builder Loft\nSpeaker presenting at the Swytch"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3045",
+      "census_row": "24773",
+      "name": "OniroAI",
+      "queries": [
+        "OniroAI student ambassador AI",
+        "OniroAI campus advocate program",
+        "OniroAI official community fellowship student"
+      ],
+      "search_id": "search_b8c490412e3e59c32f11a92519519ca0",
+      "results": [
+        {
+          "url": "https://www.oniro.ai/",
+          "title": "OniroAI | Home page",
+          "publish_date": null,
+          "excerpts": [
+            "OniroAI\nAbout Projects Blog Team\n\nAbout us\n\nOniroAI is an independent team of passionate professionals and enthusiasts of applied Computer Vision and Artificial Intelligence. We are a union of friends inspired by the technologies of the future. Our collaboration is aimed at shaping the AI revolution"
+          ]
+        },
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        },
+        {
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Ambassador Program\n\nLead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to build campus-level communities, promote hands-on AI certifications on TheNoah.ai, and encourage student participation, with platform access, milestone goodies, and referral incentives "
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3046",
+      "census_row": "24774",
+      "name": "lefterisloukas",
+      "queries": [
+        "lefterisloukas student ambassador AI",
+        "lefterisloukas campus advocate program",
+        "lefterisloukas official community fellowship student"
+      ],
+      "search_id": "search_bbb354b4c6f5e92944b3724454b8c2e2",
+      "results": [
+        {
+          "url": "https://github.com/lefterisloukas",
+          "title": "lefterisloukas (Lefteris Loukas) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "User: Lefteris Loukas (@lefterisloukas)\n\n* Page: GitHub user profile\n* URL: https://github.com/lefterisloukas\n* Location: Greece\n* Followers: 70\n* Following: 39\n* Links: https://www.linkedin.com/in/lefterisloukas, https://scholar.google.com/citations?user=Bh20TSgAAAAJ&hl=en\n* Top languages: Python\nP"
+          ]
+        },
+        {
+          "url": "https://github.com/lefterisloukas?tab=repositories",
+          "title": "lefterisloukas (Lefteris Loukas) / Repositories · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "## \n\nlefterisloukas (Lefteris Loukas) / Repositories · GitHub\nPhD in Applied AI/NLP. Working as Head of AI @ helvia.ai; Created EDGAR-CRAWLER (500+ stars) and co-authored the Greek NLP Toolkit. - lefterisloukas"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        },
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "publish_date": null,
+          "excerpts": [
+            "\n**We are Hiring**\n\n# AI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\n\n## About the Program\n\nThis student-driven initiative is designed to promote the ethical use of AI on campuses worldwide. Gain valuable experience, access "
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3047",
+      "census_row": "24775",
+      "name": "laugustyniak",
+      "queries": [
+        "laugustyniak student ambassador AI",
+        "laugustyniak campus advocate program",
+        "laugustyniak official community fellowship student"
+      ],
+      "search_id": "search_69ca15fc6a4aaf6c203a842919bbcd6a",
+      "results": [
+        {
+          "url": "https://github.com/laugustyniak",
+          "title": "Łukasz Augustyniak laugustyniak - AI Consultant",
+          "publish_date": null,
+          "excerpts": [
+            "User: Łukasz Augustyniak (@laugustyniak)\n\n* Page: GitHub user profile\n* URL: https://github.com/laugustyniak\n* Company: AI Solutions Łukasz Augustyniak\n* Website: https://augustyniak.ai\n* Followers: 91\n* Following: 65\n* Links: https://augustyniak.ai, https://www.linkedin.com/in/lukaszaugustyniak/\n* "
+          ]
+        },
+        {
+          "url": "https://qgithub.com/laugustyniak",
+          "title": "laugustyniak (Łukasz Augustyniak) · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "@laugustyniak laugustyniak Follow\nOverview Repositories 21 Projects Packages Stars 1.7k\n@laugustyniak laugustyniak Follow\nView laugustyniak's full-sized avatar\n🏠\nWorking from home\n\nŁukasz Augustyniak laugustyniak\n\n🏠\nWorking from home\nFollow\nData Scientist / AI and LLM Consultant\n90 followers · 65 "
+          ]
+        },
+        {
+          "url": "https://api.github.com/users/laugustyniak",
+          "title": "https://api.github.com/users/laugustyniak",
+          "publish_date": null,
+          "excerpts": [
+            "{ \"login\": \"laugustyniak\", \"id\": 3233014, \"node_id\": \"MDQ6VXNlcjMyMzMwMTQ=\", \"avatar_url\": \"https://avatars.githubusercontent.com/u/3233014?v=4\", \"gravatar_id\": \"\", \"url\": \"https://api.github.com/users/laugustyniak\", \"html_url\": \"https://github.com/laugustyniak\", \"followers_url\": \"https://api.github"
+          ]
+        },
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3048",
+      "census_row": "24776",
+      "name": "GPTGenius",
+      "queries": [
+        "GPTGenius student ambassador AI",
+        "GPTGenius campus advocate program",
+        "GPTGenius official community fellowship student"
+      ],
+      "search_id": "search_9530bd47f940fcc0a461f8a37302b80f",
+      "results": [
+        {
+          "url": "https://blog.google/intl/ja-jp/feed/student_ambassador2026",
+          "title": "2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内",
+          "publish_date": "2026-03-18",
+          "excerpts": [
+            "リンク\n\n* [メディア関係者向け](https://blog.google/intl/ja-jp/press/ \"メディア関係者向け\")\n* [RSS フィード](https://blog.google/intl/ja-jp/rss/)\n\nパンくずリスト\n\n1.\n\n...\n\n[最新のニュース](https://blog.google/intl/ja-jp/feed/)\n\n# 2026 年 大学生を対象とした生成 AI 活用のためのコミュニティのご案内\n\nGemini チーム\n\n2026年 3月 18日\n\n* * *\n\n昨年の夏より約半年の間、学生の皆さんが Google Gemini をはじ"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        },
+        {
+          "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+          "title": "OpenAI Campus Network: Student club interest form | OpenAI",
+          "publish_date": null,
+          "excerpts": [
+            "* Developers\n* Company\n* Foundation (opens in a new window)\nOpenAI Campus Network: Student club interest form | OpenAI\nMay 11, 2026\nCompany\n\nOpenAI Campus Network: Student club interest form\n\nJoin a global network of student leaders building AI-native campuses.\nShare\nWe’re partnering with student cl"
+          ]
+        },
+        {
+          "url": "https://openai.com/form/openai-campus-leaders-interest-form",
+          "title": "OpenAI campus leaders interest form",
+          "publish_date": null,
+          "excerpts": [
+            "Help students gain confidence using ChatGPT and Codex while building projects together.\nApply or register your interest Join our newsletter (opens in a new window)\nShare\nStudents have been among the first to find new ways AI can support learning, creativity, and problem-solving.\n\n...\n\ne with OpenAI "
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3049",
+      "census_row": "24777",
+      "name": "ai-ng",
+      "queries": [
+        "ai-ng student ambassador AI",
+        "ai-ng campus advocate program",
+        "ai-ng official community fellowship student"
+      ],
+      "search_id": "search_07888137d42768be69f145ccaf1033ab",
+      "results": [
+        {
+          "url": "https://scholarshipsandaid.org/2026/09/03/claude-campus-ambassador-programme-2026/",
+          "title": "Claude Campus Ambassador Programme 2026. – SCHOLARSHIPS AND AID",
+          "publish_date": "2026-11-07",
+          "excerpts": [
+            "The programme supports student-led AI initiatives at universities and invites undergraduate students, graduate students, PhD students and postdocs to help create communities around AI learning, building and research.\nSelected ambassadors receive a $3,600 stipend , Anthropic API credits, access to An"
+          ]
+        },
+        {
+          "url": "https://www.2077ai.com/projects/campus-program",
+          "title": "2077AI - Open-source Innovation Foundation - Revolutionizing AI Data",
+          "publish_date": null,
+          "excerpts": [
+            "2077 AI Logo\n\nCampus Ambassador\n\nAdvance frontier AI — from campus to the global research ecosystem. Join a selective network shaping the future of transparent and responsible AI\n\nWhy Join\n\nFrontier AI Access\n\nEngage with benchmarking, alignment, and transparent AI systems\n\nReal Ownership\n\nLead tale"
+          ]
+        },
+        {
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "publish_date": null,
+          "excerpts": [
+            "Campus Ambassador Program\n\nLead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to build campus-level communities, promote hands-on AI certifications on TheNoah.ai, and encourage student participation, with platform access, milestone goodies, and referral incentives "
+          ]
+        },
+        {
+          "url": "https://studentambassador.naijagirlsintech.ng/",
+          "title": "NGiT Ambassador Program 2026 - Cohort 1 - Naija Girls in Tech",
+          "publish_date": null,
+          "excerpts": [
+            "We are recruiting the 2026 cohort of Ambassadors to build the largest female-led tech ecosystem in Africa. Are you the voice your campus is waiting for?\nApply as Ambassador →\nExplore the Program\n50 +\nCampus Ambassadors\n30 +\nUniversities Targeted\n10k +\nStudents to Reach\n100 %\nFree to Apply\n\nWhy Top S"
+          ]
+        }
+      ],
+      "error": false
+    },
+    {
+      "small_rank": "3050",
+      "census_row": "24778",
+      "name": "oriveo",
+      "queries": [
+        "oriveo student ambassador AI",
+        "oriveo campus advocate program",
+        "oriveo official community fellowship student"
+      ],
+      "search_id": "search_859dbe973bacd1981fd5e1b3d219166d",
+      "results": [
+        {
+          "url": "https://github.com/oriveo/oriveo",
+          "title": "GitHub - oriveo/oriveo: Open-source, bring-your-own-key (BYOK) multi-model AI chat client for iOS, Android and the web. One LLM client for OpenAI, Anthropic, Google Gemini, OpenRouter, DeepSeek and ten more providers, plus any OpenAI-, Anthropic- or Gemini-compatible endpoint — Ollama, LM Studio, llama.cpp, vLLM. Local-first, self-hostable, no account. AGPL-3.0. · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "oriveo/oriveo\n\n* Page: GitHub repository\n* URL: https://github.com/oriveo/oriveo\n* Description: Open-source, bring-your-own-key (BYOK) multi-model AI chat client for iOS, Android and the web.\n\n...\n\n* Chat — streaming, reasoning blo\n\n...\n\nan\n\n...\n\n* 16 interface languages , including full right-to-le"
+          ]
+        },
+        {
+          "url": "https://github.com/oriveo",
+          "title": "Oriveo · GitHub",
+          "publish_date": null,
+          "excerpts": [
+            "Organization: Oriveo (@oriveo)\n\n* Page: GitHub organization profile\n* URL: https://github.com/oriveo\n* Website: https://oriveoai.com/\n* Top languages: Swift\nOpen-source BYOK AI chat for iOS, Android and Web (AGPL-3.0 Community Edition); macOS client in development. Official apps add cloud sync. - Or"
+          ]
+        },
+        {
+          "url": "https://oriveoai.com/",
+          "title": "Oriveo — AI Chat App for Every Model (BYOK)",
+          "publish_date": null,
+          "excerpts": [
+            "Community edition is open source · AGPL-3.0\n\n# Every AI model,  \none chat app.\n\nPaste in the API keys you already pay for, and 700+ models from 15 official providers show up in the same picker.\n\n[Open the web app](https://app.oriveoai.com/?locale=en) [Get the mobile app](https://oriveoai.com/downloa"
+          ]
+        },
+        {
+          "url": "https://p.timeshining.com/detail/swift/oriveo/oriveo",
+          "title": "oriveo Open-source, bring-your-own-key (BYOK) mu @codeKK swiftOpen Source Website",
+          "publish_date": null,
+          "excerpts": [
+            "## oriveo\n\nProject Url: [oriveo/oriveo](https://github.com/oriveo/oriveo)\n\nIntroduction: Open-source, bring-your-own-key (BYOK) multi-model AI chat client for iOS, Android and the web.\n\n...\n\n.githubusercontent.com/oriveo/oriveo/master/ios/README.md) [Android 8 and later](https://raw.githubuserconten"
+          ]
+        }
+      ],
+      "error": false
+    }
+  ]
+}

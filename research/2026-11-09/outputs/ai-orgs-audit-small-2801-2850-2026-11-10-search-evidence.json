@@ -1,0 +1,1274 @@
+{
+  "slice": {
+    "start": 2801,
+    "end": 2850,
+    "cutoff": "2026-11-09",
+    "research_date": "2026-11-10"
+  },
+  "method": {
+    "provider": "Parallel web search (connected web-search tools; agent-reach CLI unavailable)",
+    "x_mcp_used": false,
+    "search_calls": 50,
+    "query_count_per_name": 3,
+    "query_variations": 150,
+    "failures": 0,
+    "templates": [
+      "{name} student ambassador official",
+      "{name} campus representative India",
+      "{name} academic partner advocate official"
+    ],
+    "result_handling": "Up to two top-ranked search excerpts per name; each excerpt is limited to 180 characters. Results are discovery leads and require exact-entity verification."
+  },
+  "searches": [
+    {
+      "name": "HavenFeng",
+      "search_id": "search_79452dcad9ff65931baa00b71e3ba560",
+      "session_id": "session_79452dcad9ff65931baa00b71e3ba560",
+      "queries": [
+        "HavenFeng student ambassador official",
+        "HavenFeng campus representative India",
+        "HavenFeng academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://x.com/HavenFeng?lang=en",
+          "title": "Haven Feng (@HavenFeng) / X",
+          "publish_date": "2021-10-20",
+          "excerpt": "1. [X](https://x.com) 2. [Haven Feng](https://x.com/HavenFeng) Haven Feng 229posts user avatar Haven Feng @HavenFeng Postdoc [@berkeley\\_ai](https://x.com/berkeley_ai) , building I"
+        },
+        {
+          "url": "https://havenfeng.github.io/",
+          "title": "Haiwen (Haven) Feng",
+          "publish_date": null,
+          "excerpt": "[Matthias Bethge](https://scholar.google ... I was born and raised in Beijing. [Email](mailto:havenfeng422@gmail.com) / [Scholar](https://scholar.google.com/citations?hl=en&user=g5"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "qunash",
+      "search_id": "search_7f2b065a8bf21415deb4f3fb6139c531",
+      "session_id": "session_7f2b065a8bf21415deb4f3fb6139c531",
+      "queries": [
+        "qunash student ambassador official",
+        "qunash campus representative India",
+        "qunash academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+          "title": "Internshala Student Partner (ISP) 2026 | Campus Unite",
+          "publish_date": null,
+          "excerpt": "The Internshala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship platfo"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "AMA-CMFAI",
+      "search_id": "search_7c0ff3ecf320f7803edf9061b2100ee5",
+      "session_id": "session_7c0ff3ecf320f7803edf9061b2100ee5",
+      "queries": [
+        "AMA-CMFAI student ambassador official",
+        "AMA-CMFAI campus representative India",
+        "AMA-CMFAI academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/AMA-CMFAI",
+          "title": "AMA-CMFAI · GitHub",
+          "publish_date": null,
+          "excerpt": "Organization: AMA-CMFAI (@AMA-CMFAI) * Page: GitHub organization profile * URL: https://github.com/AMA-CMFAI * Location: Hong Kong * Website: https://www.polyu.edu.hk/ama/cmfai/ind"
+        },
+        {
+          "url": "https://www.polyu.edu.hk/ama/about-ama/ama-at-a-glance/milestone/",
+          "title": "Milestone | Department of Applied Mathematics",
+          "publish_date": null,
+          "excerpt": "* Academic Calendar * Campus Map * eAcademic * eAdmission * eStudent * Learn@PolyU (Blackboard) * PolyU A to Z * PolyU ID Portal * PolyU Staff Email * PolyU Student Email * Researc"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "dmitrizzle",
+      "search_id": "search_3c79b7300fd0c2332afe8d920d95fda4",
+      "session_id": "session_3c79b7300fd0c2332afe8d920d95fda4",
+      "queries": [
+        "dmitrizzle student ambassador official",
+        "dmitrizzle campus representative India",
+        "dmitrizzle academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://lawlit.in/campus-ambassadors",
+          "title": "The Lawlit Fellowship 2026 | Campus Ambassador Program | Lawlit",
+          "publish_date": null,
+          "excerpt": "2026 Cohort Applications Open The Lawlit Fellowship. We are looking for ambitious law students to represent Lawlit at top NLUs and private law colleges across India. This is not a "
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "hassony2",
+      "search_id": "search_2384b88ff8120f251602363ce8c7f8cb",
+      "session_id": "session_2384b88ff8120f251602363ce8c7f8cb",
+      "queries": [
+        "hassony2 student ambassador official",
+        "hassony2 campus representative India",
+        "hassony2 academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://hostro.in/student-ambassador",
+          "title": "Hostro — One Platform. Endless Possibilities.",
+          "publish_date": "2026-06-07",
+          "excerpt": "Hostro Student Ambassador Program Become a Hostro Student Ambassador Lead your campus, earn rewards, build your professional profile, and help students find better accommodation th"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "JUSTSUJAY",
+      "search_id": "search_9ff3a3839f571c606c690f93a92bd59d",
+      "session_id": "session_9ff3a3839f571c606c690f93a92bd59d",
+      "queries": [
+        "JUSTSUJAY student ambassador official",
+        "JUSTSUJAY campus representative India",
+        "JUSTSUJAY academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://lawlit.in/campus-ambassadors",
+          "title": "The Lawlit Fellowship 2026 | Campus Ambassador Program | Lawlit",
+          "publish_date": null,
+          "excerpt": "2026 Cohort Applications Open The Lawlit Fellowship. We are looking for ambitious law students to represent Lawlit at top NLUs and private law colleges across India. This is not a "
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "nonamestreet",
+      "search_id": "search_427cd86b6948853c3cddb344e3fdfa9f",
+      "session_id": "session_427cd86b6948853c3cddb344e3fdfa9f",
+      "queries": [
+        "nonamestreet student ambassador official",
+        "nonamestreet campus representative India",
+        "nonamestreet academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://lawlit.in/campus-ambassadors",
+          "title": "The Lawlit Fellowship 2026 | Campus Ambassador Program | Lawlit",
+          "publish_date": null,
+          "excerpt": "2026 Cohort Applications Open The Lawlit Fellowship. We are looking for ambitious law students to represent Lawlit at top NLUs and private law colleges across India. This is not a "
+        },
+        {
+          "url": "https://aicssyc.ieeecssrm.in/ambassador",
+          "title": "AICSSYC 2026 | IEEE Computer Society SYP Congress | SRM IST",
+          "publish_date": null,
+          "excerpt": "• CAMPUS AMBASSADOR PROGRAM Lead the charge. Own your campus. Become the official representative of India's flagship IEEE Computer Society congress. Build your network, unlock excl"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "mobarski",
+      "search_id": "search_1cc3260f830815a30c61b10741509598",
+      "session_id": "session_1cc3260f830815a30c61b10741509598",
+      "queries": [
+        "mobarski student ambassador official",
+        "mobarski campus representative India",
+        "mobarski academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+          "title": "Internshala Student Partner (ISP) 2026 | Campus Unite",
+          "publish_date": null,
+          "excerpt": "The Internshala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship platfo"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "morpheuslord",
+      "search_id": "search_39b3942f6a9a75260f4d56cacf32d618",
+      "session_id": "session_39b3942f6a9a75260f4d56cacf32d618",
+      "queries": [
+        "morpheuslord student ambassador official",
+        "morpheuslord campus representative India",
+        "morpheuslord academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/morpheuslord",
+          "title": "morpheuslord (morpheuslord) · GitHub",
+          "publish_date": null,
+          "excerpt": "# User: morpheuslord (@morpheuslord) - Page: GitHub user profile - URL: https://github.com/morpheuslord - Company: Cygne Noir Cyber - Location: India - Website: https://chiranjeevi"
+        },
+        {
+          "url": "https://github.com/morpheuslord/morpheuslord",
+          "title": "GitHub - morpheuslord/morpheuslord · GitHub",
+          "publish_date": null,
+          "excerpt": "# morpheuslord/morpheuslord - Page: GitHub repository - URL: https://github.com/morpheuslord/morpheuslord - Default branch: main - Created: 2021-12-12T08:17:36.000Z - Commits: 137 "
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "the-crypt-keeper",
+      "search_id": "search_0acee00c85e55317f6765281eb53b929",
+      "session_id": "session_0acee00c85e55317f6765281eb53b929",
+      "queries": [
+        "the-crypt-keeper student ambassador official",
+        "the-crypt-keeper campus representative India",
+        "the-crypt-keeper academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/the-crypt-keeper",
+          "title": "the-crypt-keeper · GitHub",
+          "publish_date": null,
+          "excerpt": "User: the-crypt-keeper (@the-crypt-keeper) * Page: GitHub user profile * URL: https://github.com/the-crypt-keeper * Followers: 131 * Following: 2 * Top languages: Python Maybe huma"
+        },
+        {
+          "url": "https://thundercipher.in/community",
+          "title": "Campus Ambassadors | ThunderCipher",
+          "publish_date": null,
+          "excerpt": "* Events * Leaderboard * Guide * Exams Sign In Sign Up Our Community Campus Ambassadors Meet our passionate ambassadors spreading cybersecurity knowledge across campuses worldwide,"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "hellostealth",
+      "search_id": "search_c766b07a689cd88a5993b187df8f00f4",
+      "session_id": "session_c766b07a689cd88a5993b187df8f00f4",
+      "queries": [
+        "hellostealth student ambassador official",
+        "hellostealth campus representative India",
+        "hellostealth academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+          "title": "Internshala Student Partner (ISP) 2026 | Campus Unite",
+          "publish_date": null,
+          "excerpt": "The Internshala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship platfo"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "BYU-PCCL",
+      "search_id": "search_247fc660480b5c019c77b2a39609c9f3",
+      "session_id": "session_247fc660480b5c019c77b2a39609c9f3",
+      "queries": [
+        "BYU-PCCL student ambassador official",
+        "BYU-PCCL campus representative India",
+        "BYU-PCCL academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://expeditions.byu.edu/ambassadors",
+          "title": "Ambassadors | BYU Expeditions",
+          "publish_date": null,
+          "excerpt": " Become an Ambassador Today! We’re excited to announce our new ambassador program. Read on to learn how you can apply to take a more active role in helping others discover our prog"
+        },
+        {
+          "url": "https://github.com/BYU-PCCL",
+          "title": "Perception, Control and Cognition Lab · GitHub",
+          "publish_date": null,
+          "excerpt": "Organization: Perception, Control and Cognition Lab (@BYU-PCCL) * Page: GitHub organization profile * URL: https://github.com/BYU-PCCL * Location: United States of America * Websit"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "lianginx",
+      "search_id": "search_a496eb43a152d319b3a9e85da6485d22",
+      "session_id": "session_a496eb43a152d319b3a9e85da6485d22",
+      "queries": [
+        "lianginx student ambassador official",
+        "lianginx campus representative India",
+        "lianginx academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://www.internstudio.in/campus-ambassador",
+          "title": "InternStudio.in | Online Internships in Web Dev, MERN, AI/ML – Remote + Certified",
+          "publish_date": null,
+          "excerpt": "InternStudio Campus Ambassador Program 2026 Become an InternStudio Campus Ambassador Represent InternStudio by introducing anyone—friends, classmates, colleagues, or your network—t"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "kjsman",
+      "search_id": "search_7e8cf81e51e25c3e8ecbd2e062396cf1",
+      "session_id": "session_7e8cf81e51e25c3e8ecbd2e062396cf1",
+      "queries": [
+        "kjsman student ambassador official",
+        "kjsman campus representative India",
+        "kjsman academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+          "title": "Internshala Student Partner (ISP) 2026 | Campus Unite",
+          "publish_date": null,
+          "excerpt": "The Internshala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship platfo"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "giuven95",
+      "search_id": "search_6e1c9a4062b289cfcb1e3edb7105d986",
+      "session_id": "session_6e1c9a4062b289cfcb1e3edb7105d986",
+      "queries": [
+        "giuven95 student ambassador official",
+        "giuven95 campus representative India",
+        "giuven95 academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+          "title": "Internshala Student Partner (ISP) 2026 | Campus Unite",
+          "publish_date": null,
+          "excerpt": "The Internshala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship platfo"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "LiJiangnanBit",
+      "search_id": "search_105b9fac2f3ede90f8546dc60c9b76f3",
+      "session_id": "session_105b9fac2f3ede90f8546dc60c9b76f3",
+      "queries": [
+        "LiJiangnanBit student ambassador official",
+        "LiJiangnanBit campus representative India",
+        "LiJiangnanBit academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://thesmartbridge.com/campus-ambassador-program",
+          "title": "SmartBridge Campus Ambassador Program",
+          "publish_date": null,
+          "excerpt": "or the impact you create on your campus. Lead & Inspire Become a student leader by driving impactful campus initiatives and events. Earn Recognition Receive an official Certificate"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "FradSer",
+      "search_id": "search_cb1a45347a95a0aba99bd3ecc5b52b99",
+      "session_id": "session_cb1a45347a95a0aba99bd3ecc5b52b99",
+      "queries": [
+        "FradSer student ambassador official",
+        "FradSer campus representative India",
+        "FradSer academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/fradser",
+          "title": "FradSer ( Frad LEE) · GitHub",
+          "publish_date": null,
+          "excerpt": "# User: Frad LEE (@fradser) - Page: GitHub user profile - URL: https://github.com/fradser - Location: Shenzhen, CN - Website: http://frad.me/ - Followers: 280 - Following: 77 - Lin"
+        },
+        {
+          "url": "https://github.com/FradSer/FradSer",
+          "title": "GitHub - FradSer/FradSer · GitHub",
+          "publish_date": null,
+          "excerpt": "# FradSer/FradSer - Page: GitHub repository - URL: https://github.com/FradSer/FradSer - Default branch: master - Created: 2020-07-09T09:35:02.000Z - Commits: 13 ## Top-level files "
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "hirofumi0810",
+      "search_id": "search_6682859d6038378bd113fa44fa02932f",
+      "session_id": "session_6682859d6038378bd113fa44fa02932f",
+      "queries": [
+        "hirofumi0810 student ambassador official",
+        "hirofumi0810 campus representative India",
+        "hirofumi0810 academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://hostro.in/student-ambassador",
+          "title": "Hostro — One Platform. Endless Possibilities.",
+          "publish_date": "2026-06-07",
+          "excerpt": "Hostro Student Ambassador Program Become a Hostro Student Ambassador Lead your campus, earn rewards, build your professional profile, and help students find better accommodation th"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "GrumpyZhou",
+      "search_id": "search_829d7c9a0061aab7208322b5faba2443",
+      "session_id": "session_829d7c9a0061aab7208322b5faba2443",
+      "queries": [
+        "GrumpyZhou student ambassador official",
+        "GrumpyZhou campus representative India",
+        "GrumpyZhou academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/GrumpyZhou",
+          "title": "GrumpyZhou (Qunjie Zhou) · GitHub",
+          "publish_date": null,
+          "excerpt": "# User: Qunjie Zhou (@GrumpyZhou) - Page: GitHub user profile - URL: https://github.com/GrumpyZhou - Company: Nvidia - Website: https://research.nvidia.com/labs/dvl/author/qunjie-z"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "miguelvr",
+      "search_id": "search_b20270542a0cf607ed89d3299a8f52c2",
+      "session_id": "session_b20270542a0cf607ed89d3299a8f52c2",
+      "queries": [
+        "miguelvr student ambassador official",
+        "miguelvr campus representative India",
+        "miguelvr academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://labs.nmgdigital.com/ambassadors",
+          "title": "NMG Labs · Campus Ambassador Program · Apply Now",
+          "publish_date": null,
+          "excerpt": "Campus Ambassador Program · Pan-India · Cohort 01 Be the face of NMG Labs on your campus. Bring the sharpest builders from your college into India's most-watched AI hackathon serie"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "avidevelops",
+      "search_id": "search_a5d82fd958ae78d1d6f89ebb7e9b9b8d",
+      "session_id": "session_a5d82fd958ae78d1d6f89ebb7e9b9b8d",
+      "queries": [
+        "avidevelops student ambassador official",
+        "avidevelops campus representative India",
+        "avidevelops academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://www.internstudio.in/campus-ambassador",
+          "title": "InternStudio.in | Online Internships in Web Dev, MERN, AI/ML – Remote + Certified",
+          "publish_date": null,
+          "excerpt": "InternStudio Campus Ambassador Program 2026 Become an InternStudio Campus Ambassador Represent InternStudio by introducing anyone—friends, classmates, colleagues, or your network—t"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "jonathanpalma",
+      "search_id": "search_20b6f2773df6bf7e5861add67ba8ff45",
+      "session_id": "session_20b6f2773df6bf7e5861add67ba8ff45",
+      "queries": [
+        "jonathanpalma student ambassador official",
+        "jonathanpalma campus representative India",
+        "jonathanpalma academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+          "title": "Internshala Student Partner (ISP) 2026 | Campus Unite",
+          "publish_date": null,
+          "excerpt": "The Internshala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship platfo"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "timbmg",
+      "search_id": "search_6c07ffbd4b6b48ce2b718c9e3908974d",
+      "session_id": "session_6c07ffbd4b6b48ce2b718c9e3908974d",
+      "queries": [
+        "timbmg student ambassador official",
+        "timbmg campus representative India",
+        "timbmg academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://labs.nmgdigital.com/ambassadors",
+          "title": "NMG Labs · Campus Ambassador Program · Apply Now",
+          "publish_date": null,
+          "excerpt": "Campus Ambassador Program · Pan-India · Cohort 01 Be the face of NMG Labs on your campus. Bring the sharpest builders from your college into India's most-watched AI hackathon serie"
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "metadist",
+      "search_id": "search_dbf98468cb6b8d0d846ee704f2d41cd2",
+      "session_id": "session_dbf98468cb6b8d0d846ee704f2d41cd2",
+      "queries": [
+        "metadist student ambassador official",
+        "metadist campus representative India",
+        "metadist academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://www.metadist.com/",
+          "title": "Open Source Integration & Development — metadist, Düsseldorf",
+          "publish_date": null,
+          "excerpt": "[metadist](https://www.metadist.com/) Menu * [Open Source Integration](https://www.metadist.com/) * [Open Source AI](https://www.metadist.com/open-source-ai) * [Synaplan (opens in "
+        },
+        {
+          "url": "https://www.metadist.de/",
+          "title": "Open-Source-Integration & Entwicklung — metadist, Düsseldorf",
+          "publish_date": null,
+          "excerpt": "Zum Inhalt springen [metadist](https://www.metadist.de/) Menü * [Open-Source-Integration](https://www.metadist.de/) * [Open Source KI](https://www.metadist.de/open-source-ki) * [Sy"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "mahmoudnafifi",
+      "search_id": "search_3d3552cf367472852bc70dfcf4fecc9e",
+      "session_id": "session_3d3552cf367472852bc70dfcf4fecc9e",
+      "queries": [
+        "mahmoudnafifi student ambassador official",
+        "mahmoudnafifi campus representative India",
+        "mahmoudnafifi academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://www.mahindrauniversity.edu.in/events/mahindra-university-students-selected-as-nvidia-global-ambassadors/",
+          "title": "Mahindra University Students selected as Nvidia Global Ambassadors - Mahindra University",
+          "publish_date": "2025-12-19",
+          "excerpt": "+ [Board of Management](/about-us/board-of-management/) + [Academic Council](/about-us/academic-council/) * * University Outreach + [Media](/media-releases/) + [University Collabor"
+        },
+        {
+          "url": "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+          "title": "Internshala Student Partner (ISP) 2026 | Campus Unite",
+          "publish_date": null,
+          "excerpt": "The Internshala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship platfo"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "KennethJAllen",
+      "search_id": "search_7a94d480c3526508e92d552664971015",
+      "session_id": "session_7a94d480c3526508e92d552664971015",
+      "queries": [
+        "KennethJAllen student ambassador official",
+        "KennethJAllen campus representative India",
+        "KennethJAllen academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://aicssyc.ieeecssrm.in/ambassador",
+          "title": "AICSSYC 2026 | IEEE Computer Society SYP Congress | SRM IST",
+          "publish_date": null,
+          "excerpt": "• CAMPUS AMBASSADOR PROGRAM Lead the charge. Own your campus. Become the official representative of India's flagship IEEE Computer Society congress. Build your network, unlock excl"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "samtecspg",
+      "search_id": "search_c5402f92ba79c288828265deb474b899",
+      "session_id": "session_c5402f92ba79c288828265deb474b899",
+      "queries": [
+        "samtecspg student ambassador official",
+        "samtecspg campus representative India",
+        "samtecspg academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://thesmartbridge.com/campus-ambassador-program",
+          "title": "SmartBridge Campus Ambassador Program",
+          "publish_date": null,
+          "excerpt": "or the impact you create on your campus. Lead & Inspire Become a student leader by driving impactful campus initiatives and events. Earn Recognition Receive an official Certificate"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "jhavl",
+      "search_id": "search_a4f991d17956c66e9034abd5b07e4b34",
+      "session_id": "session_a4f991d17956c66e9034abd5b07e4b34",
+      "queries": [
+        "jhavl student ambassador official",
+        "jhavl campus representative India",
+        "jhavl academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://lawlit.in/campus-ambassadors",
+          "title": "The Lawlit Fellowship 2026 | Campus Ambassador Program | Lawlit",
+          "publish_date": null,
+          "excerpt": "2026 Cohort Applications Open The Lawlit Fellowship. We are looking for ambitious law students to represent Lawlit at top NLUs and private law colleges across India. This is not a "
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "changwookjun",
+      "search_id": "search_e1a76aabf181fe5b828d6391c0627c96",
+      "session_id": "session_e1a76aabf181fe5b828d6391c0627c96",
+      "queries": [
+        "changwookjun student ambassador official",
+        "changwookjun campus representative India",
+        "changwookjun academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://www.facebook.com/changwookjun0?locale=ko_KR",
+          "title": "전창욱 (@changwookjun0)",
+          "publish_date": null,
+          "excerpt": "전창욱 (@changwookjun0) 󱞴 디지털 크리에이터 · 󱘛 경기도 하남 · 󱜆 LG AI 연구원 · 󱜧 Gwang-Ju Univ ... NLP 엔지니어로 한 영역을 오래 파고드는 입장에서 이 문장이 특히 아팠다. 깊이"
+        },
+        {
+          "url": "https://github.com/changwookjun",
+          "title": "changwookjun (전창욱) · GitHub",
+          "publish_date": null,
+          "excerpt": "# User: 전창욱 (@changwookjun) - Page: GitHub user profile - URL: https://github.com/changwookjun - Company: LG AI Research - Location: Korea - Website: https://www.facebook.com/chang"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "sharpdeveye",
+      "search_id": "search_512871cd8c9887c2100c2ad38d687047",
+      "session_id": "session_512871cd8c9887c2100c2ad38d687047",
+      "queries": [
+        "sharpdeveye student ambassador official",
+        "sharpdeveye campus representative India",
+        "sharpdeveye academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://lawlit.in/campus-ambassadors",
+          "title": "The Lawlit Fellowship 2026 | Campus Ambassador Program | Lawlit",
+          "publish_date": null,
+          "excerpt": "2026 Cohort Applications Open The Lawlit Fellowship. We are looking for ambitious law students to represent Lawlit at top NLUs and private law colleges across India. This is not a "
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "Austin1serb",
+      "search_id": "search_ed28d5da228113560471dd7a527ec023",
+      "session_id": "session_ed28d5da228113560471dd7a527ec023",
+      "queries": [
+        "Austin1serb student ambassador official",
+        "Austin1serb campus representative India",
+        "Austin1serb academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+          "title": "Internshala Student Partner (ISP) 2026 | Campus Unite",
+          "publish_date": null,
+          "excerpt": "The Internshala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship platfo"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "RingBDStack",
+      "search_id": "search_69dcf03d89b58b6c620f546d16da0845",
+      "session_id": "session_69dcf03d89b58b6c620f546d16da0845",
+      "queries": [
+        "RingBDStack student ambassador official",
+        "RingBDStack campus representative India",
+        "RingBDStack academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/RingBDStack/GC-Bench",
+          "title": "GitHub - RingBDStack/GC-Bench: An Open and Unified Benchmark for Graph Condensation (submitted to NeurIPS 2024 Datasets and Benchmarks Track) · GitHub",
+          "publish_date": null,
+          "excerpt": "ensation methods in various scenarios. It examines the effectiveness, transferability, and complexity of graph condensation. We evaluate 12 state-of-the-art graph condensation algo"
+        },
+        {
+          "url": "https://github.com/RingBDStack/FinEvent",
+          "title": "GitHub - RingBDStack/FinEvent: Code for \"Reinforced, Incremental and Cross-lingual Event Detection From Social Messages\" · GitHub",
+          "publish_date": null,
+          "excerpt": "# RingBDStack/FinEvent - Page: GitHub repository - URL: https://github.com/RingBDStack/FinEvent - Description: Code for \"Reinforced, Incremental and Cross-lingual Event Detection F"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "Code-and-Sorts",
+      "search_id": "search_0327adf67a3da25d87d99c4eda645a95",
+      "session_id": "session_0327adf67a3da25d87d99c4eda645a95",
+      "queries": [
+        "Code-and-Sorts student ambassador official",
+        "Code-and-Sorts campus representative India",
+        "Code-and-Sorts academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://labs.nmgdigital.com/ambassadors",
+          "title": "NMG Labs · Campus Ambassador Program · Apply Now",
+          "publish_date": null,
+          "excerpt": "Campus Ambassador Program · Pan-India · Cohort 01 Be the face of NMG Labs on your campus. Bring the sharpest builders from your college into India's most-watched AI hackathon serie"
+        },
+        {
+          "url": "https://codemyfyp.com/campus-ambassador",
+          "title": "Campus Ambassador Programme | CodeMyFYP",
+          "publish_date": null,
+          "excerpt": "CodeMyFYP IT & Software Solutions Logo Services AI Solutions NEW Learn & Build Resources Company Scope Project Discuss your project Campus Ambassador Represent CodeMyFYP at your co"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "jalaalrd",
+      "search_id": "search_6d515a183f5f80023f9c097827fcc171",
+      "session_id": "session_6d515a183f5f80023f9c097827fcc171",
+      "queries": [
+        "jalaalrd student ambassador official",
+        "jalaalrd campus representative India",
+        "jalaalrd academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://lawlit.in/campus-ambassadors",
+          "title": "The Lawlit Fellowship 2026 | Campus Ambassador Program | Lawlit",
+          "publish_date": null,
+          "excerpt": "2026 Cohort Applications Open The Lawlit Fellowship. We are looking for ambitious law students to represent Lawlit at top NLUs and private law colleges across India. This is not a "
+        },
+        {
+          "url": "https://scholarsadda.in/ambassador",
+          "title": "Scholars Adda - Learning and Assessment Platform",
+          "publish_date": null,
+          "excerpt": "Represent Scholars Adda at your campus. Become a campus ambassador, build valuable skills, and earn exciting rewards while expanding your professional network. Apply Now The Ambass"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "LimHyungTae",
+      "search_id": "search_3db377ca1272a3d552da629386a13a58",
+      "session_id": "session_3db377ca1272a3d552da629386a13a58",
+      "queries": [
+        "LimHyungTae student ambassador official",
+        "LimHyungTae campus representative India",
+        "LimHyungTae academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://github.com/harshgounder/campus-ambassador-programs-2026/blob/master/EVIDENCE.md",
+          "title": "campus-ambassador-programs-2026/EVIDENCE.md at master · harshgounder/campus-ambassador-programs-2026 · GitHub",
+          "publish_date": null,
+          "excerpt": "Anthropic Claude Campus, https://claude.com/programs/campus , V1 \"The program is closed for Fall 2026\" \"Applications open September 1 and close September 12.\" OpenAI Student Collec"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "hwwang55",
+      "search_id": "search_bacf49980cb01e5aa90a346a27215feb",
+      "session_id": "session_bacf49980cb01e5aa90a346a27215feb",
+      "queries": [
+        "hwwang55 student ambassador official",
+        "hwwang55 campus representative India",
+        "hwwang55 academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+          "title": "Internshala Student Partner (ISP) 2026 | Campus Unite",
+          "publish_date": null,
+          "excerpt": "The Internshala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship platfo"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "awesome-vacuum",
+      "search_id": "search_692cd7574e10a2d4c0f9d232d5fdba4c",
+      "session_id": "session_692cd7574e10a2d4c0f9d232d5fdba4c",
+      "queries": [
+        "awesome-vacuum student ambassador official",
+        "awesome-vacuum campus representative India",
+        "awesome-vacuum academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/awesome-vacuum",
+          "title": "awesome-vacuum · GitHub",
+          "publish_date": null,
+          "excerpt": "Organization: awesome-vacuum (@awesome-vacuum) * Page: GitHub organization profile * URL: https://github.com/awesome-vacuum awesome-vacuum has one repository available. Follow thei"
+        },
+        {
+          "url": "https://github.com/awesome-vacuum/awesome-vacuum",
+          "title": "GitHub - awesome-vacuum/awesome-vacuum: A curated list of free and open source software and hardware to build and control a robot vacuum. · GitHub",
+          "publish_date": null,
+          "excerpt": "awesome-vacuum/awesome-vacuum * Page: GitHub repository * URL: https://github.com/awesome-vacuum/awesome-vacuum * Description: A curated list of free and open source software and h"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "hiDaDeng",
+      "search_id": "search_4e9d8be5526adf466a2ce6f90efdcec6",
+      "session_id": "session_4e9d8be5526adf466a2ce6f90efdcec6",
+      "queries": [
+        "hiDaDeng student ambassador official",
+        "hiDaDeng campus representative India",
+        "hiDaDeng academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://scholarsadda.in/ambassador",
+          "title": "Scholars Adda - Learning and Assessment Platform",
+          "publish_date": null,
+          "excerpt": "Represent Scholars Adda at your campus. Become a campus ambassador, build valuable skills, and earn exciting rewards while expanding your professional network. Apply Now The Ambass"
+        },
+        {
+          "url": "https://thesmartbridge.com/campus-ambassador-program",
+          "title": "SmartBridge Campus Ambassador Program",
+          "publish_date": null,
+          "excerpt": "or the impact you create on your campus. Lead & Inspire Become a student leader by driving impactful campus initiatives and events. Earn Recognition Receive an official Certificate"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "dweep-desai",
+      "search_id": "search_bcb655a7ba42f6dbc7d6a29928685c5c",
+      "session_id": "session_bcb655a7ba42f6dbc7d6a29928685c5c",
+      "queries": [
+        "dweep-desai student ambassador official",
+        "dweep-desai campus representative India",
+        "dweep-desai academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://www.facebook.com/FutureVarsity",
+          "title": "Future Varsity | Mumbai",
+          "publish_date": null,
+          "excerpt": "## Future Varsity | Mumbai Advance your career and achieve your goals with Future Varsity Institute of Management Studies and Research cutting-edge management education. , Mumbai, "
+        },
+        {
+          "url": "https://codeforces.com/profile/dweep_desai",
+          "title": "dweep_desai - Codeforces",
+          "publish_date": null,
+          "excerpt": "image: https://codeforces.com/codeforces.org/s/96045/images/codeforces-telegram-square-1024x1024.png title: dweep_desai - Codeforces description: Codeforces. Programming competitio"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "jkkummerfeld",
+      "search_id": "search_bdae9b8c8c268c7c1fd1ea7044004cca",
+      "session_id": "session_bdae9b8c8c268c7c1fd1ea7044004cca",
+      "queries": [
+        "jkkummerfeld student ambassador official",
+        "jkkummerfeld campus representative India",
+        "jkkummerfeld academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+          "title": "Internshala Student Partner (ISP) 2026 | Campus Unite",
+          "publish_date": null,
+          "excerpt": "The Internshala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship platfo"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "secureagentics",
+      "search_id": "search_d50d9a7974260cf27e2821e7d73b5596",
+      "session_id": "session_d50d9a7974260cf27e2821e7d73b5596",
+      "queries": [
+        "secureagentics student ambassador official",
+        "secureagentics campus representative India",
+        "secureagentics academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://www.secureagentics.ai/",
+          "title": "Runtime Security for AI Agents | Secure Agentics",
+          "publish_date": null,
+          "excerpt": "Abstract black and silver smooth surfaces with reflective, fluid-like shapes and highlights. AGENTIC SECURITY # Securing an Agentic Future Adrian is the open-source runtime securit"
+        },
+        {
+          "url": "https://www.secureagentics.ai/trust",
+          "title": "Trust Centre | Secure Agentics",
+          "publish_date": null,
+          "excerpt": "LEGAL Trust Centre Last Updated: May 2026 1. Introduction Our Trust Centre is where you can engage with both the company and our regulated representatives, if you have any issues t"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "yung-megafone",
+      "search_id": "search_46dcac3dbb1bac3ca828d8a7eacacb7c",
+      "session_id": "session_46dcac3dbb1bac3ca828d8a7eacacb7c",
+      "queries": [
+        "yung-megafone student ambassador official",
+        "yung-megafone campus representative India",
+        "yung-megafone academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://qgithub.com/yung-megafone",
+          "title": "yung-megafone (yung-megafone) · GitHub",
+          "publish_date": null,
+          "excerpt": "Skip to content ## Navigation Menu @yung-megafone yung-megafone Follow Overview Repositories 15 Projects Packages Stars 42 @yung-megafone yung-megafone Follow View yung-megafone's "
+        },
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "btx0424",
+      "search_id": "search_c5bb3289e23c2cb7483d5f46a29e07b3",
+      "session_id": "session_c5bb3289e23c2cb7483d5f46a29e07b3",
+      "queries": [
+        "btx0424 student ambassador official",
+        "btx0424 campus representative India",
+        "btx0424 academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://www.taskveda.in/campus-ambassador",
+          "title": "Campus Ambassador Program — Apply Now (2026) | TaskVeda",
+          "publish_date": null,
+          "excerpt": "Campus Ambassador Program Lead your campus. Launch your career. Represent your college with TaskVeda, host real events and webinars, and earn certificates, incentives and mentorshi"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "stevesolun",
+      "search_id": "search_d69d3694ba9a64d1c8bfffe3a4ab5f9f",
+      "session_id": "session_d69d3694ba9a64d1c8bfffe3a4ab5f9f",
+      "queries": [
+        "stevesolun student ambassador official",
+        "stevesolun campus representative India",
+        "stevesolun academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+          "title": "Internshala Student Partner (ISP) 2026 | Campus Unite",
+          "publish_date": null,
+          "excerpt": "The Internshala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship platfo"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "SaseQ",
+      "search_id": "search_c876375aa25791ee6d1fcd9eb12e6239",
+      "session_id": "session_c876375aa25791ee6d1fcd9eb12e6239",
+      "queries": [
+        "SaseQ student ambassador official",
+        "SaseQ campus representative India",
+        "SaseQ academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://scholarsadda.in/ambassador",
+          "title": "Scholars Adda - Learning and Assessment Platform",
+          "publish_date": null,
+          "excerpt": "Represent Scholars Adda at your campus. Become a campus ambassador, build valuable skills, and earn exciting rewards while expanding your professional network. Apply Now The Ambass"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "kapi2800",
+      "search_id": "search_710702d1e57acedc646d8621fe47a3be",
+      "session_id": "session_710702d1e57acedc646d8621fe47a3be",
+      "queries": [
+        "kapi2800 student ambassador official",
+        "kapi2800 campus representative India",
+        "kapi2800 academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+          "title": "Internshala Student Partner (ISP) 2026 | Campus Unite",
+          "publish_date": null,
+          "excerpt": "The Internshala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship platfo"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "Shahrayar123",
+      "search_id": "search_c8fa3d69a2a9a00119ffdc6da9d753c2",
+      "session_id": "session_c8fa3d69a2a9a00119ffdc6da9d753c2",
+      "queries": [
+        "Shahrayar123 student ambassador official",
+        "Shahrayar123 campus representative India",
+        "Shahrayar123 academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://campusunite.in/opportunities/detail/internshala-student-partner-isp-2026",
+          "title": "Internshala Student Partner (ISP) 2026 | Campus Unite",
+          "publish_date": null,
+          "excerpt": "The Internshala Student Partner (ISP 2026) is a premier 60-day transformational student leadership & campus ambassador program designed by Internshala, India’s #1 internship platfo"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "nasa",
+      "search_id": "search_2ebaa21a627c67c0a24a9c7f045cfeab",
+      "session_id": "session_2ebaa21a627c67c0a24a9c7f045cfeab",
+      "queries": [
+        "nasa student ambassador official",
+        "nasa campus representative India",
+        "nasa academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://www.spaceappsindia.com/",
+          "title": "NASA Space Apps Challenge India 2026 | The Next Frontier",
+          "publish_date": "2026-08-26",
+          "excerpt": "UWR hosts 20 official Local Events across India and Europe — each with its own venue and community. 2026 THEME The Next Frontier. ... From local communities to a global NASA challe"
+        },
+        {
+          "url": "http://spacegrant.oregonstate.edu/student-ambassadors",
+          "title": "Student Ambassadors | Oregon NASA Space Grant Consortium | Oregon State University",
+          "publish_date": "2024-04-11",
+          "excerpt": "Oregon NASA Space Grant Consortium 2. Student Ambassadors Student Ambassadors Now accepting applications for The 2026-2027 Student Ambassador Program Applications are due May 22, 2"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "awarebayes",
+      "search_id": "search_63b740d39006c41a5f34011c5edf8a4e",
+      "session_id": "session_63b740d39006c41a5f34011c5edf8a4e",
+      "queries": [
+        "awarebayes student ambassador official",
+        "awarebayes campus representative India",
+        "awarebayes academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://www.internstudio.in/campus-ambassador",
+          "title": "InternStudio.in | Online Internships in Web Dev, MERN, AI/ML – Remote + Certified",
+          "publish_date": null,
+          "excerpt": "InternStudio Campus Ambassador Program 2026 Become an InternStudio Campus Ambassador Represent InternStudio by introducing anyone—friends, classmates, colleagues, or your network—t"
+        },
+        {
+          "url": "https://thesmartbridge.com/campus-ambassador-program",
+          "title": "SmartBridge Campus Ambassador Program",
+          "publish_date": null,
+          "excerpt": "or the impact you create on your campus. Lead & Inspire Become a student leader by driving impactful campus initiatives and events. Earn Recognition Receive an official Certificate"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "miyosuda",
+      "search_id": "search_2fc5474c6c859d3f1d81d725768e215e",
+      "session_id": "session_2fc5474c6c859d3f1d81d725768e215e",
+      "queries": [
+        "miyosuda student ambassador official",
+        "miyosuda campus representative India",
+        "miyosuda academic partner advocate official"
+      ],
+      "results": [
+        {
+          "url": "https://campusunite.in/ambassador",
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "publish_date": null,
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27 Become a Campus Unite Campus Ambassador Represent Campus Unite at your college, build a thriving student tech community, gain rea"
+        },
+        {
+          "url": "https://www.internstudio.in/campus-ambassador",
+          "title": "InternStudio.in | Online Internships in Web Dev, MERN, AI/ML – Remote + Certified",
+          "publish_date": null,
+          "excerpt": "InternStudio Campus Ambassador Program 2026 Become an InternStudio Campus Ambassador Represent InternStudio by introducing anyone—friends, classmates, colleagues, or your network—t"
+        }
+      ],
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# Audit notes: small-tier ranks 1–50 (10 Nov 2026)
+
+- Coverage: 50 consecutive records from `ai-orgs-small-tier-search-ledger-2026-11-10.csv`; output preserves `census_row` and `small_rank`. All 50 IDs, names, tier values and categories match the filtered ledger. The worker did not have the original `data/ai-orgs-census.csv` in its assigned workspace. The primary researcher generated this 9,304-row filtered ledger directly from the canonical census and independently validated its IDs, names, tiers, and categories, so these 50 records are source-aligned; the worker's original-file access caveat does not mean the source mapping is unverified.
+- Method: bounded exact-entity screening using official/profile or targeted web search results. HF namespaces were treated as namespaces unless ownership evidence supported an organization identity. Search surfaced official LMSYS internship information (not a student-leader route), NCAIR1 identity/project evidence, and a Supertone creator ambassador page with historic dates whose year/current intake could not be established.
+- Cutoff: none of the found sources establishes an exact student-leader route open on 2026-11-09. Nov 10 discoveries are not backdated. India eligibility is unknown unless explicitly stated; none is inferred.
+- Priority areas represented include speech/local-language AI, embeddings, image/video/audio generation, multimodal, robotics and evaluation; the census category/tag alone does not establish program ownership.
+- Existing-ledger comparison was limited to the AI priority verification delta; duplicate absence is not evidence of no existing opportunity.
+- No X MCP, forms, applications or external contact used.

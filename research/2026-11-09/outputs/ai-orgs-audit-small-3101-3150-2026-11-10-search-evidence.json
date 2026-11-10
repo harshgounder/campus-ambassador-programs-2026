@@ -1,0 +1,1967 @@
+{
+  "slice": {
+    "start": 3101,
+    "end": 3150,
+    "census_rows": [
+      24829,
+      24878
+    ],
+    "cutoff": "2026-11-09",
+    "researched": "2026-11-10",
+    "validation": "50 rows exact; 0 mismatch"
+  },
+  "method": "Exact-name variations with student/campus ambassador, advocate, organizer and fellow terms; bounded pass.",
+  "x_mcp_used": false,
+  "entities": [
+    {
+      "small_rank": "3101",
+      "census_row": "24829",
+      "name": "StarmoonAI",
+      "queries": [
+        "\"StarmoonAI\" student ambassador",
+        "\"StarmoonAI\" campus ambassador advocate",
+        "\"StarmoonAI\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"StarmoonAI\" student ambassador",
+        "\"StarmoonAI\" campus ambassador advocate",
+        "\"StarmoonAI\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://memorilabs.ai/student-ambassador",
+          "title": "Student ambassador program | Memori – Agent-native memory infrastructure",
+          "excerpts": [
+            "# Student ambassador program\n\n# Student ambassador program\n\nMemori is building the memory infrastructure layer for AI agents. With 13K GitHub stars an"
+          ]
+        },
+        {
+          "url": "https://mamentis.com/student-ambassador",
+          "title": "Student Ambassador Program | Mamentis",
+          "excerpts": [
+            "## Shaping the Future of AI Education ​\n\nJoin our Student Ambassador Program and help bring cutting-edge AI education to universities and colleges wor"
+          ]
+        },
+        {
+          "url": "https://litero.ai/careers/ambassador",
+          "title": "AI Student Ambassador – Join Litero’s Campus Program",
+          "excerpts": [
+            "# AI Student Ambassador\n\nPart-time, remote, paid\n\n## More about the program\n\n**Eligibility:** currently open to students in the US, UK, Canada, Austra"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3102",
+      "census_row": "24830",
+      "name": "selefra",
+      "queries": [
+        "\"selefra\" student ambassador",
+        "\"selefra\" campus ambassador advocate",
+        "\"selefra\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"selefra\" student ambassador",
+        "\"selefra\" campus ambassador advocate",
+        "\"selefra\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/selefra/selefra",
+          "title": "GitHub - selefra/selefra: The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI). · GitHub",
+          "excerpts": [
+            "# selefra/selefra\n\n- Page: GitHub repository\n- URL: https://github.com/selefra/selefra\n- Description: The open-source policy-as-code software that pro"
+          ]
+        },
+        {
+          "url": "https://github.com/selefra",
+          "title": "Selefra · GitHub",
+          "excerpts": [
+            "# Organization: Selefra (@selefra)\n\n- Page: GitHub organization profile\n- URL: https://github.com/selefra\n- Website: https://selefra.io\n- Links: https"
+          ]
+        },
+        {
+          "url": "https://www.crunchbase.com/organization/selefra",
+          "title": "Selefra - Crunchbase Company Profile & Funding",
+          "excerpts": [
+            "[11-50](https://www.crunchbase.com/search/people/field/organization/num_employees_enum/selefra) [selefra.io](https://selefra.io/ \"selefra.io\") [](http"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3103",
+      "census_row": "24831",
+      "name": "huakunyang",
+      "queries": [
+        "\"huakunyang\" student ambassador",
+        "\"huakunyang\" campus ambassador advocate",
+        "\"huakunyang\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"huakunyang\" student ambassador",
+        "\"huakunyang\" campus ambassador advocate",
+        "\"huakunyang\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://sao.hsu.edu.hk/our-services/campuslife/student-ambassadors-programme/",
+          "title": "Student Ambassadors Programme | Student Affairs Office",
+          "excerpts": [
+            "\nStudent Ambassadors Programme\n\nStudent Ambassadors Programme\n\nProgramme Objectives\n\n* To develop and explore students’ unique potentials to become pr"
+          ]
+        },
+        {
+          "url": "https://www.oalmr.cuhk.edu.hk/en/student-ambassador-programme",
+          "title": "Student Ambassador Programme(for internal only) | Office of Academic Links (Mainland and Regional), The Chinese University of Hong Kong",
+          "excerpts": [
+            "* About Us\n* Office of Academic Links (Mainland and Regional)\n* Vision & Mission\n* Overview\n* Contact Us\n* Student Interflow\n* Student Interflow Activ"
+          ]
+        },
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3104",
+      "census_row": "24832",
+      "name": "akshaybahadur21",
+      "queries": [
+        "\"akshaybahadur21\" student ambassador",
+        "\"akshaybahadur21\" campus ambassador advocate",
+        "\"akshaybahadur21\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"akshaybahadur21\" student ambassador",
+        "\"akshaybahadur21\" campus ambassador advocate",
+        "\"akshaybahadur21\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://bdstudents.org/ambassador",
+          "title": "Become a Campus Ambassador | BDStudents Ambassador Program",
+          "excerpts": [
+            "BDStudents\nSearch institutions, clubs, people, posts… Ctrl` `K\n* Feed\n* Institutions\n* Clubs\n* Articles\nAmbassador Program\n\nLead the Campus\n\nHelp stud"
+          ]
+        },
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://www.jjay.cuny.edu/about/senior-leadership/office-external-affairs/student-engagement",
+          "title": "Student Engagement | John Jay College of Criminal Justice",
+          "excerpts": [
+            "\nStudent Engagement\n\n1. Home\n2. About\n3. Senior Leadership\n4. Office of External Affairs\n5. Student Engagement\n\nJohn Jay Office of External Affairs Am"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3105",
+      "census_row": "24833",
+      "name": "TianxingWu",
+      "queries": [
+        "\"TianxingWu\" student ambassador",
+        "\"TianxingWu\" campus ambassador advocate",
+        "\"TianxingWu\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"TianxingWu\" student ambassador",
+        "\"TianxingWu\" campus ambassador advocate",
+        "\"TianxingWu\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://gmba.sem.tsinghua.edu.cn/Admissions/International/Student_Ambassadors.htm",
+          "title": "Student Ambassadors-Tsinghua Global MBA - Your Gateway to the Best of China",
+          "excerpts": [
+            "Home - Admissions - International - Student Ambassadors\n\nStudent Ambassadors\n\n* Admissions Calendar & Criteria\n* Application\n* Expenses & Scholarship\n"
+          ]
+        },
+        {
+          "url": "https://www.polyu.edu.hk/greencampus/get-involved/student-ambassadors",
+          "title": "Student Ambassadors | Campus Carbon Neutrality",
+          "excerpts": [
+            "Skip to main content Start main content\n* PolyU Green Concepts\n* Get Involved\n* Student Ambassadors\n\nStudent Ambassadors\n\nStudent Ambassadors Recruitm"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3106",
+      "census_row": "24834",
+      "name": "txsun1997",
+      "queries": [
+        "\"txsun1997\" student ambassador",
+        "\"txsun1997\" campus ambassador advocate",
+        "\"txsun1997\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"txsun1997\" student ambassador",
+        "\"txsun1997\" campus ambassador advocate",
+        "\"txsun1997\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://ttu.campuslabs.com/engage/organization/www_depts_ttu_edu_artsandsciences_ambassadors",
+          "title": "College of Arts & Sciences Student Ambassadors - TechConnect",
+          "excerpts": [
+            "College of Arts & Sciences Student Ambassadors\n\nCollege of Arts & Sciences Student Ambassadors\n\nAbout\n\nThe purpose of the College of Arts & Sciences S"
+          ]
+        },
+        {
+          "url": "https://uteach.utexas.edu/student-ambassadors",
+          "title": "Student Ambassadors | UTeach Natural Sciences",
+          "excerpts": [
+            "\nStudent Ambassadors\n\nCurrent Students Side Menu\n\n* Current Students\n* Advising\n* Final Field Experience\n* Innovative Teaching Awards\n* Internships\n* "
+          ]
+        },
+        {
+          "url": "https://www.sfasu.edu/about-sfa/newsroom/2025/sfa-establishes-student-ambassador-group-represent-university",
+          "title": "SFA establishes student ambassador group to represent university | SFA",
+          "excerpts": [
+            "* 2008 News\n* Publications\n* Media Resources\n* Brand Toolkit\n\nSFA establishes student ambassador group to represent university\n\nUniversity Marketing C"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3107",
+      "census_row": "24835",
+      "name": "gmalivenko",
+      "queries": [
+        "\"gmalivenko\" student ambassador",
+        "\"gmalivenko\" campus ambassador advocate",
+        "\"gmalivenko\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"gmalivenko\" student ambassador",
+        "\"gmalivenko\" campus ambassador advocate",
+        "\"gmalivenko\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://cisa.asu.edu/ambassadors",
+          "title": "Student Ambassadors | College of Integrative Sciences and Arts",
+          "excerpts": [
+            "group\nStudent life\n\nStudent ambassadors\n\nRead about the range of experiences and interests our CISA ambassadors bring to their mentoring role.\n Learn "
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3108",
+      "census_row": "24836",
+      "name": "Hyk260",
+      "queries": [
+        "\"Hyk260\" student ambassador",
+        "\"Hyk260\" campus ambassador advocate",
+        "\"Hyk260\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"Hyk260\" student ambassador",
+        "\"Hyk260\" campus ambassador advocate",
+        "\"Hyk260\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "https://huc.edu/schools-programs/hebrew-union-college-fellowships/student-ambassadors-program",
+          "title": "Become a Student Ambassador for HUC",
+          "excerpts": [
+            "Hebrew Union College Press Link Out Icon\n \nSchools & Programs / Fellowships / Student Ambassadors Program\n\nStudent Ambassadors Program\n\nTwo HUC Studen"
+          ]
+        },
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3109",
+      "census_row": "24837",
+      "name": "lkuza2",
+      "queries": [
+        "\"lkuza2\" student ambassador",
+        "\"lkuza2\" campus ambassador advocate",
+        "\"lkuza2\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"lkuza2\" student ambassador",
+        "\"lkuza2\" campus ambassador advocate",
+        "\"lkuza2\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.klu.org/landingpages/student-ambassador-program",
+          "title": "Student Ambassador Program · KLU",
+          "excerpts": [
+            "Become a KLU Ambassador\n\nThere are many ways to get involved in the KLU community that suit both your interests and availability.\n\nKLU Student Ambassa"
+          ]
+        },
+        {
+          "url": "https://www.jku.at/ec2u/studierendenengagement",
+          "title": "Studierendenengagement | EC2U",
+          "excerpts": [
+            "* Zum Inhalt springen (Accesskey: 1)\n* Zur Suche springen (Accesskey: 2)\n* Zur JKU Startseite Informationen zur Portalnavigation\nWas ist das?\nInstitut"
+          ]
+        },
+        {
+          "url": "https://www.richland.edu/student-ambassador-program/",
+          "title": "Student Ambassador Program - Richland Community College",
+          "excerpts": [
+            "\nStudent Ambassador Program\n\nThe Richland Student Ambassador Program is a leadership opportunity for students interested in representing Richland Comm"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3110",
+      "census_row": "24838",
+      "name": "Jermic",
+      "queries": [
+        "\"Jermic\" student ambassador",
+        "\"Jermic\" campus ambassador advocate",
+        "\"Jermic\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"Jermic\" student ambassador",
+        "\"Jermic\" campus ambassador advocate",
+        "\"Jermic\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://www.jjay.cuny.edu/about/senior-leadership/office-external-affairs/student-engagement",
+          "title": "Student Engagement | John Jay College of Criminal Justice",
+          "excerpts": [
+            "\nStudent Engagement\n\n1. Home\n2. About\n3. Senior Leadership\n4. Office of External Affairs\n5. Student Engagement\n\nJohn Jay Office of External Affairs Am"
+          ]
+        },
+        {
+          "url": "https://www.geneseo.edu/cil/student_ambassadorships",
+          "title": "Student Ambassador Program - SUNY Geneseo",
+          "excerpts": [
+            "* Home\n* Center for Integrative Learning\n* Student Ambassador Program\nCenter for Integrative Learning\n* What is Integrative Learning?\n* Explore IAL Ex"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3111",
+      "census_row": "24839",
+      "name": "llm-lab-org",
+      "queries": [
+        "\"llm-lab-org\" student ambassador",
+        "\"llm-lab-org\" campus ambassador advocate",
+        "\"llm-lab-org\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"llm-lab-org\" student ambassador",
+        "\"llm-lab-org\" campus ambassador advocate",
+        "\"llm-lab-org\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://mamentis.com/student-ambassador",
+          "title": "Student Ambassador Program | Mamentis",
+          "excerpts": [
+            "## Shaping the Future of AI Education ​\n\nJoin our Student Ambassador Program and help bring cutting-edge AI education to universities and colleges wor"
+          ]
+        },
+        {
+          "url": "https://www.trinka.ai/campus-ambassador",
+          "title": "AI Campus Ambassador Program",
+          "excerpts": [
+            "\n**We are Hiring**\n\n# AI Campus Ambassador Program\n\nDrive AI innovation on your campus. Join a network of passionate peers and industry experts.\n\n## A"
+          ]
+        },
+        {
+          "url": "https://visit.berkeley.edu/campus-ambassadors/current-campus-ambassadors",
+          "title": "Current Campus Ambassadors | Visitor Services",
+          "excerpts": [
+            "Campus Ambassadors are current students that lead tours and guide the Berkeley experience for our 135,000 annual campus guests. As representatives and"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3112",
+      "census_row": "24840",
+      "name": "Brhiza",
+      "queries": [
+        "\"Brhiza\" student ambassador",
+        "\"Brhiza\" campus ambassador advocate",
+        "\"Brhiza\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"Brhiza\" student ambassador",
+        "\"Brhiza\" campus ambassador advocate",
+        "\"Brhiza\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://www.middlebury.edu/middcore/impact/student-ambassador-program",
+          "title": "Student Ambassador Program | Middlebury",
+          "excerpts": [
+            "We use cookies and other technologies to better understand a visitor's experience and to help improve our websites. By continuing to use the website, "
+          ]
+        },
+        {
+          "url": "https://www.jjay.cuny.edu/about/senior-leadership/office-external-affairs/student-engagement",
+          "title": "Student Engagement | John Jay College of Criminal Justice",
+          "excerpts": [
+            "\nStudent Engagement\n\n1. Home\n2. About\n3. Senior Leadership\n4. Office of External Affairs\n5. Student Engagement\n\nJohn Jay Office of External Affairs Am"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3113",
+      "census_row": "24841",
+      "name": "jfrog",
+      "queries": [
+        "\"jfrog\" student ambassador",
+        "\"jfrog\" campus ambassador advocate",
+        "\"jfrog\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"jfrog\" student ambassador",
+        "\"jfrog\" campus ambassador advocate",
+        "\"jfrog\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://jfrog.com/about/events",
+          "title": "JFrog Events",
+          "excerpts": [
+            "Sven Ruppert, Developer Advocate at JFrog, will speak to us on **Proxy Pattern Deep Dive.**\n\n[RSVP HERE](https://www.meetup.com/madridjug/events/28949"
+          ]
+        },
+        {
+          "url": "https://jfrog.com/ja/about/events",
+          "title": "JFrog Events",
+          "excerpts": [
+            "Sven Ruppert, Developer Advocate at JFrog, will speak to us on **Proxy Pattern Deep Dive.**\n\n[RSVP HERE](https://www.meetup.com/madridjug/events/28949"
+          ]
+        },
+        {
+          "url": "https://jfrog.com/community/community-culture/building-an-equitable-world-podcast-with-women-in-devops-meetup",
+          "title": "Building an Equitable World, Podcast with Women in DevOps Meetup | JFrog",
+          "excerpts": [
+            "* Community\nStart Free\n* Community\nStart Free\nhome page > Podcasts\n\nBuilding an Equitable World, Podcast with Women in DevOps Meetup\n\nJFrog is a proud"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3114",
+      "census_row": "24842",
+      "name": "milleniums",
+      "queries": [
+        "\"milleniums\" student ambassador",
+        "\"milleniums\" campus ambassador advocate",
+        "\"milleniums\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"milleniums\" student ambassador",
+        "\"milleniums\" campus ambassador advocate",
+        "\"milleniums\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.millenniumfellows.org/fellowship",
+          "title": "THE FELLOWSHIP | MillenniumFellowship",
+          "excerpts": [
+            "top of page\nMillennium Fellowship Logo\nAPPLY\nSearch\nThe Millennium Fellowship is a semester-long leadership development program that happens on your c"
+          ]
+        },
+        {
+          "url": "https://www.millenniumfellows.org/apply",
+          "title": "Apply | Millennium Fellowship",
+          "excerpts": [
+            "top of page\nMillennium Fellowship Logo\nAPPLY\nSearch\n\nAPPLY TO THE\n\nMILLENNIUM FELLOWSHIP CLASS OF 2027\n\nApply by the next priority deadline on Saturda"
+          ]
+        },
+        {
+          "url": "https://www.millenniumfellows.org/urpage",
+          "title": "University FAQs | Millennium Fellowship",
+          "excerpts": [
+            "The Millennium Fellowship, presented by the United Nations Academic Impact and MCN, brings a semester-long leadership development program to campuses "
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3115",
+      "census_row": "24843",
+      "name": "shiimizu",
+      "queries": [
+        "\"shiimizu\" student ambassador",
+        "\"shiimizu\" campus ambassador advocate",
+        "\"shiimizu\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"shiimizu\" student ambassador",
+        "\"shiimizu\" campus ambassador advocate",
+        "\"shiimizu\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        },
+        {
+          "url": "https://arc.losrios.edu/student-ambassador",
+          "title": "Student Ambassador Program | American River College",
+          "excerpts": [
+            "American River College\nAmerican River College logo American River College logo\n* Student Login\n* Bookstore\n* Canvas\n* eServices\n* Los Rios Gmail and A"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3116",
+      "census_row": "24844",
+      "name": "ankitaggarwal011",
+      "queries": [
+        "\"ankitaggarwal011\" student ambassador",
+        "\"ankitaggarwal011\" campus ambassador advocate",
+        "\"ankitaggarwal011\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"ankitaggarwal011\" student ambassador",
+        "\"ankitaggarwal011\" campus ambassador advocate",
+        "\"ankitaggarwal011\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "https://www.jjay.cuny.edu/about/senior-leadership/office-external-affairs/student-engagement",
+          "title": "Student Engagement | John Jay College of Criminal Justice",
+          "excerpts": [
+            "\nStudent Engagement\n\n1. Home\n2. About\n3. Senior Leadership\n4. Office of External Affairs\n5. Student Engagement\n\nJohn Jay Office of External Affairs Am"
+          ]
+        },
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3117",
+      "census_row": "24845",
+      "name": "dsymbol",
+      "queries": [
+        "\"dsymbol\" student ambassador",
+        "\"dsymbol\" campus ambassador advocate",
+        "\"dsymbol\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"dsymbol\" student ambassador",
+        "\"dsymbol\" campus ambassador advocate",
+        "\"dsymbol\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "http://www.dallascollege.edu/slife/clubs-organizations/ambassadors",
+          "title": "Student Ambassadors – Dallas College",
+          "excerpts": [
+            "Skip to Main Content Open Alternative Formats of This Page\n1. Home\n2. Student Life & Engagement\n3. Student Clubs and Organizations\n4. Student Ambassad"
+          ]
+        },
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://arc.losrios.edu/student-ambassador",
+          "title": "Student Ambassador Program | American River College",
+          "excerpts": [
+            "American River College\nAmerican River College logo American River College logo\n* Student Login\n* Bookstore\n* Canvas\n* eServices\n* Los Rios Gmail and A"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3118",
+      "census_row": "24846",
+      "name": "jqueryscript",
+      "queries": [
+        "\"jqueryscript\" student ambassador",
+        "\"jqueryscript\" campus ambassador advocate",
+        "\"jqueryscript\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"jqueryscript\" student ambassador",
+        "\"jqueryscript\" campus ambassador advocate",
+        "\"jqueryscript\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://arc.losrios.edu/student-ambassador",
+          "title": "Student Ambassador Program | American River College",
+          "excerpts": [
+            "American River College\nAmerican River College logo American River College logo\n* Student Login\n* Bookstore\n* Canvas\n* eServices\n* Los Rios Gmail and A"
+          ]
+        },
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3119",
+      "census_row": "24847",
+      "name": "HoloClean",
+      "queries": [
+        "\"HoloClean\" student ambassador",
+        "\"HoloClean\" campus ambassador advocate",
+        "\"HoloClean\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"HoloClean\" student ambassador",
+        "\"HoloClean\" campus ambassador advocate",
+        "\"HoloClean\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://dl.acm.org/doi/10.14778/3137628.3137631",
+          "title": "HoloClean: holistic data repairs with probabilistic inference: Proceedings of the VLDB Endowment: Vol 10, No 11",
+          "excerpts": [
+            "* [Proceedings of the VLDB Endowment](https://dl.acm.org/journal/pvldb)\n* [Vol. 10, No. 11](https://dl.acm.org/toc/pvldb/2017/10/11)\n\n...\n\n[Upgrade](h"
+          ]
+        },
+        {
+          "url": "http://www.holoclean.io/publications.html",
+          "title": "Publications - HoloClean",
+          "excerpts": [
+            "[PDF](https://link.springer.com/article/10.1007/s00778-021-00699-w) ]\n* **[Paper]** Chang Ge, Shubhankar Mohapatra, Xi He, Ihab F. Ilyas ,Kamino: Cons"
+          ]
+        },
+        {
+          "url": "http://www.holoclean.io/blog/holoclean",
+          "title": "Data Repairing",
+          "excerpts": [
+            "2511233) ) and external dictionaries, to repair erroneous data.\n\nHoloClean has three key properties:\n\n...\n\nAll too often, the data collected by compan"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3120",
+      "census_row": "24848",
+      "name": "x-glacier",
+      "queries": [
+        "\"x-glacier\" student ambassador",
+        "\"x-glacier\" campus ambassador advocate",
+        "\"x-glacier\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"x-glacier\" student ambassador",
+        "\"x-glacier\" campus ambassador advocate",
+        "\"x-glacier\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3121",
+      "census_row": "24849",
+      "name": "JayYip",
+      "queries": [
+        "\"JayYip\" student ambassador",
+        "\"JayYip\" campus ambassador advocate",
+        "\"JayYip\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"JayYip\" student ambassador",
+        "\"JayYip\" campus ambassador advocate",
+        "\"JayYip\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        },
+        {
+          "url": "https://www.jjay.cuny.edu/about/senior-leadership/office-external-affairs/student-engagement",
+          "title": "Student Engagement | John Jay College of Criminal Justice",
+          "excerpts": [
+            "\nStudent Engagement\n\n1. Home\n2. About\n3. Senior Leadership\n4. Office of External Affairs\n5. Student Engagement\n\nJohn Jay Office of External Affairs Am"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3122",
+      "census_row": "24850",
+      "name": "kaito-project",
+      "queries": [
+        "\"kaito-project\" student ambassador",
+        "\"kaito-project\" campus ambassador advocate",
+        "\"kaito-project\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"kaito-project\" student ambassador",
+        "\"kaito-project\" campus ambassador advocate",
+        "\"kaito-project\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.kyoto-su.ac.jp/campuslife/projectteam",
+          "title": "学生プロジェクトチーム | 課外活動 | 京都産業大学",
+          "excerpts": [
+            "1. Home\n2. 課外活動\n3. 学生プロジェクトチーム\n\n学生プロジェクトチーム\n\n学生たちが主体となって活動している学生プロジェクトチームを紹介します。チームに参加したい学生、興味のある学生はぜひお問い合わせください。\n1. ピア・サポーター\n2. 学生就職アドバイザー\n3. 学生ファシリテ"
+          ]
+        },
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://www.stuvoice.org/organizing-fellows",
+          "title": "Organizing Fellowship | Student Voice",
+          "excerpts": [
+            "Apply for our Programs By August 24!\nStudent Voice logo\nAbout Bill of Rights News Journalism Resources\nBill of Rights\n\nStudent Voice Organizing Fellow"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3123",
+      "census_row": "24851",
+      "name": "oil-oil",
+      "queries": [
+        "\"oil-oil\" student ambassador",
+        "\"oil-oil\" campus ambassador advocate",
+        "\"oil-oil\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"oil-oil\" student ambassador",
+        "\"oil-oil\" campus ambassador advocate",
+        "\"oil-oil\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://www.aacc.edu/campus-life/become-a-leader/student-ambassador",
+          "title": "Student Ambassador - Anne Arundel Community College ",
+          "excerpts": [
+            "Students walk across the quad in autumn.\n\nStudent Ambassador\n\n* Home\n* Campus Life & Activities\n* Become a Leader\n* Student Ambassador\n\nWhat is the Am"
+          ]
+        },
+        {
+          "url": "https://arc.losrios.edu/student-ambassador",
+          "title": "Student Ambassador Program | American River College",
+          "excerpts": [
+            "American River College\nAmerican River College logo American River College logo\n* Student Login\n* Bookstore\n* Canvas\n* eServices\n* Los Rios Gmail and A"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3124",
+      "census_row": "24852",
+      "name": "lixiaoxiao9888-create",
+      "queries": [
+        "\"lixiaoxiao9888-create\" student ambassador",
+        "\"lixiaoxiao9888-create\" campus ambassador advocate",
+        "\"lixiaoxiao9888-create\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"lixiaoxiao9888-create\" student ambassador",
+        "\"lixiaoxiao9888-create\" campus ambassador advocate",
+        "\"lixiaoxiao9888-create\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stuvoice.org/organizing-fellows",
+          "title": "Organizing Fellowship | Student Voice",
+          "excerpts": [
+            "Apply for our Programs By August 24!\nStudent Voice logo\nAbout Bill of Rights News Journalism Resources\nBill of Rights\n\nStudent Voice Organizing Fellow"
+          ]
+        },
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "empathy, intercultural communication competence, technical skills, professional development and more. Candidates should be interested in being a resou"
+          ]
+        },
+        {
+          "url": "https://www.blackconnect.org/internships/campus-ambassadors",
+          "title": "Campus Ambassadors — Blackconnect.org",
+          "excerpts": [
+            "Sign In My Account\n\nCampus Ambassadors\n\nThe Campus Ambassador is a volunteer student leader who represents Black Connect on their college or universit"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3125",
+      "census_row": "24853",
+      "name": "bshao001",
+      "queries": [
+        "\"bshao001\" student ambassador",
+        "\"bshao001\" campus ambassador advocate",
+        "\"bshao001\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"bshao001\" student ambassador",
+        "\"bshao001\" campus ambassador advocate",
+        "\"bshao001\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://arc.losrios.edu/student-ambassador",
+          "title": "Student Ambassador Program | American River College",
+          "excerpts": [
+            "American River College\nAmerican River College logo American River College logo\n* Student Login\n* Bookstore\n* Canvas\n* eServices\n* Los Rios Gmail and A"
+          ]
+        },
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3126",
+      "census_row": "24854",
+      "name": "MengqiLei",
+      "queries": [
+        "\"MengqiLei\" student ambassador",
+        "\"MengqiLei\" campus ambassador advocate",
+        "\"MengqiLei\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"MengqiLei\" student ambassador",
+        "\"MengqiLei\" campus ambassador advocate",
+        "\"MengqiLei\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://visit.berkeley.edu/campus-ambassadors/current-campus-ambassadors",
+          "title": "Current Campus Ambassadors | Visitor Services",
+          "excerpts": [
+            "Campus Ambassadors are current students that lead tours and guide the Berkeley experience for our 135,000 annual campus guests. As representatives and"
+          ]
+        },
+        {
+          "url": "https://www.geneseo.edu/cil/student_ambassadorships",
+          "title": "Student Ambassador Program - SUNY Geneseo",
+          "excerpts": [
+            "* Home\n* Center for Integrative Learning\n* Student Ambassador Program\nCenter for Integrative Learning\n* What is Integrative Learning?\n* Explore IAL Ex"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3127",
+      "census_row": "24855",
+      "name": "underneathall",
+      "queries": [
+        "\"underneathall\" student ambassador",
+        "\"underneathall\" campus ambassador advocate",
+        "\"underneathall\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"underneathall\" student ambassador",
+        "\"underneathall\" campus ambassador advocate",
+        "\"underneathall\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://www.jjay.cuny.edu/about/senior-leadership/office-external-affairs/student-engagement",
+          "title": "Student Engagement | John Jay College of Criminal Justice",
+          "excerpts": [
+            "\nStudent Engagement\n\n1. Home\n2. About\n3. Senior Leadership\n4. Office of External Affairs\n5. Student Engagement\n\nJohn Jay Office of External Affairs Am"
+          ]
+        },
+        {
+          "url": "https://www.hunter.cuny.edu/students/admissions/undergraduate/student-ambassadors",
+          "title": "Student Ambassadors and Volunteers - Hunter College - CUNY",
+          "excerpts": [
+            "* Scholarship & Honors Programs Expand submenu\n* Scholarships for Freshmen\n* Scholarships for Transfers\n* Scholarships FAQ\n* Tuition and Aid\n* Admitte"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3128",
+      "census_row": "24856",
+      "name": "One-Clip",
+      "queries": [
+        "\"One-Clip\" student ambassador",
+        "\"One-Clip\" campus ambassador advocate",
+        "\"One-Clip\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"One-Clip\" student ambassador",
+        "\"One-Clip\" campus ambassador advocate",
+        "\"One-Clip\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Anti-Racism and Inclusion Alliance\n* Employee Resource Groups\n* Inclusivity Speaker & Performance Series\n* Fitness Center\n* Food Services\n* Parking "
+          ]
+        },
+        {
+          "url": "https://www.geneseo.edu/cil/student_ambassadorships",
+          "title": "Student Ambassador Program - SUNY Geneseo",
+          "excerpts": [
+            "* Home\n* Center for Integrative Learning\n* Student Ambassador Program\nCenter for Integrative Learning\n* What is Integrative Learning?\n* Explore IAL Ex"
+          ]
+        },
+        {
+          "url": "https://www.stuvoice.org/organizing-fellows",
+          "title": "Organizing Fellowship | Student Voice",
+          "excerpts": [
+            "Apply for our Programs By August 24!\nStudent Voice logo\nAbout Bill of Rights News Journalism Resources\nBill of Rights\n\nStudent Voice Organizing Fellow"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3129",
+      "census_row": "24857",
+      "name": "guotong1988",
+      "queries": [
+        "\"guotong1988\" student ambassador",
+        "\"guotong1988\" campus ambassador advocate",
+        "\"guotong1988\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"guotong1988\" student ambassador",
+        "\"guotong1988\" campus ambassador advocate",
+        "\"guotong1988\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        },
+        {
+          "url": "https://www.polyu.edu.hk/greencampus/get-involved/student-ambassadors",
+          "title": "Student Ambassadors | Campus Carbon Neutrality",
+          "excerpts": [
+            "Skip to main content Start main content\n* PolyU Green Concepts\n* Get Involved\n* Student Ambassadors\n\nStudent Ambassadors\n\nStudent Ambassadors Recruitm"
+          ]
+        },
+        {
+          "url": "https://www.stuvoice.org/organizing-fellows",
+          "title": "Organizing Fellowship | Student Voice",
+          "excerpts": [
+            "Apply for our Programs By August 24!\nStudent Voice logo\nAbout Bill of Rights News Journalism Resources\nBill of Rights\n\nStudent Voice Organizing Fellow"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3130",
+      "census_row": "24858",
+      "name": "askimo-ai",
+      "queries": [
+        "\"askimo-ai\" student ambassador",
+        "\"askimo-ai\" campus ambassador advocate",
+        "\"askimo-ai\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"askimo-ai\" student ambassador",
+        "\"askimo-ai\" campus ambassador advocate",
+        "\"askimo-ai\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://askimo.ai/",
+          "title": "Askimo",
+          "excerpts": [
+            "[Brand Icon](https://askimo.ai/)\n\n[Home](https://askimo.ai/)\n\nProducts\n\n[Blog](https://askimo.ai/blogs)\n\n[Contact Us](https://askimo.ai/contact)\n\nAbou"
+          ]
+        },
+        {
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "excerpts": [
+            "##### Campus Ambassador Program\n\n# Lead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to build campus-level communi"
+          ]
+        },
+        {
+          "url": "https://studentambassadors.microsoft.com/studentambassadors/apply",
+          "title": "MVP Communities",
+          "excerpts": [
+            "\nGroup selfie with two male and two female college friends in an outdoor park.\n\n# Microsoft  \nStudent Ambassadors\n\n### Become a Student Ambassador\n\nJo"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3131",
+      "census_row": "24859",
+      "name": "alfonso0512",
+      "queries": [
+        "\"alfonso0512\" student ambassador",
+        "\"alfonso0512\" campus ambassador advocate",
+        "\"alfonso0512\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"alfonso0512\" student ambassador",
+        "\"alfonso0512\" campus ambassador advocate",
+        "\"alfonso0512\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "https://arc.losrios.edu/student-ambassador",
+          "title": "Student Ambassador Program | American River College",
+          "excerpts": [
+            "American River College\nAmerican River College logo American River College logo\n* Student Login\n* Bookstore\n* Canvas\n* eServices\n* Los Rios Gmail and A"
+          ]
+        },
+        {
+          "url": "https://cob.sfsu.edu/student-ambassadors",
+          "title": "Student Ambassador Program | Lam Family College of Business",
+          "excerpts": [
+            "The Lam Family College of Business (LFCoB) Student Ambassador Program is designed to help students train in leadership, where students encourage one a"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3132",
+      "census_row": "24860",
+      "name": "BrunoBonacci",
+      "queries": [
+        "\"BrunoBonacci\" student ambassador",
+        "\"BrunoBonacci\" campus ambassador advocate",
+        "\"BrunoBonacci\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"BrunoBonacci\" student ambassador",
+        "\"BrunoBonacci\" campus ambassador advocate",
+        "\"BrunoBonacci\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://cunyba.cuny.edu/news/campus-ambassador",
+          "title": "Become a CUNY BA Student Ambassador – CUNY BA",
+          "excerpts": [
+            "\nBecome a CUNY BA Student Ambassador\n\nPosted on: January 29, 2024 Last updated on: January 29, 2024 Written by: Analie Categorized in: News Tagged as:"
+          ]
+        },
+        {
+          "url": "https://www.stuvoice.org/organizing-fellows",
+          "title": "Organizing Fellowship | Student Voice",
+          "excerpts": [
+            "Apply for our Programs By August 24!\nStudent Voice logo\nAbout Bill of Rights News Journalism Resources\nBill of Rights\n\nStudent Voice Organizing Fellow"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3133",
+      "census_row": "24861",
+      "name": "F-R-L",
+      "queries": [
+        "\"F-R-L\" student ambassador",
+        "\"F-R-L\" campus ambassador advocate",
+        "\"F-R-L\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"F-R-L\" student ambassador",
+        "\"F-R-L\" campus ambassador advocate",
+        "\"F-R-L\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.frc.edu/studentservices/student-ambassadors",
+          "title": "Student Ambassadors | Student Services",
+          "excerpts": [
+            "Campus phone lines are currently down!\nFeather River College Campus\nStudent Services\n* Home\n* Student Services\n* Student Ambassadors\n\nStudent Ambassad"
+          ]
+        },
+        {
+          "url": "https://arc.losrios.edu/student-ambassador",
+          "title": "Student Ambassador Program | American River College",
+          "excerpts": [
+            "American River College\nAmerican River College logo American River College logo\n* Student Login\n* Bookstore\n* Canvas\n* eServices\n* Los Rios Gmail and A"
+          ]
+        },
+        {
+          "url": "https://flc.losrios.edu/campus-life/clubs-and-student-leadership/student-ambassadors",
+          "title": "Become a Student Ambassador | Folsom Lake College",
+          "excerpts": [
+            "Become a Student Ambassador\n\nHome Campus Life Clubs and Student Leadership Student Ambassadors\n\nConnect. Support. Inspire.\n\nStudent Ambassadors are a "
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3134",
+      "census_row": "24862",
+      "name": "Johell1NS",
+      "queries": [
+        "\"Johell1NS\" student ambassador",
+        "\"Johell1NS\" campus ambassador advocate",
+        "\"Johell1NS\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"Johell1NS\" student ambassador",
+        "\"Johell1NS\" campus ambassador advocate",
+        "\"Johell1NS\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://www.geneseo.edu/cil/student_ambassadorships",
+          "title": "Student Ambassador Program - SUNY Geneseo",
+          "excerpts": [
+            "* Home\n* Center for Integrative Learning\n* Student Ambassador Program\nCenter for Integrative Learning\n* What is Integrative Learning?\n* Explore IAL Ex"
+          ]
+        },
+        {
+          "url": "https://hwb.swansea.ac.uk/employability-enterprise/student-ambassador-scheme/",
+          "title": "Student Ambassador Scheme - Swansea University",
+          "excerpts": [
+            " Search:\n* Accessibility Tools\n* Cymraeg\nLogin\n1. The home of current students\n2. Careers and Enterprise\n3. Student Ambassador Scheme\n\nStudent Ambassa"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3135",
+      "census_row": "24863",
+      "name": "MioMioOS",
+      "queries": [
+        "\"MioMioOS\" student ambassador",
+        "\"MioMioOS\" campus ambassador advocate",
+        "\"MioMioOS\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"MioMioOS\" student ambassador",
+        "\"MioMioOS\" campus ambassador advocate",
+        "\"MioMioOS\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://arc.losrios.edu/student-ambassador",
+          "title": "Student Ambassador Program | American River College",
+          "excerpts": [
+            "American River College\nAmerican River College logo American River College logo\n* Student Login\n* Bookstore\n* Canvas\n* eServices\n* Los Rios Gmail and A"
+          ]
+        },
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "https://studentambassadors.com/",
+          "title": "MVP Communities",
+          "excerpts": [
+            "\nGroup selfie with two male and two female college friends in an outdoor park.\n\n# Microsoft  \nStudent Ambassadors\n\n### Become a Student Ambassador\n\nJo"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3136",
+      "census_row": "24864",
+      "name": "kouhxp",
+      "queries": [
+        "\"kouhxp\" student ambassador",
+        "\"kouhxp\" campus ambassador advocate",
+        "\"kouhxp\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"kouhxp\" student ambassador",
+        "\"kouhxp\" campus ambassador advocate",
+        "\"kouhxp\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://context7.com/kouhxp/yapsnap",
+          "title": "Multi-Cloud AI Microservices Platform (kouhxp/yapsnap) | Context7",
+          "excerpts": [
+            "## Multi-Cloud AI Microservices Platform\n\n<https://github.com/kouhxp/yapsnap>\n\n[Admin](https://context7.com/kouhxp/yapsnap/admin)\n\n### This project is"
+          ]
+        },
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://college.ku.edu/student-ambassadors",
+          "title": "Student Ambassadors | College of Liberal Arts & Sciences",
+          "excerpts": [
+            "The University of Kansas MENU\nTHE UNIVERSITY of KANSAS\nCollege of Liberal Arts & Sciences\nMenu\nSearch this unit Start search Submit Search\nHome\n\nColle"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3137",
+      "census_row": "24865",
+      "name": "Tavris1",
+      "queries": [
+        "\"Tavris1\" student ambassador",
+        "\"Tavris1\" campus ambassador advocate",
+        "\"Tavris1\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"Tavris1\" student ambassador",
+        "\"Tavris1\" campus ambassador advocate",
+        "\"Tavris1\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://cisa.asu.edu/ambassadors",
+          "title": "Student Ambassadors | College of Integrative Sciences and Arts",
+          "excerpts": [
+            "group\nStudent life\n\nStudent ambassadors\n\nRead about the range of experiences and interests our CISA ambassadors bring to their mentoring role.\n Learn "
+          ]
+        },
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://www.jjay.cuny.edu/about/senior-leadership/office-external-affairs/student-engagement",
+          "title": "Student Engagement | John Jay College of Criminal Justice",
+          "excerpts": [
+            "\nStudent Engagement\n\n1. Home\n2. About\n3. Senior Leadership\n4. Office of External Affairs\n5. Student Engagement\n\nJohn Jay Office of External Affairs Am"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3138",
+      "census_row": "24866",
+      "name": "hsahovic",
+      "queries": [
+        "\"hsahovic\" student ambassador",
+        "\"hsahovic\" campus ambassador advocate",
+        "\"hsahovic\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"hsahovic\" student ambassador",
+        "\"hsahovic\" campus ambassador advocate",
+        "\"hsahovic\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://arc.losrios.edu/student-ambassador",
+          "title": "Student Ambassador Program | American River College",
+          "excerpts": [
+            "American River College\nAmerican River College logo American River College logo\n* Student Login\n* Bookstore\n* Canvas\n* eServices\n* Los Rios Gmail and A"
+          ]
+        },
+        {
+          "url": "https://huc.edu/schools-programs/hebrew-union-college-fellowships/student-ambassadors-program",
+          "title": "Become a Student Ambassador for HUC",
+          "excerpts": [
+            "Hebrew Union College Press Link Out Icon\n \nSchools & Programs / Fellowships / Student Ambassadors Program\n\nStudent Ambassadors Program\n\nTwo HUC Studen"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3139",
+      "census_row": "24867",
+      "name": "vibeeval",
+      "queries": [
+        "\"vibeeval\" student ambassador",
+        "\"vibeeval\" campus ambassador advocate",
+        "\"vibeeval\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"vibeeval\" student ambassador",
+        "\"vibeeval\" campus ambassador advocate",
+        "\"vibeeval\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://github.com/vibeeval/vibecosystem",
+          "title": "GitHub - vibeeval/vibecosystem: AI software team for Claude Code - 138 agents, 295 skills, 73 hooks. Self-learning, multi-agent swarm, autonomous skill evolution. · GitHub",
+          "excerpts": [
+            "# vibeeval/vibecosystem\n\n- Page: GitHub repository\n- URL: https://github.com/vibeeval/vibecosystem\n- Description: AI software team for Claude Code - 1"
+          ]
+        },
+        {
+          "url": "https://cdn.imperial.edu/about/foundation/student-leadership-ambassador-program.html",
+          "title": "Student Ambassador Program",
+          "excerpts": [
+            "Home / About / Foundation / Student Ambassador Program\n\nStudent Ambassador Program\n\nAbout the Program The Student Ambassador Program provides opportun"
+          ]
+        },
+        {
+          "url": "http://www.imperial.edu/about/foundation/student-leadership-ambassador-program.html",
+          "title": "Student Ambassador Program",
+          "excerpts": [
+            "Home / About / Foundation / Student Ambassador Program\n\nStudent Ambassador Program\n\nAbout the Program The Student Ambassador Program provides opportun"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3140",
+      "census_row": "24868",
+      "name": "leehanchung",
+      "queries": [
+        "\"leehanchung\" student ambassador",
+        "\"leehanchung\" campus ambassador advocate",
+        "\"leehanchung\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"leehanchung\" student ambassador",
+        "\"leehanchung\" campus ambassador advocate",
+        "\"leehanchung\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://archaeologytext.cas.lehigh.edu/graduate/admissions/student-ambassadors",
+          "title": "Student Ambassadors | College of Arts and Sciences",
+          "excerpts": [
+            "\nTop Navigation\n\n* Lehigh Home\n* Current Students\n* Apply\n* News\n* Faculty/Staff Resources\nLehigh and College of Arts and Sciences Logo\n Main Menu Clo"
+          ]
+        },
+        {
+          "url": "https://sts.cas.lehigh.edu/graduate/admissions/student-ambassadors",
+          "title": "Student Ambassadors | College of Arts and Sciences",
+          "excerpts": [
+            "\nTop Navigation\n\n* Lehigh Home\n* Current Students\n* Apply\n* News\n* Faculty/Staff Resources\nLehigh and College of Arts and Sciences Logo\n Main Menu Clo"
+          ]
+        },
+        {
+          "url": "https://ed.lehigh.edu/prospective-students/student-ambassadors",
+          "title": "Student Ambassadors | Lehigh College of Education",
+          "excerpts": [
+            "\nBreadcrumb\n\n1. home Home\n2. Prospective Students\n3. Student Ambassadors\n\nStudent Ambassadors\n\nClick below to chat with some of our current students a"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3141",
+      "census_row": "24869",
+      "name": "jiaxi-jiang",
+      "queries": [
+        "\"jiaxi-jiang\" student ambassador",
+        "\"jiaxi-jiang\" campus ambassador advocate",
+        "\"jiaxi-jiang\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"jiaxi-jiang\" student ambassador",
+        "\"jiaxi-jiang\" campus ambassador advocate",
+        "\"jiaxi-jiang\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://jiaxi-jiang.com/",
+          "title": "Jiaxi Jiang",
+          "excerpts": [
+            "Jiaxi Jiang A person in a VR headset and a humanoid robot raising the same hand\n\n## Jiaxi Jiang 蒋佳熹\n\nPhD Student in Computer Science  \nETH Zurich, Swi"
+          ]
+        },
+        {
+          "url": "https://jiaxi-jiang.com/files/cv.pdf",
+          "title": "Jiaxi Jiang – PhD Candidate at ETH Zurich",
+          "excerpts": [
+            "Jiaxi Jiang\n\nPhD Candidate at ETH Zurich\n\nSensing, Interaction & Perception Lab Department of Computer Science, ETH Zurich Stampfenbachstrasse 48, H28"
+          ]
+        },
+        {
+          "url": "https://github.com/jiaxi-jiang",
+          "title": "jiaxi-jiang (Jiaxi Jiang) · GitHub",
+          "excerpts": [
+            "User: Jiaxi Jiang (@jiaxi-jiang)\n\n* Page: GitHub user profile\n* URL: https://github.com/jiaxi-jiang\n* Company: ETH Zurich\n* Location: Zurich, Switzerl"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3142",
+      "census_row": "24870",
+      "name": "kennethreitz",
+      "queries": [
+        "\"kennethreitz\" student ambassador",
+        "\"kennethreitz\" campus ambassador advocate",
+        "\"kennethreitz\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"kennethreitz\" student ambassador",
+        "\"kennethreitz\" campus ambassador advocate",
+        "\"kennethreitz\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.kent.edu/ambassadors",
+          "title": "Kent Student Ambassadors | Kent State University",
+          "excerpts": [
+            "Kent Student Ambassadors logo\nThe Kent Student Ambassadors (KSA) were established by the Kent State Alumni Association in 1983 as a service organizati"
+          ]
+        },
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://www.stuvoice.org/organizing-fellows",
+          "title": "Organizing Fellowship | Student Voice",
+          "excerpts": [
+            "Apply for our Programs By August 24!\nStudent Voice logo\nAbout Bill of Rights News Journalism Resources\nBill of Rights\n\nStudent Voice Organizing Fellow"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3143",
+      "census_row": "24871",
+      "name": "automataIA",
+      "queries": [
+        "\"automataIA\" student ambassador",
+        "\"automataIA\" campus ambassador advocate",
+        "\"automataIA\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"automataIA\" student ambassador",
+        "\"automataIA\" campus ambassador advocate",
+        "\"automataIA\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://mamentis.com/student-ambassador",
+          "title": "Student Ambassador Program | Mamentis",
+          "excerpts": [
+            "## Shaping the Future of AI Education ​\n\nJoin our Student Ambassador Program and help bring cutting-edge AI education to universities and colleges wor"
+          ]
+        },
+        {
+          "url": "https://campusunite.in/",
+          "title": "Campus Unite | Student Community & Campus Ambassador Network",
+          "excerpts": [
+            "Earn verified certificates, XP, and badges.\n\nLeadership Building\n\nBuild leadership experience as a Campus Ambassador.\nFeatures Hub\n\nWhy Students Choos"
+          ]
+        },
+        {
+          "url": "https://studentambassadors.microsoft.com/studentambassadors/apply",
+          "title": "MVP Communities",
+          "excerpts": [
+            "\nGroup selfie with two male and two female college friends in an outdoor park.\n\n# Microsoft  \nStudent Ambassadors\n\n### Become a Student Ambassador\n\nJo"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3144",
+      "census_row": "24872",
+      "name": "monikkinom",
+      "queries": [
+        "\"monikkinom\" student ambassador",
+        "\"monikkinom\" campus ambassador advocate",
+        "\"monikkinom\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"monikkinom\" student ambassador",
+        "\"monikkinom\" campus ambassador advocate",
+        "\"monikkinom\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://cisa.asu.edu/ambassadors",
+          "title": "Student Ambassadors | College of Integrative Sciences and Arts",
+          "excerpts": [
+            "group\nStudent life\n\nStudent ambassadors\n\nRead about the range of experiences and interests our CISA ambassadors bring to their mentoring role.\n Learn "
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3145",
+      "census_row": "24873",
+      "name": "liaotxcn",
+      "queries": [
+        "\"liaotxcn\" student ambassador",
+        "\"liaotxcn\" campus ambassador advocate",
+        "\"liaotxcn\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"liaotxcn\" student ambassador",
+        "\"liaotxcn\" campus ambassador advocate",
+        "\"liaotxcn\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        },
+        {
+          "url": "https://www.richland.edu/student-ambassador-program/",
+          "title": "Student Ambassador Program - Richland Community College",
+          "excerpts": [
+            "\nStudent Ambassador Program\n\nThe Richland Student Ambassador Program is a leadership opportunity for students interested in representing Richland Comm"
+          ]
+        },
+        {
+          "url": "https://www.texasexes.org/get-involved/student-central/student-ambassador-group",
+          "title": "Student Ambassador Group | Texas Exes",
+          "excerpts": [
+            "\nBreadcrumb\n\n1. Home\n2. Get Involved\n3. Student Central\n4. Student Ambassador Group\n\nStudent Ambassador Group\n\nTXEX Main Navigation - Nodes (not in gr"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3146",
+      "census_row": "24874",
+      "name": "kevinamiri",
+      "queries": [
+        "\"kevinamiri\" student ambassador",
+        "\"kevinamiri\" campus ambassador advocate",
+        "\"kevinamiri\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"kevinamiri\" student ambassador",
+        "\"kevinamiri\" campus ambassador advocate",
+        "\"kevinamiri\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://arc.losrios.edu/student-ambassador",
+          "title": "Student Ambassador Program | American River College",
+          "excerpts": [
+            "American River College\nAmerican River College logo American River College logo\n* Student Login\n* Bookstore\n* Canvas\n* eServices\n* Los Rios Gmail and A"
+          ]
+        },
+        {
+          "url": "https://www.jjay.cuny.edu/about/senior-leadership/office-external-affairs/student-engagement",
+          "title": "Student Engagement | John Jay College of Criminal Justice",
+          "excerpts": [
+            "\nStudent Engagement\n\n1. Home\n2. About\n3. Senior Leadership\n4. Office of External Affairs\n5. Student Engagement\n\nJohn Jay Office of External Affairs Am"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3147",
+      "census_row": "24875",
+      "name": "erdos-project",
+      "queries": [
+        "\"erdos-project\" student ambassador",
+        "\"erdos-project\" campus ambassador advocate",
+        "\"erdos-project\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"erdos-project\" student ambassador",
+        "\"erdos-project\" campus ambassador advocate",
+        "\"erdos-project\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.geneseo.edu/cil/student_ambassadorships",
+          "title": "Student Ambassador Program - SUNY Geneseo",
+          "excerpts": [
+            "* Home\n* Center for Integrative Learning\n* Student Ambassador Program\nCenter for Integrative Learning\n* What is Integrative Learning?\n* Explore IAL Ex"
+          ]
+        },
+        {
+          "url": "https://arc.losrios.edu/student-ambassador",
+          "title": "Student Ambassador Program | American River College",
+          "excerpts": [
+            "American River College\nAmerican River College logo American River College logo\n* Student Login\n* Bookstore\n* Canvas\n* eServices\n* Los Rios Gmail and A"
+          ]
+        },
+        {
+          "url": "https://www.jjay.cuny.edu/about/senior-leadership/office-external-affairs/student-engagement",
+          "title": "Student Engagement | John Jay College of Criminal Justice",
+          "excerpts": [
+            "\nStudent Engagement\n\n1. Home\n2. About\n3. Senior Leadership\n4. Office of External Affairs\n5. Student Engagement\n\nJohn Jay Office of External Affairs Am"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3148",
+      "census_row": "24876",
+      "name": "glample",
+      "queries": [
+        "\"glample\" student ambassador",
+        "\"glample\" campus ambassador advocate",
+        "\"glample\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"glample\" student ambassador",
+        "\"glample\" campus ambassador advocate",
+        "\"glample\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://arc.losrios.edu/student-ambassador",
+          "title": "Student Ambassador Program | American River College",
+          "excerpts": [
+            "American River College\nAmerican River College logo American River College logo\n* Student Login\n* Bookstore\n* Canvas\n* eServices\n* Los Rios Gmail and A"
+          ]
+        },
+        {
+          "url": "https://www.geneseo.edu/cil/student_ambassadorships",
+          "title": "Student Ambassador Program - SUNY Geneseo",
+          "excerpts": [
+            "* Home\n* Center for Integrative Learning\n* Student Ambassador Program\nCenter for Integrative Learning\n* What is Integrative Learning?\n* Explore IAL Ex"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3149",
+      "census_row": "24877",
+      "name": "ne7ermore",
+      "queries": [
+        "\"ne7ermore\" student ambassador",
+        "\"ne7ermore\" campus ambassador advocate",
+        "\"ne7ermore\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"ne7ermore\" student ambassador",
+        "\"ne7ermore\" campus ambassador advocate",
+        "\"ne7ermore\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        },
+        {
+          "url": "https://visit.berkeley.edu/campus-ambassadors/current-campus-ambassadors",
+          "title": "Current Campus Ambassadors | Visitor Services",
+          "excerpts": [
+            "Campus Ambassadors are current students that lead tours and guide the Berkeley experience for our 135,000 annual campus guests. As representatives and"
+          ]
+        }
+      ]
+    },
+    {
+      "small_rank": "3150",
+      "census_row": "24878",
+      "name": "polm",
+      "queries": [
+        "\"polm\" student ambassador",
+        "\"polm\" campus ambassador advocate",
+        "\"polm\" fellowship organizer student"
+      ],
+      "outcome": "Three targeted queries searched; no qualifying exact-entity route verified in bounded pass.",
+      "searched_queries": [
+        "\"polm\" student ambassador",
+        "\"polm\" campus ambassador advocate",
+        "\"polm\" fellowship organizer student"
+      ],
+      "results": [
+        {
+          "url": "https://www.stcc.edu/campus-life/studentactivities/student-ambassador-program",
+          "title": "Student Ambassador Program | STCC",
+          "excerpts": [
+            "* Home\n* Campus Life\n* Student Activities and Clubs\n* Student Ambassador Program\nIn this Section\nCampus Life\n* Arts and Culture\n* Amy H. Carberry Fine"
+          ]
+        },
+        {
+          "url": "https://internationalcenter.ucla.edu/programs-events/ambassadors",
+          "title": "UCLA International Student Ambassadors | Dashew Center",
+          "excerpts": [
+            "The International Student Ambassadors program is overseen by the UCLA Dashew Center for International Students & Scholars. International Student Ambas"
+          ]
+        },
+        {
+          "url": "https://ularlington.gmu.edu/student-leadership/university-life-regional-campuses-student-ambassador-program/",
+          "title": "Mason Square Student Ambassador Program – University Life Mason Square",
+          "excerpts": [
+            "George Mason University logo\nUniversity Life Mason Square\n\nMason Square Student Ambassador Program\n\n* Home\n* /\n* Student Leadership\n* /\n* Mason Square"
+          ]
+        }
+      ]
+    }
+  ]
+}

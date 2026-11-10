@@ -1,0 +1,8 @@
+# AI small-tier exact-name audit, ranks 3001–3050 (10 Nov 2026)
+
+- **Coverage and alignment:** 50 consecutive rows, census rows 24729–24778, small ranks 3001–3050. Each `census_row`, `small_rank`, `name`, `tier`, and `category` matches the supplied search queue.
+- **Search method:** 50 entity-specific web-search calls, three targeted variations per exact GitHub handle (150 queries). Per-entity search IDs and result excerpts are retained in the JSON evidence file. X MCP was not used.
+- **Verified lead:** `redis-developer` is the official Redis Developer GitHub account. Redis’s official launch post identifies Redis Insiders as a voluntary developer-community ambassador program and said the 2022 launch had no closing date. That historic statement does not establish an intake open on Nov. 9, 2026. Student eligibility, India eligibility, and current acceptance are not stated. Recheck lead only.
+- **Other entities:** No exact-entity qualifying route was verified for the remaining 49 handles. Search hits for Google, Trinka, Memori, MemMachine, 2077AI, Anthropic/Claude, OpenAI and other campus programs were unrelated to those individual census accounts and were not attributed to them.
+- **Cutoff:** Assessment cutoff is 2026-11-09; searches were viewed 2026-11-10. Undated or later observations do not establish Nov. 9 status.
+- **Limits:** Bounded exact-handle screening is not proof that no program exists globally. GitHub handles may be people, projects, labs, or organizations. Alias, parent-company, regional, local-language, private and unindexed routes may be missed. Applicant eligibility, application state, workload, duties and benefits remain unknown unless supported by official sources. No applications or outreach were made.

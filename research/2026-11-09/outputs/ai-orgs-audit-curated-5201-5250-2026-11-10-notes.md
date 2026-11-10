@@ -1,0 +1,8 @@
+# Audit notes: census rows 5201–5250
+
+- Coverage: 50 consecutive source rows from `census-search-ledger-2026-11-09.csv`. Exact row number, name, tier and category retained in the 13-column output.
+- Method: screened exact census names and supplied result URLs for organizer-owned student/campus/community ambassador, advocate, champion, fellow, chapter, representative, and creator routes. Third-party and mismatched entity results were discovery only.
+- Several official student-leader routes appeared in supplied leads but could not be attributed to the exact census entry: Quantum Rings' Student Ambassador Program surfaced for the individual-like handle `Francis-Rings` (5227); Hackviser Campus Ambassador surfaced for `pnoker` (5234); and Open Mainframe Project Ambassadors surfaced for `openpifpaf` (5246). Each organizer's program is real, but the census label alone provides no evidence that the handle is the organizer or affiliated with it. These were excluded from exact-entity findings.
+- Other false-match examples: Claude campus and IncuXai results among many developer handles; NVIDIA University Ambassador pages for NVIDIA-Merlin do not establish a Merlin-specific program; matching community tools were not attributed. No unrelated campus roles or internships were counted.
+- Date/geography: no qualifying exact-entity route had dated official evidence establishing open status on 2026-11-09. Current pages encountered Nov 10 are not backdated. India eligibility is not inferred from global or international wording, or from selected ambassadors in India.
+- No X MCP, forms, applications, or external contact used. Bounded screening does not prove absence or overall completeness.

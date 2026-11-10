@@ -1,0 +1,8 @@
+# Audit notes: census rows 5301–5350
+
+- Coverage: 50 consecutive source rows from `census-search-ledger-2026-11-09.csv`. Exact row number, name, tier and category retained in the 13-column output.
+- Method: screened exact census names and supplied result URLs for organizer-owned student/campus/community ambassador, advocate, champion, fellow, chapter, representative, and creator routes. Third-party listings and similar-sounding organizations were discovery leads only.
+- Cross-entity leads not attributed: an official Claude Campus page was surfaced for ModelCloud but no ModelCloud–Anthropic relationship was established; an Agentic AI Foundation ambassador lead was surfaced for peonist-ai, without proof that the census entity is affiliated; an official Noah.ai campus route was among results for The-AI-Summer, but no identity link was established; and Codes/ambassador directories across individual handles did not establish organizer ownership. The route and exact entity must both be verified before recording a positive.
+- Other supplied search results were generic university and company ambassador roles, internships, or community pages. None established an exact student-leader route owned by the exact census entity in this bounded check.
+- Date/geography: no qualifying exact-entity route had dated official evidence establishing open status on 2026-11-09. Current or undated visibility from Nov 10 is not backdated. India eligibility is not inferred from international language, a result's location, or selected participants.
+- No X MCP, forms, applications, or external contact used. Bounded screening does not prove absence or overall completeness.

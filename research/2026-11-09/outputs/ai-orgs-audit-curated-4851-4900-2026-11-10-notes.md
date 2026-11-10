@@ -1,0 +1,8 @@
+# Audit notes: census rows 4851–4900
+
+- Coverage: 50 consecutive source rows from `census-search-ledger-2026-11-09.csv`; row number, exact name, tier and category are retained and checked against source positions.
+- Method: screened source search leads for exact-entity match and looked for organizer-owned student/campus/community ambassador, advocate, champion, fellow, chapter or representative intake. Third-party directories and unrelated entities were discovery leads only.
+- No exact-entity student-leader intake was confirmed in this bounded screen. The batch contains many GitHub handles and project/repository labels, for which similarly named programs or general tech ambassador listings do not prove affiliation.
+- Notable exclusions: HackerRank CampusCrew, SwytchCode, CampusUnite, IncuXAI, EdAD AI, Claude, Zed, Trinka, NVIDIA and Apple/Swift references in source results were not linked by primary evidence to the corresponding census entities as student-leader programs. The NVIDIA-ISAAC-ROS project (row 4890), for example, is not itself evidence of an NVIDIA ambassador intake; Apple Student Challenge (row 4879) is a competition, not a student ambassador role. The `memmachine.ai` student ambassador result for Hello-SimpleAI (row 4884) was not counted without proof of exact entity/organizer identity.
+- Date/geography: cutoff state is explicitly recorded separately from the current 2026-11-10 check; no qualifying opportunity has dated official evidence establishing availability on 2026-11-09. No country eligibility, including India or Manipal University Jaipur, is inferred from global wording, search-result placement or selected participants.
+- No X MCP, contact, form, application or submission was used. Bounded screening does not prove absence.

@@ -1,0 +1,2568 @@
+{
+  "slice": {
+    "start": 3501,
+    "end": 3550,
+    "census_rows": [
+      "25229",
+      "25278"
+    ],
+    "cutoff": "2026-11-09",
+    "researched": "2026-11-10",
+    "validation": "50 source rows exact; 0 mismatch"
+  },
+  "method": "Three exact-entity targeted identity/student ambassador/developer-community ambassador searches per entity; search titles, URLs and excerpts retained. Bounded search; no global-absence claims.",
+  "x_mcp_used": false,
+  "search_status": "50 of 50 searched in three-query batches; no exact-entity official route confirmed by this bounded search. All remain further-review, not absence conclusions.",
+  "entities": [
+    {
+      "census_row": "25229",
+      "small_rank": "3501",
+      "name": "Muhammad-Zeerak-Khan",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Muhammad-Zeerak-Khan\" GitHub profile computer-vision organization identity",
+        "\"Muhammad-Zeerak-Khan\" student ambassador campus program",
+        "\"Muhammad-Zeerak-Khan\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"Muhammad-Zeerak-Khan\" GitHub profile computer-vision organization identity",
+        "\"Muhammad-Zeerak-Khan\" student ambassador campus program",
+        "\"Muhammad-Zeerak-Khan\" developer community ambassador program"
+      ],
+      "search_id": "search_5da2e9bf62721c9626e2b13396f96527",
+      "results": [
+        {
+          "title": "Muhammad-Zeerak-Khan (Muhammad Zeerak Khan) · GitHub",
+          "url": "https://github.com/Muhammad-Zeerak-Khan",
+          "excerpt": "# User: Muhammad Zeerak Khan (@Muhammad-Zeerak-Khan)\n\n- Page: GitHub user profile\n- URL: https://github.com/Muhammad-Zeerak-Khan\n- Company: Technical University of Chemnitz\n- Location: Chemnitz ( Germany)\n- Website: https://www.linkedin.com/in/muhammad-zeerak-"
+        },
+        {
+          "title": "GitHub - Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8: License Plate Detection using YOLOv8 · GitHub",
+          "url": "https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8",
+          "excerpt": "# Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8\n\n- Page: GitHub repository\n- URL: https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8\n- Description: License Plate Detection using YOLOv8\n- License: MI"
+        },
+        {
+          "title": "Muhammad Zeerak Khan - Chemnitz, Saxony, Germany | Professional Profile | LinkedIn",
+          "url": "https://linkedin.com/in/muhammad-zeerak-khan-835120133",
+          "excerpt": "and Cookie Policy .\n\nLicenses & Certifications\n\n* \n\nData Visualization with Seaborn\n\nDataCamp\n\nIssued Feb 2021\nCredential ID #18078741\nSee credential\n* \n\nEDA in Python\n\nDataCamp\n\nIssued Feb 2021\nCredential ID #18096324\nSee credential\n* \n\nData Manipulation with"
+        },
+        {
+          "title": "Automatic License Plate Recognition Using YOLOv8: Education & Teaching... | OpenAgentSkill",
+          "url": "https://www.openagentskill.com/skills/muhammad-zeerak-khan-automatic-license-plate-recognition-using-yolov8",
+          "excerpt": "[Skills](https://www.openagentskill.com/skills) / [hardware](https://www.openagentskill.com/skills?category=hardware) / Automatic License Plate Recognition Using YOLOv8\n\n[M](https://github.com/Muhammad-Zeerak-Khan)\n\n[Muhammad-Zeerak-Khan](https://github.com/Mu"
+        },
+        {
+          "title": "Muhammad Zeerak - London, England, United Kingdom | Professional Profile | LinkedIn",
+          "url": "https://linkedin.com/in/muhammad-zeerak-411a0014b",
+          "excerpt": "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nJoin to view profile\nMessage\n\nSign in to view Muhammad’s full profile\n\n...\n\nJoin now\n\nLicenses & Certifications\n\n* \n\nProgramming Management E"
+        },
+        {
+          "title": "Muhammad Zeerak Khan - Sr. Software Quality Assurance Engineer ...",
+          "url": "https://linkedin.com/in/muhammad-zeerak-khan-596b931a8",
+          "excerpt": "Join now\nor\nNew to LinkedIn? Join now\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .\nJoin to view profile\nMessage\n\nSign in to view Muhammad’s full profile\n\nContinue with Google Continue wi"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25230",
+      "small_rank": "3502",
+      "name": "kohjingyu",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"kohjingyu\" GitHub profile computer-vision organization identity",
+        "\"kohjingyu\" student ambassador campus program",
+        "\"kohjingyu\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"kohjingyu\" GitHub profile computer-vision organization identity",
+        "\"kohjingyu\" student ambassador campus program",
+        "\"kohjingyu\" developer community ambassador program"
+      ],
+      "search_id": "search_1fc624aaafa3ceb9d6a2d5ef8de12668",
+      "results": [
+        {
+          "title": "kohjingyu (Jing Yu Koh) · GitHub",
+          "url": "https://github.com/kohjingyu",
+          "excerpt": "User: Jing Yu Koh (@kohjingyu)\n\n* Page: GitHub user profile\n* URL: https://github.com/kohjingyu\n* Company: Carnegie Mellon University\n* Website: https://jykoh.com\n* Followers: 210\n* Following: 33\n* Links: https://jykoh.com, https://twitter.com/kohjingyu\n* Top "
+        },
+        {
+          "title": "GitHub - kohjingyu/search-agents: Code for the paper 🌳 Tree Search for Language Model Agents · GitHub",
+          "url": "https://github.com/kohjingyu/search-agents",
+          "excerpt": "# kohjingyu/search-agents\n\n- Page: GitHub repository\n- URL: https://github.com/kohjingyu/search-agents\n- Description: Code for the paper 🌳 Tree Search for Language Model Agents - kohjingyu/search-agents\n- License: MIT license\n- Default branch: main\n- Created:"
+        },
+        {
+          "title": "kohjingyu’s gists · GitHub",
+          "url": "https://gist.github.com/kohjingyu",
+          "excerpt": "Search Gists Search Gists\nAll gists Back to GitHub Sign in Sign up\nSign in Sign up\nInstantly share code, notes, and snippets.\nView kohjingyu's full-sized avatar\n🫠\n\nJing Yu Koh kohjingyu\n\n🫠\nML PhD student at CMU.\n209 followers · 33 following\n* Carnegie Mellon"
+        },
+        {
+          "title": "GitHub - kohjingyu/50.005ProgAssignment2",
+          "url": "https://github.com/kohjingyu/50.005ProgAssignment2",
+          "excerpt": "ava |  | \n* README.md |  | README.md |  | \n* README.pdf |  | README.pdf |  | \n* ServerSecure.java |  | ServerSecure.java |  | \n* View all files |  | \n\nRepository files navigation\n\n* README\n\n50.005 Programming Assignment 2\n\nAuthors: Vincent Setiawan, Jing Yu Ko"
+        },
+        {
+          "title": "About GitHub Campus Experts",
+          "url": "https://docs.github.com/articles/about-campus-experts",
+          "excerpt": "About GitHub Campus Experts\n\nEnrich your college's technical community by becoming a GitHub Campus Expert.\nLearn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub as part of the GitHub Camp"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25231",
+      "small_rank": "3503",
+      "name": "guhhhhaa",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"guhhhhaa\" GitHub profile nlp organization identity",
+        "\"guhhhhaa\" student ambassador campus program",
+        "\"guhhhhaa\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"guhhhhaa\" GitHub profile nlp organization identity",
+        "\"guhhhhaa\" student ambassador campus program",
+        "\"guhhhhaa\" developer community ambassador program"
+      ],
+      "search_id": "search_d05ab99e629653f9cda3c2e5da4d3b0c",
+      "results": [
+        {
+          "title": "guhhhhaa (Guhhhhaa) · GitHub",
+          "url": "https://github.com/guhhhhaa",
+          "excerpt": "User: Guhhhhaa (@guhhhhaa)\n\n* Page: GitHub user profile\n* URL: https://github.com/guhhhhaa\n* Company: Cayman Islands\n* Location: Cayman Islands\n* Website: https://guhhhhaa.gitbook.io/bfm\n* Followers: 41\n* Following: 30\n* Links: https://guhhhhaa.gitbook.io/bfm\n"
+        },
+        {
+          "title": "guhhhhaa (Guhhhhaa) · GitHub",
+          "url": "https://112.cachefly.net/guhhhhaa",
+          "excerpt": "Skip to content ## Navigation Menu\n@guhhhhaa guhhhhaa Follow\nOverview Repositories 66 Projects Packages Stars 81\n@guhhhhaa guhhhhaa Follow\nView guhhhhaa's full-sized avatar\n🌴\nOn vacation\n\nGuhhhhaa guhhhhaa\n\n🌴\nOn vacation\nFollow\n42 followers · 30 following\n* "
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "Join HackerEarth's Campus Ambassador Program (HECA)",
+          "url": "https://www.hackerearth.com/campus-ambassador-program",
+          "excerpt": "That’s because it enables you to network with leading coders from across the world and enhance your leadership abilities. So, sign up today and be a key part of one of the world’s largest developer communities!\nRegister now\n\nBecome a HackerEarth\n\nCampus Ambass"
+        },
+        {
+          "title": "Agora Ambassador Program",
+          "url": "https://explore.agora.io/agora-ambassador-program",
+          "excerpt": "<Talk to Us>\n☰\nEMPOWER THE FUTURE OF VOICE AI\n\nAgora Ambassador Program\n\nBuild the next-gen developer community.  \n<agora-ambassador-program-hero>\nCommunities across the world are actively exploring new technologies, platforms, and ideas through developer comm"
+        },
+        {
+          "title": "Google Developer Groups GDG on Campus University of New South Wales - Sydney, Australia\n",
+          "url": "https://gdg.community.dev/gdg-on-campus-university-of-new-south-wales-sydney-australia",
+          "excerpt": "\nGDG on Campus University of New South Wales - Sydney, Australia\n\n275 Group members\n* \n* \n* \nJoin us\nAbout Upcoming events Past events Organizers Photos Video\n\nAbout\n\nGoogle Developer Groups on Campus — UNSW Sydney\n\nAt GDG UNSW, we bring together students, dev"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25232",
+      "small_rank": "3504",
+      "name": "leancoderkavy",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"leancoderkavy\" GitHub profile claude organization identity",
+        "\"leancoderkavy\" student ambassador campus program",
+        "\"leancoderkavy\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"leancoderkavy\" GitHub profile claude organization identity",
+        "\"leancoderkavy\" student ambassador campus program",
+        "\"leancoderkavy\" developer community ambassador program"
+      ],
+      "search_id": "search_3bb03ea04d2c62a6c9da29efcc4f16e2",
+      "results": [
+        {
+          "title": "leancoderkavy (leancoderk) · GitHub",
+          "url": "https://github.com/leancoderkavy",
+          "excerpt": "User: leancoderk (@leancoderkavy)\n\n* Page: GitHub user profile\n* URL: https://github.com/leancoderkavy\n* Company: StartEngine\n* Location: Los Angeles\n* Followers: 36\n* Following: 16\n* Top languages: TypeScript, JavaScript\n65kg | Hobby Oly Weightlifter | Staff "
+        },
+        {
+          "title": "leancoderkavy (leancoderk) · GitHub",
+          "url": "https://github.itlym.cn/leancoderkavy",
+          "excerpt": "@leancoderkavy leancoderkavy Follow\nOverview Repositories 50 Projects Packages Stars 23\n@leancoderkavy leancoderkavy Follow\nView leancoderkavy's full-sized avatar\n\nleancoderk leancoderkavy\n\nFollow\n65kg | Hobby Oly Weightlifter | Staff Software Engineer | Veget"
+        },
+        {
+          "title": "GitHub - leancoderkavy/premiere-pro-mcp: Adobe Premiere Pro MCP — independent, local-first server for supported workflows. Connect Claude, Codex, or Cursor through a local CEP bridge. · GitHub",
+          "url": "https://github.com/leancoderkavy/premiere-pro-mcp",
+          "excerpt": "leancoderkavy/premiere-pro-mcp\n\n* Page: GitHub repository\n* URL: https://github.com/leancoderkavy/premiere-pro-mcp\n* Description: Adobe Premiere Pro MCP — independent, local-first server for supported workflows. Connect Claude, Codex, or Cursor through a local"
+        },
+        {
+          "title": "marcelo-earth (Marcelo) · GitHub",
+          "url": "https://github.com/marcelo-earth",
+          "excerpt": "User: Marcelo (@marcelo-earth)\n\n* Page: GitHub user profile\n* URL: https://github.com/marcelo-earth\n* Location: Peru\n* Website: https://marcelo.earth\n* Followers: 174\n* Following: 65\n* Links: https://marcelo.earth, https://x.com/marcelo_earth, https://www.link"
+        },
+        {
+          "title": "Claude Community Ambassadors | Claude by Anthropic",
+          "url": "https://websitemain.claude.com/community/ambassadors",
+          "excerpt": "* Developers\nBuild with\n* Claude Code\n* Claude Platform\nFor developers\n* Claude Academy\n* Community\n* Developer blog\nDeveloper docs\nDeveloper docs Developer docs\nConsole\nConsole Console\n* Enterprise\n\n...\n\nevents, bring builders together, and partner with Anthr"
+        },
+        {
+          "title": "Claude Community Ambassadors | Claude by Anthropic",
+          "url": "https://claude.com/community/ambassadors",
+          "excerpt": "The Claude Community Ambassadors program gives you everything you need to create a thriving community of builders in your city.\n\nGrow your local community\n\n...\n\nShape the product\n\nBring your community's perspective to Anthropic’s product teams. Access pre-rele"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25233",
+      "small_rank": "3505",
+      "name": "thepanacealab",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"thepanacealab\" GitHub profile dataset organization identity",
+        "\"thepanacealab\" student ambassador campus program",
+        "\"thepanacealab\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"thepanacealab\" GitHub profile dataset organization identity",
+        "\"thepanacealab\" student ambassador campus program",
+        "\"thepanacealab\" developer community ambassador program"
+      ],
+      "search_id": "search_2058341192869f620ee36f3f4c07f709",
+      "results": [
+        {
+          "title": "Panacea Lab · GitHub",
+          "url": "https://github.com/thepanacealab",
+          "excerpt": "Organization: Panacea Lab (@thepanacealab)\n\n* Page: GitHub organization profile\n* URL: https://github.com/thepanacealab\n* Location: Atlanta, GA\n* Website: http://www.panacealab.org\n* Links: https://twitter.com/drjmbanda\n* Top languages: Python, Jupyter Noteboo"
+        },
+        {
+          "title": "Panacea Lab · GitHub",
+          "url": "https://112.cachefly.net/thepanacealab",
+          "excerpt": "Loading Scripts fo\n\n...\n\nLast updated Name Stars\nShowing 10 of 24 repositories\n* AEOLUS-SmartAPI Public\nAPI to query FAERS Drug-Outcome stats\n thepanacealab/AEOLUS-SmartAPI's past year of commit activity\nJava 1 0 0 1 Updated Aug 26, 2024\n* covid19_twitter Publ"
+        },
+        {
+          "title": "Join HackerEarth's Campus Ambassador Program (HECA)",
+          "url": "https://www.hackerearth.com/campus-ambassador-program",
+          "excerpt": "That’s because it enables you to network with leading coders from across the world and enhance your leadership abilities. So, sign up today and be a key part of one of the world’s largest developer communities!\nRegister now\n\nBecome a HackerEarth\n\nCampus Ambass"
+        },
+        {
+          "title": "The Student Ambassadors | Student Ambassador Programs & Opportunities",
+          "url": "https://www.thestudentambassadors.com/",
+          "excerpt": "The Student Ambassadors\nThe Student Ambassadors\nHome For Students For Organizations Our Ambassadors About Contact\n\nWhere Organizations Build Programs. Students Build Futures. Where Organizations Universities Innovators Tech Leaders Organizations Build Programs"
+        },
+        {
+          "title": "About GitHub Campus Experts",
+          "url": "https://docs.github.com/articles/about-campus-experts",
+          "excerpt": "About GitHub Campus Experts\n\nEnrich your college's technical community by becoming a GitHub Campus Expert.\nLearn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub as part of the GitHub Camp"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "Below are some of the developer ambassador programs in alphabetical order (if you are looking for student only programs, search for `students only` ):\n\n* * *\n\n## A - F\n\n...\n\n* [Auth0 Ambassador](https://auth0.com/ambassador-program) \\- Join us in our mission t"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25234",
+      "small_rank": "3506",
+      "name": "YuanGongND",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"YuanGongND\" GitHub profile dataset organization identity",
+        "\"YuanGongND\" student ambassador campus program",
+        "\"YuanGongND\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"YuanGongND\" GitHub profile dataset organization identity",
+        "\"YuanGongND\" student ambassador campus program",
+        "\"YuanGongND\" developer community ambassador program"
+      ],
+      "search_id": "search_2b948f94fa9db9adf6b2ab3bbae91451",
+      "results": [
+        {
+          "title": "YuanGongND (Yuan Gong) · GitHub",
+          "url": "https://github.com/YuanGongND",
+          "excerpt": "User: Yuan Gong (@YuanGongND)\n\n* Page: GitHub user profile\n* URL: https://github.com/YuanGongND\n* Company: MIT\n* Location: Cambridge, MA\n* Website: https://yuangongnd.github.io\n* Followers: 463\n* Following: 2\n* Links: https://yuangongnd.github.io\n* Top languag"
+        },
+        {
+          "title": "GitHub - YuanGongND/vocalsound: Dataset and baseline code for the VocalSound dataset (ICASSP2022). · GitHub",
+          "url": "https://github.com/YuanGongND/vocalsound",
+          "excerpt": "# YuanGongND/vocalsound\n\n- Page: GitHub repository\n- URL: https://github.com/YuanGongND/vocalsound\n- Description: Dataset and baseline code for the VocalSound dataset (ICASSP2022). - YuanGongND/vocalsound\n- License: Creative Commons Attribution-ShareAlike 4.0 "
+        },
+        {
+          "title": "GitHub - YuanGongND/ltu: Code, Dataset, and Pretrained Models for Audio and Speech Large Language Model \"Listen, Think, and Understand\". · GitHub",
+          "url": "https://github.com/YuanGongND/ltu",
+          "excerpt": "# YuanGongND/ltu\n\n- Page: GitHub repository\n- URL: https://github.com/YuanGongND/ltu\n- Description: Code, Dataset, and Pretrained Models for Audio and Speech Large Language Model \"Listen, Think, and Understand\". - YuanGongND/ltu\n- Default branch: main\n- Create"
+        },
+        {
+          "title": "yuangongnd.github.io/index.html at master · YuanGongND/yuangongnd.github.io · GitHub",
+          "url": "https://github.com/YuanGongND/yuangongnd.github.io/blob/master/index.html",
+          "excerpt": "<img src=\"https://img.shields.io/badge/Curriculum%20Vitae-blue\" alt=\"Download Curriculum Vitae\">\n    </a>\n    <span style=\"margin: 0 10px;\">|</span>\n    <a href=\"https://scholar.google.com/citations?user=MuhvvOkAAAAJ&hl=en\" target=\"_blank\">\n        <img src=\"h"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "Agora Ambassador Program",
+          "url": "https://explore.agora.io/agora-ambassador-program",
+          "excerpt": "<Talk to Us>\n☰\nEMPOWER THE FUTURE OF VOICE AI\n\nAgora Ambassador Program\n\nBuild the next-gen developer community.  \n<agora-ambassador-program-hero>\nCommunities across the world are actively exploring new technologies, platforms, and ideas through developer comm"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25235",
+      "small_rank": "3507",
+      "name": "xmed-lab",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"xmed-lab\" GitHub profile diffusion-models organization identity",
+        "\"xmed-lab\" student ambassador campus program",
+        "\"xmed-lab\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"xmed-lab\" GitHub profile diffusion-models organization identity",
+        "\"xmed-lab\" student ambassador campus program",
+        "\"xmed-lab\" developer community ambassador program"
+      ],
+      "search_id": "search_e07581fb5ba85bea173dd7f5e654b9dc",
+      "results": [
+        {
+          "title": "xmed-lab · GitHub",
+          "url": "https://github.com/xmed-lab",
+          "excerpt": "Organization: xmed-lab (@xmed-lab)\n\n* Page: GitHub organization profile\n* URL: https://github.com/xmed-lab\n* Location: Hong Kong\n* Top languages: Python, Jupyter Notebook\n* Top topics: clip, reconstruction, miccai, multimodal, semi-supervised-learning\n\nReposit"
+        },
+        {
+          "title": "GitHub - xmed-lab/DiffCMR",
+          "url": "https://github.com/xmed-lab/DiffCMR",
+          "excerpt": "\nNavigation Menu\n\nToggle navigation\nSign in\nAppearance settings\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n\nSign in\nSign up\nAppearance settings\nResetting focus\nxmed-lab / DiffCMR Public\n* Notifications You must be signed i"
+        },
+        {
+          "title": "xmed-lab repositories · GitHub",
+          "url": "https://github.com/orgs/xmed-lab/repositories",
+          "excerpt": "• 0 0 forks in xmed-lab/CardiacPulse • 9 9 stars in xmed-lab/CardiacPulse • 0 0 issues in xmed-lab/CardiacPulse • 0 0 pull requests in xmed-lab/CardiacPulse • Updated Oct 17, 2026 Oct 17, 2026\n* \n\nSyRe\n\nPublic\nPython\n• 0 0 forks in xmed-lab/SyRe • 2 2 stars in"
+        },
+        {
+          "title": "GitHub - xmed-lab/TriALS: MICCAI 2024/2025: nnUNet incorporating additional baselines as SAMed️, Mamba Variants, and MedNeXT to establish a benchmark for segmentation challenges. · GitHub",
+          "url": "https://github.com/xmed-lab/TriALS",
+          "excerpt": "# xmed-lab/TriALS\n\n- Page: GitHub repository\n- URL: https://github.com/xmed-lab/TriALS\n- Description: MICCAI 2024/2025: nnUNet incorporating additional baselines as SAMed️, Mamba Variants, and MedNeXT to establish a benchmark for segmentation challenges. - xme"
+        },
+        {
+          "title": "GitHub - xmed-lab/DHC: MICCAI 2023: DHC: Dual-debiased Heterogeneous Co-training Framework for Class-imbalanced Semi-supervised Medical Image Segmentation · GitHub",
+          "url": "https://github.com/xmed-lab/DHC",
+          "excerpt": "# xmed-lab/DHC\n\n- Page: GitHub repository\n- URL: https://github.com/xmed-lab/DHC\n- Description: MICCAI 2023: DHC: Dual-debiased Heterogeneous Co-training Framework for Class-imbalanced Semi-supervised Medical Image Segmentation - xmed-lab/DHC\n- License: MIT li"
+        },
+        {
+          "title": "GitHub - xmed-lab/TAM: [ICCV25 Oral] Token Activation Map to Visually Explain Multimodal LLMs · GitHub",
+          "url": "https://github.com/xmed-lab/TAM",
+          "excerpt": "# xmed-lab/TAM\n\n- Page: GitHub repository\n- URL: https://github.com/xmed-lab/TAM\n- Description: [ICCV25 Oral] Token Activation Map to Visually Explain Multimodal LLMs - xmed-lab/TAM\n- Default branch: main\n- Created: 2025-06-29T09:18:39.000Z\n- Commits: 6\n\n## To"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25236",
+      "small_rank": "3508",
+      "name": "smkalami",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"smkalami\" GitHub profile generative-ai organization identity",
+        "\"smkalami\" student ambassador campus program",
+        "\"smkalami\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"smkalami\" GitHub profile generative-ai organization identity",
+        "\"smkalami\" student ambassador campus program",
+        "\"smkalami\" developer community ambassador program"
+      ],
+      "search_id": "search_cdfda183a19960e7680e779e36fe35ef",
+      "results": [
+        {
+          "title": "smkalami (Mostapha Kalami Heris) · GitHub",
+          "url": "https://github.com/smkalami",
+          "excerpt": "User: Mostapha Kalami Heris (@smkalami)\n\n* Page: GitHub user profile\n* URL: https://github.com/smkalami\n* Followers: 470\n* Following: 33\n* Links: https://twitter.com/smkalami, https://www.linkedin.com/in/smkalami/, https://medium.com/@kalami\n* Top languages: M"
+        },
+        {
+          "title": "smkalami (Mostapha Kalami Heris) · GitHub",
+          "url": "https://112.cachefly.net/smkalami",
+          "excerpt": "Skip to content ## Navigation Menu\n@smkalami smkalami Follow\nOverview Repositories 46 Projects Packages Stars 31\n@smkalami smkalami Follow\nView smkalami's full-sized avatar\n\nMostapha Kalami Heris smkalami\n\nFollow\n472 followers · 33 following\n* @smkalami\n* in/s"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "The Microsoft Learn Student Ambassador Program - Community Engagement Playbook | MicrosoftLearnStudentAmbassadors",
+          "url": "https://microsoft.github.io/MicrosoftLearnStudentAmbassadors",
+          "excerpt": "MicrosoftLearnStudentAmbassadors\n\nThe Microsoft Learn Student Ambassador Program - Community Engagement Playbook\n\nThis playbook aims to empower leaders to inspire tertiary students to explore their curiosity in building technical and leadership skills through "
+        },
+        {
+          "title": "Campus Crew Program | Power Up Your Campus with HackerRank",
+          "url": "https://www.hackerrank.com/campuscrew",
+          "excerpt": "grid_image\n\nPower Up Your Campus\n\nHost hackathons, guide peers, and build a stronger developer community as a HackerRank ambassador\nApply Now Learn More\nMusic Disc Music Disc Line Music Text\n\n...\n\nje+er54541rw65446f4v65534g63g55g4\n873425f1we645g4wedvwe+6g56465"
+        },
+        {
+          "title": "Agora Ambassador Program",
+          "url": "https://explore.agora.io/agora-ambassador-program",
+          "excerpt": "<Talk to Us>\n☰\nEMPOWER THE FUTURE OF VOICE AI\n\nAgora Ambassador Program\n\nBuild the next-gen developer community.  \n<agora-ambassador-program-hero>\nCommunities across the world are actively exploring new technologies, platforms, and ideas through developer comm"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25237",
+      "small_rank": "3509",
+      "name": "damikun",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"damikun\" GitHub profile observability organization identity",
+        "\"damikun\" student ambassador campus program",
+        "\"damikun\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"damikun\" GitHub profile observability organization identity",
+        "\"damikun\" student ambassador campus program",
+        "\"damikun\" developer community ambassador program"
+      ],
+      "search_id": "search_1354c039761eaf4c09cefa8680588eb4",
+      "results": [
+        {
+          "title": "damikun/trouble-training - GitHubHelp",
+          "url": "https://githubhelp.com/damikun/trouble-training",
+          "excerpt": "Articles\nGitHubHelp Journal Search\nSearch Users PK Repos PK\n\ndamikun /trouble-training\n\nFullStack DDD/CQRS with GraphQL workshop including distributed tracing and monitoring. This shows the configuration from React frontend to .Net backend.\n★ 480 Forks 125 C# "
+        },
+        {
+          "title": "damikun (DK) · GitHub",
+          "url": "https://download.plaud.ai/damikun",
+          "excerpt": "Skip to content ## Navigation Menu\n@damikun damikun Follow\nOverview Repositories 34 Projects Packages Stars 307\n@damikun damikun Follow\nView damikun's full-sized avatar\n:electron:\n\nDK damikun\n\n:electron:\nFollow\n#.NetCore #GraphQL, #React #Typescript #Relay #Ta"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "Developer Ambassador Programs | Pranshu Khanna",
+          "url": "https://pran.sh/ambassadors",
+          "excerpt": "sign / App-Dev Ambassador Enterprise / Ecosystem Expert Campus / Student ambassador General Community leader / Creator Programs Paused Programs More AI Product Ambassador Programs\nShare this page\n  \nAI-focused Ambassador\n* Claude Campus Program 🎓\nAnthropic pr"
+        },
+        {
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "url": "https://campusunite.in/ambassador",
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27\n\nBecome a Campus Unite\n\nCampus Ambassador\nRepresent Campus Unite at your college, build a thriving student tech community, gain real-world\n\n...\n\n2026-27\n\nVerified Campus Lead\n\nStudent Leadership Circle • Top U"
+        },
+        {
+          "title": "About GitHub Campus Experts",
+          "url": "https://docs.github.com/articles/about-campus-experts",
+          "excerpt": "About GitHub Campus Experts\n\nEnrich your college's technical community by becoming a GitHub Campus Expert.\nLearn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub as part of the GitHub Camp"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25238",
+      "small_rank": "3510",
+      "name": "lone-cloud",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"lone-cloud\" GitHub profile image-generation organization identity",
+        "\"lone-cloud\" student ambassador campus program",
+        "\"lone-cloud\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"lone-cloud\" GitHub profile image-generation organization identity",
+        "\"lone-cloud\" student ambassador campus program",
+        "\"lone-cloud\" developer community ambassador program"
+      ],
+      "search_id": "search_c719cbe043cce440a77dfd4602885871",
+      "results": [
+        {
+          "title": "lone-cloud · GitHub",
+          "url": "https://github.com/lone-cloud",
+          "excerpt": "User: lone-cloud (@lone-cloud)\n\n* Page: GitHub user profile\n* URL: https://github.com/lone-cloud\n* Followers: 48\n* Following: 5\n* Links: https://gitlab.com/lone-cloud\n* Top languages: TypeScript, Go, Kotlin\n\nPinned repositories\n\n* lone-cloud/gerbil: A desktop "
+        },
+        {
+          "title": "lone-cloud",
+          "url": "https://lonecloud.dev/",
+          "excerpt": "\nlone-cloud\n\ngithub gitlab forgejo codeberg\n\n// projects\n\nTypeScript ★ 454\n\ngerbil\n\nLocal text and image generation, on your own hardware. Powered by KoboldCpp, a fork of llama.cpp. Cross-platform, offline capable, GPU acceleration (CUDA, ROCm, Vulkan, Metal),"
+        },
+        {
+          "title": "Become a sponsor to lone-cloud",
+          "url": "https://github.com/sponsors/lone-cloud",
+          "excerpt": "## \n\nBecome a sponsor to lone-cloud\nA desktop app for running Large Language Models locally. ... Learn more about sponsoring developers and organizations. Report abuse. Select a tier. Monthly"
+        },
+        {
+          "title": "lone-cloud (Egor) · GitHub",
+          "url": "http://168.138.51.227:8088/lone-cloud",
+          "excerpt": "Skip to content ## Navigation Menu\n@lone-cloud lone-cloud Follow\nOverview Repositories 4 Projects Packages 1 Stars 293\n@lone-cloud lone-cloud Follow\nView lone-cloud's full-sized avatar\n💨\nAccelerating\n\nEgor lone-cloud\n\n💨\nAccelerating\nFollow\nSponsor\n60 followe"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "GitHub - pransh15/developer-ambassador-programs: A list of Developer Ambassador Programs · GitHub",
+          "url": "https://github.com/pransh15/developer-ambassador-programs",
+          "excerpt": "Best for builders teaching Google AI, Gemini/GenAI, ML, data, and AI-for-web workflows.\n* Google Developer Experts — Cloud - GDE track for Google Cloud experts and community educators.\nBest for cloud architects, platform engineers, data cloud builders, and Goo"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25239",
+      "small_rank": "3511",
+      "name": "steamship-core",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"steamship-core\" GitHub profile chatbot organization identity",
+        "\"steamship-core\" student ambassador campus program",
+        "\"steamship-core\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"steamship-core\" GitHub profile chatbot organization identity",
+        "\"steamship-core\" student ambassador campus program",
+        "\"steamship-core\" developer community ambassador program"
+      ],
+      "search_id": "search_21e9707808dce16fa9c80fc998e13d59",
+      "results": [
+        {
+          "title": "Steamship · GitHub",
+          "url": "https://github.com/steamship-core",
+          "excerpt": "# Organization: Steamship (@steamship-core)\n\n- Page: GitHub organization profile\n- URL: https://github.com/steamship-core\n- Location: United States of America\n- Website: https://www.steamship.com/\n- Links: https://twitter.com/GetSteamship\n- Top languages: Pyth"
+        },
+        {
+          "title": "GitHub - steamship-core/multimodal-agent-starter · GitHub",
+          "url": "https://github.com/steamship-core/multimodal-agent-starter",
+          "excerpt": "# steamship-core/multimodal-agent-starter\n\n- Page: GitHub repository\n- URL: https://github.com/steamship-core/multimodal-agent-starter\n- Default branch: main\n- Created: 2023-04-27T17:12:51.000Z\n- Commits: 162\n\n## Top-level files\n\n- ai-character-with-dynamic-pr"
+        },
+        {
+          "title": "GitHub - steamship-core/steamship-langchain: steamship-langchain · GitHub",
+          "url": "https://github.com/steamship-core/steamship-langchain",
+          "excerpt": "# steamship-core/steamship-langchain\n\n- Page: GitHub repository\n- URL: https://github.com/steamship-core/steamship-langchain\n- Description: steamship-langchain\n- License: MIT license\n- Default branch: main\n- Created: 2023-02-04T02:30:23.000Z\n- Commits: 150\n\n##"
+        },
+        {
+          "title": "GitHub - steamship-core/python-client · GitHub",
+          "url": "https://github.com/steamship-core/python-client",
+          "excerpt": "# steamship-core/python-client\n\n- Page: GitHub repository\n- URL: https://github.com/steamship-core/python-client\n- License: MIT license\n- Default branch: main\n- Created: 2021-05-11T15:00:22.000Z\n- Commits: 851\n\n## Top-level files\n\n- .devcontainer/\n- .github/wo"
+        },
+        {
+          "title": "GitHub - steamship-core/ai-adventure · GitHub",
+          "url": "https://github.com/steamship-core/ai-adventure",
+          "excerpt": "# steamship-core/ai-adventure\n\n- Page: GitHub repository\n- URL: https://github.com/steamship-core/ai-adventure\n- Default branch: main\n- Created: 2023-10-03T14:10:15.000Z\n- Commits: 1,308\n\n## Top-level files\n\n- .vscode/\n- __tests__/\n- app/\n- art_assets/\n- compo"
+        },
+        {
+          "title": "steamship-core repositories · GitHub",
+          "url": "https://github.com/orgs/steamship-core/repositories",
+          "excerpt": "steamship-core/ai-adventure-agent • 3 3 pull requests in steamship-core/ai-adventure-agent • Updated Feb 14, 2024 Feb 14, 2024\n* \n\nsteamship-langchain\n\nPublic\nsteamship-langchain\nPython\n•\nMIT License\n• 90 90 forks in steamship-core/steamship-langchain • 508 50"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25240",
+      "small_rank": "3512",
+      "name": "kdzwinel",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"kdzwinel\" GitHub profile ocr organization identity",
+        "\"kdzwinel\" student ambassador campus program",
+        "\"kdzwinel\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"kdzwinel\" GitHub profile ocr organization identity",
+        "\"kdzwinel\" student ambassador campus program",
+        "\"kdzwinel\" developer community ambassador program"
+      ],
+      "search_id": "search_c311fcdec1f607d31f79e0459016356c",
+      "results": [
+        {
+          "title": "kdzwinel (Konrad Dzwinel) · GitHub",
+          "url": "https://github.com/kdzwinel",
+          "excerpt": "User: Konrad Dzwinel (@kdzwinel)\n\n* Page: GitHub user profile\n* URL: https://github.com/kdzwinel\n* Company: Privacy Engineering @duckduckgo\n* Location: Kraków, Poland\n* Followers: 763\n* Following: 0\n* Top languages: JavaScript, CSS\n\nPinned repositories\n\n* kdzw"
+        },
+        {
+          "title": "kdzwinel (Konrad Dzwinel) / starred · GitHub",
+          "url": "https://github.com/stars/kdzwinel",
+          "excerpt": "\nNavigation Menu\n\nToggle navigation\nSign in\nAppearance settings\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n\nSign in\nSign up\nAppearance settings\nResetting focus\n\nStars\n\nBrowse starred repositories and topics\nSort: Recently "
+        },
+        {
+          "title": "kdzwinel’s gists · GitHub",
+          "url": "https://gist.github.com/kdzwinel/forked",
+          "excerpt": "Search Gists Search Gists\nAll gists Back to GitHub Sign in Sign up\nSign in Sign up\nInstantly share code, notes, and snippets.\nView kdzwinel's full-sized avatar\n\nKonrad Dzwinel kdzwinel\n\n765 followers · 0 following\n* Privacy Engineering @duckduckgo\n* Kraków, Po"
+        },
+        {
+          "title": "kdzwinel (Konrad Dzwinel) · GitHub",
+          "url": "https://download.plaud.ai/kdzwinel",
+          "excerpt": "Skip to content ## Navigation Menu\n@kdzwinel kdzwinel Follow\nOverview Repositories 82 Projects Packages Stars 171\n@kdzwinel kdzwinel Follow\nView kdzwinel's full-sized avatar\n\nKonrad Dzwinel kdzwinel\n\nFollow\n765 followers · 0 following\n* Privacy Engineering @du"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "Campus Experts · GitHub",
+          "url": "https://github.com/education/students/campus-expert",
+          "excerpt": "Skip to content GitHub Universe 2026\nJoin Universe virtually, from anywhere.\nSave your seat\nEducation\n* Students\n* Teachers\n* Schools\n* Partners\n* More\nGitHub Education\n\nEnrich your college  technology community\n\nLearn the skills to build and grow diverse tech"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25241",
+      "small_rank": "3513",
+      "name": "filangelos",
+      "tier": "small",
+      "category": "rl",
+      "queries": [
+        "\"filangelos\" GitHub profile reinforcement-learning organization identity",
+        "\"filangelos\" student ambassador campus program",
+        "\"filangelos\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"filangelos\" GitHub profile reinforcement-learning organization identity",
+        "\"filangelos\" student ambassador campus program",
+        "\"filangelos\" developer community ambassador program"
+      ],
+      "search_id": "search_89ab16fc2049b2b7c0f34ea8e49bc430",
+      "results": [
+        {
+          "title": "filangelos (Angelos Filos) · GitHub",
+          "url": "https://github.com/filangelos",
+          "excerpt": "User: Angelos Filos (@filangelos)\n\n* Page: GitHub user profile\n* URL: https://github.com/filangelos\n* Company: @deepmind , @OATML\n* Location: London, UK\n* Followers: 177\n* Following: 2\n* Links: https://twitter.com/filangelos\n* Top languages: Jupyter Notebook, "
+        },
+        {
+          "title": "Greg Farquhar @greg_far - Twitter Profile | TwStalker",
+          "url": "https://twstalker.com/greg_far",
+          "excerpt": "…\n1 0 1 118 0\nView Details\ngreg_far Profile Picture\n#### Greg Farquhar @greg_far 5 years ago\nThere are a bunch of ideas in this paper, but it all fits together really neatly! Great work from @filangelos and team 👏\n0 0 4 0 0\nView Details\ngreg_far Profile Pictu"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "* Agentic AI Ambassdor - If you’re passionate about AI and machine learning and love learning, building, sharing knowledge, and helping others grow in the field, join the AAIF Ambassadors program.\n\n...\n\nthe Appwrite Heroes program and becoming a leader in our "
+        },
+        {
+          "title": "Campus Experts · GitHub",
+          "url": "https://github.com/education/students/campus-expert",
+          "excerpt": "Skip to content GitHub Universe 2026\nJoin Universe virtually, from anywhere.\nSave your seat\nEducation\n* Students\n* Teachers\n* Schools\n* Partners\n* More\nGitHub Education\n\nEnrich your college  technology community\n\nLearn the skills to build and grow diverse tech"
+        },
+        {
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "url": "https://campusunite.in/ambassador",
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27\n\nBecome a Campus Unite\n\nCampus Ambassador\nRepresent Campus Unite at your college, build a thriving student tech community, gain real-world\n\n...\n\n2026-27\n\nVerified Campus Lead\n\nStudent Leadership Circle • Top U"
+        },
+        {
+          "title": "GitHub - Vikranth3140/Campus-Leadership-Opportunities: This repository aims to serve as a comprehensive guide for college students aspiring to become campus leaders. Whether you're interested in representing leading tech companies as a campus ambassador or joining vibrant student chapters and clubs, this repository has got you covered! · GitHub",
+          "url": "https://github.com/Vikranth3140/Campus-Leadership-Opportunities",
+          "excerpt": "w to apply for each program, along with the benefits and responsibilities associated with it.\n* Details about different Student Chapters and Clubs available for students across various fields of interest.\n* Descriptions of each club's activities, leadership op"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25242",
+      "small_rank": "3514",
+      "name": "yaoguangluo",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"yaoguangluo\" GitHub profile nlp organization identity",
+        "\"yaoguangluo\" student ambassador campus program",
+        "\"yaoguangluo\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"yaoguangluo\" GitHub profile nlp organization identity",
+        "\"yaoguangluo\" student ambassador campus program",
+        "\"yaoguangluo\" developer community ambassador program"
+      ],
+      "search_id": "search_9bd360df2bcc7158ea5f064bc49f7d17",
+      "results": [
+        {
+          "title": "Deta_OSS_List/创作说明-申请人撰写.pdf at master · yaoguangluo/Deta_OSS_List · GitHub",
+          "url": "https://github.com/yaoguangluo/Deta_OSS_List/blob/master/%E5%88%9B%E4%BD%9C%E8%AF%B4%E6%98%8E-%E7%94%B3%E8%AF%B7%E4%BA%BA%E6%92%B0%E5%86%99.pdf",
+          "excerpt": "Skip to content ## Navigation Menu\nSign in\nAppearance settings\n* Platform\n  + AI CODE CREATION\n  \n  - [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n  - [GitHub Copilot app Direct agents from issue to merge](https://github.com/"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "Agora Ambassador Program",
+          "url": "https://explore.agora.io/agora-ambassador-program",
+          "excerpt": "<Talk to Us>\n☰\nEMPOWER THE FUTURE OF VOICE AI\n\nAgora Ambassador Program\n\nBuild the next-gen developer community.  \n<agora-ambassador-program-hero>\nCommunities across the world are actively exploring new technologies, platforms, and ideas through developer comm"
+        },
+        {
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "url": "https://campusunite.in/ambassador",
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27\n\nBecome a Campus Unite\n\nCampus Ambassador\nRepresent Campus Unite at your college, build a thriving student tech community, gain real-world\n\n...\n\n2026-27\n\nVerified Campus Lead\n\nStudent Leadership Circle • Top U"
+        },
+        {
+          "title": "Campus Ambassador Program for AI Enthusiasts | TheNoah.ai",
+          "url": "https://www.thenoah.ai/campus-ambassador",
+          "excerpt": "Campus Ambassador Program\n\nLead your campus. Grow with AI.\n\nWe are onboarding one to two ambassadors per college to build campus-level communities, promote hands-on AI certifications on TheNoah.ai, and encourage student participation, with platform access, mil"
+        },
+        {
+          "title": "GitHub - pransh15/developer-ambassador-programs: A list of Developer Ambassador Programs · GitHub",
+          "url": "https://github.com/pransh15/developer-ambassador-programs",
+          "excerpt": "ity hosts, and developer-tool educators.\n* Devin.ai Ambassador / Community - Community program for people leading Devin communities, hosting events, creating content, and giving feedback.\n\n...\n\nTechmakers Ambassador - Google community program providing visibil"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25243",
+      "small_rank": "3515",
+      "name": "HemulGM",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"HemulGM\" GitHub profile openai organization identity",
+        "\"HemulGM\" student ambassador campus program",
+        "\"HemulGM\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"HemulGM\" GitHub profile openai organization identity",
+        "\"HemulGM\" student ambassador campus program",
+        "\"HemulGM\" developer community ambassador program"
+      ],
+      "search_id": "search_912b08f05901469e244b3bc00afdb8a3",
+      "results": [
+        {
+          "title": "HemulGM · GitHub",
+          "url": "https://github.com/HemulGM",
+          "excerpt": "User: HemulGM (@HemulGM)\n\n* Page: GitHub user profile\n* URL: https://github.com/HemulGM\n* Company: Ceramic3D\n* Website: https://t.me/HemulGM\n* Followers: 454\n* Following: 172\n* Links: https://t.me/HemulGM, https://twitter.com/HemulGM\n* Top languages: Pascal\nPr"
+        },
+        {
+          "title": "GitHub - HemulGM/ChatGPT: ChatGPT Native Application (Windows, Mac, Android, iOS, and Linux) · GitHub",
+          "url": "https://github.com/HemulGM/ChatGPT",
+          "excerpt": "HemulGM/ChatGPT\n\n* Page: GitHub repository\n* URL: https://github.com/HemulGM/ChatGPT\n* Description: ChatGPT Native Application (Windows, Mac, Android, iOS, and Linux) - HemulGM/ChatGPT\n* License: MIT license\n* Default branch: main\n* Created: 2023-01-19T13:37:5"
+        },
+        {
+          "title": "GitHub - HemulGM/ChatGPT: ChatGPT Native Application (Windows, Mac, Android, iOS, and Linux) · GitHub",
+          "url": "https://github.com/hemulgm/chatgpt",
+          "excerpt": "hemulgm/chatgpt\n\n* Page: GitHub repository\n* URL: https://github.com/hemulgm/chatgpt\n* Description: ChatGPT Native Application (Windows, Mac, Android, iOS, and Linux) - HemulGM/ChatGPT\n* License: MIT license\n* Default branch: main\n* Created: 2023-01-19T13:37:5"
+        },
+        {
+          "title": "HemulGM · GitHub",
+          "url": "https://download.plaud.ai/HemulGM",
+          "excerpt": "Skip to content ## Navigation Menu\n@HemulGM HemulGM Follow\nOverview Repositories 198 Projects Packages Stars 979\n@HemulGM HemulGM Follow\nView HemulGM's full-sized avatar\n🟢\nWorking while it's working\n\nHemulGM\n\n🟢\nWorking while it's working\nFollow\nProfessional "
+        },
+        {
+          "title": "GitHub - HemulGM/DelphiOpenAI: OpenAI (and DeepSeek, Azure OpenAI, YandexGPT, Ollama, GigaChat, Qwen) API wrapper for Delphi. Use ChatGPT, DALL-E, Whisper and other products. · GitHub",
+          "url": "https://github.com/hemulgm/delphiopenai",
+          "excerpt": "06c6174666f726d2d616c6c253230706c6174666f726d732d677265656e)\n\nThis repositorty contains Delphi implementation over [OpenAI](https://beta.openai.com/docs/api-reference/) public API.\n\n❗ _This is an unofficial library. OpenAI does not provide any official library"
+        },
+        {
+          "title": "https://api.github.com/search/repositories?q=YandexGPT&sort=stars",
+          "url": "https://api.github.com/search/repositories?q=YandexGPT&sort=stars",
+          "excerpt": "\"login\": \"HemulGM\", \"id\": 22197242, \"node_id\": \"MDQ6VXNlcjIyMTk3MjQy\", \"avatar_url\": \"https://avatars.githubusercontent.com/u/22197242?v=4\", \"gravatar_id\": \"\", \"url\": \"https://api.github.com/users/HemulGM\", \"html_url\": \"https://github.com/HemulGM\", \"followers_"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25244",
+      "small_rank": "3516",
+      "name": "ericrisco",
+      "tier": "small",
+      "category": "text-gen",
+      "queries": [
+        "\"ericrisco\" GitHub profile prompt-engineering organization identity",
+        "\"ericrisco\" student ambassador campus program",
+        "\"ericrisco\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"ericrisco\" GitHub profile prompt-engineering organization identity",
+        "\"ericrisco\" student ambassador campus program",
+        "\"ericrisco\" developer community ambassador program"
+      ],
+      "search_id": "search_dcfbb71c96dd3b36a2d921b640642f7a",
+      "results": [
+        {
+          "title": "ericrisco (Eric Risco de la Torre) · GitHub",
+          "url": "https://github.com/ericrisco",
+          "excerpt": "User: Eric Risco de la Torre (@ericrisco)\n\n* Page: GitHub user profile\n* URL: https://github.com/ericrisco\n* Company: Andorra Telecom\n* Location: Andorra\n* Followers: 198\n* Following: 61\n* Links: https://twitter.com/erisco_and\n* Top languages: JavaScript, Pyth"
+        },
+        {
+          "title": "prompt-engineering — ericrisco/rsc-harness",
+          "url": "https://www.skills.sh/ericrisco/rsc-harness/prompt-engineering",
+          "excerpt": "Skills\nPacks Topics Official Audits Docs\nskills / ericrisco / rsc-harness / prompt-engineering\n\nprompt-engineering\n\nInstallation\nCommand Prompt\n$ npx skills add https://github.com/ericrisco/rsc-harness --skill prompt-engineering\nSKILL.md\n\nPrompt engineering: o"
+        },
+        {
+          "title": "GitHub - ericrisco/rsc-harness: Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the meta-harness that gives it both, plus the trade to know the job and the reflexes to not break your repo. For Claude Code, Codex and 15 more. · GitHub",
+          "url": "https://github.com/ericrisco/rsc-harness",
+          "excerpt": "ericrisco/rsc-harness\n\n* Page: GitHub repository\n* URL: https://github.com/ericrisco/rsc-harness\n* Description: Your agent invents things because it has no memory, and can't touch your database\n\n...\n\nRead https://ericrisco.github.io/rsc-harness/ and set up rsc"
+        },
+        {
+          "title": "ship — ericrisco/rsc-harness",
+          "url": "https://www.skills.sh/ericrisco/rsc-harness/ship",
+          "excerpt": "Skills\nPacks Topics Official Audits Docs\nskills / ericrisco / rsc-harness / ship\n\nship\n\nInstallation\nCommand Prompt\n$ npx skills add https://github.com/ericrisco/rsc-harness --skill ship\nSKILL.md\n\nShip — close the development branch\n\nShip is the last gate of t"
+        },
+        {
+          "title": "Case Studies — ericrisco/rsc-harness — Claude Skills",
+          "url": "https://www.claude-updates.com/skills/ericrisco/rsc-harness/case-studies",
+          "excerpt": "Claude Updates esc\nShare Sign in\nClaude Skills · Presentations\n\nCase Studies\n\nericrisco/rsc-harness\nUse when turning one named customer's measured win into a case study, or the attributed testimonial quote that travels with it — consent-cleared, metrics-anchor"
+        },
+        {
+          "title": "Pull requests · ericrisco/rsc-harness · GitHub",
+          "url": "https://github.com/ericrisco/rsc-harness/pulls",
+          "excerpt": "## \n\nPull requests · ericrisco/rsc-harness · GitHub\nContribute to ericrisco/rsc-harness development by creating an account on GitHub."
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25245",
+      "small_rank": "3517",
+      "name": "receptron",
+      "tier": "small",
+      "category": "audio",
+      "queries": [
+        "\"receptron\" GitHub profile claude organization identity",
+        "\"receptron\" student ambassador campus program",
+        "\"receptron\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"receptron\" GitHub profile claude organization identity",
+        "\"receptron\" student ambassador campus program",
+        "\"receptron\" developer community ambassador program"
+      ],
+      "search_id": "search_2a8781a56232c2d56ff851a92bf79baa",
+      "results": [
+        {
+          "title": "Receptron · GitHub",
+          "url": "https://github.com/receptron",
+          "excerpt": "Organization: Receptron (@receptron)\n\n* Page: GitHub organization profile\n* URL: https://github.com/receptron\n* Website: https://mulmocast.com/en/\n* Links: https://x.com/SingularitySoci, https://x.com/mulmocast, https://singularitysociety.org/\n* Top languages:"
+        },
+        {
+          "title": "https://api.github.com/repos/receptron/mulmoterminal",
+          "url": "https://api.github.com/repos/receptron/mulmoterminal",
+          "excerpt": "\"followers_url\": \"https://api.github.com/users/receptron/followers\", \"following_url\": \"https://api.github.com/users/receptron/following{/other_user}\", \"gists_url\": \"https://api.github.com/users/receptron/gists{/gist_id}\", \"starred_url\": \"https://api.github.com"
+        },
+        {
+          "title": "GitHub - receptron/mulmoclaude: Nurture your own AI assistant on your own computer. Local-first and MIT: memories, data and apps stay as plain files in your workspace. Chat summons the right GUI — wiki, spreadsheet, chart, form, 3D. Build small apps for an audience of one, no programming required. · GitHub",
+          "url": "https://github.com/receptron/mulmoclaude",
+          "excerpt": "Nurturing takes an environment, and MulmoClaude provides one: a place to accumulate memories (a personal wiki that Claude builds and maintains itself), a place to keep your data (schema-driven collections, feeds, plain files), and a place to build apps just fo"
+        },
+        {
+          "title": "receptron/laya-onnx · Hugging Face",
+          "url": "https://huggingface.co/receptron/laya-onnx",
+          "excerpt": "# [](https://huggingface.co/receptron)\n\n[receptron](https://huggingface.co/receptron)\n\n/\n\n[laya-onnx](https://huggingface.co/receptron/laya-onnx)\n\nLike 5\n\nFollow\n\nReceptron 4\n\n[ONNX](https://huggingface.co/models?library=onnx) [onnxruntime](https://huggingface"
+        },
+        {
+          "title": "receptron Agent Skills | SkillsMP",
+          "url": "https://skillsmp.com/fr/creators/receptron",
+          "excerpt": "description: Explorez les agent skills de receptron, regroupés par dépôt GitHub et couverture métier. Utilisez SkillsMP pour trouver des Agent Skills open source pou... title: receptron Agent Skills | SkillsMP image: https://skillsmp.com/og-image.png\n\n<receptr"
+        },
+        {
+          "title": "receptron Agent Skills | SkillsMP",
+          "url": "https://skillsmp.com/ar/creators/receptron",
+          "excerpt": "description: استكشف agent skills من receptron، مجمعة حسب مستودع GitHub وتغطية المهن. استخدم SkillsMP لاكتشاف مهارات Agent Skills مفتوحة المصدر لـ Claude Code وCodex... title: receptron Agent Skills | SkillsMP image: https://skillsmp.com/og-image.png\n\n<receptro"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25246",
+      "small_rank": "3518",
+      "name": "RecList",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"RecList\" GitHub profile evaluation organization identity",
+        "\"RecList\" student ambassador campus program",
+        "\"RecList\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"RecList\" GitHub profile evaluation organization identity",
+        "\"RecList\" student ambassador campus program",
+        "\"RecList\" developer community ambassador program"
+      ],
+      "search_id": "search_3608cbf5077d7d4840e5c0c3ff762188",
+      "results": [
+        {
+          "title": "RecList · GitHub",
+          "url": "https://github.com/RecList",
+          "excerpt": "Organization: RecList (@RecList)\n\n* Page: GitHub organization profile\n* URL: https://github.com/RecList\n* Top languages: Python, Jupyter Notebook, CSS, HTML\n\nRepositories\n\n* RecList/evalRS-CIKM-2022: Official Repository for EvalRS @ CIKM 2022: a Rounded Evalua"
+        },
+        {
+          "title": "GitHub - RecList/reclist: Behavioral \"black-box\" testing for recommender systems · GitHub",
+          "url": "https://112.cachefly.net/RecList/reclist",
+          "excerpt": "Skip to content ## Navigation Menu\nRecList / reclist Public\n* Notifications You must be signed in to change notification settings\n* Fork 23\n* Star 476\n* Code\n* Issues 1\n* Pull requests 3\n* Actions\n\n...\n\n* Name | Name | Last commit message | Last commit date\n* "
+        },
+        {
+          "title": "RecList · GitHub",
+          "url": "https://112.cachefly.net/RecList",
+          "excerpt": "Skip to content ## Navigation Menu\n@RecList\n\nRecList\n\n* Overview\n* Repositories\n* Projects\n* Packages\n* People\n\nPopular repositories Loading\n\n1. reclist reclist Public\nBehavioral \"black-box\" testing for recommender systems\nPython 477 24\n2. evalRS-CIKM-2022 eva"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "Below are some of the developer ambassador programs in alphabetical order (if you are looking for student only programs, search for `students only` ):\n\n* * *\n\n## A - F\n\n...\n\n* [Auth0 Ambassador](https://auth0.com/ambassador-program) \\- Join us in our mission t"
+        },
+        {
+          "title": "GitHub - pransh15/developer-ambassador-programs: A list of Developer Ambassador Programs · GitHub",
+          "url": "https://github.com/pransh15/developer-ambassador-programs",
+          "excerpt": "ity hosts, and developer-tool educators.\n* Devin.ai Ambassador / Community - Community program for people leading Devin communities, hosting events, creating content, and giving feedback.\n\n...\n\nTechmakers Ambassador - Google community program providing visibil"
+        },
+        {
+          "title": "Developer Ambassador Programs | Pranshu Khanna",
+          "url": "https://pran.sh/ambassadors",
+          "excerpt": "sign / App-Dev Ambassador Enterprise / Ecosystem Expert Campus / Student ambassador General Community leader / Creator Programs Paused Programs More AI Product Ambassador Programs\nShare this page\n  \nAI-focused Ambassador\n* Claude Campus Program 🎓\nAnthropic pr"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25247",
+      "small_rank": "3519",
+      "name": "dineshsoudagar",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"dineshsoudagar\" GitHub profile chatbot organization identity",
+        "\"dineshsoudagar\" student ambassador campus program",
+        "\"dineshsoudagar\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"dineshsoudagar\" GitHub profile chatbot organization identity",
+        "\"dineshsoudagar\" student ambassador campus program",
+        "\"dineshsoudagar\" developer community ambassador program"
+      ],
+      "search_id": "search_83d94ab1ea1130bc52cc97bfbc30cfe9",
+      "results": [
+        {
+          "title": "dineshsoudagar (dinesh_s) · GitHub",
+          "url": "https://github.com/dineshsoudagar",
+          "excerpt": "User: dinesh_s (@dineshsoudagar)\n\n* Page: GitHub user profile\n* URL: https://github.com/dineshsoudagar\n* Followers: 26\n* Following: 0\n* Top languages: Kotlin, Jupyter Notebook, Python\nAI Engineer | On-Device LLMs | Autonomous Driving\n\nPinned repositories\n\n* di"
+        },
+        {
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "url": "https://campusunite.in/ambassador",
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27\n\nBecome a Campus Unite\n\nCampus Ambassador\nRepresent Campus Unite at your college, build a thriving student tech community, gain real-world\n\n...\n\n2026-27\n\nVerified Campus Lead\n\nStudent Leadership Circle • Top U"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "Agora Ambassador Program",
+          "url": "https://explore.agora.io/agora-ambassador-program",
+          "excerpt": "<Talk to Us>\n☰\nEMPOWER THE FUTURE OF VOICE AI\n\nAgora Ambassador Program\n\nBuild the next-gen developer community.  \n<agora-ambassador-program-hero>\nCommunities across the world are actively exploring new technologies, platforms, and ideas through developer comm"
+        },
+        {
+          "title": "About GitHub Campus Experts",
+          "url": "https://docs.github.com/en/education/about-github-education/use-github-at-your-educational-institution/about-github-campus-experts",
+          "excerpt": "About GitHub Campus Experts\n\nEnrich your college's technical community by becoming a GitHub Campus Expert.\nLearn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub as part of the GitHub Camp"
+        },
+        {
+          "title": "GitHub - SurPathHub/student-programs: Collections of Student Programs · GitHub",
+          "url": "https://github.com/SurPathHub/student-programs",
+          "excerpt": "and lastly, you don't need to apply to many programs, focus on your role and to your technologies!\n\n* Microsoft Learn Student Ambassador\n* The Microsoft Learn Student Ambassadors program is a global group of on-campus ambassadors who are eager to help students"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25248",
+      "small_rank": "3520",
+      "name": "EyuCoder",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"EyuCoder\" GitHub profile image-generation organization identity",
+        "\"EyuCoder\" student ambassador campus program",
+        "\"EyuCoder\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"EyuCoder\" GitHub profile image-generation organization identity",
+        "\"EyuCoder\" student ambassador campus program",
+        "\"EyuCoder\" developer community ambassador program"
+      ],
+      "search_id": "search_65d18eb9f46bb054b7d62211e6768897",
+      "results": [
+        {
+          "title": "EyuCoder · GitHub",
+          "url": "https://github.com/eyucoder",
+          "excerpt": "User: eyucoder (@eyucoder)\n\n* Page: GitHub user profile\n* URL: https://github.com/eyucoder\n* Company: CodeXO\n* Website: https://eyucoder.com\n* Followers: 847\n* Following: 85\n* Links: https://eyucoder.com, https://linkedin.com/in/eyuel-daniel\n* Top languages: T"
+        },
+        {
+          "title": "EyuCoder · GitHub",
+          "url": "https://download.plaud.ai/EyuCoder",
+          "excerpt": "Skip to content ## Navigation Menu\n@EyuCoder EyuCoder Follow\nOverview Repositories 86 Projects Packages Stars 932\n@EyuCoder EyuCoder Follow\nView EyuCoder's full-sized avatar\n😎\nwalkAlone(tillThen);\n\nEyuCoder\n\n😎\nwalkAlone(tillThen);\nFollow\nSponsor\njust a rando"
+        },
+        {
+          "title": "EyuCoder · GitHub",
+          "url": "https://112.cachefly.net/EyuCoder",
+          "excerpt": "Skip to content ## Navigation Menu\n@EyuCoder EyuCoder Follow\nOverview Repositories 86 Projects Packages Stars 932\n@EyuCoder EyuCoder Follow\nView EyuCoder's full-sized avatar\n😎\nwalkAlone(tillThen);\n\nEyuCoder\n\n😎\nwalkAlone(tillThen);\nFollow\nSponsor\njust a rando"
+        },
+        {
+          "title": "Campus Clubs and Ambassadors | CodeMate Documentation",
+          "url": "https://docs.codemate.ai/codemate-for-education/campus-clubs-and-ambassadors",
+          "excerpt": "Campus Clubs and Ambassadors\n\nCodeMate partners with university developer communities to bring AI-enhanced software development practices directly to campus. Whether you're running a coding club, organizing hackathons, or building a community of developers who"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "About GitHub Campus Experts",
+          "url": "https://docs.github.com/articles/about-campus-experts",
+          "excerpt": "About GitHub Campus Experts\n\nEnrich your college's technical community by becoming a GitHub Campus Expert.\nLearn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub as part of the GitHub Camp"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25249",
+      "small_rank": "3521",
+      "name": "abdur75648",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"abdur75648\" GitHub profile computer-vision organization identity",
+        "\"abdur75648\" student ambassador campus program",
+        "\"abdur75648\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"abdur75648\" GitHub profile computer-vision organization identity",
+        "\"abdur75648\" student ambassador campus program",
+        "\"abdur75648\" developer community ambassador program"
+      ],
+      "search_id": "search_2d71560fa05ea16701a583f2d1ec37f8",
+      "results": [
+        {
+          "title": "abdur75648 (Abdur Rahman) · GitHub",
+          "url": "https://github.com/abdur75648",
+          "excerpt": "User: Abdur Rahman (@abdur75648)\n\n* Page: GitHub user profile\n* URL: https://github.com/abdur75648\n* Company: Indian Institute Of Technology Delhi\n* Location: New Delhi\n* Website: https://www.linkedin.com/in/abdur75648/\n* Followers: 92\n* Following: 0\n* Links: "
+        },
+        {
+          "title": "GitHub - abdur75648/AI-Camera: AI Camera: High-Performance Real-Time Object Detection & Tracking · GitHub",
+          "url": "https://github.com/abdur75648/AI-Camera",
+          "excerpt": "abdur75648/AI-Camera\n\n* Page: GitHub repository\n* URL: https://github.com/abdur75648/AI-Camera\n* Description: AI Camera: High-Performance Real-Time Object Detection & Tracking - abdur75648/AI-Camera\n* Stars: 11\n* Forks: 2\n* License: MIT License\n* Default branc"
+        },
+        {
+          "title": "Abdur Rahman - AI Research @ Pocket FM | IITD Grad",
+          "url": "https://linkedin.com/in/abdur75648",
+          "excerpt": "BloodConnect Foundation\n\nJan 2022 - Dec 2022 1 year\nPresident of the Delhi Team of BloodConnect (India's largest youth-led NGO in the field of blood donation)\n* \n\nStudent Mentor\n\nBoard for Student Welfare (BSW), IIT Delhi\n\nJun 2021 - May 2022 1 year\nRegularly "
+        },
+        {
+          "title": "UTRNet: High-Resolution Urdu Text Recognition (Urdu OCR)",
+          "url": "https://abdur75648.github.io/UTRNet",
+          "excerpt": "UTRNet\n\nHigh-Resolution Urdu Text Recognition In Printed Documents\n\nAccepted at The 17th International Conference on Document Analysis and Recognition (ICDAR 2023)\n\n* [Abdur Rahman [✉️]](https://www.linkedin.com/in/abdur-rahman-0b84341a0/) | Arjun Ghosh | Chet"
+        },
+        {
+          "title": "AICamera: Real-Time High-Speed Person Detection & Tracking | AI-Camera",
+          "url": "https://abdur75648.github.io/AI-Camera",
+          "excerpt": "larger Computer Vision pipeline during a project at ExaWizards Inc. It focuses on accurate person detection and tracking , optimized for deployment on NVIDIA GPUs using TensorRT .\n\n...\n\n* 🔁 Modular Pipeline with clean interfaces for detection, tracking, and I"
+        },
+        {
+          "title": "abdur75648 (Abdur Rahman)",
+          "url": "https://huggingface.co/abdur75648",
+          "excerpt": "Abdur Rahman's picture\n\nAbdur Rahman\n\nabdur75648\n1 6 6\nFollow\nGSKhan's profile picture latent6stream's profile picture ishahzaibkhan's profile picture\n5 followers\n·\n1 following\n* abdur75648\n* abdur75648\n* abdur75648\n\nAI & ML interests\n\nAI, ML, Computer Vision,"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25250",
+      "small_rank": "3522",
+      "name": "EagleW",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"EagleW\" GitHub profile nlp organization identity",
+        "\"EagleW\" student ambassador campus program",
+        "\"EagleW\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"EagleW\" GitHub profile nlp organization identity",
+        "\"EagleW\" student ambassador campus program",
+        "\"EagleW\" developer community ambassador program"
+      ],
+      "search_id": "search_0860b5bde7b371086026d132388005e3",
+      "results": [
+        {
+          "title": "EagleW (Qingyun Wang) · GitHub",
+          "url": "https://github.com/EagleW",
+          "excerpt": "User: Qingyun Wang (@EagleW)\n\n* Page: GitHub user profile\n* URL: https://github.com/EagleW\n* Company: William & Mary\n* Location: Williamsburg, Virginia\n* Website: https://EagleW.github.io\n* Followers: 162\n* Following: 49\n* Links: https://EagleW.github.io, http"
+        },
+        {
+          "title": "EagleW (Qingyun Wang) · GitHub",
+          "url": "https://github.com/eaglew",
+          "excerpt": "User: Qingyun Wang (@eaglew)\n\n* Page: GitHub user profile\n* URL: https://github.com/eaglew\n* Company: William & Mary\n* Location: Williamsburg, Virginia\n* Website: https://EagleW.github.io\n* Followers: 163\n* Following: 49\n* Links: https://EagleW.github.io, http"
+        },
+        {
+          "title": "eaglew (Qingyun Wang) - Hugging Face",
+          "url": "https://huggingface.co/eaglew",
+          "excerpt": "Qingyun Wang's picture\n\nQingyun Wang\n\neaglew\n2 17 7\nFollow\ncnedwards's profile picture xuehang's profile picture Faisalm93's profile picture\n3 followers\n·\n6 following\nhttps://eaglew.github.io/\n* eagle_hz\n* EagleW\n\nAI & ML interests\n\nNatural Language Generation"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "Join HackerEarth's Campus Ambassador Program (HECA)",
+          "url": "https://www.hackerearth.com/campus-ambassador-program",
+          "excerpt": "That’s because it enables you to network with leading coders from across the world and enhance your leadership abilities. So, sign up today and be a key part of one of the world’s largest developer communities!\nRegister now\n\nBecome a HackerEarth\n\nCampus Ambass"
+        },
+        {
+          "title": "Developer Ambassador Programs | Pranshu Khanna",
+          "url": "https://pran.sh/ambassadors",
+          "excerpt": "sign / App-Dev Ambassador Enterprise / Ecosystem Expert Campus / Student ambassador General Community leader / Creator Programs Paused Programs More AI Product Ambassador Programs\nShare this page\n  \nAI-focused Ambassador\n* Claude Campus Program 🎓\nAnthropic pr"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25251",
+      "small_rank": "3523",
+      "name": "rz1989s",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"rz1989s\" GitHub profile ai-tools organization identity",
+        "\"rz1989s\" student ambassador campus program",
+        "\"rz1989s\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"rz1989s\" GitHub profile ai-tools organization identity",
+        "\"rz1989s\" student ambassador campus program",
+        "\"rz1989s\" developer community ambassador program"
+      ],
+      "search_id": "search_4dc8def7568383f2a0646c28d16e7a33",
+      "results": [
+        {
+          "title": "rz1989s (Thę Rēct◎r) · GitHub",
+          "url": "https://github.com/rz1989s",
+          "excerpt": "User: Thę Rēct◎r (@rz1989s)\n\n* Page: GitHub user profile\n* URL: https://github.com/rz1989s\n* Company: RECTOR LABS\n* Location: Earth\n* Website: https://rectorspace.com/\n* Followers: 36\n* Following: 107\n* Links: https://rectorspace.com/, https://twitter.com/rz19"
+        },
+        {
+          "title": "Agora Ambassador Program",
+          "url": "https://explore.agora.io/agora-ambassador-program",
+          "excerpt": "<Talk to Us>\n☰\nEMPOWER THE FUTURE OF VOICE AI\n\nAgora Ambassador Program\n\nBuild the next-gen developer community.  \n<agora-ambassador-program-hero>\nCommunities across the world are actively exploring new technologies, platforms, and ideas through developer comm"
+        },
+        {
+          "title": "Developer Ambassador Programs | Pranshu Khanna",
+          "url": "https://pran.sh/ambassadors",
+          "excerpt": "sign / App-Dev Ambassador Enterprise / Ecosystem Expert Campus / Student ambassador General Community leader / Creator Programs Paused Programs More AI Product Ambassador Programs\nShare this page\n  \nAI-focused Ambassador\n* Claude Campus Program 🎓\nAnthropic pr"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "Below are some of the developer ambassador programs in alphabetical order (if you are looking for student only programs, search for `students only` ):\n\n* * *\n\n## A - F\n\n...\n\n* [Auth0 Ambassador](https://auth0.com/ambassador-program) \\- Join us in our mission t"
+        },
+        {
+          "title": "Claude Campus Program by Anthropic | Ambassador Directory",
+          "url": "https://ambassador.directory/programs/claude-campus-program",
+          "excerpt": "1. Home /\n2. AI & Machine Learning /\n3. Claude Campus Program\nAI & Machine Learning Students\nClaude Campus Program — Anthropic tech ambassador program logo\n\nClaude Campus Program\n\nAnthropic\nLead student-driven AI initiatives with Anthropic support. Two tracks:"
+        },
+        {
+          "title": "Campus Ambassador Program | Swytchcode",
+          "url": "https://www.swytchcode.com/campus-ambassadors",
+          "excerpt": "Join Our global SwytchCode community\n\nBecome a Campus Ambassador. Grow your community, host AI events, and bring AI agents to more students.\nApply now Join our Discord\nPanel discussion on AI agents for Fintech engineering, hosted by Swytchcode at the AWS Build"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25252",
+      "small_rank": "3524",
+      "name": "LituRout",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"LituRout\" GitHub profile diffusion-models organization identity",
+        "\"LituRout\" student ambassador campus program",
+        "\"LituRout\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"LituRout\" GitHub profile diffusion-models organization identity",
+        "\"LituRout\" student ambassador campus program",
+        "\"LituRout\" developer community ambassador program"
+      ],
+      "search_id": "search_ce9416c220224bd757cec1e08e5a0ccb",
+      "results": [
+        {
+          "title": "LituRout (Litu Rout) · GitHub",
+          "url": "https://github.com/LituRout",
+          "excerpt": "User: Litu Rout (@LituRout)\n\n* Page: GitHub user profile\n* URL: https://github.com/LituRout\n* Company: Google DeepMind\n* Location: NY, USA\n* Website: https://liturout.github.io/\n* Followers: 60\n* Following: 0\n* Links: https://liturout.github.io/, https://www.l"
+        },
+        {
+          "title": "GitHub - LituRout/PSLD: Posterior Sampling using Latent Diffusion -  NeurIPS 2023 · GitHub",
+          "url": "https://github.com/LituRout/PSLD",
+          "excerpt": "LituRout/PSLD\n\n* Page: GitHub repository\n* URL: https://github.com/LituRout/PSLD\n* Description: Posterior Sampling using Latent Diffusion -  NeurIPS 2023 - LituRout/PSLD\n* Stars: 161\n* Forks: 20\n* Default branch: main\n* Created: 2023-06-20T04:11:39.000Z\n* Comm"
+        },
+        {
+          "title": "LituRout (Litu Rout) · GitHub",
+          "url": "https://ited.edu.kg/LituRout",
+          "excerpt": "Skip to content ## Navigation Menu\n@LituRout LituRout Follow\nOverview Repositories 14 Projects Packages Stars 15\n@LituRout LituRout Follow\nView LituRout's full-sized avatar\n\nLitu Rout LituRout\n\nFollow\nMachine Learning, Generative Models (Diffusion, Rectified F"
+        },
+        {
+          "title": "LituRout (Litu Rout) · GitHub",
+          "url": "https://112.cachefly.net/LituRout",
+          "excerpt": "Skip to content ## Navigation Menu\n@LituRout LituRout Follow\nOverview Repositories 14 Projects Packages Stars 15\n@LituRout LituRout Follow\nView LituRout's full-sized avatar\n\nLitu Rout LituRout\n\nFollow\nMachine Learning, Generative Models (Diffusion, Rectified F"
+        },
+        {
+          "title": "Litu Rout",
+          "url": "https://www.instagram.com/popular/litu-rout",
+          "excerpt": "## \n\nLitu Rout\nLitu Rout is a researcher who has made significant contributions to the field of artificial intelligence, particularly in areas like diffusion models and\n\n## \n\nLitu Rout\nLitu Rout is a Senior Research Scientist at Google DeepMind focusing on the"
+        },
+        {
+          "title": "Litu Rout | DeepAI ",
+          "url": "https://deepai.org/profile/litu-rout",
+          "excerpt": "Chat Image Generator Image Video Music Voice Chat Photo Editor Website Builder Beta Try DeepAI in iMessage\nPricing English 日本語 Deutsch 한국어 Español 简体中文 Français Português (Brasil) Bahasa Indonesia हिन्दी Italiano Login\n* User menu Menu\navatar\nDashboard\nLogin\nD"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25253",
+      "small_rank": "3525",
+      "name": "Evil0ctal",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Evil0ctal\" GitHub profile gh:speech-recognition organization identity",
+        "\"Evil0ctal\" student ambassador campus program",
+        "\"Evil0ctal\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"Evil0ctal\" GitHub profile gh:speech-recognition organization identity",
+        "\"Evil0ctal\" student ambassador campus program",
+        "\"Evil0ctal\" developer community ambassador program"
+      ],
+      "search_id": "search_6d7f47c1644920fc4ca9db10faec2026",
+      "results": [
+        {
+          "title": "Evil0ctal (Evil0ctal) · GitHub",
+          "url": "https://github.com/Evil0ctal",
+          "excerpt": "User: Evil0ctal (@Evil0ctal)\n\n* Page: GitHub user profile\n* URL: https://github.com/Evil0ctal\n* Company: @Agentfy-io\n* Location: Cupertino\n* Website: https://gods.dev\n* Followers: 818\n* Following: 36\n* Links: https://gods.dev, https://www.instagram.com/evil0ct"
+        },
+        {
+          "title": "GitHub - Evil0ctal/Evil0ctal · GitHub",
+          "url": "https://github.com/Evil0ctal/Evil0ctal",
+          "excerpt": "Evil0ctal/Evil0ctal\n\n* Page: GitHub repository\n* URL: https://github.com/Evil0ctal/Evil0ctal\n* Default branch: main\n* Created: 2021-11-16T09:19:00.000Z\n* Commits: 762\n\nTop-level files\n\n* .github/workflows/\n* cache/\n* generator/\n* tests/\n* .gitignore\n* README.m"
+        },
+        {
+          "title": "Evil0ctal (Evil0ctal) · GitHub",
+          "url": "https://download.plaud.ai/Evil0ctal",
+          "excerpt": "* evil0ctal\n\nSponsoring\n\n@aio-libs\n@Kludex\n@pallets\n@encode\n@lexiforest\n@daijro\n\nAchievements\n\nAchievement: Pull Shark x4 Achievement: Pair Extraordinaire x4 Achievement: Public Sponsor Achievement: Starstruck x4 Achievement: YOLO Achievement: Quickdraw\n\nAchie"
+        },
+        {
+          "title": "Sponsor @Evil0ctal on GitHub Sponsors · GitHub",
+          "url": "https://github.com/sponsors/evil0ctal",
+          "excerpt": "Skip to content ## Navigation Menu\nYou must be logged in to sponsor Evil0ctal\n\nBecome a sponsor to Evil0ctal\n\n@Evil0ctal\n\nEvil0ctal\n\nCupertino\nHey there thanks for checking out my profile.\nBy supporting me you're enabling me to spend more developing free open "
+        },
+        {
+          "title": "GitHub - Evil0ctal/Douyin_TikTok_Download_API: 🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MCP server for AI agents, CLI and web console, plus offline speech-to-text for downloaded videos. Self-healing identity pool, PostgreSQL archive, one docker compose up. · GitHub",
+          "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+          "excerpt": "# Evil0ctal/Douyin_TikTok_Download_API\n\n- Page: GitHub repository\n- URL: https://github.com/Evil0ctal/Douyin_TikTok_Download_API\n\n...\n\n[GitHub license](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/blob/main/LICENSE) [Release Version](https://github."
+        },
+        {
+          "title": "Welcome to Douyin_TikTok_Download_API Discussions! · Evil0ctal/Douyin_TikTok_Download_API · Discussion #55 · GitHub",
+          "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API/discussions/55",
+          "excerpt": "# Welcome to Douyin_TikTok_Download_API Discussions!\n\n- Page: GitHub discussion\n- URL: https://github.com/Evil0ctal/Douyin_TikTok_Download_API/discussions/55\n- Status: Closed\n- Author: Evil0ctal\n- Created: 2022-07-25T21:27:04Z\n- Repository: Evil0ctal/Douyin_Ti"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25254",
+      "small_rank": "3526",
+      "name": "gaia-solutions-on-demand",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"gaia-solutions-on-demand\" GitHub profile computer-vision organization identity",
+        "\"gaia-solutions-on-demand\" student ambassador campus program",
+        "\"gaia-solutions-on-demand\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"gaia-solutions-on-demand\" GitHub profile computer-vision organization identity",
+        "\"gaia-solutions-on-demand\" student ambassador campus program",
+        "\"gaia-solutions-on-demand\" developer community ambassador program"
+      ],
+      "search_id": "search_30c9ab7f0e9ea8c6f1a33156f8a3ac7c",
+      "results": [
+        {
+          "title": "Gaia, solutions on demand · GitHub",
+          "url": "https://github.com/gaia-solutions-on-demand",
+          "excerpt": "Organization: Gaia, solutions on demand (@gaia-solutions-on-demand)\n\n* Page: GitHub organization profile\n* URL: https://github.com/gaia-solutions-on-demand\n* Location: Brazil\n* Website: https://www.gaiasd.com\n* Top languages: Python\nOn-demand solutions in comp"
+        },
+        {
+          "title": "gaiasd (Gaia, solutions on demand) · GitHub",
+          "url": "https://github.com/gaiasd",
+          "excerpt": "User: Gaia, solutions on demand (@gaiasd)\n\n* Page: GitHub user profile\n* URL: https://github.com/gaiasd\n* Company: Gaia, solutions on demand\n* Location: Brazil\n* Website: http://www.gaiasd.com\n* Followers: 12\n* Following: 1\n* Links: http://www.gaiasd.com\n* Top"
+        },
+        {
+          "title": "Campus Experts · GitHub",
+          "url": "https://github.com/education/students/campus-expert",
+          "excerpt": "Skip to content GitHub Universe 2026\nJoin Universe virtually, from anywhere.\nSave your seat\nEducation\n* Students\n* Teachers\n* Schools\n* Partners\n* More\nGitHub Education\n\nEnrich your college  technology community\n\nLearn the skills to build and grow diverse tech"
+        },
+        {
+          "title": "About GitHub Campus Experts",
+          "url": "https://docs.github.com/articles/about-campus-experts",
+          "excerpt": "About GitHub Campus Experts\n\nEnrich your college's technical community by becoming a GitHub Campus Expert.\nLearn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub as part of the GitHub Camp"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "Gaia",
+          "url": "http://gaianet.ai/blog/empower-your-community-with-decentralized-ai",
+          "excerpt": "LAUNCH APP\nMENU\n\nGaia Ambassador Program: Empower Your Community with Decentralized AI\n\nGaia is excited to announce the launch of its Ambassador Program, aimed at empowering local communities through Decentralized AI.\n15 Jul 2024 • 1 min read\n   \nGaia is excit"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25255",
+      "small_rank": "3527",
+      "name": "tiantian91091317",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"tiantian91091317\" GitHub profile ocr organization identity",
+        "\"tiantian91091317\" student ambassador campus program",
+        "\"tiantian91091317\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"tiantian91091317\" GitHub profile ocr organization identity",
+        "\"tiantian91091317\" student ambassador campus program",
+        "\"tiantian91091317\" developer community ambassador program"
+      ],
+      "search_id": "search_93887b3c34cb8b550d58ca90d1a312b6",
+      "results": [
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "Campus Experts · GitHub",
+          "url": "https://github.com/education/students/campus-expert",
+          "excerpt": "Skip to content GitHub Universe 2026\nJoin Universe virtually, from anywhere.\nSave your seat\nEducation\n* Students\n* Teachers\n* Schools\n* Partners\n* More\nGitHub Education\n\nEnrich your college  technology community\n\nLearn the skills to build and grow diverse tech"
+        },
+        {
+          "title": "GitHub - Vikranth3140/Campus-Leadership-Opportunities: This repository aims to serve as a comprehensive guide for college students aspiring to become campus leaders. Whether you're interested in representing leading tech companies as a campus ambassador or joining vibrant student chapters and clubs, this repository has got you covered! · GitHub",
+          "url": "https://github.com/Vikranth3140/Campus-Leadership-Opportunities",
+          "excerpt": "* A curated list of Campus Ambassador Programs offered by various organizations.\n* Information on ho\n\n...\n\ninterest.\n* Descriptions of each club's activities, leadership opportunities, and contact information.\n\nCampus Ambassador Programs:\n\n* Program | Brief De"
+        },
+        {
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "url": "https://campusunite.in/ambassador",
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27\n\nBecome a Campus Unite\n\nCampus Ambassador\nRepresent Campus Unite at your college, build a thriving student tech community, gain real-world\n\n...\n\n2026-27\n\nVerified Campus Lead\n\nStudent Leadership Circle • Top U"
+        },
+        {
+          "title": "GitHub - pransh15/developer-ambassador-programs: A list of Developer Ambassador Programs · GitHub",
+          "url": "https://github.com/pransh15/developer-ambassador-programs",
+          "excerpt": "ity hosts, and developer-tool educators.\n* Devin.ai Ambassador / Community - Community program for people leading Devin communities, hosting events, creating content, and giving feedback.\n\n...\n\nTechmakers Ambassador - Google community program providing visibil"
+        },
+        {
+          "title": "About GitHub Campus Experts",
+          "url": "https://docs.github.com/articles/about-campus-experts",
+          "excerpt": "About GitHub Campus Experts\n\nEnrich your college's technical community by becoming a GitHub Campus Expert.\nLearn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub as part of the GitHub Camp"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25256",
+      "small_rank": "3528",
+      "name": "Haochen-Wang409",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Haochen-Wang409\" GitHub profile computer-vision organization identity",
+        "\"Haochen-Wang409\" student ambassador campus program",
+        "\"Haochen-Wang409\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"Haochen-Wang409\" GitHub profile computer-vision organization identity",
+        "\"Haochen-Wang409\" student ambassador campus program",
+        "\"Haochen-Wang409\" developer community ambassador program"
+      ],
+      "search_id": "search_18827daf745651a4a706bb277c1657b2",
+      "results": [
+        {
+          "title": "Haochen-Wang409 (Haochen Wang) · GitHub",
+          "url": "https://github.com/Haochen-Wang409",
+          "excerpt": "User: Haochen Wang (@Haochen-Wang409)\n\n* Page: GitHub user profile\n* URL: https://github.com/Haochen-Wang409\n* Company: CASIA, UCAS\n* Location: Beijing, China\n* Website: https://haochen-wang409.github.io\n* Followers: 118\n* Following: 12\n* Links: https://haoche"
+        },
+        {
+          "title": "Haochen Wang",
+          "url": "https://haochen-wang409.github.io/",
+          "excerpt": "Haochen Wang is currently a forth year Ph.D. student at the Center for Research on Intelligent Perception and Computing , State Key Laboratory of Multimodal Artificial Intelligence Systems ,\n\n...\n\nChufeng Tang, Lu Hou, Lue Fan, Zhaoxiang Zhang [ Paper (ICLR 20"
+        },
+        {
+          "title": "HaochenWang (HaochenWang)",
+          "url": "https://huggingface.co/HaochenWang",
+          "excerpt": "HaochenWang's picture\n\nHaochenWang\n\nHaochenWang\n13 15 6\nFollow\nlaolida-w's profile picture godx7's profile picture worldinbed's profile picture\n7 followers\n·\n0 following\nhttps://haochen-wang409.github.io/\n* haochen-wang409\n\nAI & ML interests\n\nNone yet\n\nOrganiz"
+        },
+        {
+          "title": "HaochenWang (HaochenWang) – Community Activity",
+          "url": "https://huggingface.co/HaochenWang/activity/community",
+          "excerpt": "HaochenWang's picture\n\nHaochenWang\n\nHaochenWang\n13 15 6\nFollow\nworldinbed's profile picture EladofWar's profile picture insomnia7's profile picture\n7 followers\n·\n0 following\nhttps://haochen-wang409.github.io/\n* haochen-wang409\n\nAI & ML interests\n\nNone yet\n\nOrg"
+        },
+        {
+          "title": "Campus Experts · GitHub",
+          "url": "https://github.com/education/students/campus-expert",
+          "excerpt": "Skip to content GitHub Universe 2026\nJoin Universe virtually, from anywhere.\nSave your seat\nEducation\n* Students\n* Teachers\n* Schools\n* Partners\n* More\nGitHub Education\n\nEnrich your college  technology community\n\nLearn the skills to build and grow diverse tech"
+        },
+        {
+          "title": "‪Haochen Wang‬ - ‪Google Scholar‬",
+          "url": "https://scholar.google.com/citations?hl=en&user=4sontAIAAAAJ",
+          "excerpt": "## Citations per year\n\n## Duplicate citations\n\nThe following articles are merged in Scholar. Their combined citations are counted only for the first article.\n\n## Merged citations\n\nThis \"Cited by\" count includes citations to the following articles in Scholar. T"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25257",
+      "small_rank": "3529",
+      "name": "edouard-claude",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"edouard-claude\" GitHub profile ai-tools organization identity",
+        "\"edouard-claude\" student ambassador campus program",
+        "\"edouard-claude\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"edouard-claude\" GitHub profile ai-tools organization identity",
+        "\"edouard-claude\" student ambassador campus program",
+        "\"edouard-claude\" developer community ambassador program"
+      ],
+      "search_id": "search_27e0a6583ff45cd44b1610b64cfc0cd1",
+      "results": [
+        {
+          "title": "GitHub - edouard-claude/edouard-claude · GitHub",
+          "url": "https://github.com/edouard-claude/edouard-claude",
+          "excerpt": "edouard-claude/edouard-claude\n\n* Page: GitHub repository\n* URL: https://github.com/edouard-claude/edouard-claude\n* Default branch: main\n* Created: 2021-10-15T07:05:23.000Z\n* Commits: 15\n\nTop-level files\n\n* README.fr.md\n* README.md\n\nREADME.md\n\nEdouard CLAUDE\n\nC"
+        },
+        {
+          "title": "edouard-claude (Edouard CLAUDE) · GitHub",
+          "url": "https://github.com/edouard-claude",
+          "excerpt": "User: Edouard CLAUDE (@edouard-claude)\n\n* Page: GitHub user profile\n* URL: https://github.com/edouard-claude\n* Company: Squirrel\n* Location: La Réunion\n* Website: https://www.squirrel.fr\n* Followers: 36\n* Following: 36\n* Links: https://www.squirrel.fr, https:/"
+        },
+        {
+          "title": "edouard-claude’s gists · GitHub",
+          "url": "https://gist.github.com/edouard-claude",
+          "excerpt": "Search Gists\nSearch Gists\nAll gists Back to GitHub Sign in Sign up\nSign in Sign up\nYou signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on anoth"
+        },
+        {
+          "title": "edouard-claude (Edouard CLAUDE) · GitHub",
+          "url": "http://edouard.cl/",
+          "excerpt": "Resetting focus\n@edouard-claude edouard-claude Follow\nOverview Repositories 31 Projects Packages Stars 137\n@edouard-claude edouard-claude Follow\nView edouard-claude's full-sized avatar\n🧠\nBMAD\n\nEdouard CLAUDE edouard-claude\n\n🧠\nBMAD\nFollow\nTech Advisor - CTO -"
+        },
+        {
+          "title": "GitHub - edouard-claude/snip: CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go. · GitHub",
+          "url": "https://github.com/edouard-claude/snip",
+          "excerpt": "AI coding agents burn tokens on verbose shell output that adds zero signal.\n\n...\n\nsnip sits between your AI tool and the shell, filtering output through **declarative YAML pipelines** . Write a YAML file, drop it in a folder, done.\n\n...\n\nUse `make upgrade` or "
+        },
+        {
+          "title": "Claude Campus program | Claude by Anthropic",
+          "url": "https://claude.com/programs/campus",
+          "excerpt": "Lead student-driven AI initiatives with support from Anthropic.\n\nFor undergrads\n\nIf you're passionate about bringing AI fluency to your campus, apply to lead a Claude Builder Club.\n* Collaborate with Anthropic to set up and lead a club for AI builders on your "
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25258",
+      "small_rank": "3530",
+      "name": "njustkmg",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"njustkmg\" GitHub profile gh:multimodal organization identity",
+        "\"njustkmg\" student ambassador campus program",
+        "\"njustkmg\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"njustkmg\" GitHub profile gh:multimodal organization identity",
+        "\"njustkmg\" student ambassador campus program",
+        "\"njustkmg\" developer community ambassador program"
+      ],
+      "search_id": "search_e3e9a7561164c216ed4dd1f96685e06b",
+      "results": [
+        {
+          "title": "njustkmg · GitHub",
+          "url": "https://github.com/njustkmg",
+          "excerpt": "User: njustkmg (@njustkmg)\n\n* Page: GitHub user profile\n* URL: https://github.com/njustkmg\n* Followers: 91\n* Following: 1\n* Top languages: Python\n\nPinned repositories\n\n* njustkmg/OMML: Multi-Modal learning toolkit based on PaddlePaddle and PyTorch, supporting "
+        },
+        {
+          "title": "GitHub - njustkmg/IJCAI19_CMML",
+          "url": "https://github.com/njustkmg/IJCAI19_CMML",
+          "excerpt": "Resetting focus\nnjustkmg / IJCAI19_CMML Public\n* Notifications You must be signed in to change notification settings\n* Fork 0\n* Star 1\n1 star 0 forks Branches Tags Activity\nStar\nNotifications You must be signed in to change notification settings\n* Code\n* Pull "
+        },
+        {
+          "title": "KMG @ NJUST",
+          "url": "http://home.njustkmg.cn:4056/Code.html",
+          "excerpt": "KMG\n\nNJUST KMG\n\nSchool of Computer Science and Engineering,\n\nNanjing University of Science & Technology\n* Introduction\n* Members\n* Publications\n* Awards\n* Code\n* Service\n* 中文版\nGitHub njustkmg\nE-mail yyang@njust.edu.cn\nResearch tools notes\nMore Links links\n\nCod"
+        },
+        {
+          "title": "Academic Presentation/Social Interview",
+          "url": "http://home.njustkmg.cn:4056/Service.html",
+          "excerpt": "KMG\n\nNJUST KMG\n\nSchool of Computer Science and Engineering,\n\nNanjing University of Science & Technology\n* Introduction\n* Members\n* Publications\n* Awards\n* Code\n* Service\n* 中文版\nGitHub njustkmg\nE-mail yyang@njust.edu.cn\nResearch tools notes\nMore Links links\n\nSoc"
+        },
+        {
+          "title": "KMG @ NJUST",
+          "url": "http://home.njustkmg.cn:4056/Program.html",
+          "excerpt": "KMG\n\nNJUST KMG\n\nSchool of Computer Science and Engineering,\n\nNanjing University of Science & Technology\n* Introduction\n* Members\n* Publications\n* Awards\n* Code\n* Service\n* 中文版\nGitHub njustkmg\nE-mail yyang@njust.edu.cn\nResearch tools notes\nMore Links links\n\nDem"
+        },
+        {
+          "title": "KMG @ NJUST",
+          "url": "http://home.njustkmg.cn:4056/Others.html",
+          "excerpt": "KMG\n\nNJUST KMG\n\nSchool of Computer Science and Engineering,\n\nNanjing University of Science & Technology\n* Introduction\n* Members\n* Publications\n* Awards\n* Code\n* Service\n* 中文版\nGitHub njustkmg\nE-mail yyang@njust.edu.cn\nResearch tools notes\nMore Links links\n\nLin"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25259",
+      "small_rank": "3531",
+      "name": "geekjourneyx",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"geekjourneyx\" GitHub profile ai-tools organization identity",
+        "\"geekjourneyx\" student ambassador campus program",
+        "\"geekjourneyx\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"geekjourneyx\" GitHub profile ai-tools organization identity",
+        "\"geekjourneyx\" student ambassador campus program",
+        "\"geekjourneyx\" developer community ambassador program"
+      ],
+      "search_id": "search_226e80e1b2f7a7104d9f440fd6f81ea9",
+      "results": [
+        {
+          "title": "geekjourneyx (geekjourney) · GitHub",
+          "url": "https://github.com/geekjourneyx",
+          "excerpt": "User: geekjourney (@geekjourneyx)\nPage: GitHub user profile\nURL: https://github.com/geekjourneyx\nLocation: china\nWebsite: https://jieni.ai\nFollowers: 303\nFollowing: 39\nLinks: https://jieni.ai, https://x.com/seekjourney\nTop languages: Go, TypeScript, JavaScript"
+        },
+        {
+          "title": "GitHub - geekjourneyx/geekx-skills: AI Agent skills collection by geekjourneyx  for agent-compatible coding, creator, and automation workflows · GitHub",
+          "url": "https://github.com/geekjourneyx/geekx-skills",
+          "excerpt": "Apple-native 体验、静态数据和开发交付包。\n快速开始\n安装全部技能： npx skills add geekjourneyx/geekx-skills --all 查看可用技能： npx skills add geekjourneyx/geekx-skills --list 只安装 geekx-gate ： npx skills add geekjourneyx/geekx-skills --skill geekx-gate 只安装 geekx-grilling ： npx skills add gee"
+        },
+        {
+          "title": "About Me | GeekJourney · AI Agent Builder",
+          "url": "https://www.geekjourney.dev/en/about",
+          "excerpt": "Skip to content Logo Geekjourney Writing Projects Skills Attention About More Toggle mode Switch language Logo Geekjourney GeekJourney\nAn independent builder using agents for real workflows.\nI run a personal workshop for the AI agent era: Codex is my primary C"
+        },
+        {
+          "title": "Things I've built | GeekJourney · AI Agent Builder",
+          "url": "https://www.geekjourney.dev/en/projects",
+          "excerpt": "Skip to content Logo Geekjourney Writing Projects Skills Attention About More Toggle mode Switch language Logo Geekjourney\nThe workshop floor.\nexperimental skills, ships fast Featured\nmd2wechat\nWriting for WeChat Official Accounts used to break my flow. Format"
+        },
+        {
+          "title": "www.geekjourney.dev",
+          "url": "https://www.geekjourney.dev/llms-full.txt",
+          "excerpt": "github.com/geekjourneyx\nTwitter/X: https://x.com/seekjourney\nWeChat Public Account: https://jieni.ai/about#wechat 极客杰尼 (GeekJourney) — Extended AI Manifest\nFull structured context for AI agents and search engines. Short version: https://jieni.ai/llms.txt\nIdent"
+        },
+        {
+          "title": "GitHub - pransh15/developer-ambassador-programs: A list of Developer Ambassador Programs · GitHub",
+          "url": "https://github.com/pransh15/developer-ambassador-programs",
+          "excerpt": "pransh15/developer-ambassador-programs\nDescription: A list of Developer Ambassador Programs\nLicense: MIT license\nDefault branch: main\nCreated: 2026-08-24T10:52:22.000Z\nCommits: 13\nTop-level files\nCONTRIBUTING.md\nLICENSE\nREADME.md\nREADME.md\nDeveloper Ambassador"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25260",
+      "small_rank": "3532",
+      "name": "justchenhao",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"justchenhao\" GitHub profile dataset organization identity",
+        "\"justchenhao\" student ambassador campus program",
+        "\"justchenhao\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"justchenhao\" GitHub profile dataset organization identity",
+        "\"justchenhao\" student ambassador campus program",
+        "\"justchenhao\" developer community ambassador program"
+      ],
+      "search_id": "search_b00866907544ffd399e4fe7834155f92",
+      "results": [
+        {
+          "title": "justchenhao (justchenhao) · GitHub",
+          "url": "https://github.com/justchenhao",
+          "excerpt": "User: justchenhao (@justchenhao)\n\n* Page: GitHub user profile\n* URL: https://github.com/justchenhao\n* Company: Shanghai AI Lab\n* Location: Shanghai\n* Website: https://justchenhao.github.io/\n* Followers: 190\n* Following: 38\n* Links: https://justchenhao.github.i"
+        },
+        {
+          "title": "justchenhao (justchenhao) · GitHub",
+          "url": "https://github.com/justchenhao?tab=overview",
+          "excerpt": "User: justchenhao (@justchenhao)\n\n* Page: GitHub user profile\n* URL: https://github.com/justchenhao\n* Company: Shanghai AI Lab\n* Location: Shanghai\n* Website: https://justchenhao.github.io/\n* Followers: 189\n* Following: 38\n* Links: https://justchenhao.github.i"
+        },
+        {
+          "title": "GitHub - justchenhao/BIT_CD: Official Pytorch Implementation of \"Remote Sensing Image Change Detection with Transformers\" · GitHub",
+          "url": "https://github.com/justchenhao/BIT_CD",
+          "excerpt": "# justchenhao/BIT_CD\n\n- Page: GitHub repository\n- URL: https://github.com/justchenhao/BIT_CD\n- Description: Official Pytorch Implementation of \"Remote Sensing Image Change Detection with Transformers\" - justchenhao/BIT_CD\n- Default branch: master\n- Created: 20"
+        },
+        {
+          "title": "justchenhao (justchenhao) / Followers · GitHub",
+          "url": "https://github.com/justchenhao?tab=followers",
+          "excerpt": "User: justchenhao (@justchenhao)\n\n* Page: GitHub user profile\n* URL: https://github.com/justchenhao\n* Company: Shanghai AI Lab\n* Location: Shanghai\n* Website: https://justchenhao.github.io/\n* Followers: 189\n* Following: 38\n* Links: https://justchenhao.github.i"
+        },
+        {
+          "title": "GitHub - lhfazry/LocalChangeFormer · GitHub",
+          "url": "https://github.com/lhfazry/LocalChangeFormer",
+          "excerpt": "# lhfazry/LocalChangeFormer\n\n- Page: GitHub repository\n- URL: https://github.com/lhfazry/LocalChangeFormer\n- Default branch: main\n- Created: 2022-04-15T03:13:52.000Z\n- Commits: 17\n\n## Top-level files\n\n...\n\n```\nconda create --name ChangeFormer --file requiremen"
+        },
+        {
+          "title": "WHU-CD dataset · Issue #20 · justchenhao/BIT_CD · GitHub",
+          "url": "https://github.com/justchenhao/BIT_CD/issues/20",
+          "excerpt": "1. [justchenhao](https://github.com/justchenhao)\n2. [BIT\\_CD](https://github.com/justchenhao/BIT_CD)\n\n## Repository navigation\n\n* \n* [Code](https://github.com/justchenhao/BIT_CD)\n* [Issues 36 (36)](https://github.com/justchenhao/BIT_CD/issues)\n* [Pull requests"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25261",
+      "small_rank": "3533",
+      "name": "inseq-team",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"inseq-team\" GitHub profile generative-ai organization identity",
+        "\"inseq-team\" student ambassador campus program",
+        "\"inseq-team\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"inseq-team\" GitHub profile generative-ai organization identity",
+        "\"inseq-team\" student ambassador campus program",
+        "\"inseq-team\" developer community ambassador program"
+      ],
+      "search_id": "search_04131a32fbb6f86e65b443220884c7a4",
+      "results": [
+        {
+          "title": "GitHub - inseq-team/inseq: Interpretability for sequence generation models 🐛 🔍 · GitHub",
+          "url": "https://github.com/inseq-team/inseq",
+          "excerpt": "# inseq-team/inseq\n\n- Page: GitHub repository\n- URL: https://github.com/inseq-team/inseq\n- Description: Interpretability for sequence generation models 🐛 🔍 - inseq-team/inseq\n\n...\n\n```shell\n# Alternatively, install latest development version\npip install git+"
+        },
+        {
+          "title": "Inseq · GitHub",
+          "url": "https://github.com/inseq-team",
+          "excerpt": "Organization: Inseq (@inseq-team)\n\n* Page: GitHub organization profile\n* URL: https://github.com/inseq-team\n* Location: Netherlands\n* Website: https://inseq.org\n* Links: https://twitter.com/InseqLib, https://bsky.app/profile/inseq.org, https://huggingface.co/i"
+        },
+        {
+          "title": "GitHub · Where software is built",
+          "url": "https://github.com/orgs/inseq-team/followers",
+          "excerpt": "Skip to content ## Navigation Menu\n\n@inseq-team Inseq\n\n* Overview\n* Repositories\n* Projects\n* Packages\n* People\n\nUsers following inseq-team\n\n@stanleyhuang12\nStanley stanleyhuang12\nInterested in mechanistic interpretability, deep learning, and human-AI interact"
+        },
+        {
+          "title": "inseq · PyPI",
+          "url": "https://pypi.org/project/inseq",
+          "excerpt": "Search PyPI Search\n\n# inseq 0.7.1\n\nInterpretability for Sequence Generation Models 🔍\n\npip install inseq Copy PIP instructions\n\n* Description\n* Metadata\n* Release files\n* Security\n* Release history\n\n#### Intepretability for Sequence Generation Models 🔍\n\n  \n[B"
+        },
+        {
+          "title": "Inseq: An Interpretability Toolkit for Sequence Generation Models",
+          "url": "https://arxiv.org/html/2302.13942v1",
+          "excerpt": "###### Abstract\n\nPast work in natural language processing interpretability focused mainly on popular classification tasks while largely overlooking generation settings, partly due to a lack of dedicated tools. In this work, we introduce Inseq ¹ ¹ 1 Library: <h"
+        },
+        {
+          "title": "[2302.13942] Inseq: An Interpretability Toolkit for Sequence Generation Models",
+          "url": "https://ar5iv.labs.arxiv.org/html/2302.13942",
+          "excerpt": "[g.sarti@rug.nl](mailto:g.sarti@rug.nl)\n\n###### Abstract\n\nPast work in natural language processing interpretability focused mainly on popular classification tasks while largely overlooking generation settings, partly due to a lack of dedicated tools. In this w"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25262",
+      "small_rank": "3534",
+      "name": "jr-robotics",
+      "tier": "small",
+      "category": "robotics",
+      "queries": [
+        "\"jr-robotics\" GitHub profile robotics organization identity",
+        "\"jr-robotics\" student ambassador campus program",
+        "\"jr-robotics\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"jr-robotics\" GitHub profile robotics organization identity",
+        "\"jr-robotics\" student ambassador campus program",
+        "\"jr-robotics\" developer community ambassador program"
+      ],
+      "search_id": "search_22a0951fdbfd8479c7bfc5d520471b36",
+      "results": [
+        {
+          "title": "JR ROBOTICS · GitHub",
+          "url": "https://github.com/jr-robotics",
+          "excerpt": "Organization: JR ROBOTICS (@jr-robotics)\n\n* Page: GitHub organization profile\n* URL: https://github.com/jr-robotics\n* Location: Klagenfurt, Austria\n* Website: https://joanneum.at/robotics\n* Top languages: Python, C#, Jinja, C++\nJOANNEUM RESEARCH – Institut für"
+        },
+        {
+          "title": "GitHub - jr-robotics/robo-gym: An open source toolkit for Distributed Deep Reinforcement Learning on real and simulated robots. · GitHub",
+          "url": "https://github.com/jr-robotics/robo-gym",
+          "excerpt": "# jr-robotics/robo-gym\n\n- Page: GitHub repository\n- URL: https://github.com/jr-robotics/robo-gym\n- Description: An open source toolkit for Distributed Deep Reinforcement Learning on real and simulated robots. - jr-robotics/robo-gym\n- License: MIT license\n- Def"
+        },
+        {
+          "title": "Our Team | Junior Robotics",
+          "url": "https://www.juniorrobotics.tech/our-team",
+          "excerpt": "Cayden continues the legacy of Junior Robotics and its mission to provide free STEM education to underrepresented students in the San Francisco Bay Area and throughout the Carolinas. He serves on the JR Robotics Advisory Board and continues to provide advice t"
+        },
+        {
+          "title": "Campus Experts · GitHub",
+          "url": "https://github.com/education/students/campus-expert",
+          "excerpt": "Skip to content GitHub Universe 2026\nJoin Universe virtually, from anywhere.\nSave your seat\nEducation\n* Students\n* Teachers\n* Schools\n* Partners\n* More\nGitHub Education\n\nEnrich your college  technology community\n\nLearn the skills to build and grow diverse tech"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "GitHub - Vikranth3140/Campus-Leadership-Opportunities: This repository aims to serve as a comprehensive guide for college students aspiring to become campus leaders. Whether you're interested in representing leading tech companies as a campus ambassador or joining vibrant student chapters and clubs, this repository has got you covered! · GitHub",
+          "url": "https://github.com/Vikranth3140/Campus-Leadership-Opportunities",
+          "excerpt": "* A curated list of Campus Ambassador Programs offered by various organizations.\n* Information on ho\n\n...\n\ninterest.\n* Descriptions of each club's activities, leadership opportunities, and contact information.\n\nCampus Ambassador Programs:\n\n* Program | Brief De"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25263",
+      "small_rank": "3535",
+      "name": "PeterFWS",
+      "tier": "small",
+      "category": "robotics",
+      "queries": [
+        "\"PeterFWS\" GitHub profile robotics organization identity",
+        "\"PeterFWS\" student ambassador campus program",
+        "\"PeterFWS\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"PeterFWS\" GitHub profile robotics organization identity",
+        "\"PeterFWS\" student ambassador campus program",
+        "\"PeterFWS\" developer community ambassador program"
+      ],
+      "search_id": "search_954f24dc2d891fcbd45dffbc91db8dc4",
+      "results": [
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "Campus Experts · GitHub",
+          "url": "https://github.com/education/students/campus-expert",
+          "excerpt": "Skip to content GitHub Universe 2026\nJoin Universe virtually, from anywhere.\nSave your seat\nEducation\n* Students\n* Teachers\n* Schools\n* Partners\n* More\nGitHub Education\n\nEnrich your college  technology community\n\nLearn the skills to build and grow diverse tech"
+        },
+        {
+          "title": "About GitHub Campus Experts",
+          "url": "https://docs.github.com/articles/about-campus-experts",
+          "excerpt": "About GitHub Campus Experts\n\nEnrich your college's technical community by becoming a GitHub Campus Expert.\nLearn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub as part of the GitHub Camp"
+        },
+        {
+          "title": "GitHub - Vikranth3140/Campus-Leadership-Opportunities: This repository aims to serve as a comprehensive guide for college students aspiring to become campus leaders. Whether you're interested in representing leading tech companies as a campus ambassador or joining vibrant student chapters and clubs, this repository has got you covered! · GitHub",
+          "url": "https://github.com/Vikranth3140/Campus-Leadership-Opportunities",
+          "excerpt": "* A curated list of Campus Ambassador Programs offered by various organizations.\n* Information on ho\n\n...\n\ninterest.\n* Descriptions of each club's activities, leadership opportunities, and contact information.\n\nCampus Ambassador Programs:\n\n* Program | Brief De"
+        },
+        {
+          "title": "GitHub - pransh15/developer-ambassador-programs: A list of Developer Ambassador Programs · GitHub",
+          "url": "https://github.com/pransh15/developer-ambassador-programs",
+          "excerpt": "ity hosts, and developer-tool educators.\n* Devin.ai Ambassador / Community - Community program for people leading Devin communities, hosting events, creating content, and giving feedback.\n\n...\n\nTechmakers Ambassador - Google community program providing visibil"
+        },
+        {
+          "title": "Developer Ambassador Programs | Pranshu Khanna",
+          "url": "https://pran.sh/ambassadors",
+          "excerpt": "sign / App-Dev Ambassador Enterprise / Ecosystem Expert Campus / Student ambassador General Community leader / Creator Programs Paused Programs More AI Product Ambassador Programs\nShare this page\n  \nAI-focused Ambassador\n* Claude Campus Program 🎓\nAnthropic pr"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25264",
+      "small_rank": "3536",
+      "name": "Guitaricet",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"Guitaricet\" GitHub profile nlp organization identity",
+        "\"Guitaricet\" student ambassador campus program",
+        "\"Guitaricet\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"Guitaricet\" GitHub profile nlp organization identity",
+        "\"Guitaricet\" student ambassador campus program",
+        "\"Guitaricet\" developer community ambassador program"
+      ],
+      "search_id": "search_0cbdc765fd5c4381477e245c9ff13566",
+      "results": [
+        {
+          "title": "Guitaricet (Vlad Lialin) · GitHub",
+          "url": "https://github.com/guitaricet",
+          "excerpt": "User: Vlad Lialin (@guitaricet)\n\n* Page: GitHub user profile\n* URL: https://github.com/guitaricet\n* Location: San Francisco, CA\n* Followers: 97\n* Following: 51\n* Top languages: Jupyter Notebook, Python, Go\nDeep Learning for Robotics\n\nPinned repositories\n\n* Gui"
+        },
+        {
+          "title": "Guitaricet (Vlad Lialin) · GitHub",
+          "url": "http://github.com/Guitaricet",
+          "excerpt": "User: Vlad Lialin (@Guitaricet)\n\n* Page: GitHub user profile\n* URL: http://github.com/Guitaricet\n* Company: @Physical-Intelligence\n* Location: San Francisco, CA\n* Followers: 93\n* Following: 51\n* Top languages: Jupyter Notebook, Python, Go\nDeep Learning for Rob"
+        },
+        {
+          "title": "GitHub - Guitaricet/pytorch-pretrained-BERT: A PyTorch implementation of Google AI's BERT model provided with Google's pre-trained models, examples and utilities. · GitHub",
+          "url": "https://github.com/Guitaricet/pytorch-pretrained-BERT",
+          "excerpt": "At the same time, each python module defining an architecture is fully standalone and can be modified to enable quick research experiments.\n\n...\n\n**[Write With Transformer](https://transformer.huggingface.co/)** , built by the Hugging Face team, is the officia"
+        },
+        {
+          "title": "Vlad Lialin (@guitaricet) / X",
+          "url": "https://x.com/guitaricet",
+          "excerpt": "Don’t miss what’s happening\n\nPeople on X are the first to know.\n\n# [](https://x.com/)\n\n## Vlad Lialin\n\n3,579 posts\n\nSee new posts\n\n[Opens profile photo](https://x.com/guitaricet/photo)\n\nFollow\n\nVlad Lialin\n\n@guitaricet\n\nTeaching robots to learn\n\nSan Francisco,"
+        },
+        {
+          "title": "Guitaricet (Vlad Lialin) · GitHub",
+          "url": "https://112.cachefly.net/Guitaricet",
+          "excerpt": "Skip to content ## Navigation Menu\n@Guitaricet Guitaricet Follow\nOverview Repositories 89 Projects Packages Stars 300 Sponsoring\n@Guitaricet Guitaricet Follow\nView Guitaricet's full-sized avatar\n\nVlad Lialin Guitaricet\n\nFollow\nDeep Learning for Robotics\n96 fol"
+        },
+        {
+          "title": "Vladislav Lialin, Ph.D.",
+          "url": "https://storage.googleapis.com/vlialin-share/vladislav_lialin_cv.pdf",
+          "excerpt": "# Vladislav Lialin, Ph.D.\n\nguitaricet _|_ guitaricet _|_ Scholar _|_ vlialin _|_ vladlialin.com _|_ vlad.lialin@gmail.com\n\n### Summary\n\n**Ph.D. in Computer Science** and Natural Language Processing, **5 years of commercial ML Engineering ex- perience** . M.S. "
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25265",
+      "small_rank": "3537",
+      "name": "james-bowman",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"james-bowman\" GitHub profile nlp organization identity",
+        "\"james-bowman\" student ambassador campus program",
+        "\"james-bowman\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"james-bowman\" GitHub profile nlp organization identity",
+        "\"james-bowman\" student ambassador campus program",
+        "\"james-bowman\" developer community ambassador program"
+      ],
+      "search_id": "search_94720887f764bc6d16ec3e6466dcd9aa",
+      "results": [
+        {
+          "title": "james-bowman (James Bowman) · GitHub",
+          "url": "https://github.com/james-bowman",
+          "excerpt": "User: James Bowman (@james-bowman)\n\n* Page: GitHub user profile\n* URL: https://github.com/james-bowman\n* Company: @fresh8\n* Location: United Kingdom\n* Website: http://www.jamesbowman.me\n* Followers: 80\n* Following: 28\n* Links: http://www.jamesbowman.me\n* Top l"
+        },
+        {
+          "title": "jamesbowman (James Bowman) · GitHub",
+          "url": "https://github.com/jamesbowman",
+          "excerpt": "User: James Bowman (@jamesbowman)\n\n* Page: GitHub user profile\n* URL: https://github.com/jamesbowman\n* Followers: 350\n* Following: 4\n* Top languages: Python, Forth\n\nPinned repositories\n\n* jamesbowman/swapforth: Swapforth is a cross-platform ANS Forth (Forth)\n*"
+        },
+        {
+          "title": "James Bowman",
+          "url": "https://jamesbowman.me/",
+          "excerpt": "[James Bowman](https://jamesbowman.me/ \"James Bowman (Alt + H)\")\n\n* [About](https://jamesbowman.me/about/ \"About\")\n* [Blog](https://jamesbowman.me/post/ \"Blog\")\n\n## Why We Haven't Seen the Promised Productivity Gain from AI Coding\n\nWe measured the easy part an"
+        },
+        {
+          "title": "James Bowman - Morehead State University Adult Education Academy | LinkedIn",
+          "url": "https://linkedin.com/in/james-bowman-3a1671201",
+          "excerpt": "Looking for instructional development, training, or professional learning type of work? Come to the Morehead State Adult Education Academy.\n\n...\n\n* Brian Gupton Dataseam • 994 followers Welcome Russellville Independent Schools to the Dataseam partnership! Supp"
+        },
+        {
+          "title": "Pull requests · james-bowman/nlp",
+          "url": "https://github.com/james-bowman/nlp/pulls",
+          "excerpt": "## \n\nPull requests · james-bowman/nlp\nSelected Machine Learning algorithms for natural language processing and semantic analysis in Golang - Pull requests · james-bowman/nlp."
+        },
+        {
+          "title": "jamesdbowman (James Bowman) · GitHub",
+          "url": "https://github.com/jamesdbowman",
+          "excerpt": "User: James Bowman (@jamesdbowman)\n\n* Page: GitHub user profile\n* URL: https://github.com/jamesdbowman\n* Company: Google\n* Location: Seattle\n* Followers: 37\n* Following: 21\n* Top languages: Java, HTML, Go\nSWE // Google\n\nPinned repositories\n\n* jamesdbowman/Cant"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25266",
+      "small_rank": "3538",
+      "name": "hkcanan",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"hkcanan\" GitHub profile claude organization identity",
+        "\"hkcanan\" student ambassador campus program",
+        "\"hkcanan\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"hkcanan\" GitHub profile claude organization identity",
+        "\"hkcanan\" student ambassador campus program",
+        "\"hkcanan\" developer community ambassador program"
+      ],
+      "search_id": "search_df40fb44083ced0e078058271a773cc1",
+      "results": [
+        {
+          "title": "hkcanan (Halil Kaan Canan) · GitHub",
+          "url": "https://github.com/hkcanan",
+          "excerpt": "User: Halil Kaan Canan (@hkcanan)\n\n* Page: GitHub user profile\n* URL: https://github.com/hkcanan\n* Website: https://hkcanan.com\n* Followers: 6\n* Following: 2\n* Links: https://hkcanan.com\n* Top languages: TypeScript\n\nPinned repositories\n\n* hkcanan/katmer-code: "
+        },
+        {
+          "title": "H. Kaan Canan",
+          "url": "https://hkcanan.com/",
+          "excerpt": "[H. Kaan Canan](https://hkcanan.com/)\n\nDr. | Ceza Hukuku | Strafrecht\n\n⌘K\n\n[hkcanan@gmail.com](https://hkcanan.com/iletisim/)\n\nH. Kaan Canan\n\n# H. Kaan Canan\n\nMerhaba. Ben Dr. Halil Kaan Canan. Hacettepe Üniversitesi Hukuk Fakültesi’nde, Ceza Hukuku alanında ç"
+        },
+        {
+          "title": "Kaan Canan (@hkcanan) / X",
+          "url": "https://x.com/hkcanan?lang=fi",
+          "excerpt": "## \n\nKaan Canan (@hkcanan) / X\nArgüman'ı Claude Web ve Claude Code ile bağlama yöntemi: Claude Code'a bağlamak için bu komutu terminalde çalıştırmanız ve tarayıcıdan yönlendirilen sayfada"
+        },
+        {
+          "title": "Claude Campus Program by Anthropic | Ambassador Directory",
+          "url": "https://ambassador.directory/programs/claude-campus-program",
+          "excerpt": "1. Home /\n2. AI & Machine Learning /\n3. Claude Campus Program\nAI & Machine Learning Students\nClaude Campus Program — Anthropic tech ambassador program logo\n\nClaude Campus Program\n\nAnthropic\nLead student-driven AI initiatives with Anthropic support. Two tracks:"
+        },
+        {
+          "title": "Google Developer Group on Campus - Hong Kong Institute of Information Technology | LinkedIn",
+          "url": "https://linkedin.com/company/gdghkiit",
+          "excerpt": "Building a vibrant tech community takes amazing teamwork, and this event simply wouldn't have been possible without your hard work! 💪 Let's keep building and exploring the future of tech together! 🌟 ft. Chang Yuk Hon (Lead of GDG on Campus HKIIT) Chan Ka Leo"
+        },
+        {
+          "title": "Developer Ambassador Programs | Pranshu Khanna",
+          "url": "https://pran.sh/ambassadors",
+          "excerpt": "sign / App-Dev Ambassador Enterprise / Ecosystem Expert Campus / Student ambassador General Community leader / Creator Programs Paused Programs More AI Product Ambassador Programs\nShare this page\n  \nAI-focused Ambassador\n* Claude Campus Program 🎓\nAnthropic pr"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25267",
+      "small_rank": "3539",
+      "name": "arjo129",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"arjo129\" GitHub profile gh:speech-recognition organization identity",
+        "\"arjo129\" student ambassador campus program",
+        "\"arjo129\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"arjo129\" GitHub profile gh:speech-recognition organization identity",
+        "\"arjo129\" student ambassador campus program",
+        "\"arjo129\" developer community ambassador program"
+      ],
+      "search_id": "search_bf8b6366fc0cc9ef39175270cea93c6d",
+      "results": [
+        {
+          "title": "arjo129 (Arjo Chakravarty) · GitHub",
+          "url": "https://github.com/arjo129",
+          "excerpt": "User: Arjo Chakravarty (@arjo129)\n\n* Page: GitHub user profile\n* URL: https://github.com/arjo129\n* Company: Intrinsic, an Alphabet Company\n* Location: Singapore\n* Website: https://arjo129.github.io\n* Followers: 212\n* Following: 51\n* Links: https://arjo129.gith"
+        },
+        {
+          "title": "Arjo's Blog",
+          "url": "http://arjo129.github.io/",
+          "excerpt": "My face.\n\nHello!\n\nMy name is Arjo Chakravarty. I received my PhD from SUTD under the EDB-IPP programme. I work at Google's Intrinsic on Gazebo and OpenRMF . I joined Intrinsic as part of their purchase of OpenRobotics's commercial entity. I have a strong inter"
+        },
+        {
+          "title": "Arjo Chakravarty's (arjo129) software portfolio | Devpost",
+          "url": "https://devpost.com/arjo129/achievements",
+          "excerpt": "Arjo Chakravarty's avatar\n\nArjo Chakravarty (arjo129)\n\n* Singapore\n* Website\n* GitHub\nSkills\n* c++\n* c\n* fortran\n* opencv\n* electronics\n* ros\n* 4 Projects\n* 3 Hackathons\n* 5 Achievements\n* 1 Follower\n* 0 Following\n* 6 Likes\nimage\n\nDevpost Anniversary\n\nLevel 9\n"
+        },
+        {
+          "title": "GitHub - arjo129/vps_localization",
+          "url": "https://github.com/arjo129/vps_localization",
+          "excerpt": "\nNavigation Menu\n\nToggle navigation\nSign in\nAppearance settings\nSearch or jump to...\n\nSearch code, repositories, users, issues, pull requests...\n\nSign in\nSign up\nAppearance settings\nResetting focus\narjo129 / vps_localization Public\n* Notifications You must be "
+        },
+        {
+          "title": "Arjo Chakravarty's (arjo129) software portfolio",
+          "url": "https://devpost.com/arjo129",
+          "excerpt": "## \n\nArjo Chakravarty's (arjo129) software portfolio\nArjo Chakravarty specializes in C++, C, Fortran, OpenCV, Electronics, and Ros. GitHub Skills c++ c fortran opencv electronics\n\n## \n\nArjo Chakravarty's (arjo129) software portfolio\nArjo Chakravarty specialize"
+        },
+        {
+          "title": "Campus Experts · GitHub",
+          "url": "https://github.com/education/students/campus-expert",
+          "excerpt": "Skip to content GitHub Universe 2026\nJoin Universe virtually, from anywhere.\nSave your seat\nEducation\n* Students\n* Teachers\n* Schools\n* Partners\n* More\nGitHub Education\n\nEnrich your college  technology community\n\nLearn the skills to build and grow diverse tech"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25268",
+      "small_rank": "3540",
+      "name": "zzzprojects",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"zzzprojects\" GitHub profile evaluation organization identity",
+        "\"zzzprojects\" student ambassador campus program",
+        "\"zzzprojects\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"zzzprojects\" GitHub profile evaluation organization identity",
+        "\"zzzprojects\" student ambassador campus program",
+        "\"zzzprojects\" developer community ambassador program"
+      ],
+      "search_id": "search_d5551a84b630e6a8905ff13049189509",
+      "results": [
+        {
+          "title": "GitHub - zzzprojects/docs · GitHub",
+          "url": "https://github.com/zzzprojects/docs",
+          "excerpt": "zzzprojects/docs\n\n* Page: GitHub repository\n* URL: https://github.com/zzzprojects/docs\n* Default branch: master\n* Created: 2019-10-09T10:50:53.000Z\n* Commits: 1,536\n\nTop-level files\n\n* _backup/eval-expression.net/\n* bulk-operations.net/pages/\n* dapper-plus.net"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "GitHub - pransh15/developer-ambassador-programs: A list of Developer Ambassador Programs · GitHub",
+          "url": "https://github.com/pransh15/developer-ambassador-programs",
+          "excerpt": "ity hosts, and developer-tool educators.\n* Devin.ai Ambassador / Community - Community program for people leading Devin communities, hosting events, creating content, and giving feedback.\n\n...\n\nTechmakers Ambassador - Google community program providing visibil"
+        },
+        {
+          "title": "Campus Experts · GitHub",
+          "url": "https://github.com/education/students/campus-expert",
+          "excerpt": "Skip to content GitHub Universe 2026\nJoin Universe virtually, from anywhere.\nSave your seat\nEducation\n* Students\n* Teachers\n* Schools\n* Partners\n* More\nGitHub Education\n\nEnrich your college  technology community\n\nLearn the skills to build and grow diverse tech"
+        },
+        {
+          "title": "Developer Ambassador Programs | Pranshu Khanna",
+          "url": "https://pran.sh/ambassadors",
+          "excerpt": "sign / App-Dev Ambassador Enterprise / Ecosystem Expert Campus / Student ambassador General Community leader / Creator Programs Paused Programs More AI Product Ambassador Programs\nShare this page\n  \nAI-focused Ambassador\n* Claude Campus Program 🎓\nAnthropic pr"
+        },
+        {
+          "title": "GitHub - SurPathHub/student-programs: Collections of Student Programs · GitHub",
+          "url": "https://github.com/SurPathHub/student-programs",
+          "excerpt": "and lastly, you don't need to apply to many programs, focus on your role and to your technologies!\n\n* Microsoft Learn Student Ambassador\n* The Microsoft Learn Student Ambassadors program is a global group of on-campus ambassadors who are eager to help students"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25269",
+      "small_rank": "3541",
+      "name": "yxuansu",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"yxuansu\" GitHub profile gh:multimodal organization identity",
+        "\"yxuansu\" student ambassador campus program",
+        "\"yxuansu\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"yxuansu\" GitHub profile gh:multimodal organization identity",
+        "\"yxuansu\" student ambassador campus program",
+        "\"yxuansu\" developer community ambassador program"
+      ],
+      "search_id": "search_7459e20d6ac842564678474827f6fbd5",
+      "results": [
+        {
+          "title": "yxuansu (Yixuan Su) · GitHub",
+          "url": "https://github.com/yxuansu",
+          "excerpt": "User: Yixuan Su (@yxuansu)\n\n* Page: GitHub user profile\n* URL: https://github.com/yxuansu\n* Company: Cohere, University of Cambridge\n* Location: London, UK\n* Website: https://yxuansu.github.io/\n* Followers: 234\n* Following: 4\n* Links: https://yxuansu.github.io"
+        },
+        {
+          "title": "Yixuan Su",
+          "url": "https://yxuansu.github.io/",
+          "excerpt": "Yixuan Su\n\n* Experience\n* Education\n* Publications\n* Mentorship\n* Talks\n\nYixuan Su\n\n# Yixuan Su\n\nStaff Research Scientist at [Cohere](https://cohere.com/) .\n\n[Email](mailto:ys484 at outlook dot com) [Scholar](https://scholar.google.com/citations?user=VuVuWEoAA"
+        },
+        {
+          "title": "yxuansu (Yixuan Su) · GitHub",
+          "url": "https://112.cachefly.net/yxuansu",
+          "excerpt": "Skip to content ## Navigation Menu\n@yxuansu yxuansu Follow\nOverview Repositories 49 Projects 1 Packages Stars 258\n@yxuansu yxuansu Follow\nView yxuansu's full-sized avatar\n🏠\nWorking from home\n\nYixuan Su yxuansu\n\n🏠\nWorking from home\nFollow\nSenior Research Scie"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "Developer Ambassador Programs | Pranshu Khanna",
+          "url": "https://pran.sh/ambassadors",
+          "excerpt": "sign / App-Dev Ambassador Enterprise / Ecosystem Expert Campus / Student ambassador General Community leader / Creator Programs Paused Programs More AI Product Ambassador Programs\nShare this page\n  \nAI-focused Ambassador\n* Claude Campus Program 🎓\nAnthropic pr"
+        },
+        {
+          "title": "Campus Ambassador Program 2026 | Free Goodies, Certificates & Leadership - Campus Unite",
+          "url": "https://campusunite.in/ambassador",
+          "excerpt": "Campus Unite Leadership Program • Batch of 2026-27\n\nBecome a Campus Unite\n\nCampus Ambassador\nRepresent Campus Unite at your college, build a thriving student tech community, gain real-world\n\n...\n\n2026-27\n\nVerified Campus Lead\n\nStudent Leadership Circle • Top U"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25270",
+      "small_rank": "3542",
+      "name": "lum3on",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"lum3on\" GitHub profile diffusion-models organization identity",
+        "\"lum3on\" student ambassador campus program",
+        "\"lum3on\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"lum3on\" GitHub profile diffusion-models organization identity",
+        "\"lum3on\" student ambassador campus program",
+        "\"lum3on\" developer community ambassador program"
+      ],
+      "search_id": "search_c1ba05f32e8a44c41440c7c1f7595649",
+      "results": [
+        {
+          "title": "lum3on · GitHub",
+          "url": "https://github.com/lum3on",
+          "excerpt": "User: lum3on (@lum3on)\n\n* Page: GitHub user profile\n* URL: https://github.com/lum3on\n* Followers: 56\n* Following: 4\n* Top languages: Python\n\nPinned repositories\n\n* lum3on/ComfyUI-StableAudioX: A powerful audio generation extension for ComfyUI that integrates A"
+        },
+        {
+          "title": "diffusers · GitHub Topics · GitHub",
+          "url": "https://github.com/topics/diffusers",
+          "excerpt": "Topic: diffusers\n\n* Page: GitHub topic page\n* URL: https://github.com/topics/diffusers\n\nRepositories\n\n* vladmandic/sdnext: SD.Next: All-in-one WebUI for AI generative image and video creation\n* riffusion/riffusion-hobby: Stable diffusion for real-time music ge"
+        },
+        {
+          "title": "Activity · lum3on/comfyui_LLM_Polymath",
+          "url": "https://github.com/lum3on/comfyui_LLM_Polymath/activity",
+          "excerpt": "## \n\nActivity · lum3on/comfyui_LLM_Polymath\nAn advanced chat node integrating LLMs, real-time web search, image handling, and image scraping. Supports APIs from OpenAI, Google, Anthropic, Grok,"
+        },
+        {
+          "title": "lum3on/comfyui_HiDream-Sampler",
+          "url": "https://gitsummarize.com/lum3on/comfyui_HiDream-Sampler?doc=readme",
+          "excerpt": "Git Summarize\nAPI Key API Key Contact Discord GitHub ★\nlum3on's avatar\nlum3on/comfyui_HiDream-Sampler\nHome\nLive\nView Codebase\nOverview README\n\nHigh Level Documentation\n\nBusiness Logic\n\nSuggest a Feature Made by @schrodinger & @antarixx Discord"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "Developer Ambassador Programs | Pranshu Khanna",
+          "url": "https://pran.sh/ambassadors",
+          "excerpt": "sign / App-Dev Ambassador Enterprise / Ecosystem Expert Campus / Student ambassador General Community leader / Creator Programs Paused Programs More AI Product Ambassador Programs\nShare this page\n  \nAI-focused Ambassador\n* Claude Campus Program 🎓\nAnthropic pr"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25271",
+      "small_rank": "3543",
+      "name": "tizzy916",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"tizzy916\" GitHub profile prompt-engineering organization identity",
+        "\"tizzy916\" student ambassador campus program",
+        "\"tizzy916\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"tizzy916\" GitHub profile prompt-engineering organization identity",
+        "\"tizzy916\" student ambassador campus program",
+        "\"tizzy916\" developer community ambassador program"
+      ],
+      "search_id": "search_20906d803570c77087fc712fc0f92f88",
+      "results": [
+        {
+          "title": "tizzy916 · GitHub",
+          "url": "https://github.com/tizzy916",
+          "excerpt": "User: tizzy916 (@tizzy916)\n\n* Page: GitHub user profile\n* URL: https://github.com/tizzy916\n* Followers: 34\n* Following: 3\n* Top languages: Python\n\nPinned repositories\n\n* tizzy916/humanities-writing-companion: End-to-end humanities writing assistant — an Agent "
+        },
+        {
+          "title": "https://api.github.com/repos/tizzy916/humanities-writing-companion",
+          "url": "https://api.github.com/repos/tizzy916/humanities-writing-companion",
+          "excerpt": "{ \"id\": 1233480477, \"node_id\": \"R_kgDOSYVrHQ\", \"name\": \"humanities-writing-companion\", \"full_name\": \"tizzy916/humanities-writing-companion\", \"private\": false, \"owner\": { \"login\": \"tizzy916\", \"id\": 191947521, \"node_id\": \"U_kgDOC3DjAQ\", \"avatar_url\": \"https://av"
+        },
+        {
+          "title": "GitHub - tizzy916/humanities-writing-companion: End-to-end humanities writing assistant — an Agent Skill (open SKILL.md format). 11 modes from Socratic research-question sharpening through AI-use disclosure. Bilingual (EN/中文), discipline-aware (literature/history/philosophy/art/religion/linguistics + cross-disciplinary). Four-layer critique, calibratable devils advocate, voice preservation. · GitHub",
+          "url": "https://github.com/tizzy916/humanities-writing-companion",
+          "excerpt": "# tizzy916/humanities-writing-companion\n\n- Page: GitHub repository\n- URL: https://github.com/tizzy916/humanities-writing-companion\n- Description: End-to-end humanities writing assistant — an Agent Skill (open SKILL.md format). 11 modes from Socratic research-q"
+        },
+        {
+          "title": "tizzy916 humanities-writing-companion · Discussions - Teknosit",
+          "url": "https://teknosit.com.tr/web-asset-proxy?u=aHR0cHM6Ly9naXRodWIuY29tL3Rpenp5OTE2L2h1bWFuaXRpZXMtd3JpdGluZy1jb21wYW5pb24vZGlzY3Vzc2lvbnM.99a3adf4289576aca012f91b0bdf73bd925a8bbc&v=20260725-2",
+          "excerpt": "## \n\ntizzy916 humanities-writing-companion · Discussions - Teknosit\nExplore the GitHub Discussions forum for tizzy916 humanities-writing-companion. Discuss code, ask questions & collaborate with the developer community."
+        },
+        {
+          "title": "humanities · GitHub Topics · GitHub",
+          "url": "https://github.com/topics/humanities?l=python",
+          "excerpt": "# Topic: humanities\n\n- Page: GitHub topic page\n- URL: https://github.com/topics/humanities\n\n## Repositories\n\n- [tizzy916/humanities-writing-companion](https://github.com/tizzy916/humanities-writing-companion): End-to-end humanities writing assistant — an Agent"
+        },
+        {
+          "title": "GitHub - tizzy916/humanities-writing-companion: End-to-end ...",
+          "url": "https://github.com/tizzy916/humanities-writing-companion/blob/main",
+          "excerpt": "## \n\nGitHub - tizzy916/humanities-writing-companion: End-to-end ...\nHumanities Writing Companion · 人文学科写作伙伴 An agent skill for humanities scholars whose primary deliverable is a long-form argumentative text — history, philosophy, literature, cultural studies, "
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25272",
+      "small_rank": "3544",
+      "name": "CHAOZHAO-1",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"CHAOZHAO-1\" GitHub profile dataset organization identity",
+        "\"CHAOZHAO-1\" student ambassador campus program",
+        "\"CHAOZHAO-1\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"CHAOZHAO-1\" GitHub profile dataset organization identity",
+        "\"CHAOZHAO-1\" student ambassador campus program",
+        "\"CHAOZHAO-1\" developer community ambassador program"
+      ],
+      "search_id": "search_d00048e99837f3747ef22fd483cc4950",
+      "results": [
+        {
+          "title": "CHAOZHAO-1 (Zhao Chao （赵超）) · GitHub",
+          "url": "https://github.com/CHAOZHAO-1",
+          "excerpt": "User: Zhao Chao （赵超） (@CHAOZHAO-1)\n\n* Page: GitHub user profile\n* URL: https://github.com/CHAOZHAO-1\n* Company: NEU&HUST&POLIMI\n* Location: Shen Yang\n* Followers: 463\n* Following: 0\nEmail: zhaochao0612@gmail.com\n\nPinned repositories\n\n* CHAOZHAO-1/HUSTbearing-d"
+        },
+        {
+          "title": "GitHub - CHAOZHAO-1/LLM-based-PHM: This is a reposotory that includes paper about LLM-based fault diagnosis and prognosis. (基于大模型的故障诊断和预测，持续更新) · GitHub",
+          "url": "https://github.com/CHAOZHAO-1/LLM-based-PHM",
+          "excerpt": "# CHAOZHAO-1/LLM-based-PHM\n\n- Page: GitHub repository\n- URL: https://github.com/CHAOZHAO-1/LLM-based-PHM\n- Description: This is a reposotory that includes paper about LLM-based fault diagnosis and prognosis. (基于大模型的故障诊断和预测，持续更新) - CHAOZHAO-1/LLM-based-PHM\n- St"
+        },
+        {
+          "title": "CHAOZHAO-1/CHAOZHAO-1",
+          "url": "https://github.com/CHAOZHAO-1/CHAOZHAO-1",
+          "excerpt": "## \n\nCHAOZHAO-1/CHAOZHAO-1\nI'm Chao Zhao, I am an Associate Professor at the School of Mechanical Engineering and Automation, Northeastern University, China."
+        },
+        {
+          "title": "Machine-Fault-Dataset/数据集总文件.pdf at main · CHAOZHAO-1/Machine-Fault-Dataset · GitHub",
+          "url": "https://github.com/CHAOZHAO-1/Machine-Fault-Dataset/blob/main/%E6%95%B0%E6%8D%AE%E9%9B%86%E6%80%BB%E6%96%87%E4%BB%B6.pdf",
+          "excerpt": "Skip to content ## Navigation Menu\nSign in\nAppearance settings\n* Platform\n  + AI CODE CREATION\n  \n  - [GitHub Copilot Write better code with AI](https://github.com/features/copilot)\n  - [GitHub Copilot app Direct agents from issue to merge](https://github.com/"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "the Appwrite Heroes program and becoming a leader in our developer community.\n* Auth0 Ambassador - Join us in our mission to advocate for the developer by sharing knowledge on identity and security\n\n...\n\nvideos, and forums; or in person at conferences, worksho"
+        },
+        {
+          "title": "Campus Experts · GitHub",
+          "url": "https://github.com/education/students/campus-expert",
+          "excerpt": "Skip to content GitHub Universe 2026\nJoin Universe virtually, from anywhere.\nSave your seat\nEducation\n* Students\n* Teachers\n* Schools\n* Partners\n* More\nGitHub Education\n\nEnrich your college  technology community\n\nLearn the skills to build and grow diverse tech"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25273",
+      "small_rank": "3545",
+      "name": "PrismorSec",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"PrismorSec\" GitHub profile ai-safety organization identity",
+        "\"PrismorSec\" student ambassador campus program",
+        "\"PrismorSec\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"PrismorSec\" GitHub profile ai-safety organization identity",
+        "\"PrismorSec\" student ambassador campus program",
+        "\"PrismorSec\" developer community ambassador program"
+      ],
+      "search_id": "search_7f47112bfea3c01be75686e10bcc5649",
+      "results": [
+        {
+          "title": "GitHub - PrismorSec/.github: Self improving security layer for developers and agents · GitHub",
+          "url": "https://github.com/PrismorSec/.github",
+          "excerpt": "PrismorSec/.github\n\n* Page: GitHub repository\n* URL: https://github.com/PrismorSec/.github\n* Description: Self improving security layer for developers and agents - PrismorSec/.github\n* License: Apache-2.0 license\n* Default branch: main\n* Created: 2026-06-20T22"
+        },
+        {
+          "title": "Prismor · GitHub",
+          "url": "https://github.com/PrismorSec",
+          "excerpt": "Organization: Prismor (@PrismorSec)\n\n* Page: GitHub organization profile\n* URL: https://github.com/PrismorSec\n* Location: United States of America\n* Website: https://prismor.dev/\n* Links: https://x.com/prismor_dev, https://www.linkedin.com/company/prismor-dev/"
+        },
+        {
+          "title": "GitHub - PrismorSec/security-playbook: Security skill pack for AI coding agents — behavioral guardrails, OWASP code/LLM rules, static analysis guidance · GitHub",
+          "url": "https://github.com/PrismorSec/security-playbook",
+          "excerpt": "PrismorSec/security-playbook\n\n* Page: GitHub repository\n* URL: https://github.com/PrismorSec/security-playbook\n* Description: Security skill pack for AI coding agents — behavioral guardrails, OWASP code/LLM rules, static analysis guidance - PrismorSec/security"
+        },
+        {
+          "title": "prismor/GOVERNANCE.md at main · PrismorSec/prismor · GitHub",
+          "url": "https://github.com/PrismorSec/prismor/blob/main/GOVERNANCE.md",
+          "excerpt": "PrismorSec/prismor — GOVERNANCE.md\n\n* Page: GitHub code file\n* URL: https://github.com/PrismorSec/prismor/blob/main/GOVERNANCE.md\n* Repository: PrismorSec/prismor\n* Path: GOVERNANCE.md\n* Ref: main\n* Lines: 173\n\nPrismor Governance\n\nThis document describes how t"
+        },
+        {
+          "title": "GitHub - PrismorSec/prismor: Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt injection, supply chain etc in a local dashboard. Agent agnostic (Claude, codex, langchain etc.) · GitHub",
+          "url": "https://github.com/PrismorSec/prismor",
+          "excerpt": "PrismorSec/prismor\n\n* Page: GitHub repository\n* URL: https://github.com/PrismorSec/prismor\n* Description:  Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt injection, su"
+        },
+        {
+          "title": "Prismor · GitHub",
+          "url": "https://sy.cr1000.cn/PrismorSec",
+          "excerpt": "Skip to content ## Navigation Menu\n@PrismorSec\n\nPrismor\n\nSelf improving security layer for developers and agents\n* Verified\nWe've verified that the organization PrismorSec controls the domain:\n* prismor.dev\nLearn more about verified organizations\n* 21 follower"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25274",
+      "small_rank": "3546",
+      "name": "QuZhan51496",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"QuZhan51496\" GitHub profile ai-tools organization identity",
+        "\"QuZhan51496\" student ambassador campus program",
+        "\"QuZhan51496\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"QuZhan51496\" GitHub profile ai-tools organization identity",
+        "\"QuZhan51496\" student ambassador campus program",
+        "\"QuZhan51496\" developer community ambassador program"
+      ],
+      "search_id": "search_644dfc8c9415adc4ab4ced0e95951961",
+      "results": [
+        {
+          "title": "QuZhan51496 (Qu Zhan) · GitHub",
+          "url": "https://github.com/QuZhan51496",
+          "excerpt": "User: Qu Zhan (@QuZhan51496)\n\n* Page: GitHub user profile\n* URL: https://github.com/QuZhan51496\n* Followers: 4\n* Following: 2\n* Top languages: Python, TypeScript, C++\nPhD student at Zhejiang University\n\nPinned repositories\n\n* QuZhan51496/paper2anything: An age"
+        },
+        {
+          "title": "GitHub - QuZhan51496/paper2anything: An agent skills pack that turns an academic paper PDF into slides, a poster, a webpage, a Xiaohongshu post, or a WeChat article (paper2slides/poster/html/xhs/wechat) · GitHub",
+          "url": "https://github.com/QuZhan51496/paper2anything",
+          "excerpt": "# QuZhan51496/paper2anything\n\n- Page: GitHub repository\n- URL: https://github.com/QuZhan51496/paper2anything\n- Description: An agent skills pack that turns an academic paper PDF into slides, a poster, a webpage, a Xiaohongshu post, or a WeChat article (paper2s"
+        },
+        {
+          "title": "QuZhan51496/paper2anything · The Skill Leaderboard",
+          "url": "https://www.skillleaderboard.com/skill/QuZhan51496-paper2anything",
+          "excerpt": "← Leaderboard / Media / paper2anything\n\nLast commit on July 5, 2026 · Created on June 15, 2026\n\n# QuZhan51496/ paper2anything\n\n“Transforms academic PDF papers into structured conference posters in HTML and PNG formats.”\n\nCombined rank\n\n\\#445\n\nacross all skills"
+        },
+        {
+          "title": "Claude Skills by QuZhan51496 — 5 skills, security-graded | Skills Directory",
+          "url": "https://www.skillsdirectory.com/authors/quzhan51496",
+          "excerpt": "[All authors](https://www.skillsdirectory.com/authors)\n\nQuZhan51496 avatar\n\n# Claude Skills by QuZhan51496\n\n[github.com/QuZhan51496](https://github.com/QuZhan51496)\n\n5 skills A × 5 0 installs 5 views\n\n* [Paper2html A Convert an academic paper PDF into a publis"
+        },
+        {
+          "title": "QuZhan51496/paper2anything - Online Tools",
+          "url": "https://tool.lu/en_US/library/4wH",
+          "excerpt": "* Online Tools\nOnline Tools\n\nQuZhan51496/paper2anything\n\nSearch\n时间戳 ocr 放假安排\n搜索历史 清空\n* 关键词\n* 80 2027\n* token中转\n* Ranking List\nOnline Tools  \n类库 › paper2anything\nQuZhan51496\n\nQuZhan51496/paper2anything\n\npaper2anything是一个Python智能体技能包，能将学术论文PDF自动转换为演示文稿、海报、网页、小红书"
+        },
+        {
+          "title": "QuZhan51496/ChatDev_official: Official Implementation of ...",
+          "url": "https://github.com/QuZhan51496/ChatDev_official",
+          "excerpt": "## \n\nQuZhan51496/ChatDev_official: Official Implementation of ...\nChatDev stands as a virtual software company that operates through various intelligent agents holding different roles, including Chief Executive Officer"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25275",
+      "small_rank": "3547",
+      "name": "chrisblattman",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"chrisblattman\" GitHub profile ai-tools organization identity",
+        "\"chrisblattman\" student ambassador campus program",
+        "\"chrisblattman\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"chrisblattman\" GitHub profile ai-tools organization identity",
+        "\"chrisblattman\" student ambassador campus program",
+        "\"chrisblattman\" developer community ambassador program"
+      ],
+      "search_id": "search_aa7bbc2b0ab8fbe959e70f2dd846ccff",
+      "results": [
+        {
+          "title": "GitHub - chrisblattman/claudeblattman: Claude Code for professionals who don't code — Skills, agents, and setup guides · GitHub",
+          "url": "https://github.com/chrisblattman/claudeblattman",
+          "excerpt": "# chrisblattman/claudeblattman\n\n- Page: GitHub repository\n- URL: https://github.com/chrisblattman/claudeblattman\n- Description: Claude Code for professionals who don't code — Skills, agents, and setup guides - chrisblattman/claudeblattman\n- License: MIT licens"
+        },
+        {
+          "title": "chrisblattman · GitHub",
+          "url": "https://github.com/chrisblattman",
+          "excerpt": "User: chrisblattman (@chrisblattman)\n\n* Page: GitHub user profile\n* URL: https://github.com/chrisblattman\n* Followers: 59\n* Following: 3\n* Top languages: JavaScript\n\nPinned repositories\n\n* chrisblattman/claudeblattman: Claude Code for academics — skills, agent"
+        },
+        {
+          "title": "https://api.github.com/repos/chrisblattman/claudeblattman",
+          "url": "https://api.github.com/repos/chrisblattman/claudeblattman",
+          "excerpt": "{ \"id\": 1163671946, \"node_id\": \"R_kgDORVw5ig\", \"name\": \"claudeblattman\", \"full_name\": \"chrisblattman/claudeblattman\", \"private\": false, \"owner\": { \"login\": \"chrisblattman\", \"id\": 140090987, \"node_id\": \"U_kgDOCFmeaw\", \"avatar_url\": \"https://avatars.githubuserco"
+        },
+        {
+          "title": "About – Chris Blattman",
+          "url": "https://chrisblattman.com/about",
+          "excerpt": "* [Courses](https://chrisblattman.com/about/teaching/)\n* [Bio & Photos](https://www.dropbox.com/scl/fi/jqxr58uj53gn66wfut4rg/Event_materials.zip?rlkey=sohmzbf479fcll7hmw42ae9p5&dl=0)\n\n## I’m an economist and political scientist who studies global conflict, org"
+        },
+        {
+          "title": "Contacting me – Chris Blattman",
+          "url": "https://chrisblattman.com/about/contact",
+          "excerpt": "## Contacting me\n\n* [July 2, 2009](https://chrisblattman.com/blog/2009/07/02/)\n\n**Professors, policymakers, members of the media, or speaking requests:**\n\nEmail me [here](mailto:blattman+web@gmail.com) .\n\n### **Mailing lists, guest posts, and other marketing/P"
+        },
+        {
+          "title": "Christopher Blattman, Ph.D., MPA/ID - AC4 Link",
+          "url": "http://ac4link.ei.columbia.edu/profiles/detail/178",
+          "excerpt": "Search AC4 Link\nNewsletter / Contact Us Twitter Facebook LinkedIn\n Earth Institute | Columbia University\n\nAC 4 Link »\n\nProfile\n\n* Go to PROFILES INDEX\n* Menu of DISCIPLINES & TOPICS ▼ ▲\nShare\n\nChristopher Blattman, Ph.D., MPA/ID\n\nAssistant Professor of Politic"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25276",
+      "small_rank": "3548",
+      "name": "D7EAD",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"D7EAD\" GitHub profile openai organization identity",
+        "\"D7EAD\" student ambassador campus program",
+        "\"D7EAD\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"D7EAD\" GitHub profile openai organization identity",
+        "\"D7EAD\" student ambassador campus program",
+        "\"D7EAD\" developer community ambassador program"
+      ],
+      "search_id": "search_da7f81e71a17a6ab60c9f778cbce4c9d",
+      "results": [
+        {
+          "title": "D7EAD (Dread) / Projects · GitHub",
+          "url": "https://github.com/D7EAD?tab=projects",
+          "excerpt": "## \n\nD7EAD (Dread) / Projects · GitHub\nI love open-source. I live and breathe virtualization. Major security, privacy, internet freedom advocate. Assembly, Python, C, and C++. - D7EAD"
+        },
+        {
+          "title": "D7EAD (Dread) · GitHub",
+          "url": "https://github.com/D7EAD",
+          "excerpt": "User: Dread (@D7EAD)\n\n* Page: GitHub user profile\n* URL: https://github.com/D7EAD\n* Location: Somewhere with Internet\n* Website: https://dreadsec.co\n* Followers: 148\n* Following: 0\n* Links: https://dreadsec.co\n* Top languages: C++\nI love open-source. I live an"
+        },
+        {
+          "title": "GitHub - D7EAD/d7ead.github.io",
+          "url": "https://github.com/D7EAD/d7ead.github.io",
+          "excerpt": "D7EAD / d7ead.github.io Public\n* Notifications You must be signed in to change notification settings\n* Fork 0\n* Star 7\ndreadsec.me\n7 stars 0 forks Branches Tags Activity\nStar\nNotifications You must be signed in to change notification settings\n* Code\n* Issues\n*"
+        },
+        {
+          "title": "D7EAD (Dread) / Followers · GitHub",
+          "url": "https://github.com/D7EAD?tab=followers",
+          "excerpt": "## \n\nD7EAD (Dread) / Followers · GitHub\nI love open-source. I live and breathe virtualization. Major security, privacy, internet freedom advocate. Assembly, Python, C, and C++. - D7EAD"
+        },
+        {
+          "title": "GitHub - geshan/developer-ambassador-programs: A list of developer ambassador programs run by various companies · GitHub",
+          "url": "https://github.com/geshan/developer-ambassador-programs",
+          "excerpt": "geshan/developer-ambassador-programs\nPage: GitHub repository\nURL: https://github.com/geshan/developer-ambassador-programs\nDescription: A list of developer ambassador programs run by various companies - geshan/developer-ambassador-programs\nDefault branch: maste"
+        },
+        {
+          "title": "GitHub - pransh15/developer-ambassador-programs: A list of Developer Ambassador Programs · GitHub",
+          "url": "https://github.com/pransh15/developer-ambassador-programs",
+          "excerpt": "pransh15/developer-ambassador-programs\nDescription: A list of Developer Ambassador Programs\nLicense: MIT license\nDefault branch: main\nCreated: 2026-08-24T10:52:22.000Z\nCommits: 13\nTop-level files\nCONTRIBUTING.md\nLICENSE\nREADME.md\nREADME.md\nDeveloper Ambassador"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25277",
+      "small_rank": "3549",
+      "name": "liliang-cn",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"liliang-cn\" GitHub profile embeddings organization identity",
+        "\"liliang-cn\" student ambassador campus program",
+        "\"liliang-cn\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"liliang-cn\" GitHub profile embeddings organization identity",
+        "\"liliang-cn\" student ambassador campus program",
+        "\"liliang-cn\" developer community ambassador program"
+      ],
+      "search_id": "search_e705cc26db06ab22ed54edb99d065e9f",
+      "results": [
+        {
+          "title": "liliang-cn (Liang Li) · GitHub",
+          "url": "https://github.com/liliang-cn",
+          "excerpt": "User: Liang Li (@liliang-cn)\n\n* Page: GitHub user profile\n* URL: https://github.com/liliang-cn\n* Company: Remote\n* Location: Chengdu, China\n* Website: https://me.superleo.app/\n* Followers: 106\n* Following: 90\n* Links: https://me.superleo.app/\n* Top languages: "
+        },
+        {
+          "title": "GitHub - liliang-cn/cortexdb: Local-first AI agent memory with a knowledge graph, ontology constraints, and traceable reasoning—all in one SQLite file. · GitHub",
+          "url": "https://github.com/liliang-cn/cortexdb",
+          "excerpt": "# liliang-cn/cortexdb\n\n- Page: GitHub repository\n- URL: https://github.com/liliang-cn/cortexdb\n- Description: Local-first AI agent memory with a knowledge graph, ontology constraints, and traceable reasoning—all in one SQLite file. - liliang-cn/cortexdb\n- Lice"
+        },
+        {
+          "title": "liliang-cn (Liang Li) · GitHub",
+          "url": "https://sy.cr1000.cn/liliang-cn",
+          "excerpt": "Skip to content ## Navigation Menu\n@liliang-cn liliang-cn Follow\nOverview Repositories 48 Projects Packages Stars 1.1k\n@liliang-cn liliang-cn Follow\nView liliang-cn's full-sized avatar\n🏠\nWorking from home\n\nLiang Li liliang-cn\n\n🏠\nWorking from home\nFollow\nBuil"
+        },
+        {
+          "title": "liliang-cn (Liang Li) · GitHub",
+          "url": "http://45.136.13.115:8083/liliang-cn",
+          "excerpt": "Skip to content ## Navigation Menu\n@liliang-cn liliang-cn Follow\nOverview Repositories 53 Projects Packages Stars 1.1k\n@liliang-cn liliang-cn Follow\nView liliang-cn's full-sized avatar\n🏠\nWorking from home\n\nLiang Li liliang-cn\n\n🏠\nWorking from home\nFollow\nBuil"
+        },
+        {
+          "title": "liliang-cn (Liang Li) · GitHub",
+          "url": "https://112.cachefly.net/liliang-cn",
+          "excerpt": "Skip to content ## Navigation Menu\n@liliang-cn liliang-cn Follow\nOverview Repositories 53 Projects Packages Stars 1.1k\n@liliang-cn liliang-cn Follow\nView liliang-cn's full-sized avatar\n🏠\nWorking from home\n\nLiang Li liliang-cn\n\n🏠\nWorking from home\nFollow\nBuil"
+        },
+        {
+          "title": "https://www.getprog.ai/profile/liang_li_20553741",
+          "url": "https://www.getprog.ai/profile/liang_li_20553741",
+          "excerpt": "API\nProducts chevron\nResources chevron\nApps chevron\nFAQ Top Experts Chrome Extension Sign in\nmenu\nLiang Li\nDeveloper at LemonadeLXP\nVancouver, British Columbia, Canada\nemail-icon phone-icon github-logo linkedin-logo twitter-logo stackoverflow-logo facebook-log"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "census_row": "25278",
+      "small_rank": "3550",
+      "name": "VincentGranville",
+      "tier": "small",
+      "category": "other",
+      "queries": [
+        "\"VincentGranville\" GitHub profile generative-ai organization identity",
+        "\"VincentGranville\" student ambassador campus program",
+        "\"VincentGranville\" developer community ambassador program"
+      ],
+      "searched_queries": [
+        "\"VincentGranville\" GitHub profile generative-ai organization identity",
+        "\"VincentGranville\" student ambassador campus program",
+        "\"VincentGranville\" developer community ambassador program"
+      ],
+      "search_id": "search_d88b25190bddbcf46bea3aa13240b98b",
+      "results": [
+        {
+          "title": "GitHub - VincentGranville/Main: Main folder. Material related to my books on synthetic data and generative AI. Also contains documents blending components from several folders, or covering topics spanning across multiple folders.. · GitHub",
+          "url": "https://github.com/VincentGranville/Main",
+          "excerpt": "VincentGranville/Main\n\n* Page: GitHub repository\n* URL: https://github.com/VincentGranville/Main\n* Description: Main folder. Material related to my books on synthetic data and generative AI. Also contains documents blending components from several folders, or "
+        },
+        {
+          "title": "VincentGranville (xLLM - No Blackbox, secure, auditable, accurate Enterprise AI) · GitHub",
+          "url": "https://github.com/VincentGranville",
+          "excerpt": "User: xLLM - No Blackbox, secure, auditable, accurate Enterprise AI (@VincentGranville)\n\n* Page: GitHub user profile\n* URL: https://github.com/VincentGranville\n* Company: https://bondingai.io/\n* Location: Seattle, WA\n* Website: https://mltechniques.com/\n* Foll"
+        },
+        {
+          "title": "VincentGranville/Large-Language-Models: 450+ stars | GitGenius",
+          "url": "https://www.gitgenius.co/repos/VincentGranville/Large-Language-Models",
+          "excerpt": "xLLM 1.0, smart crawling, knowledge graph discovery.\nStars 475\nStars gained, 30 days +0\nForks 134\nOpen issues & PRs 8\nMedian issue/PR response 0.9 hrs\nREADME badge View on GitHub\nVincentGranville/Large-Language-Models has 450+ stars and 100+ forks on GitHub, i"
+        },
+        {
+          "title": "Vincent Granville (@vincent_granville) | Topmate",
+          "url": "https://topmate.io/vincent_granville",
+          "excerpt": "<Vincent>\n\nVincent Granville\n\nCEO, Synthetic Data, xLLM, and GenAI at GenAItechLab.com\n<Topmate>\nStart your page\n<Topmate>\nStart your page\n\nServices\n\n<doc-thumbnail>\nDigital Product\n\neBook: Statistical Optimization for AI and ML\n\nWith case studies, Python code"
+        },
+        {
+          "title": "Large-Language-Models/xllm6/enterprise/xllm-enterprise.pdf at main · VincentGranville/Large-Language-Models · GitHub",
+          "url": "https://github.com/VincentGranville/Large-Language-Models/blob/main/xllm6/enterprise/xllm-enterprise.pdf",
+          "excerpt": "Skip to content ## Navigation Menu\nSign in\n* Products\n  + Platform\n  \n  - [GitHub Repository hosting, code review, and collaboration](https://github.com/platform)\n  - [Copilot AI coding agent for tasks, projects and automated work](https://github.com/features/"
+        },
+        {
+          "title": "Main/ChapterStrongPRNG.pdf at main · VincentGranville/Main · GitHub",
+          "url": "https://github.com/VincentGranville/Main/blob/main/ChapterStrongPRNG.pdf",
+          "excerpt": "Skip to content ## Navigation Menu\nSign in\n* Products\n  + Platform\n  \n  - [GitHub Repository hosting, code review, and collaboration](https://github.com/platform)\n  - [Copilot AI coding agent for tasks, projects and automated work](https://github.com/features/"
+        }
+      ],
+      "warnings": []
+    }
+  ]
+}

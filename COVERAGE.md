@@ -1,5 +1,8 @@
 # Coverage, audited 5 November 2026 16:00 IST
 
+
+> Historical snapshot: This coverage calculation is dated 5 November 2026 and predates later audits and corrections. The current worldwide follow-up research is indexed in [README.md](README.md) and [research/2026-11-09/README.md](research/2026-11-09/README.md). Recheck organizer sources before applying.
+
 | measure | value |
 |---|---|
 | org-tier names | 5745 |

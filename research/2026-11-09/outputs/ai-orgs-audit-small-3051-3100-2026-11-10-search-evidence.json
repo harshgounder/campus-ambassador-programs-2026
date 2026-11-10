@@ -1,0 +1,1125 @@
+{
+  "slice": {
+    "small_rank_start": 3051,
+    "small_rank_end": 3100,
+    "queue_rows": 50
+  },
+  "search_status": "all 50 entities received three targeted query variations; role/cutoff/eligibility conclusions remain partial/incomplete",
+  "cutoff_date": "2026-11-09",
+  "observation_date": "2026-11-10",
+  "records": [
+    {
+      "census_row": "24779",
+      "small_rank": "3051",
+      "name": "KeJunMao",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "KeJunMao GitHub identity official",
+        "KeJunMao student ambassador program",
+        "KeJunMao campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/kejunmao",
+          "snippet": "Profile identifies KeJun (@kejunmao), location China; pinned projects include AI-powered video generation tool."
+        }
+      ],
+      "notes": "Three targeted variations searched; exact identity page found, but no exact-entity program conclusion. Further screening pending."
+    },
+    {
+      "census_row": "24780",
+      "small_rank": "3052",
+      "name": "dappros",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "dappros official company AI identity",
+        "dappros campus ambassador students",
+        "dappros student ambassador program"
+      ],
+      "sources": [
+        {
+          "url": "https://www.dappros.com/five-years-of-ethora-from-web3-engine-to-chat-and-ai-agent-platform/",
+          "snippet": "Dappros founder describes Ethora as today’s chat + AI agent product line; post dated February 15, 2026."
+        },
+        {
+          "url": "https://www.dappros.com/",
+          "snippet": "Official site describes Dappros web3 and messaging software development."
+        }
+      ],
+      "notes": "Three targeted variations searched. Official identity/product evidence saved; no student route conclusion; further screening pending."
+    },
+    {
+      "census_row": "24781",
+      "small_rank": "3053",
+      "name": "marcoaapfortes",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "marcoaapfortes GitHub profile official",
+        "marcoaapfortes student ambassador program",
+        "marcoaapfortes campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/marcoaapfortes",
+          "snippet": "Profile identifies Marco Fortes, Lisbon, Portugal; pinned repo Mantic.sh is structural code search for AI agents."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity evidence recorded; student route and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24782",
+      "small_rank": "3054",
+      "name": "Alejandros17487",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "Alejandros17487 GitHub profile official",
+        "Alejandros17487 student ambassador program",
+        "Alejandros17487 campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://weezirtech.com/makers/Alejandros17487",
+          "snippet": "Third-party maker profile identifies Isaac Merrow (@Alejandros17487); official profile not yet verified."
+        }
+      ],
+      "notes": "Three targeted variations searched. Unrelated 2077AI campus program excluded; identity and route require follow-up."
+    },
+    {
+      "census_row": "24783",
+      "small_rank": "3055",
+      "name": "papermerge",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "Papermerge official company project",
+        "Papermerge student ambassador program",
+        "Papermerge campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/papermerge",
+          "snippet": "Official org profile for Papermerge DMS; lists OSS repositories and website papermerge.com."
+        },
+        {
+          "url": "https://github.com/papermerge/papermerge-core",
+          "snippet": "Papermerge OSS is a document management system; community maintained; Cloud is a separate managed service."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity/project evidence saved. Ambassador-route conclusion incomplete."
+    },
+    {
+      "census_row": "24784",
+      "small_rank": "3056",
+      "name": "pysemtec",
+      "tier": "small",
+      "category": "other",
+      "status": "searched-inconclusive",
+      "queries": [
+        "pysemtec official AI organization",
+        "pysemtec student ambassador program",
+        "pysemtec campus ambassador AI"
+      ],
+      "sources": [],
+      "notes": "Searches returned unrelated campus opportunities; excluded. Exact-entity identity and route remain unresolved; not a no-hit."
+    },
+    {
+      "census_row": "24785",
+      "small_rank": "3057",
+      "name": "typedb",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "TypeDB official organization AI database",
+        "TypeDB student ambassador program",
+        "TypeDB campus ambassador fellowship"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/TypeDB",
+          "snippet": "Official TypeDB GitHub organization profile; London, United Kingdom; website typedb.com."
+        },
+        {
+          "url": "https://typedb.com/docs/home/what-is-typedb",
+          "snippet": "TypeDB docs describe a strongly-typed, general-purpose transactional database."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity/project confirmed; route/cutoff review remains incomplete."
+    },
+    {
+      "census_row": "24786",
+      "small_rank": "3058",
+      "name": "OpenEnvision",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "OpenEnvision official AI organization",
+        "OpenEnvision student ambassador program",
+        "OpenEnvision campus ambassador fellowship"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/OpenEnvision",
+          "snippet": "Org profile says joint research hub advancing open vision intelligence through academia-industry collaboration."
+        },
+        {
+          "url": "https://openenvision.github.io/",
+          "snippet": "Project site describes shared infrastructure for open models, datasets, benchmarks and AI systems."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity confirmed, exact route/cutoff remains incomplete."
+    },
+    {
+      "census_row": "24787",
+      "small_rank": "3059",
+      "name": "pinganbbOvO",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "pinganbbOvO GitHub official profile",
+        "pinganbbOvO student ambassador",
+        "pinganbbOvO campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/pinganbbOvO",
+          "snippet": "Profile is pinganbbOvO; pinned AI Companion Kit describes QQ chat plus Android-control MCP tools."
+        },
+        {
+          "url": "https://github.com/pinganbbOvO/ai-companion-kit",
+          "snippet": "Associated official or project URL from profile."
+        }
+      ],
+      "notes": "Three targeted query variations searched. Identity evidence recorded; student route and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24788",
+      "small_rank": "3060",
+      "name": "YingqingHe",
+      "tier": "small",
+      "category": "image",
+      "status": "partial/incomplete",
+      "queries": [
+        "YingqingHe GitHub official profile",
+        "YingqingHe student ambassador program",
+        "YingqingHe campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/YingqingHe",
+          "snippet": "Profile identifies Joy (@YingqingHe), Ph.D. student at HKUST; pinned work includes video-generation models."
+        },
+        {
+          "url": "https://yingqinghe.github.io/",
+          "snippet": "Associated official or project URL from profile."
+        }
+      ],
+      "notes": "Three targeted query variations searched. Identity evidence recorded; student route and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24789",
+      "small_rank": "3061",
+      "name": "globalbao",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "globalbao GitHub profile official",
+        "globalbao student ambassador program",
+        "globalbao campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/globalbao",
+          "snippet": "GlobalBao org profile links to jloudon.com and lists Azure policy and developer tooling repositories."
+        }
+      ],
+      "notes": "Three targeted query variations searched. Identity evidence recorded; student route and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24790",
+      "small_rank": "3062",
+      "name": "alphasecio",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "alphasecio GitHub official profile",
+        "alphasecio student ambassador program",
+        "alphasecio campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/alphasecio",
+          "snippet": "Profile identifies alphasec (@alphasecio), links alphasec.io; repositories include LangChain and LlamaIndex examples."
+        },
+        {
+          "url": "https://alphasec.io",
+          "snippet": "Associated official or project URL from profile."
+        }
+      ],
+      "notes": "Three targeted query variations searched. Identity evidence recorded; student route and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24791",
+      "small_rank": "3063",
+      "name": "ratel-ai",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "ratel-ai GitHub official profile",
+        "ratel-ai student ambassador program",
+        "ratel-ai campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/ratel-ai",
+          "snippet": "Ratel org links ratel.sh; project describes context engineering for AI agents."
+        },
+        {
+          "url": "https://ratel.sh",
+          "snippet": "Associated official or project URL from profile."
+        }
+      ],
+      "notes": "Three targeted query variations searched. Identity evidence recorded; student route and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24792",
+      "small_rank": "3064",
+      "name": "tonykipkemboi",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "tonykipkemboi GitHub official profile",
+        "tonykipkemboi student ambassador program",
+        "tonykipkemboi campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/tonykipkemboi",
+          "snippet": "Profile identifies Tony Kipkemboi; pinned repos include CrewAI Gmail automation and local RAG demos."
+        },
+        {
+          "url": "https://tonykipkemboi.com",
+          "snippet": "Linked official website from profile."
+        }
+      ],
+      "notes": "Three targeted queries searched. Current identity evidence logged; route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24793",
+      "small_rank": "3065",
+      "name": "backblaze-labs",
+      "tier": "small",
+      "category": "image",
+      "status": "partial/incomplete",
+      "queries": [
+        "backblaze-labs GitHub official profile",
+        "backblaze labs student ambassador",
+        "Backblaze campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/backblaze-labs",
+          "snippet": "Backblaze Labs describes experimental AI libraries, developer tools, and early-stage B2 integrations."
+        },
+        {
+          "url": "https://www.backblaze.com",
+          "snippet": "Linked official website from profile."
+        }
+      ],
+      "notes": "Three targeted queries searched. Current identity evidence logged; route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24794",
+      "small_rank": "3066",
+      "name": "nnanhuang",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "nnanhuang GitHub profile official",
+        "nnanhuang student ambassador AI",
+        "nnanhuang campus ambassador program"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/nnanhuang",
+          "snippet": "Profile identifies Nan Huang, first-year CS PhD student at UIUC; personal site lists Amazon AI PhD Fellowship (2025–2027)."
+        },
+        {
+          "url": "https://nnanhuang.github.io/",
+          "snippet": "Linked official website from profile."
+        }
+      ],
+      "notes": "Three targeted queries searched. Current identity evidence logged; route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24795",
+      "small_rank": "3067",
+      "name": "gitbito",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "gitbito GitHub official profile",
+        "gitbito student ambassador program",
+        "gitbito campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/gitbito",
+          "snippet": "Bito (@gitbito) org links bito.ai and hosts AI code review and AI Architect projects."
+        },
+        {
+          "url": "https://bito.ai",
+          "snippet": "Linked official website from profile."
+        }
+      ],
+      "notes": "Three targeted queries searched. Current identity evidence logged; route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24796",
+      "small_rank": "3068",
+      "name": "swarm-subnet",
+      "tier": "small",
+      "category": "robotics",
+      "status": "partial/incomplete",
+      "queries": [
+        "swarm-subnet GitHub organization",
+        "swarm-subnet student ambassador",
+        "swarm-subnet campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/swarm-subnet",
+          "snippet": "Search result identity not sufficiently reviewed; handle appears project/org-style, details pending."
+        }
+      ],
+      "notes": "Three targeted queries searched. Current identity evidence logged; route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24797",
+      "small_rank": "3069",
+      "name": "pixtuoid",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "pixtuoid GitHub official profile",
+        "pixtuoid student ambassador program",
+        "pixtuoid campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/pixtuoid",
+          "snippet": "pixtuoid org describes a terminal pixel-art office for AI coding agents."
+        },
+        {
+          "url": "https://pixtuoid.dev",
+          "snippet": "Linked project/site from profile."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence logged where available; student route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24798",
+      "small_rank": "3070",
+      "name": "mco-org",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "mco-org GitHub official organization",
+        "mco-org student ambassador program",
+        "mco-org campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/mco-org",
+          "snippet": "mco-org hosts CLI-first orchestration and terminal collaboration tools for AI coding agents."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence logged where available; student route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24799",
+      "small_rank": "3071",
+      "name": "DilawarShafiq",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "DilawarShafiq GitHub official profile",
+        "DilawarShafiq student ambassador program",
+        "DilawarShafiq campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/DilawarShafiq/DilawarShafiq",
+          "snippet": "README identifies Dilawar as agentic AI developer and robotics enthusiast; lists personal AI/security/robotics projects."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence logged where available; student route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24800",
+      "small_rank": "3072",
+      "name": "caura-ai",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "caura-ai GitHub official profile",
+        "caura-ai student ambassador program",
+        "caura-ai campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/caura-ai",
+          "snippet": "Caura (formerly MemClaw) is described as governed shared memory for AI agent fleets."
+        },
+        {
+          "url": "https://caura.ai",
+          "snippet": "Linked project/site from profile."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence logged where available; student route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24801",
+      "small_rank": "3073",
+      "name": "yuce",
+      "tier": "small",
+      "category": "robotics",
+      "status": "partial/incomplete",
+      "queries": [
+        "yuce GitHub robotics official profile",
+        "yuce student ambassador program robotics",
+        "yuce campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/yuce",
+          "snippet": "Profile identifies Yüce Tekol, Gaziantep, Türkiye; software projects include PySwip and Hazelcast clients."
+        },
+        {
+          "url": "https://yuce.me",
+          "snippet": "Linked project/site from profile."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence logged where available; student route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24802",
+      "small_rank": "3074",
+      "name": "Le0nX",
+      "tier": "small",
+      "category": "robotics",
+      "status": "partial/incomplete",
+      "queries": [
+        "Le0nX GitHub robotics official",
+        "Le0nX student ambassador program",
+        "Le0nX campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/Le0nX",
+          "snippet": "Profile identifies Denis Nefedov, Bangkok; projects include Modern Robotics C++ and AI inference/evaluation tools."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence logged where available; student route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24803",
+      "small_rank": "3075",
+      "name": "Lumen-Labs",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "Lumen-Labs GitHub official AI organization",
+        "Lumen-Labs student ambassador program",
+        "Lumen-Labs campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/Lumen-Labs",
+          "snippet": "Lumen Labs org describes a mission to change how humans interact with information; repositories include AI memory/knowledge graph tools."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence logged where available; student route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24804",
+      "small_rank": "3076",
+      "name": "hi-abhi",
+      "tier": "small",
+      "category": "rl",
+      "status": "searched-inconclusive",
+      "queries": [
+        "hi-abhi GitHub official AI",
+        "hi-abhi student ambassador program",
+        "hi-abhi campus ambassador AI"
+      ],
+      "sources": [],
+      "notes": "Three targeted variations searched. Identity evidence logged where available; student route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24805",
+      "small_rank": "3077",
+      "name": "centralmind",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "centralmind GitHub official AI organization",
+        "centralmind student ambassador program",
+        "centralmind campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/centralmind",
+          "snippet": "CentralMind.ai org is UK-based and provides database gateway tooling optimized for LLMs and AI agents."
+        },
+        {
+          "url": "https://centralmind.ai",
+          "snippet": "Linked project/site from profile."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence logged where available; student route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24806",
+      "small_rank": "3078",
+      "name": "codexstar69",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "codexstar69 GitHub official profile",
+        "codexstar69 student ambassador",
+        "codexstar69 campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/codexstar69",
+          "snippet": "Profile identifies Abhishek Tiwari, founder at Engaze Digital, building AI coding agents and developer tools."
+        },
+        {
+          "url": "https://abhishektiwari.co",
+          "snippet": "Linked project/site from profile."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence logged where available; student route/cutoff eligibility remain unresolved."
+    },
+    {
+      "census_row": "24807",
+      "small_rank": "3079",
+      "name": "Lifecycle-Innovations-Limited",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "Lifecycle-Innovations-Limited official AI company",
+        "Lifecycle-Innovations-Limited student ambassador program",
+        "Lifecycle Innovations campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/Lifecycle-Innovations-Limited",
+          "snippet": "Org profile names Healify and links healify.ai; repos include AI health coaching and AI/dev tooling."
+        },
+        {
+          "url": "https://www.healify.ai",
+          "snippet": "Linked official site or documentation from profile/project."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence saved; student route, cutoff and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24808",
+      "small_rank": "3080",
+      "name": "WHU-USI3DV",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "WHU-USI3DV official research group",
+        "WHU-USI3DV student ambassador program",
+        "WHU-USI3DV campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/WHU-USI3DV",
+          "snippet": "Describes Urban Spatial Intelligence Research Group at LIESMARS, Wuhan University, China."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence saved; student route, cutoff and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24809",
+      "small_rank": "3081",
+      "name": "p0p4k",
+      "tier": "small",
+      "category": "audio",
+      "status": "partial/incomplete",
+      "queries": [
+        "p0p4k GitHub official profile audio",
+        "p0p4k student ambassador program",
+        "p0p4k campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/p0p4k",
+          "snippet": "Profile identifies p0p; pinned repos are TTS implementations including VITS and Matcha TTS."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence saved; student route, cutoff and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24810",
+      "small_rank": "3082",
+      "name": "cliport",
+      "tier": "small",
+      "category": "robotics",
+      "status": "partial/incomplete",
+      "queries": [
+        "cliport GitHub official robotics project",
+        "cliport student ambassador program",
+        "cliport campus ambassador robotics"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/cliport/cliport",
+          "snippet": "CLIPort is a robotics manipulation research project by Mohit Shridhar, Lucas Manuelli and Dieter Fox (CoRL 2021)."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence saved; student route, cutoff and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24811",
+      "small_rank": "3083",
+      "name": "privatenumber",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "privatenumber GitHub official profile",
+        "privatenumber student ambassador program",
+        "privatenumber campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/privatenumber",
+          "snippet": "Profile identifies Hiroki Osame, Tokyo, and links Vercel; pinned repositories include tsx and Node tooling."
+        },
+        {
+          "url": "https://hirok.io",
+          "snippet": "Linked official site or documentation from profile/project."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence saved; student route, cutoff and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24812",
+      "small_rank": "3084",
+      "name": "germain-hug",
+      "tier": "small",
+      "category": "rl",
+      "status": "partial/incomplete",
+      "queries": [
+        "germain-hug GitHub official profile",
+        "germain-hug student ambassador program",
+        "germain-hug campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/germain-hug",
+          "snippet": "Profile identifies Hugo Germain, PhD student in computer vision at École des Ponts ParisTech."
+        },
+        {
+          "url": "https://www.hugogermain.com",
+          "snippet": "Linked official site or documentation from profile/project."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence saved; student route, cutoff and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24813",
+      "small_rank": "3085",
+      "name": "EricSteinberger",
+      "tier": "small",
+      "category": "rl",
+      "status": "partial/incomplete",
+      "queries": [
+        "EricSteinberger GitHub official profile",
+        "EricSteinberger student ambassador program",
+        "EricSteinberger campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/ericsteinberger",
+          "snippet": "Profile identifies Eric Steinberger, links Magic.dev; pinned work includes multi-agent reinforcement learning projects."
+        },
+        {
+          "url": "https://magic.dev",
+          "snippet": "Linked official site or documentation from profile/project."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence saved; student route, cutoff and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24814",
+      "small_rank": "3086",
+      "name": "duanshengliu",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "duanshengliu GitHub official profile",
+        "duanshengliu student ambassador program",
+        "duanshengliu campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/duanshengliu",
+          "snippet": "Profile identifies duanshengliu, China, AI Algorithm Engineer; pinned repos include ONNX Runtime-related work."
+        },
+        {
+          "url": "https://blog.csdn.net/qq_32194791",
+          "snippet": "Linked official site or documentation from profile/project."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence saved; student route, cutoff and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24815",
+      "small_rank": "3087",
+      "name": "tschnz",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "tschnz GitHub official profile",
+        "tschnz student ambassador program",
+        "tschnz campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/tschnz",
+          "snippet": "Profile identifies Jens W. Schindel; studies Media Computer Science M.Sc. and works on AI, image processing, digital art."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence saved; student route, cutoff and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24816",
+      "small_rank": "3088",
+      "name": "SearchSavior",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "SearchSavior GitHub official AI organization",
+        "SearchSavior student ambassador program",
+        "SearchSavior campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/SearchSavior/OpenArc",
+          "snippet": "OpenArc is an open-source inference engine for Intel devices to serve LLMs, VLMs and speech/embedding models."
+        },
+        {
+          "url": "https://searchsavior.github.io/OpenArc/",
+          "snippet": "Linked official site or documentation from profile/project."
+        }
+      ],
+      "notes": "Three targeted variations searched. Identity evidence saved; student route, cutoff and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24817",
+      "small_rank": "3089",
+      "name": "Ephemeral182",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "Ephemeral182 GitHub official profile",
+        "Ephemeral182 student ambassador program",
+        "Ephemeral182 campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/Ephemeral182",
+          "snippet": "Profile identifies Sixiang Chen, PhD student and AI researcher at HKUST (GZ), focused on image generation and reward modeling."
+        },
+        {
+          "url": "https://ephemeral182.github.io/",
+          "snippet": "Linked personal or official site from profile."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity evidence logged, student-route and eligibility review incomplete."
+    },
+    {
+      "census_row": "24818",
+      "small_rank": "3090",
+      "name": "EricFillion",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "EricFillion GitHub official profile",
+        "EricFillion student ambassador program",
+        "EricFillion campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/EricFillion",
+          "snippet": "Profile identifies Eric Fillion, Ottawa; pinned repositories include NLP transformer fine-tuning and video generation tools."
+        },
+        {
+          "url": "https://www.linkedin.com/in/ericfillion/",
+          "snippet": "Linked personal or official site from profile."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity evidence logged, student-route and eligibility review incomplete."
+    },
+    {
+      "census_row": "24819",
+      "small_rank": "3091",
+      "name": "nebrius",
+      "tier": "small",
+      "category": "robotics",
+      "status": "partial/incomplete",
+      "queries": [
+        "nebrius GitHub official robotics profile",
+        "nebrius student ambassador program",
+        "nebrius campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/nebrius",
+          "snippet": "Profile identifies Bryan Hughes, Oakland; projects include Raspberry Pi IO libraries and device-control software."
+        },
+        {
+          "url": "https://nebri.us",
+          "snippet": "Linked personal or official site from profile."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity evidence logged, student-route and eligibility review incomplete."
+    },
+    {
+      "census_row": "24820",
+      "small_rank": "3092",
+      "name": "PeiranLi0930",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "PeiranLi0930 GitHub official profile",
+        "PeiranLi0930 student ambassador program",
+        "PeiranLi0930 campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/PeiranLi0930",
+          "snippet": "Profile identifies Peiran, current PhD student at Texas A&M; pinned work includes agent and LLM projects."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity evidence logged, student-route and eligibility review incomplete."
+    },
+    {
+      "census_row": "24821",
+      "small_rank": "3093",
+      "name": "FateScript",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "FateScript GitHub official profile AI",
+        "FateScript student ambassador program",
+        "FateScript campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/FateScript",
+          "snippet": "Profile identifies Feng Wang, Beijing, associated with Megvii BaseDetection; projects include computer-vision libraries."
+        },
+        {
+          "url": "https://fatescript.github.io/",
+          "snippet": "Linked personal or official site from profile."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity evidence logged, student-route and eligibility review incomplete."
+    },
+    {
+      "census_row": "24822",
+      "small_rank": "3094",
+      "name": "SwayamInSync",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "SwayamInSync GitHub official profile",
+        "SwayamInSync student ambassador program",
+        "SwayamInSync campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/SwayamInSync",
+          "snippet": "Profile links Microsoft Research and work on code models and software engineering tools."
+        },
+        {
+          "url": "https://swayaminsync.github.io/",
+          "snippet": "Linked personal or official site from profile."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity evidence logged, student-route and eligibility review incomplete."
+    },
+    {
+      "census_row": "24823",
+      "small_rank": "3095",
+      "name": "iitzco",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "iitzco GitHub official profile",
+        "iitzco student ambassador program",
+        "iitzco campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/iitzco",
+          "snippet": "Profile identifies Ivan Itzcovich, AI/ML engineer and Computer Science professor at ITBA."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity evidence logged, student-route and eligibility review incomplete."
+    },
+    {
+      "census_row": "24824",
+      "small_rank": "3096",
+      "name": "Merit-Systems",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "Merit-Systems GitHub official AI",
+        "Merit-Systems student ambassador program",
+        "Merit-Systems campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/Merit-Systems",
+          "snippet": "Merit Systems org profile links merit.systems and lists agentic commerce and AI-related developer products."
+        },
+        {
+          "url": "https://merit.systems",
+          "snippet": "Linked personal or official site from profile."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity evidence logged, student-route and eligibility review incomplete."
+    },
+    {
+      "census_row": "24825",
+      "small_rank": "3097",
+      "name": "BaseModelAI",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "BaseModelAI GitHub official profile",
+        "BaseModelAI student ambassador program",
+        "BaseModelAI campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/BaseModelAI",
+          "snippet": "BaseModel.AI org is in Poland and lists agent context-management projects and AI models."
+        },
+        {
+          "url": "https://basemodel.ai",
+          "snippet": "Linked personal or official site from profile."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity evidence logged, student-route and eligibility review incomplete."
+    },
+    {
+      "census_row": "24826",
+      "small_rank": "3098",
+      "name": "tianlan-ltd",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "tianlan-ltd GitHub official profile",
+        "tianlan-ltd student ambassador program",
+        "tianlan-ltd campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/tianlan-ltd",
+          "snippet": "Profile lists Magic-Insight data intelligence agent and open-source AGI agent framework."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity evidence logged, student-route and eligibility review incomplete."
+    },
+    {
+      "census_row": "24827",
+      "small_rank": "3099",
+      "name": "lzz19980125",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "lzz19980125 GitHub official profile",
+        "lzz19980125 student ambassador program",
+        "lzz19980125 campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/lzz19980125",
+          "snippet": "Profile identifies Bruce Lee and interests in AI time series, anomaly detection, segmentation and reinforcement learning."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity evidence logged, student route and eligibility remain unresolved."
+    },
+    {
+      "census_row": "24828",
+      "small_rank": "3100",
+      "name": "poshbotio",
+      "tier": "small",
+      "category": "other",
+      "status": "partial/incomplete",
+      "queries": [
+        "poshbotio GitHub official profile",
+        "poshbotio student ambassador program",
+        "poshbotio campus ambassador AI"
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/poshbotio",
+          "snippet": "PoshBot org describes a PowerShell-based bot framework and related chat plugins."
+        }
+      ],
+      "notes": "Three targeted variations searched; identity evidence logged, student route and eligibility remain unresolved."
+    }
+  ],
+  "search_completed_rows": 50,
+  "pending_rows": 0,
+  "limitations": "Search depth is three targeted variations per entity. Exact official opportunity discovery, Nov 9 cutoff availability, and India/student eligibility remain unconfirmed; search results do not establish absence. Nov 10 observations are not backdated."
+}

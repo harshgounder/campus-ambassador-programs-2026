@@ -1,5 +1,8 @@
 # Start here
 
+
+> Historical snapshot: This application plan reflects the earlier 5 November working snapshot. Its deadlines and open labels may have changed. The current worldwide follow-up research is indexed in [README.md](README.md) and [research/2026-11-09/README.md](research/2026-11-09/README.md). Recheck organizer sources before applying.
+
 For a 2nd year B.Tech Electrical and Computer Engineering student at Manipal University
 Jaipur, graduating 2029. Checked 5 November 2026.
 

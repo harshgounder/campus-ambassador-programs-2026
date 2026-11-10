@@ -1,0 +1,8 @@
+# Audit notes: census rows 5051–5100
+
+- Coverage: 50 consecutive source rows from `census-search-ledger-2026-11-09.csv`; exact row number, name, tier and category retained and checked against source positions.
+- Method: bounded screening of search leads for an organizer-owned student/campus/community ambassador, advocate, champion, fellow, chapter or representative intake. Primary evidence was required to link a program to the exact census entity. Directories and unrelated programs were not counted.
+- No qualifying exact-entity intake was confirmed. High-signal apparent matches were excluded because entity linkage was missing or the role belonged to another entity: Samsung Galaxy Campus for `kimsungwhee`; INFORMS Ambassadors for `reiniscimurs`; Ampere Computing / Zed for `ahmetaa`; Lyzr for `lyeoni`; Microsoft Student Ambassadors for `mmorise`; Huawei Cloud Hero for `nianhua99`; X Student Ambassadors for `ThousandBirdsInc`; PyTorch Foundation Ambassadors for `TorchSSL`; QuantumKE for `quantumiracle`; and CampusUnite opportunities listed on OneShopAI for `shivammehta25`. Similarity, a search-result URL, or program existence does not establish affiliation.
+- Other results such as campus ambassador directories, student access, project communities, internships, and generic contributor routes are discovery leads only and do not qualify without an exact-entity organizer-owned intake.
+- Date/geography: CSV separately records the 2026-11-09 cutoff assessment and the 2026-11-10 current check. No date-specific availability is inferred from current or undated pages. No India or Manipal University Jaipur eligibility is inferred.
+- No X MCP, contact, form, application or submission was used. Bounded screening does not prove absence.
