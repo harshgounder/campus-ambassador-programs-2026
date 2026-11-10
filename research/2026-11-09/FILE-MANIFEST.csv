@@ -1,18 +1,19 @@
 path,bytes,sha256
-CURRENT-STATE.md,5257,0192a5c51317b7305e90e43e5d512b6865d4b295088b269f913d929ba014318b
+CURRENT-STATE.md,5949,fc84921b345f9eab811b6fdb0c9f356b77d9385a610a51ae8f8defc9fa3d2913
 README.md,3873,3b63db0c834313e16279ebd128227caf90aee481643ed0e90533b850f87c5ae1
-REPO-GAP-AUDIT-2026-11-10.md,12182,d4939e3a96bc5c664ec0affbec5be63b431b039a6fbcd0138e6fd5f83ec4019a
+REPO-GAP-AUDIT-2026-11-10.md,13236,92b4937527b36c72161a2f5d80da71a06c54ce2df6ca23a29a94b99b43fd078a
 outputs/.slice_0.json,25911,b72960f1e1e326c05858fb933e87e9e6c97d50f7bbdf36abc97463166b4368b0
 outputs/.slice_10.json,24042,ce181cbb2e43a909735babaa20e05288565f8ea2c701231076046fff85c45dcc
 outputs/.slice_20.json,26135,2b84924eb39d84c322b52807d56504aa2ecbb37c13e0091638c751cc068dabc2
 outputs/.slice_30.json,24545,27f764b3e47bcde3bf1b6b3677182744076f53dddd58a21a7ae3b321274eabb8
 outputs/.slice_40.json,24647,ddca6c6689fc497caea3dbc709d045c4bdc49af76a71c04276a88c98818f9a21
 outputs/AI-RESEARCH-COVERAGE-AND-QUEUE-2026-11-10.md,9356,9c39815b062cf9f498f2c86621d12c3590ebf630253059dac46c1e145209da0c
-outputs/APPLY-NOW-2026-11-10.md,31900,29f2fe618e3517a31e0e1d99babc26bb95e3f778719e5ae78e0514a24b34f972
-outputs/FILE-INDEX.md,78781,f00e2a0f6e6196f6c4759b7d9d1ca062a7cc61769e67de5592e6b4d6db82271c
-outputs/READ-ME-FIRST.md,4253,0421c72cbd85428a302ef312c12a172311d0756f03a355196db2718a256c05ec
-outputs/README.md,3089,c290db84bb2d44ffe10c9860bd2e81d76ab96e0a3be97b0247dcafbd43fbd0b5
+outputs/APPLY-NOW-2026-11-10.md,34056,3bdef57e5b765d8c836b7015c2f85a1fe0a3410207da0ba911e44c585ec36753
+outputs/FILE-INDEX.md,79575,3e7b8eed2809de3666ff33f7ec1f8171136c56e3201d01a90cab67cf2af6ede9
+outputs/READ-ME-FIRST.md,4840,fc50ce0bfb7fa3fb3fe974b037341373a5a07c7997369f635eef8f7048067f7c
+outputs/README.md,4460,6875a237628a55931359cc379d44fd18b513380730f7ae8c164aa65c44f7572f
 outputs/RESUME-STATE-AND-AUDIT.md,56619,e862154b3e4e212de01f58e2e44b2400c14fca54863149fdbce451434a1fc7f5
+outputs/SCOPE-AND-COUNT-RECONCILIATION-2026-11-10.md,7153,7d1e09c902b2a54e5c57920a0ad88ab66f59287b459c74befa44ffa3bd61c8af
 outputs/WORLDWIDE-APPLICATIONS-BRAVE-CHECKED.md,9625,f7100696b992e1a0df25f6578b77426e00ac2c35ac7339670eca1d2d801cd181
 outputs/ai-africa-mena-priority-pass-2026-11-09-notes.md,3157,8f68d2e6f5ff38733d53195c967616ce42d3ec2f47d709839a796c95910e4676
 outputs/ai-africa-mena-priority-pass-2026-11-09.csv,4686,f93c0a139b1b78306b4f21b11993c596465dd3c23d19915d82d7985e2a5ee631
@@ -126,6 +127,9 @@ outputs/ai-nonllm-subfields-extra-delta-2026-11-10.csv,4129,d07607dcb4a33652829d
 outputs/ai-nonllm-subfields-extra-notes-2026-11-10.md,5640,54e860f2032b49bd0bf453782ead6f58993b57c104bb5abbe35ee080700c9386
 outputs/ai-nov10-community-chapter-discoveries-2026-11-10.md,6211,bf148276717cfc675045bc3053c203fa3bb6d38dc8c53ccb2421cd18bec100dc
 outputs/ai-nov10-field-lane-delta-2026-11-10.md,10332,20d539b6727bbb258b9fe8d253a453991930a98e1fb1b937431cd6f1a4c343bd
+outputs/ai-open-route-candidates-2026-11-10.md,289881,f69638ae165af5c3cad6d0f26646a71ebe4a16b9a79db5777f9db4783b878391
+outputs/ai-open-routes-direct-recheck-001-104-2026-11-10.md,45130,436cd630d5faa9bed0ba4a07a7274156c152cb4aca35e3136e1fb0e7cd6831c9
+outputs/ai-open-routes-direct-recheck-105-207-2026-11-10.md,167904,c599f3630ecea2913b1cf8dadcb699275274d89342ea96617726df11226e2261
 outputs/ai-open-source-ecosystem-agent-delta-2026-11-09.csv,3031,e1eea82135a20e731a127d7f588cddca420249b8480c562e6017e1b203eeff89
 outputs/ai-open-source-ecosystem-second-pass-2026-11-09.csv,6992,e4280e250c36721e574a8d856b2785a3bd115c78ef7603d16f0e41e9b26e3ed6
 outputs/ai-open-source-third-pass-2026-11-09.csv,5395,322c64f5a759eb961912c7fe11927299bbe4da315cc83d84b8528209b245d365
@@ -625,6 +629,7 @@ outputs/ai-vision-robotics-edge-community-sweep-2026-11-10.csv,8529,440515a248b2
 outputs/ai-vision-speech-community-delta-2026-11-09.csv,16098,2fe60ea206d6e1ff629245d98d0bb6783c581e8f3b814ec0e626077adbe472aa
 outputs/ai-vision-speech-community-delta-2026-11-09.md,6664,8b31224f09aa5ac2b2004e691b514a46c77b689f0e6713d3269ee3225112415c
 outputs/ai-x-local-platform-followup-2026-11-09.md,3851,abd6feaa9bf2bf774c827b6c972968818deeac841131612e688ea4bfdcfd2320
+outputs/all-sector-open-route-candidates-2026-11-10.md,171791,1841eed6817e815399082760e4dc163d32f555bfcb40344fa5a4f73a868845b4
 outputs/ambassador-research-first-wave-2026-11-09.csv,124819,90f9e9649e8e71c81781f5a6bf4ad13c400de6cf3dd2451e937e188948e2410b
 outputs/candidate-verification-delta-2026-11-09.csv,8189,a6b998953929aa725f8aaa7e51e260b32bc564094f039b0cb6215241efcfb3c7
 outputs/census-ambassador-title-candidates-2026-11-09.csv,20656936,da422baa228d63d61ea26e50b9b5baec57524c791b255fb55764d366b95d497c
@@ -697,6 +702,7 @@ outputs/international-multilingual-search.csv,13203,c0d5bb7b0ffc11ad5628d64380ef
 outputs/international-tech-new-findings.csv,8411,4dcd1a9dcc749befe7a526570cf65705c6bbee7b95022b0455e62cc6a7b056e8
 outputs/international-youth-new-findings.csv,4410,539110708f23e021f76ebab887bdc0e74e5332ea034f94a2b7426f80e3e45a7d
 outputs/multilingual-regional-ambassador-discovery-2026-11-09.csv,11225,df6c37bbb3aea893c10227adda41338ac7336e8c55ec27fda184007454b31e72
+outputs/non-ai-technology-open-routes-2026-11-10.md,10738,853b834ca19d2264d9bbec9e09d47ba90b55aa436e1dc967df49cf945a788bcf
 outputs/nonenglish-regional-ambassador-pass2-2026-11-09.csv,10423,49cc80519b6d0bdbe045bcf3dea4f90a3ebf952c3659a2816212c35eedde7696
 outputs/nov9-brave-x-fresh-leads-organizer-verification-2026-11-09.csv,11799,2b18ceeb458de24c76cbb51ae46579a443fbe66c0aae2611602cd8081dd9c1ff
 outputs/opportunity-max-tech-ambassador-discovery-2026-11-10.csv,42751,e00bcc6dd4f9cbb28f42fb6b8ea553cf86259b22868f54b3853aff47c0661ec6
@@ -716,6 +722,7 @@ outputs/recheck-source-slice-1001-1534-wave2.csv,16574,572a18ca826f696969b0f2e64
 outputs/recheck-source-slice-1001-1534.csv,3761,8f94608b6724fcab1535b35c153eb887a2a8c3710615d0d8e3fe4f45543cd19c
 outputs/recheck-source-slice-501-1000-wave2.csv,17012,c102d2b5d7ea6914a1cec9b47254f1b3d3becd2c8868b3bda70896b21b383fd2
 outputs/recheck-source-slice-501-1000.csv,3505,acf2c69511c6a5e992fb2f4bc8f0d81091e3ef1d15f73c3538d2778d189e2d47
+outputs/regional-cross-sector-open-routes-2026-11-10.md,9135,049aef8fa5d5c89e34b610716bcb2d19573ef42b3118d5e296a46ff3a48e8e70
 outputs/registry-recheck-screen-2026-11-09.csv,68591,953935d9e3fb2d4cbec2834eed85b7895bc426cb558927d800a2f7ab04f48d7d
 outputs/software-cyber-github-hn-delta-2026-11-09-notes.md,6580,3be511ec6c75c26588f0e44760b370f5cc2f6dddc082da473f893366c5f106b5
 outputs/software-cyber-github-hn-delta-2026-11-09.csv,15096,0acf78e4078f9300bedeff0ffb1a8a0baa74a6bf04d158b7e55bdedd9a9d23ef
@@ -729,6 +736,7 @@ outputs/student-pathways-official-recheck-delta-2026-11-09-notes.md,5588,5ab387f
 outputs/student-pathways-official-recheck-delta-2026-11-09.csv,14795,82d0b1c91770f6e785dcc7edb7d2f418d38b711823c8af87532e542d8667bf4a
 outputs/swe-cyber-resume-pass-2026-11-09-notes.md,4222,0845c7d9f499be2f75b2c0e9a7cea348b7087eabb1c7597e4fe07d948f659766
 outputs/swe-cyber-resume-pass-2026-11-09.csv,23050,d7f2db21af4edce47289db68eb3359ca42e6eda004cd125e3f183d5e49d78e4e
+outputs/technology-wide-scope-audit-2026-11-10.md,19626,e96753b702dfa2ff3a2239465e300ac874be4bf58de963a7409d63188f550d44
 outputs/tinyfish-candidates-unverified-2026-11-09.csv,34535,8b68a66e85acd4376dd166a20451acca52df5d497219a8f701f6f9b71ef31ad6
 outputs/university-campus-crossdiscipline-2026-11-09.csv,9325,7bbf532b1847fce593452d71262582c7d1e61a60623d49784c0cce96b6503d9a
 outputs/university-campus-crossdiscipline-2026-11-09.md,3122,797d6f9afd7cddc6b70721f93d2600145e0d4e062552681f43c24b837f92185e

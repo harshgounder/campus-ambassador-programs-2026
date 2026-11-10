@@ -1,6 +1,6 @@
 # Research workspace guide
 
-**Status cutoff:** 9 November 2026. **Latest checkpoint:** 10 November 2026. This work is ongoing and is not an exhaustive worldwide list.
+**Status cutoff:** 9 November 2026. **Latest checkpoint:** 10 November 2026. This work is ongoing and is not an exhaustive worldwide list. The objective covers opportunities worldwide across every industry. AI has highest priority, and the whole technology industry is in scope; examples are not boundaries.
 
 ## Current checkpoint
 
@@ -9,8 +9,9 @@ The dated archive now lives in the project repository under research/2026-11-09.
 - The 5,745 organization and curated AI census entries have been screened in 115 exact-source slices.
 - The 9,304 small-tier queue is source-aligned. Ranks 1 through 3,550 are covered by 71 contiguous slices. Continue at rank 3,551. There are 5,754 small-tier entries and 36,323 individual-tier entries still to review.
 - The AI and ML priority ledger has 275 mixed-status rows. It is not a count of open or eligible programs.
+- The apply-now sheet is a prioritized subset, not the total number of open opportunities found. Read [SCOPE-AND-COUNT-RECONCILIATION-2026-11-10.md](SCOPE-AND-COUNT-RECONCILIATION-2026-11-10.md) for what the project's large name counts and smaller application counts actually measure.
 - The 10 November structure scan covered 410 CSV files and 53,734 data rows with no parse or row-width errors. This checks file shape, not research completeness.
-- AI remains the first priority across methods, modalities, science, systems, hardware, safety, security, regional ecosystems, and communities. The broader CS, software, open-source, cloud, cybersecurity, startup, hardware, and technology review follows substantial AI review.
+- AI remains the first research priority across methods, modalities, science, systems, hardware, safety, security, regional ecosystems, and communities. Continue broad discovery across every field while also mapping the complete technology industry, including CS, software, open source, cloud, cybersecurity, startups, hardware, and other areas.
 - The user's Brave browser was used for X checks. X MCP was not used. Search results were noisy and did not establish a new official AI opening for the 9 November cutoff.
 
 ## Resume in this order
@@ -21,7 +22,7 @@ The dated archive now lives in the project repository under research/2026-11-09.
 4. Read [WORLDWIDE-APPLICATIONS-BRAVE-CHECKED.md](WORLDWIDE-APPLICATIONS-BRAVE-CHECKED.md) for direct page and application-form observations.
 5. [RESUME-STATE-AND-AUDIT.md](RESUME-STATE-AND-AUDIT.md) is an append-only history only. Its intermediate counts are not the current state.
 6. Use [FILE-INDEX.md](FILE-INDEX.md) to locate the outputs and the archive-level [FILE-MANIFEST.csv](../FILE-MANIFEST.csv) to check file sizes and SHA-256 values.
-7. Continue the small-tier screen at rank 3,551 in source-aligned blocks, follow positive leads to organizer evidence, and continue broad AI discovery across regional and specialist ecosystems.
+7. Continue the small-tier screen at rank 3,551 in source-aligned blocks, follow positive leads to organizer evidence, continue broad AI discovery, complete the technology-industry map, and keep discovering opportunities across all other fields and regions.
 
 ## Applicant and status rules
 

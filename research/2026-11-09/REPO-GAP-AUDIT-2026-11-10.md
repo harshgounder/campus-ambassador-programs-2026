@@ -3,7 +3,7 @@
 - **Audit date:** 10 November 2026
 - **Research cutoff:** 9 November 2026
 - **Scope:** Full repository structure, core data and report claims, continuation notes, scripts, GitHub metadata, and the quality dimensions in the supplied rubric.
-**Conclusion:** This is a substantial research archive with useful provenance and a long correction history. It is not yet a professional, self-checking research system. The most consequential problems were stale claims presented without a clear historical label, a broken continuation handoff, no automated test or CI layer, and no shared validation for the many research CSVs.
+**Conclusion:** This is a substantial research archive with useful provenance and a long correction history. It is not yet a professional, self-checking research system or a complete worldwide opportunity inventory. A newly identified continuity risk was scope drift: later notes emphasized AI followed by technology and did not explicitly carry forward the user's all-industry objective. The current state and count-reconciliation note now say that the task covers all sectors, that examples do not set boundaries, and that the 16-row action table is only a priority subset.
 
 ## Highest-risk findings
 
@@ -28,6 +28,8 @@ The baseline registry and tracker do not include the later worldwide follow-up w
 
 **Fix:** `outputs/APPLY-NOW-2026-11-10.md` provides a dated starting point, separates apparent fit from unresolved eligibility, and links to the underlying evidence files. It does not claim that every global program is included. The wide source-ledger reconciliation remains unfinished.
 
+The action sheet's first table has 16 priority rows. This is not the number of programs found or the number of currently open programs worldwide. The new `outputs/SCOPE-AND-COUNT-RECONCILIATION-2026-11-10.md` explains how the census counts differ from program and route counts, and points to the 207-row AI/ML direct checks, 194 selected cross-sector leads, and the partial non-AI technology audit. These source lanes overlap and are incomplete, so their counts must not be summed into a global total.
+
 ### 4. Current-status language has repeatedly produced false “open” results
 
 The project already corrected several cases where a landing-page CTA or stale directory listing was mistaken for a live application. Examples include Zed's closed form, the expired AWS Group Leader listing versus the distinct active Campus Leader, closed Google Gemini and OpenAI India intakes, and the restricted Adobe and Twilio routes. The same failure mode remains possible in any undated lane file unless the actual form and country requirements are checked.
@@ -49,7 +51,7 @@ The supplied rubric is treated as a review checklist. This is a static research 
 | I. Security hygiene | Local environment and secret files are ignored. A security policy and data-handling boundaries are documented. A content scan of tracked and newly changed files is recorded below before publication. | Keep secrets and private application material out of the public archive. Dependency audit can only cover declared Python packages and known advisories. |
 | K. History and maintenance | Existing history includes a large 777-path archive snapshot. It remains untouched. A changelog now records the 10 Nov maintenance work. | Use small, scoped commits from this point forward. Do not rewrite the existing public history. |
 | M. Reproducibility | Runtime and development dependencies are pinned with hashes. `archive_manifest.py` creates or checks a deterministic SHA-256 inventory; CSV structure validation can run without network access. Search-provider output remains evidence, not reproducible ground truth. | Regenerate and verify the manifest after every dated archive change. Keep discovery inputs distinct from verified program records. |
-| N. Pipeline and data quality | The new repository-wide structural scan checked 428 CSV files and 190,134 nonblank data rows with consistent parsing and widths. Tests also protect core registry, tracker, and AI-ledger fields. These checks do not detect duplicate program identities, false status, malformed semantic values, or missing eligibility. A prior AI ledger audit found a URL list placed in a compensation field. | Add targeted semantic rules when schemas stabilize. Continue source-level review and program deduplication. Never use structural row counts as opportunity counts. |
+| N. Pipeline and data quality | The repository-wide structural scan now checks 428 CSV files and 190,142 nonblank data rows with consistent parsing and widths. The increase from the prior 190,134 scan is eight new archive-manifest entries for the reports copied into the archive. Tests also protect core registry, tracker, and AI-ledger fields. These checks do not detect duplicate program identities, false status, malformed semantic values, or missing eligibility. A prior AI ledger audit found a URL list placed in a compensation field. | Add targeted semantic rules when schemas stabilize. Continue source-level review and program deduplication. Never use structural row counts as opportunity counts. |
 | O. IaC quality | Not applicable. No application infrastructure, cloud deployment, Terraform, or Kubernetes is part of this repository. | Do not add IaC merely to satisfy a generic score. Revisit only if a deployed service is added. |
 | P. Secrets and threat modeling | The repository now has a concise threat model and safe-reporting instructions in `SECURITY.md`. Credential storage and a professional threat assessment remain outside this static public project. | Keep credentials and unsubmitted form data out of tracked files. Revisit the model if the repository starts handling private applications or becomes a service. |
 
@@ -58,7 +60,7 @@ The supplied rubric is treated as a review checklist. This is a static research 
 - Ruff lint and format checks passed across the 35 Python scripts and 6 test modules.
 - The test suite passed all 19 tests.
 - The original project checker passed all 24 checks.
-- The repository-wide CSV scan parsed 428 files and 190,134 nonblank data rows with zero structural issues.
+- After archiving the new reports, the repository-wide CSV scan parsed 428 files and 190,142 nonblank data rows with zero structural issues. The eight additional rows are the new file-manifest entries, not opportunity records.
 - A targeted scan checked 1,016 tracked and unignored new files against seven high-confidence credential patterns. It found zero candidate matches. This was not a full secret-scanning product.
 - `pip-audit` 2.10.1 reported no known vulnerabilities in the 30 pinned runtime and development packages in `requirements.lock`. The advisory lookup depends on its external vulnerability data source.
 - The archive manifest is regenerated and checked separately after the final file synchronization.
@@ -78,5 +80,5 @@ The supplied rubric is treated as a review checklist. This is a static research 
 2. Resume AI small-tier screening at rank 3,551 in reproducible 50-row slices while continuing targeted program discovery across the full AI/ML map.
 3. Reconcile valid opportunities into one stable identifier and one canonical record, retaining closed and uncertain states rather than deleting inconvenient results.
 4. Finish the remaining AI source and community lanes, including non-LLM subfields, localized and Chinese channels, open-source projects, labs, forums, and technical communities.
-5. Then complete the systematic worldwide CS, software, cybersecurity, cloud, hardware, startup, and broader technology pass.
-6. Recheck every actionable record against the organizer's own page or application, keep the 9 November cutoff separate from later observations, and update this audit as coverage improves.
+5. Keep worldwide discovery active across every sector and region while completing the AI and full technology maps. Examples such as cyber, technology, Web3, or AI must not narrow the industry scope.
+6. Recheck every actionable record against the organizer's own page or application, keep the 9 November cutoff separate from later observations, reconcile duplicates across source lanes, and update this audit as coverage improves.

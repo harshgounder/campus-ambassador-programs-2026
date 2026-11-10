@@ -6,7 +6,9 @@
 
 ## User goal and working rules
 
-Find student, campus, developer-community, chapter, and adjacent opportunities worldwide, then check each organizer's current requirements against the applicant profile. AI and the full AI/ML field remain the first priority, including non-LLM methods, scientific and vertical AI, robotics, hardware, systems, safety, security, communities, and local-language ecosystems. After substantial AI discovery and verification, continue through the wider CS, software, cloud, cybersecurity, startup, engineering, and technology landscape. The research is not complete and must not be described as exhaustive.
+Find as many currently open student, campus, developer-community, chapter, ambassador, and closely related opportunities as possible worldwide, across every industry and subject area, then check each organizer's requirements against the applicant profile. The whole technology industry is a major lane. AI and the full AI/ML field receive the highest priority, including non-LLM methods, scientific and vertical AI, robotics, hardware, systems, safety, security, communities, and local-language ecosystems. The user's examples are prompts to expand the search, not boundaries. Keep broad all-sector discovery active while advancing AI and technology coverage. The research is not complete and must not be described as exhaustive.
+
+The 9 November 2026 cutoff and any 10 November page rechecks are separate observations. Do not present a 10 November check as proof of a program's 9 November state.
 
 Applicant profile: Manipal University Jaipur, B.Tech Electrical and Computer Engineering, second year, age 18 or older, expected graduation 2029, based in India. The exact age, project record, public contributions, community experience, language skills, social reach, and available hours are not recorded.
 
@@ -24,7 +26,8 @@ Start with [the apply-now action sheet](outputs/APPLY-NOW-2026-11-10.md). It lis
 | Curated AI organization tranche | All 5,745 organization and curated names are recorded in 115 exact-source slices. Independent source alignment found zero mismatches. | Preserve this as completed bounded name screening; do not describe it as a global opportunity census. |
 | AI small-tier queue | The source-aligned queue has 9,304 names. Ranks 1 through 3,550 were screened in 71 contiguous slices and independently aligned with zero mismatches. | Resume at rank 3,551 and continue in 50-name blocks, retaining source row IDs and evidence. 5,754 small-tier names remain. |
 | Individual-tier AI names | 36,323 accounts remain, mostly individual accounts rather than organizations. | Prioritize accounts that resolve to labs, maintained projects, community organizers, or other plausible program hosts; do not treat accounts as distinct companies. |
-| Broader global technology | Discovery files exist for software, cloud, cybersecurity, startups, hardware, campus programs, China and other local-language regions, GitHub, Hacker News, and X. The systematic map-driven pass is not complete. | Keep gathering and verifying leads while AI remains first; after AI coverage is sufficiently worked through, systematically complete the wider CS and technology maps. |
+| Broader global technology | Discovery files exist for software, cloud, cybersecurity, startups, hardware, campus programs, China and other local-language regions, GitHub, Hacker News, and X. The systematic map-driven pass is not complete. | Continue the whole-industry technology map, retain all existing source queues, and add official-page checks. Do not treat the current non-AI tech audit as a full inventory. |
+| Other industries and fields | Cross-sector sources and 194 deduplicated open-looking or unresolved leads have been gathered from selected files. Sector coverage remains incomplete. | Keep broad discovery active across all fields and regions; check leads against organizer sources and add missed sectors and source communities. |
 | Dated output archive | The 10 November structural scan covered 410 CSV files and 53,734 data rows with consistent parsing and row width. These are research records, not opportunity counts. | Preserve per-run source evidence and do not use file or row counts as proof of completeness. |
 
 ## Source of truth and stale checkpoints
@@ -37,4 +40,4 @@ Start with [the apply-now action sheet](outputs/APPLY-NOW-2026-11-10.md). It lis
 
 ## Completion rule
 
-Do not call the research complete based on one CSV count, a successful structural check, the completion of one organization tranche, or an open form. Completion requires the planned AI and wider technology lanes to be searched, eligible routes to be checked against organizer sources, duplicate programs to be reconciled, and remaining coverage gaps to be plainly recorded.
+Do not call the research complete based on one CSV count, a successful structural check, the completion of one organization tranche, or an open form. Completion requires the planned AI, entire technology industry, and all-sector worldwide discovery lanes to be searched; routes to be checked against organizer sources and the applicant profile; duplicate programs to be reconciled; and remaining coverage gaps to be plainly recorded.
